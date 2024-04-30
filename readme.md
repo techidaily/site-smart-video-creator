@@ -1,6 +1,6 @@
-# TechiDaily
+# Smart Video Creator Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://smart-video-creator.techidaily.com](https://smart-video-creator.techidaily.com)
 
 ## Publish
 
