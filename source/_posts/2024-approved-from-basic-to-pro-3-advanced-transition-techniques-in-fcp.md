@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From Basic to Pro 3 Advanced Transition Techniques in FCP
-date: 2024-04-29T06:19:14.447Z
-updated: 2024-04-30T06:19:14.447Z
+date: 2024-05-19T10:32:17.867Z
+updated: 2024-05-20T10:32:17.867Z
 tags: 
   - video editing software
   - video editing
@@ -1854,4 +1854,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y100A | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

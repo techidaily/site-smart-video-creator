@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Videos A Beginners Guide to Using Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T06:10:20.547Z
-updated: 2024-04-30T06:10:20.547Z
+date: 2024-05-19T10:31:40.331Z
+updated: 2024-05-20T10:31:40.331Z
 tags: 
   - video editing software
   - video editing
@@ -2202,4 +2202,5 @@ Well, there you have it – the best **basic video editors** for beginners. Vide
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Agni 2 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-add-a-custom-transition-to-obs/"><u>2024 Approved How to Add a Custom Transition to OBS</u></a></li>
 </ul></div>
+
 

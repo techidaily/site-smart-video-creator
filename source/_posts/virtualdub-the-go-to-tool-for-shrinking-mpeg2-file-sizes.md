@@ -1,7 +1,7 @@
 ---
 title: VirtualDub The Go-To Tool for Shrinking MPEG2 File Sizes
-date: 2024-04-29T06:12:25.539Z
-updated: 2024-04-30T06:12:25.539Z
+date: 2024-05-19T10:31:48.173Z
+updated: 2024-05-20T10:31:48.173Z
 tags: 
   - video editing software
   - video editing
@@ -2791,4 +2791,5 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-a58-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo A58 4G without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

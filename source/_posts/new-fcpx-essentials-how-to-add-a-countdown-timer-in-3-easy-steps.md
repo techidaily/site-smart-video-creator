@@ -1,7 +1,7 @@
 ---
 title: New FCPX Essentials How to Add a Countdown Timer in 3 Easy Steps
-date: 2024-04-29T06:18:13.144Z
-updated: 2024-04-30T06:18:13.144Z
+date: 2024-05-19T10:32:13.979Z
+updated: 2024-05-20T10:32:13.979Z
 tags: 
   - video editing software
   - video editing
@@ -2784,4 +2784,5 @@ Follow @Shanoon Cox
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Devices</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-mts-video-editors-expert-reviews/"><u>Updated 2024 Approved Top-Rated MTS Video Editors Expert Reviews</u></a></li>
 </ul></div>
+
 

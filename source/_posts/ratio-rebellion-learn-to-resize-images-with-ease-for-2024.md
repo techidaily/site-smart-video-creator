@@ -1,7 +1,7 @@
 ---
 title: Ratio Rebellion Learn to Resize Images with Ease for 2024
-date: 2024-04-29T06:22:42.589Z
-updated: 2024-04-30T06:22:42.590Z
+date: 2024-05-19T10:32:31.392Z
+updated: 2024-05-20T10:32:31.392Z
 tags: 
   - video editing software
   - video editing
@@ -5047,4 +5047,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/green-screen-on-a-mac-choosing-the-right-tool-for-the-job/"><u>Green Screen on a Mac Choosing the Right Tool for the Job</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-12-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi 12</u></a></li>
 </ul></div>
+
 

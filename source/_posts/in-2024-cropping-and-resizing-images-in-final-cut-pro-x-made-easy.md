@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy
-date: 2024-04-29T06:16:30.975Z
-updated: 2024-04-30T06:16:30.975Z
+date: 2024-05-19T10:32:07.993Z
+updated: 2024-05-20T10:32:07.993Z
 tags: 
   - video editing software
   - video editing
@@ -2169,4 +2169,5 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ways-to-calculate-pixel-calculator-ratio/"><u>2024 Approved Ways to Calculate Pixel Calculator Ratio</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-11-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 11 Pro to SIM? | Dr.fone</u></a></li>
 </ul></div>
+
 

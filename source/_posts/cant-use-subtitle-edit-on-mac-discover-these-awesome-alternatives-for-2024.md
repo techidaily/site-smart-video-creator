@@ -1,7 +1,7 @@
 ---
 title: Cant Use Subtitle Edit on Mac? Discover These Awesome Alternatives for 2024
-date: 2024-04-29T06:15:54.762Z
-updated: 2024-04-30T06:15:54.762Z
+date: 2024-05-19T10:32:05.450Z
+updated: 2024-05-20T10:32:05.450Z
 tags: 
   - video editing software
   - video editing
@@ -1608,4 +1608,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-editors-for-starters/"><u>The Ultimate List of Free Video Editors for Starters</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-3gp-video-format-what-is-3gp-format-and-how-to-open-it-in-2024/"><u>Updated 3GP Video Format What Is 3GP Format And How To Open It, In 2024</u></a></li>
 </ul></div>
+
 

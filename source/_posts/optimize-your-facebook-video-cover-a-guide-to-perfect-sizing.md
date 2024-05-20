@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Facebook Video Cover A Guide to Perfect Sizing
-date: 2024-04-29T06:11:12.126Z
-updated: 2024-04-30T06:11:12.126Z
+date: 2024-05-19T10:31:43.752Z
+updated: 2024-05-20T10:31:43.752Z
 tags: 
   - video editing software
   - video editing
@@ -1640,4 +1640,5 @@ Follow @Shanoon Cox
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-40i-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40i Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

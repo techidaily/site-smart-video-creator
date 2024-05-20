@@ -1,7 +1,7 @@
 ---
 title: Updated Buggy FCPX? Learn How to Reset and Reboot
-date: 2024-04-29T06:15:52.299Z
-updated: 2024-04-30T06:15:52.299Z
+date: 2024-05-19T10:32:05.368Z
+updated: 2024-05-20T10:32:05.368Z
 tags: 
   - video editing software
   - video editing
@@ -1882,4 +1882,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/add-camera-shake-to-video-in-adobe-after-effects/"><u>Add Camera Shake to Video in Adobe After Effects</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-13c-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi 13C Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

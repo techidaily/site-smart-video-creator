@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ken Burns Effect Tutorial From Basics to Pro
-date: 2024-04-29T06:20:45.097Z
-updated: 2024-04-30T06:20:45.097Z
+date: 2024-05-19T10:32:23.967Z
+updated: 2024-05-20T10:32:23.967Z
 tags: 
   - video editing software
   - video editing
@@ -2552,4 +2552,5 @@ It can help you with so much of professional and interesting video editing optio
 <li><a href="https://meme-emoji.techidaily.com/updated-10-best-free-websites-to-watch-cartoons-online/"><u>Updated 10 Best Free Websites to Watch Cartoons Online</u></a></li>
 <li><a href="https://ai-video.techidaily.com/new-in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>new In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 </ul></div>
+
 

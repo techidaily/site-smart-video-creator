@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Elevate Your Videos How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T06:17:49.158Z
-updated: 2024-04-30T06:17:49.158Z
+date: 2024-05-19T10:32:12.004Z
+updated: 2024-05-20T10:32:12.004Z
 tags: 
   - video editing software
   - video editing
@@ -1572,4 +1572,5 @@ Follow @Shanoon Cox
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-sony-xperia-5-v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Sony Xperia 5 V IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/how-to-make-an-animation-with-7-steps-for-2024/"><u>How to Make an Animation With 7 Steps for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Glowing Complexion in Minutes FCPX Skin Smoothing Tutorial
-date: 2024-04-29T06:20:10.307Z
-updated: 2024-04-30T06:20:10.307Z
+date: 2024-05-19T10:32:21.261Z
+updated: 2024-05-20T10:32:21.261Z
 tags: 
   - video editing software
   - video editing
@@ -2545,4 +2545,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-camon-20-premier-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Camon 20 Premier 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
+
 

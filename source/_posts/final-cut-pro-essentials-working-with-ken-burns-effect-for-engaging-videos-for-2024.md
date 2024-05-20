@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos for 2024
-date: 2024-04-29T06:18:27.891Z
-updated: 2024-04-30T06:18:27.891Z
+date: 2024-05-19T10:32:15.113Z
+updated: 2024-05-20T10:32:15.113Z
 tags: 
   - video editing software
   - video editing
@@ -1887,4 +1887,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-apply-luts-using-open-broadcaster-software-you-can-download-free-luts-for-obs-and-apply-them-to-your-files-there-are-many-luts-av/"><u>New In 2024, Do You Want to Apply LUTs Using Open Broadcaster Software? You Can Download Free LUTs for OBS and Apply Them to Your Files. There Are Many LUTs Available</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-12-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus 12 to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

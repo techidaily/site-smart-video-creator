@@ -2119,3 +2119,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-zoom-in-and-out-on-mac/"><u>Updated How to Zoom In and Out on Mac</u></a></li>
 </ul></div>
 
+

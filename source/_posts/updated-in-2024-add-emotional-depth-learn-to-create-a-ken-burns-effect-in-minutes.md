@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Add Emotional Depth Learn to Create a Ken Burns Effect in Minutes
-date: 2024-04-29T06:29:49.995Z
-updated: 2024-04-30T06:29:49.995Z
+date: 2024-05-19T10:32:59.384Z
+updated: 2024-05-20T10:32:59.384Z
 tags: 
   - video editing software
   - video editing
@@ -2755,4 +2755,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone X without Passcode or Face ID</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-11-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme 11 5G</u></a></li>
 </ul></div>
+
 

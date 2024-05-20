@@ -1,7 +1,7 @@
 ---
 title: Nikon Video Post-Production Tips and Tricks for Editing Your Clips for 2024
-date: 2024-04-29T06:22:02.288Z
-updated: 2024-04-30T06:22:02.288Z
+date: 2024-05-19T10:32:28.433Z
+updated: 2024-05-20T10:32:28.433Z
 tags: 
   - video editing software
   - video editing
@@ -1475,4 +1475,5 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-deleting-white-background-in-photoshop-is-hard-no/"><u>Updated 2024 Approved Deleting White Background in Photoshop Is Hard? No</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

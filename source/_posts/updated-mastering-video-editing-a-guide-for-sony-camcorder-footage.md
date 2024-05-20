@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Video Editing A Guide for Sony Camcorder Footage
-date: 2024-04-29T06:21:34.659Z
-updated: 2024-04-30T06:21:34.659Z
+date: 2024-05-19T10:32:26.604Z
+updated: 2024-05-20T10:32:26.604Z
 tags: 
   - video editing software
   - video editing
@@ -1659,4 +1659,5 @@ Follow @Ollie Mattison
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-moto-g-stylus-5g-2023-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Moto G Stylus 5G (2023) Is Unlocked</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-compress-videos-in-minutes-10-free-online-tools-with-no-software/"><u>New Compress Videos in Minutes 10 Free Online Tools with No Software</u></a></li>
 </ul></div>
+
 

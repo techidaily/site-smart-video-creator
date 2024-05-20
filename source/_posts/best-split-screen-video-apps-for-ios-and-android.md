@@ -1,7 +1,7 @@
 ---
 title: Best Split Screen Video Apps for iOS And Android
-date: 2024-04-29T06:09:28.103Z
-updated: 2024-04-30T06:09:28.103Z
+date: 2024-05-19T10:31:37.127Z
+updated: 2024-05-20T10:31:37.127Z
 tags: 
   - video editing software
   - video editing
@@ -2039,4 +2039,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v29-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V29 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

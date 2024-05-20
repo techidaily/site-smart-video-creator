@@ -1,7 +1,7 @@
 ---
 title: Top 3 MKV Trimmer for Mac 2023 for 2024
-date: 2024-04-29T06:14:29.778Z
-updated: 2024-04-30T06:14:29.778Z
+date: 2024-05-19T10:32:00.043Z
+updated: 2024-05-20T10:32:00.043Z
 tags: 
   - video editing software
   - video editing
@@ -2373,4 +2373,5 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Phone with Broken Screen</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-color-lut-in-video-how-to-color-grade-your-video-for-2024/"><u>New Color Lut in Video -How to Color Grade Your Video for 2024</u></a></li>
 </ul></div>
+
 

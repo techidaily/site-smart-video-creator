@@ -1,7 +1,7 @@
 ---
 title: Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX
-date: 2024-04-29T06:09:44.332Z
-updated: 2024-04-30T06:09:44.332Z
+date: 2024-05-19T10:31:38.552Z
+updated: 2024-05-20T10:31:38.553Z
 tags: 
   - video editing software
   - video editing
@@ -2085,4 +2085,5 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-say-goodbye-to-watermarks-best-online-tiktok-video-editors/"><u>New 2024 Approved Say Goodbye to Watermarks Best Online TikTok Video Editors</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-s23-fe-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy S23 FE Phone that is Locked?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Kapwing Editor How to Trim and Shorten Your Videos in Minutes for 2024
-date: 2024-04-29T06:20:43.426Z
-updated: 2024-04-30T06:20:43.426Z
+date: 2024-05-19T10:32:23.850Z
+updated: 2024-05-20T10:32:23.850Z
 tags: 
   - video editing software
   - video editing
@@ -3490,4 +3490,5 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 15 Pro and iPad</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Online? Here are 6 Easy Ways</u></a></li>
 </ul></div>
+
 

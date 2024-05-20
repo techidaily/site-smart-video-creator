@@ -1,7 +1,7 @@
 ---
 title: From Jitters to Smooth Mastering Video Stabilization in After Effects for 2024
-date: 2024-04-29T06:19:23.540Z
-updated: 2024-04-30T06:19:23.540Z
+date: 2024-05-19T10:32:18.595Z
+updated: 2024-05-20T10:32:18.595Z
 tags: 
   - video editing software
   - video editing
@@ -1127,4 +1127,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix Smart 7 HD</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

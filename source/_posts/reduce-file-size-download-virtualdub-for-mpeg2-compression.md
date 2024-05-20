@@ -1,7 +1,7 @@
 ---
 title: Reduce File Size Download VirtualDub for MPEG2 Compression
-date: 2024-04-29T06:11:19.363Z
-updated: 2024-04-30T06:11:19.363Z
+date: 2024-05-19T10:31:44.482Z
+updated: 2024-05-20T10:31:44.482Z
 tags: 
   - video editing software
   - video editing
@@ -3329,4 +3329,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/updated-are-you-looking-to-turn-on-the-motion-blur-effect-in-minecraft-learn-how-you-can-turn-the-effect-on-or-off-with-the-help-of-the-best-methods/"><u>Updated Are You Looking to Turn on the Motion Blur Effect in Minecraft? Learn How You Can Turn the Effect on or Off with the Help of the Best Methods</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-note-30-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Note 30 Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

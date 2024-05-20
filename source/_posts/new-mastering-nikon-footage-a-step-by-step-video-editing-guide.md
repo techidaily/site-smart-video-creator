@@ -1,7 +1,7 @@
 ---
 title: New Mastering Nikon Footage A Step-by-Step Video Editing Guide
-date: 2024-04-29T06:21:30.434Z
-updated: 2024-04-30T06:21:30.434Z
+date: 2024-05-19T10:32:26.463Z
+updated: 2024-05-20T10:32:26.463Z
 tags: 
   - video editing software
   - video editing
@@ -1891,4 +1891,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-red-magic-9-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Red Magic 9 Pro to iPad | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-x-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone X? 5 Tips You Must Know</u></a></li>
 </ul></div>
+
 

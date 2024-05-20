@@ -1,7 +1,7 @@
 ---
 title: This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X
-date: 2024-04-29T06:11:57.330Z
-updated: 2024-04-30T06:11:57.330Z
+date: 2024-05-19T10:31:46.266Z
+updated: 2024-05-20T10:31:46.266Z
 tags: 
   - video editing software
   - video editing
@@ -2242,4 +2242,5 @@ Many online video editing tools are available in the market that allows you to c
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-android-movie-maker-app-comparison-find-the-right-one/"><u>2024 Approved Android Movie Maker App Comparison Find the Right One</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-google-pixel-7a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Google Pixel 7a via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

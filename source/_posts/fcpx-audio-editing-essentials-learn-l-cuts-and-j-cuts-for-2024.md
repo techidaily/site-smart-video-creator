@@ -1,7 +1,7 @@
 ---
 title: FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts for 2024
-date: 2024-04-29T06:18:10.004Z
-updated: 2024-04-30T06:18:10.004Z
+date: 2024-05-19T10:32:13.863Z
+updated: 2024-05-20T10:32:13.863Z
 tags: 
   - video editing software
   - video editing
@@ -2193,4 +2193,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On OnePlus Open? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-12-mini-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 12 mini?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lumafusion on Mac OS A Complete Installation and Alternative Guide
-date: 2024-04-29T06:10:57.799Z
-updated: 2024-04-30T06:10:57.799Z
+date: 2024-05-19T10:31:42.868Z
+updated: 2024-05-20T10:31:42.868Z
 tags: 
   - video editing software
   - video editing
@@ -2667,4 +2667,5 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-phantom-v-fold-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Phantom V Fold FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-xs-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone XS Max</u></a></li>
 </ul></div>
+
 

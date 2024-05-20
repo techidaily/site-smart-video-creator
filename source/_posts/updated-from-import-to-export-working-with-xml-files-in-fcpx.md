@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Working with XML Files in FCPX
-date: 2024-04-29T06:19:23.328Z
-updated: 2024-04-30T06:19:23.328Z
+date: 2024-05-19T10:32:18.590Z
+updated: 2024-05-20T10:32:18.590Z
 tags: 
   - video editing software
   - video editing
@@ -2315,4 +2315,5 @@ Filmora also provides more advanced features for video editing like rotating, cr
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-are-you-a-vlogger-looking-for-good-color-correction-and-video-grading-presets-here-youll-find-different-vlog-luts-that-you-can-use-for-your-videos.m/"><u>Updated Are You a Vlogger Looking for Good Color Correction and Video Grading Presets? Here Youll Find Different Vlog LUTs that You Can Use for Your Videos</u></a></li>
 </ul></div>
+
 

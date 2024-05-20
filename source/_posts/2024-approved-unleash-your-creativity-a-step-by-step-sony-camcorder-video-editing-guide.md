@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide
-date: 2024-04-29T06:27:22.578Z
-updated: 2024-04-30T06:27:22.578Z
+date: 2024-05-19T10:32:50.324Z
+updated: 2024-05-20T10:32:50.324Z
 tags: 
   - video editing software
   - video editing
@@ -1876,4 +1876,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-dynamic-text-animation-in-filmora-step-by-step/"><u>New How to Create a Dynamic Text Animation in Filmora — Step-By-Step</u></a></li>
 </ul></div>
+
 

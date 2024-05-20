@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Color in Final Cut Pro
-date: 2024-04-29T06:12:21.374Z
-updated: 2024-04-30T06:12:21.374Z
+date: 2024-05-19T10:31:47.795Z
+updated: 2024-05-20T10:31:47.795Z
 tags: 
   - video editing software
   - video editing
@@ -1808,4 +1808,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/how-to-make-gif-with-transparent-background-in-2024/"><u>How to Make GIF With Transparent Background, In 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo A78 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

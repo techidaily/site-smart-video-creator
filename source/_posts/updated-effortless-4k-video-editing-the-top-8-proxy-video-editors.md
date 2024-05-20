@@ -1,7 +1,7 @@
 ---
 title: Updated Effortless 4K Video Editing The Top 8 Proxy Video Editors
-date: 2024-04-29T06:17:34.458Z
-updated: 2024-04-30T06:17:34.458Z
+date: 2024-05-19T10:32:11.192Z
+updated: 2024-05-20T10:32:11.192Z
 tags: 
   - video editing software
   - video editing
@@ -2030,4 +2030,5 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-10-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 10 5G Quickly | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-c02-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia C02 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

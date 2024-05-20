@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Complete Guide Creat Motion Blur Effect with Final Cut Pro
-date: 2024-04-29T06:13:46.560Z
-updated: 2024-04-30T06:13:46.560Z
+date: 2024-05-19T10:31:55.092Z
+updated: 2024-05-20T10:31:55.092Z
 tags: 
   - video editing software
   - video editing
@@ -2710,4 +2710,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-top-rated-image-to-video-makers-free-and-paid-solutions-for-2024/"><u>New Top-Rated Image to Video Makers Free and Paid Solutions for 2024</u></a></li>
 </ul></div>
+
 

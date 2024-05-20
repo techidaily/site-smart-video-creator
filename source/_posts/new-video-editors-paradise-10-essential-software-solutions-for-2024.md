@@ -2476,3 +2476,4 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Lava Blaze 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

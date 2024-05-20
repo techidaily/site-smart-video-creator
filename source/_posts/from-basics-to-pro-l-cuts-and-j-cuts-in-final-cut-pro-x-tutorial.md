@@ -1,7 +1,7 @@
 ---
 title: From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial
-date: 2024-04-29T06:10:38.748Z
-updated: 2024-04-30T06:10:38.748Z
+date: 2024-05-19T10:31:41.573Z
+updated: 2024-05-20T10:31:41.573Z
 tags: 
   - video editing software
   - video editing
@@ -2670,4 +2670,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/honor-v-purse-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor V Purse Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

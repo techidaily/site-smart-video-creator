@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to FCP X How To Add Effects in 3 Steps for 2024
-date: 2024-04-29T06:23:33.411Z
-updated: 2024-04-30T06:23:33.411Z
+date: 2024-05-19T10:32:34.327Z
+updated: 2024-05-20T10:32:34.327Z
 tags: 
   - video editing software
   - video editing
@@ -1826,4 +1826,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-detailed-guide-to-merge-videos-in-vlc-media-player/"><u>2024 Approved Detailed Guide to Merge Videos in VLC Media Player</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-find-x7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Find X7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Camtasia Tutorial Change Video Speed
-date: 2024-04-29T06:09:56.561Z
-updated: 2024-04-30T06:09:56.561Z
+date: 2024-05-19T10:31:39.414Z
+updated: 2024-05-20T10:31:39.414Z
 tags: 
   - video editing software
   - video editing
@@ -2065,4 +2065,5 @@ Follow @Liza Brown
 <li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-pova-5-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Pova 5 FRP</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a23-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A23 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

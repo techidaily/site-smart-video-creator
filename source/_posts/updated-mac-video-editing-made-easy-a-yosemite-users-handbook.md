@@ -1,7 +1,7 @@
 ---
 title: Updated Mac Video Editing Made Easy A Yosemite Users Handbook
-date: 2024-04-29T06:21:05.851Z
-updated: 2024-04-30T06:21:05.851Z
+date: 2024-05-19T10:32:25.618Z
+updated: 2024-05-20T10:32:25.618Z
 tags: 
   - video editing software
   - video editing
@@ -2050,4 +2050,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-use-blender-green-screen/"><u>Updated In 2024, How to Use Blender Green Screen</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-poco-m6-pro-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Poco M6 Pro 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Morph Your Mug The Top Face Swap Apps for iOS and Android for 2024
-date: 2024-04-29T06:21:49.427Z
-updated: 2024-04-30T06:21:49.427Z
+date: 2024-05-19T10:32:27.528Z
+updated: 2024-05-20T10:32:27.528Z
 tags: 
   - video editing software
   - video editing
@@ -2301,4 +2301,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-f14-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy F14 5G is off? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-v30-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme V30 to New Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

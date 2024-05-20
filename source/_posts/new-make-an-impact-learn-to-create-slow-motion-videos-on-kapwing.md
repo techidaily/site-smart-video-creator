@@ -1,7 +1,7 @@
 ---
 title: New Make an Impact Learn to Create Slow-Motion Videos on Kapwing
-date: 2024-04-29T06:21:13.966Z
-updated: 2024-04-30T06:21:13.966Z
+date: 2024-05-19T10:32:25.869Z
+updated: 2024-05-20T10:32:25.869Z
 tags: 
   - video editing software
   - video editing
@@ -3266,4 +3266,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-hot-40i-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Hot 40i Unlock Without Password</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Android devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

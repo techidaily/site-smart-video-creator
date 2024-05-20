@@ -1,7 +1,7 @@
 ---
 title: Top 8 Video Editing Apps for 4K Proxy Video Editing
-date: 2024-04-29T06:09:38.855Z
-updated: 2024-04-30T06:09:38.855Z
+date: 2024-05-19T10:31:37.895Z
+updated: 2024-05-20T10:31:37.895Z
 tags: 
   - video editing software
   - video editing
@@ -2195,4 +2195,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/how-to-change-video-thumbnail-in-google-drive-for-2024/"><u>How to Change Video Thumbnail in Google Drive for 2024</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-13t-pro-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi 13T Pro won't play MOV videos, how to fix ?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks for 2024
-date: 2024-04-29T06:25:23.629Z
-updated: 2024-04-30T06:25:23.629Z
+date: 2024-05-19T10:32:41.285Z
+updated: 2024-05-20T10:32:41.285Z
 tags: 
   - video editing software
   - video editing
@@ -1888,4 +1888,5 @@ Follow @Liza Brown
 <li><a href="https://meme-emoji.techidaily.com/new-10-best-meme-makers-online-free-to-use-for-2024/"><u>New 10 Best Meme Makers Online (Free to Use) for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-denoise-in-after-effects-audio-and-video-noise-removal/"><u>New How to Denoise in After Effects – Audio and Video Noise Removal</u></a></li>
 </ul></div>
+
 

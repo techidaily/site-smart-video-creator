@@ -1,7 +1,7 @@
 ---
 title: The Art of Time Control FCPX Freeze Frames and Slow Motion
-date: 2024-04-29T06:11:35.894Z
-updated: 2024-04-30T06:11:35.894Z
+date: 2024-05-19T10:31:44.927Z
+updated: 2024-05-20T10:31:44.927Z
 tags: 
   - video editing software
   - video editing
@@ -2608,4 +2608,5 @@ You may use VHS effects to add variety to the photographs and videos you upload 
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-13-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 13 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 </ul></div>
+
 

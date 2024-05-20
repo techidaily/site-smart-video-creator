@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro
-date: 2024-04-29T06:19:14.238Z
-updated: 2024-04-30T06:19:14.238Z
+date: 2024-05-19T10:32:17.824Z
+updated: 2024-05-20T10:32:17.824Z
 tags: 
   - video editing software
   - video editing
@@ -2890,4 +2890,5 @@ It's a shame that iMovie is not available on Windows 10/11 computers. Thankfully
 <li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y78plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y78+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-freeze-frame-in-final-cut-pro-for-2024/"><u>Updated Best Way to Freeze-Frame in Final Cut Pro for 2024</u></a></li>
 </ul></div>
+
 

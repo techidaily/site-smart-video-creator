@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate List of Split Screen Video Apps for Mobile
-date: 2024-04-29T06:25:52.825Z
-updated: 2024-04-30T06:25:52.825Z
+date: 2024-05-19T10:32:43.165Z
+updated: 2024-05-20T10:32:43.165Z
 tags: 
   - video editing software
   - video editing
@@ -2933,4 +2933,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-12-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 12 mini?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-ultimate-tutorial-mastering-online-video-editing-and-downloading/"><u>Updated 2024 Approved Ultimate Tutorial Mastering Online Video Editing and Downloading</u></a></li>
 </ul></div>
+
 

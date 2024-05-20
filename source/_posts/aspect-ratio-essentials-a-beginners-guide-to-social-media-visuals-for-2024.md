@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Essentials A Beginners Guide to Social Media Visuals for 2024
-date: 2024-04-29T06:14:57.197Z
-updated: 2024-04-30T06:14:57.197Z
+date: 2024-05-19T10:32:01.655Z
+updated: 2024-05-20T10:32:01.655Z
 tags: 
   - video editing software
   - video editing
@@ -2083,4 +2083,5 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-f34-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy F34 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo A1 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

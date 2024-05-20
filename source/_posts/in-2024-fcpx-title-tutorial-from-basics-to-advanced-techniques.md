@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Title Tutorial From Basics to Advanced Techniques
-date: 2024-04-29T06:18:17.356Z
-updated: 2024-04-30T06:18:17.356Z
+date: 2024-05-19T10:32:14.298Z
+updated: 2024-05-20T10:32:14.298Z
 tags: 
   - video editing software
   - video editing
@@ -1646,4 +1646,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 

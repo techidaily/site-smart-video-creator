@@ -1,7 +1,7 @@
 ---
 title: New Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results
-date: 2024-04-29T06:20:44.892Z
-updated: 2024-04-30T06:20:44.892Z
+date: 2024-05-19T10:32:23.961Z
+updated: 2024-05-20T10:32:23.961Z
 tags: 
   - video editing software
   - video editing
@@ -2142,4 +2142,5 @@ Follow @Benjamin Arango
 <li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v30-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V30 ProMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Tecno Camon 20 | Dr.fone</u></a></li>
 </ul></div>
+
 

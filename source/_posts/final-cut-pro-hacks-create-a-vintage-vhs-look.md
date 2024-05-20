@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Hacks Create a Vintage VHS Look
-date: 2024-04-29T06:10:27.997Z
-updated: 2024-04-30T06:10:27.997Z
+date: 2024-05-19T10:31:40.789Z
+updated: 2024-05-20T10:31:40.789Z
 tags: 
   - video editing software
   - video editing
@@ -2465,4 +2465,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nokia-c300-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nokia C300 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated 2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
 </ul></div>
+
 

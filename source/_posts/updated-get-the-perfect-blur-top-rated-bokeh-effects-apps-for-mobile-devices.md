@@ -1,7 +1,7 @@
 ---
 title: Updated Get the Perfect Blur Top-Rated Bokeh Effects Apps for Mobile Devices
-date: 2024-04-29T06:20:02.803Z
-updated: 2024-04-30T06:20:02.803Z
+date: 2024-05-19T10:32:20.965Z
+updated: 2024-05-20T10:32:20.965Z
 tags: 
   - video editing software
   - video editing
@@ -3821,4 +3821,5 @@ This tool allows downloading and converting videos, channels, sub-titles, playli
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-sony-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Sony Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

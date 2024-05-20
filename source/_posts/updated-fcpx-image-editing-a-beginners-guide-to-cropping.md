@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Image Editing A Beginners Guide to Cropping
-date: 2024-04-29T06:18:14.222Z
-updated: 2024-04-30T06:18:14.222Z
+date: 2024-05-19T10:32:14.045Z
+updated: 2024-05-20T10:32:14.045Z
 tags: 
   - video editing software
   - video editing
@@ -2025,4 +2025,5 @@ Video Stabilization is the need of the hour as you cannot always capture a stabi
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-blaze-2-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Blaze 2?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-important-it-is-to-perform-color-correction-to-your-video-here-is-a-solution-with-after-effects-color-correction-with-illustrative-videos-for-2024/"><u>How Important It Is to Perform Color Correction to Your Video? Here Is a Solution with After Effects Color Correction with Illustrative Videos for 2024</u></a></li>
 </ul></div>
+
 

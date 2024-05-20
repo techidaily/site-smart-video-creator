@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Cheat Sheet Mastering Social Media Image Sizes
-date: 2024-04-29T06:11:45.005Z
-updated: 2024-04-30T06:11:45.005Z
+date: 2024-05-19T10:31:45.479Z
+updated: 2024-05-20T10:31:45.479Z
 tags: 
   - video editing software
   - video editing
@@ -2568,4 +2568,5 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-extract-high-quality-audio-from-videos-proven-methods-for-mp3-conversion/"><u>2024 Approved Extract High-Quality Audio From Videos Proven Methods for MP3 Conversion</u></a></li>
 </ul></div>
+
 

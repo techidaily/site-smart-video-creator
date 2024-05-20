@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Resizing Made Easy A Beginners Guide
-date: 2024-04-29T06:14:40.391Z
-updated: 2024-04-30T06:14:40.391Z
+date: 2024-05-19T10:32:00.732Z
+updated: 2024-05-20T10:32:00.732Z
 tags: 
   - video editing software
   - video editing
@@ -2372,4 +2372,5 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-final-cut-pro-tutorial-rotate-video-180-with-these-easy-steps/"><u>Updated 2024 Approved Final Cut Pro Tutorial Rotate Video 180° with These Easy Steps</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 90 | Dr.fone</u></a></li>
 </ul></div>
+
 

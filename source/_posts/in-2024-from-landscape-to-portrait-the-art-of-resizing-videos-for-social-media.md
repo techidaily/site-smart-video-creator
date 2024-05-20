@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Landscape to Portrait The Art of Resizing Videos for Social Media
-date: 2024-04-29T06:19:24.159Z
-updated: 2024-04-30T06:19:24.159Z
+date: 2024-05-19T10:32:18.652Z
+updated: 2024-05-20T10:32:18.652Z
 tags: 
   - video editing software
   - video editing
@@ -3194,4 +3194,5 @@ Well, there you have it – the best **WhatsApp Status Maker App that** would ma
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 6 Plus | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-huawei-nova-y91-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei Nova Y91</u></a></li>
 </ul></div>
+
 

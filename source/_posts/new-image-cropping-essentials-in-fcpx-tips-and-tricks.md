@@ -1,7 +1,7 @@
 ---
 title: New Image Cropping Essentials in FCPX Tips and Tricks
-date: 2024-04-29T06:20:29.836Z
-updated: 2024-04-30T06:20:29.836Z
+date: 2024-05-19T10:32:22.877Z
+updated: 2024-05-20T10:32:22.877Z
 tags: 
   - video editing software
   - video editing
@@ -2077,4 +2077,5 @@ Follow @Benjamin Arango
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-edge-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Edge 2023</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-poco-x5-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Poco X5 for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

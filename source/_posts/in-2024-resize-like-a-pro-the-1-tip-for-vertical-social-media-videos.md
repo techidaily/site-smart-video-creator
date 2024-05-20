@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resize Like a Pro The #1 Tip for Vertical Social Media Videos
-date: 2024-04-29T06:22:51.235Z
-updated: 2024-04-30T06:22:51.235Z
+date: 2024-05-19T10:32:31.827Z
+updated: 2024-05-20T10:32:31.827Z
 tags: 
   - video editing software
   - video editing
@@ -1799,4 +1799,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/take-your-linkedin-videos-to-the-next-level-with-custom-thumbnails-for-2024/"><u>Take Your LinkedIn Videos to the Next Level with Custom Thumbnails for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Other iPhone 15 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

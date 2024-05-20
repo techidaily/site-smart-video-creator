@@ -1947,3 +1947,4 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-a18-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of A18 on Mac</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Adjusting Aspect Ratio in Final Cut Pro Tips and Tricks for Editors for 2024
-date: 2024-04-29T06:13:15.172Z
-updated: 2024-04-30T06:13:15.172Z
+date: 2024-05-19T10:31:51.751Z
+updated: 2024-05-20T10:31:51.751Z
 tags: 
   - video editing software
   - video editing
@@ -2390,4 +2390,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-want-to-make-a-funny-vlog-on-tiktok-trying-to-find-the-right-topic-for-it-this-article-presents-some-impressive-options-for-making-a-funny-v/"><u>Updated In 2024, Want to Make a Funny Vlog on TikTok? Trying to Find the Right Topic for It? This Article Presents some Impressive Options for Making a Funny Vlog for TikTok</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-data-from-google-pixel-8-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Google Pixel 8 Pro</u></a></li>
 </ul></div>
+
 

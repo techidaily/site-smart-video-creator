@@ -1,7 +1,7 @@
 ---
 title: New Official Announcement Filmora X Now Supports ARM
-date: 2024-04-29T06:14:11.442Z
-updated: 2024-04-30T06:14:11.442Z
+date: 2024-05-19T10:31:57.670Z
+updated: 2024-05-20T10:31:57.670Z
 tags: 
   - video editing software
   - video editing
@@ -2249,4 +2249,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-se-2020-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone SE (2020) Factory Reset? | Stellar</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 6s</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Filmora X Just Got Faster ARM Support Now Available
-date: 2024-04-29T06:18:25.146Z
-updated: 2024-04-30T06:18:25.146Z
+date: 2024-05-19T10:32:15.025Z
+updated: 2024-05-20T10:32:15.025Z
 tags: 
   - video editing software
   - video editing
@@ -1165,4 +1165,5 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-m14-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy M14 4G Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-oneplus-nord-n30-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus Nord N30 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

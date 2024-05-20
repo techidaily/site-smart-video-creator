@@ -1,7 +1,7 @@
 ---
 title: New XML for FCPX Beginners and Beyond A Comprehensive Resource
-date: 2024-04-29T06:29:03.265Z
-updated: 2024-04-30T06:29:03.265Z
+date: 2024-05-19T10:32:56.303Z
+updated: 2024-05-20T10:32:56.304Z
 tags: 
   - video editing software
   - video editing
@@ -2312,4 +2312,5 @@ The Filmora assists you in changing the aspect ratio of the project after downlo
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-se-2022-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone SE (2022) Is Unlocked</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-8-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 8 Prevention & Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

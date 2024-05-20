@@ -1,7 +1,7 @@
 ---
 title: In 2024, Shrink MPEG2 Files Get VirtualDub for Video Compression
-date: 2024-04-29T06:23:31.910Z
-updated: 2024-04-30T06:23:31.910Z
+date: 2024-05-19T10:32:34.258Z
+updated: 2024-05-20T10:32:34.258Z
 tags: 
   - video editing software
   - video editing
@@ -1543,4 +1543,5 @@ Follow @Benjamin Arango
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor Magic V2? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Titles in FCPX A Step-by-Step Guide
-date: 2024-04-29T06:21:34.025Z
-updated: 2024-04-30T06:21:34.025Z
+date: 2024-05-19T10:32:26.582Z
+updated: 2024-05-20T10:32:26.582Z
 tags: 
   - video editing software
   - video editing
@@ -2915,4 +2915,5 @@ Verdict: It will be best to try desktop video trimmers for major projects. Onlin
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-10-types-of-video-framing-from-novice-to-master/"><u>Updated TOP 10 Types of Video Framing From Novice to Master</u></a></li>
 </ul></div>
+
 

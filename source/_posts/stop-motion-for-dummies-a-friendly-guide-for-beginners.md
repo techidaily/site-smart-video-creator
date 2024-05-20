@@ -1,7 +1,7 @@
 ---
 title: Stop Motion for Dummies A Friendly Guide for Beginners
-date: 2024-04-29T06:11:31.582Z
-updated: 2024-04-30T06:11:31.582Z
+date: 2024-05-19T10:31:44.825Z
+updated: 2024-05-20T10:31:44.825Z
 tags: 
   - video editing software
   - video editing
@@ -2270,4 +2270,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-15-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 15</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
+
 

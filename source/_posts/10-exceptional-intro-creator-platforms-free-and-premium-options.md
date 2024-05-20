@@ -2497,3 +2497,4 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-itel-s23plus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Itel S23+ Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
 
+

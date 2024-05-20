@@ -1,7 +1,7 @@
 ---
 title: Mac GoPro Editing 101 From Import to Export
-date: 2024-04-29T06:10:58.428Z
-updated: 2024-04-30T06:10:58.428Z
+date: 2024-05-19T10:31:42.886Z
+updated: 2024-05-20T10:31:42.886Z
 tags: 
   - video editing software
   - video editing
@@ -2306,4 +2306,5 @@ This is a simple tool used for video editing. Its simple features make it less c
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Pro Max?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Nord N30 SE | Dr.fone</u></a></li>
 </ul></div>
+
 

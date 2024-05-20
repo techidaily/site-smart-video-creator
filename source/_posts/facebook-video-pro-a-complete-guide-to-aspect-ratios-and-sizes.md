@@ -1,7 +1,7 @@
 ---
 title: Facebook Video Pro A Complete Guide to Aspect Ratios and Sizes
-date: 2024-04-29T06:10:22.901Z
-updated: 2024-04-30T06:10:22.901Z
+date: 2024-05-19T10:31:40.430Z
+updated: 2024-05-20T10:31:40.430Z
 tags: 
   - video editing software
   - video editing
@@ -2775,4 +2775,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-f54-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy F54 5G Phone Pattern Lock</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Resize and Refine The Art of Cropping Videos in Avidemux
-date: 2024-04-29T06:22:49.780Z
-updated: 2024-04-30T06:22:49.780Z
+date: 2024-05-19T10:32:31.757Z
+updated: 2024-05-20T10:32:31.757Z
 tags: 
   - video editing software
   - video editing
@@ -2032,4 +2032,5 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 13? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

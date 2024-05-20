@@ -1,7 +1,7 @@
 ---
 title: In 2024, Control Video Tempo with Camtasia
-date: 2024-04-29T06:16:07.396Z
-updated: 2024-04-30T06:16:07.396Z
+date: 2024-05-19T10:32:06.464Z
+updated: 2024-05-20T10:32:06.464Z
 tags: 
   - video editing software
   - video editing
@@ -2710,4 +2710,5 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-v30-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo V30 without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-8-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 8 Plus for Free</u></a></li>
 </ul></div>
+
 

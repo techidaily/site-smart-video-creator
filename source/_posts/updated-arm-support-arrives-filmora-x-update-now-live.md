@@ -1,7 +1,7 @@
 ---
 title: Updated ARM Support Arrives Filmora X Update Now Live
-date: 2024-04-29T06:14:54.015Z
-updated: 2024-04-30T06:14:54.015Z
+date: 2024-05-19T10:32:01.521Z
+updated: 2024-05-20T10:32:01.521Z
 tags: 
   - video editing software
   - video editing
@@ -1327,4 +1327,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-zero-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Zero 30 5G without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

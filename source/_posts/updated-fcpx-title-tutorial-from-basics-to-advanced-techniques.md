@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Title Tutorial From Basics to Advanced Techniques
-date: 2024-04-29T06:18:17.775Z
-updated: 2024-04-30T06:18:17.775Z
+date: 2024-05-19T10:32:14.355Z
+updated: 2024-05-20T10:32:14.355Z
 tags: 
   - video editing software
   - video editing
@@ -2907,4 +2907,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-zte-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Device</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y100i-power-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y100i Power 5G Phone</u></a></li>
 </ul></div>
+
 

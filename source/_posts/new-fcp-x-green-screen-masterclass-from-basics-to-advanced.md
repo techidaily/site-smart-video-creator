@@ -1,7 +1,7 @@
 ---
 title: New FCP X Green Screen Masterclass From Basics to Advanced
-date: 2024-04-29T06:18:08.335Z
-updated: 2024-04-30T06:18:08.335Z
+date: 2024-05-19T10:32:13.723Z
+updated: 2024-05-20T10:32:13.723Z
 tags: 
   - video editing software
   - video editing
@@ -2485,4 +2485,5 @@ Follow @Liza Brown
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-nord-3-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Nord 3 5G FRP Without Computer</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

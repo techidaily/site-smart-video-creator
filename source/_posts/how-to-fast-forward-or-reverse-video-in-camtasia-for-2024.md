@@ -1,7 +1,7 @@
 ---
 title: How to Fast Forward or Reverse Video in Camtasia for 2024
-date: 2024-04-29T06:20:24.579Z
-updated: 2024-04-30T06:20:24.579Z
+date: 2024-05-19T10:32:22.307Z
+updated: 2024-05-20T10:32:22.307Z
 tags: 
   - video editing software
   - video editing
@@ -1641,4 +1641,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-vivo-y17s-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Vivo Y17s</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS Without Passcode Easily</u></a></li>
 </ul></div>
+
 

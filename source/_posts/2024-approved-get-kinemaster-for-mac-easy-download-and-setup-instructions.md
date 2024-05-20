@@ -1985,3 +1985,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/hard-reset-infinix-hot-30i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 30i in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

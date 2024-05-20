@@ -1,7 +1,7 @@
 ---
 title: Top Video Metadata Editors for Windows and macOS for 2024
-date: 2024-04-29T06:26:45.987Z
-updated: 2024-04-30T06:26:45.987Z
+date: 2024-05-19T10:32:47.126Z
+updated: 2024-05-20T10:32:47.126Z
 tags: 
   - video editing software
   - video editing
@@ -2120,4 +2120,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/updated-spooky-halloween-best-15plus-halloween-countdown-video-clips/"><u>Updated Spooky Halloween Best 15+ Halloween Countdown Video Clips</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 to Other iPhone? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Editing A Guide to Speeding Up and Slowing Down in Camtasia
-date: 2024-04-29T06:10:18.226Z
-updated: 2024-04-30T06:10:18.226Z
+date: 2024-05-19T10:31:40.153Z
+updated: 2024-05-20T10:31:40.153Z
 tags: 
   - video editing software
   - video editing
@@ -3903,4 +3903,5 @@ To rotate an AVI video online, you need to be extremely picky, as even most onli
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-pixel-art-generator-for-2024/"><u>New What Is AI Pixel Art Generator for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6s-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6s Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+
 

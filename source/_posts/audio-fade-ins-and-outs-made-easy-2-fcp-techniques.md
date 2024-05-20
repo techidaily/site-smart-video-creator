@@ -1,7 +1,7 @@
 ---
 title: Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-04-29T06:09:44.128Z
-updated: 2024-04-30T06:09:44.128Z
+date: 2024-05-19T10:31:38.544Z
+updated: 2024-05-20T10:31:38.544Z
 tags: 
   - video editing software
   - video editing
@@ -1762,4 +1762,5 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-hd-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Smart 8 HD Phone Without Password?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung? Try These Fixes</u></a></li>
 </ul></div>
+
 

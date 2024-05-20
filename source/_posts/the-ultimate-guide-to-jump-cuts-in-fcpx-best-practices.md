@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Jump Cuts in FCPX Best Practices
-date: 2024-04-29T06:11:47.816Z
-updated: 2024-04-30T06:11:47.816Z
+date: 2024-05-19T10:31:45.706Z
+updated: 2024-05-20T10:31:45.706Z
 tags: 
   - video editing software
   - video editing
@@ -2389,4 +2389,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-mini-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 mini in Lost Mode</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi Redmi Note 12R.</u></a></li>
 </ul></div>
+
 

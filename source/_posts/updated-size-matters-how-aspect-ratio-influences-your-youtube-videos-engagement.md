@@ -1,7 +1,7 @@
 ---
 title: Updated Size Matters How Aspect Ratio Influences Your YouTube Videos Engagement
-date: 2024-04-29T06:23:35.725Z
-updated: 2024-04-30T06:23:35.725Z
+date: 2024-05-19T10:32:34.873Z
+updated: 2024-05-20T10:32:34.873Z
 tags: 
   - video editing software
   - video editing
@@ -1864,4 +1864,5 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-10t-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 10T 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-learn-color-correction-in-after-effects-with-these-videos/"><u>Updated Learn Color Correction in After Effects with These Videos</u></a></li>
 </ul></div>
+
 

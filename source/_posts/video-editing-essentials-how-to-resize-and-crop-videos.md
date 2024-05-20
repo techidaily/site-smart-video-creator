@@ -1,7 +1,7 @@
 ---
 title: Video Editing Essentials How to Resize and Crop Videos
-date: 2024-04-29T06:12:22.407Z
-updated: 2024-04-30T06:12:22.407Z
+date: 2024-05-19T10:31:47.877Z
+updated: 2024-05-20T10:31:47.877Z
 tags: 
   - video editing software
   - video editing
@@ -2950,4 +2950,5 @@ Windows Movie Maker is an excellent Windows video editor application for Windows
 <li><a href="https://ai-video-apps.techidaily.com/new-get-started-with-final-cut-pro-flipping-videos-made-easy-for-2024/"><u>New Get Started with Final Cut Pro Flipping Videos Made Easy for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

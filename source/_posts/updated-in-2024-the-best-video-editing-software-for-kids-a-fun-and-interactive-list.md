@@ -3495,3 +3495,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/optimizing-mobile-screen-design-a-guide-to-vertical-aspect-ratios/"><u>Optimizing Mobile Screen Design A Guide to Vertical Aspect Ratios</u></a></li>
 </ul></div>
 
+

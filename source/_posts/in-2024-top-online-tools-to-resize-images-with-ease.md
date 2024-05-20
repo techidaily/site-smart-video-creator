@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top Online Tools to Resize Images with Ease
-date: 2024-04-29T06:26:28.167Z
-updated: 2024-04-30T06:26:28.167Z
+date: 2024-05-19T10:32:45.736Z
+updated: 2024-05-20T10:32:45.736Z
 tags: 
   - video editing software
   - video editing
@@ -2679,4 +2679,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oneplus-ace-2-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from OnePlus Ace 2 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Itel P40+? | Dr.fone</u></a></li>
 </ul></div>
+
 

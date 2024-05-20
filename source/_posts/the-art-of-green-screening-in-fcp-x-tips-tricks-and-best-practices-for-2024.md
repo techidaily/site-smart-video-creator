@@ -1,7 +1,7 @@
 ---
 title: The Art of Green Screening in FCP X Tips, Tricks, and Best Practices for 2024
-date: 2024-04-29T06:24:17.862Z
-updated: 2024-04-30T06:24:17.862Z
+date: 2024-05-19T10:32:37.138Z
+updated: 2024-05-20T10:32:37.138Z
 tags: 
   - video editing software
   - video editing
@@ -2845,4 +2845,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-note-30-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Note 30 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
+
 

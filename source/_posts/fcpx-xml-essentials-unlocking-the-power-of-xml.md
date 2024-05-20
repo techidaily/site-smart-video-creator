@@ -1,7 +1,7 @@
 ---
 title: FCPX XML Essentials Unlocking the Power of XML
-date: 2024-04-29T06:10:25.428Z
-updated: 2024-04-30T06:10:25.428Z
+date: 2024-05-19T10:31:40.600Z
+updated: 2024-05-20T10:31:40.600Z
 tags: 
   - video editing software
   - video editing
@@ -1712,4 +1712,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G24 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-v-purse-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor V Purse fingerprint</u></a></li>
 </ul></div>
+
 

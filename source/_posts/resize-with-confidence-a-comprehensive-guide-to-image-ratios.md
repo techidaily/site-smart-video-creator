@@ -1,7 +1,7 @@
 ---
 title: Resize with Confidence A Comprehensive Guide to Image Ratios
-date: 2024-04-29T06:11:20.838Z
-updated: 2024-04-30T06:11:20.838Z
+date: 2024-05-19T10:31:44.519Z
+updated: 2024-05-20T10:31:44.519Z
 tags: 
   - video editing software
   - video editing
@@ -2131,4 +2131,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-ai-avatar-wondershare-virbo-user-guide/"><u>New AI Avatar | Wondershare Virbo User Guide</u></a></li>
 </ul></div>
+
 

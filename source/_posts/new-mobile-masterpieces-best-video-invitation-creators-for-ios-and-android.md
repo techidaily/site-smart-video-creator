@@ -1,7 +1,7 @@
 ---
 title: New Mobile Masterpieces Best Video Invitation Creators for iOS and Android
-date: 2024-04-29T06:21:46.477Z
-updated: 2024-04-30T06:21:46.477Z
+date: 2024-05-19T10:32:27.307Z
+updated: 2024-05-20T10:32:27.307Z
 tags: 
   - video editing software
   - video editing
@@ -1441,4 +1441,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-moto-g23-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Moto G23 using Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
+
 

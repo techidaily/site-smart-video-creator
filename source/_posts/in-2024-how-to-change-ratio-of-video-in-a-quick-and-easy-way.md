@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Ratio of Video in a Quick & Easy Way
-date: 2024-04-29T06:13:24.118Z
-updated: 2024-04-30T06:13:24.118Z
+date: 2024-05-19T10:31:53.172Z
+updated: 2024-05-20T10:31:53.172Z
 tags: 
   - video editing software
   - video editing
@@ -1961,4 +1961,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-vdieo-software.techidaily.com/new-master-video-trimming-with-kapwings-online-editor/"><u>New Master Video Trimming with Kapwings Online Editor</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 in Lost Mode</u></a></li>
 </ul></div>
+
 

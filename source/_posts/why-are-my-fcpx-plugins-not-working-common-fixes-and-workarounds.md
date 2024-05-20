@@ -1,7 +1,7 @@
 ---
 title: Why Are My FCPX Plugins Not Working? Common Fixes and Workarounds
-date: 2024-04-29T06:12:30.114Z
-updated: 2024-04-30T06:12:30.114Z
+date: 2024-05-19T10:31:48.541Z
+updated: 2024-05-20T10:31:48.541Z
 tags: 
   - video editing software
   - video editing
@@ -1661,4 +1661,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y28-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y28 5G</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y77t? | Dr.fone</u></a></li>
 </ul></div>
+
 

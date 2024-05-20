@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved L-Cuts and J-Cuts Demystified A Beginners Guide to FCPX Audio Editing
-date: 2024-04-29T06:20:47.007Z
-updated: 2024-04-30T06:20:47.007Z
+date: 2024-05-19T10:32:24.117Z
+updated: 2024-05-20T10:32:24.117Z
 tags: 
   - video editing software
   - video editing
@@ -2793,4 +2793,5 @@ Follow @Benjamin Arango
 <li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus 11R? | Dr.fone</u></a></li>
 </ul></div>
+
 

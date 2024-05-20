@@ -1,7 +1,7 @@
 ---
 title: Updated Two Ways to Fade In/Out Audio in Final Cut Pro
-date: 2024-04-29T06:14:37.837Z
-updated: 2024-04-30T06:14:37.837Z
+date: 2024-05-19T10:32:00.484Z
+updated: 2024-05-20T10:32:00.484Z
 tags: 
   - video editing software
   - video editing
@@ -2084,4 +2084,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-10t-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 10T 5G? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

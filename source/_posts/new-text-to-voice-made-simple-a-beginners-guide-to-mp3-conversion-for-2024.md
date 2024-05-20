@@ -2265,3 +2265,4 @@ Follow @Liza Brown
 <li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 7? | Dr.fone</u></a></li>
 </ul></div>
 
+

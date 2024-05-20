@@ -1,7 +1,7 @@
 ---
 title: Updated Rock-Solid Footage The Art of Video Stabilization in After Effects
-date: 2024-04-29T06:23:02.088Z
-updated: 2024-04-30T06:23:02.088Z
+date: 2024-05-19T10:32:32.337Z
+updated: 2024-05-20T10:32:32.337Z
 tags: 
   - video editing software
   - video editing
@@ -1813,4 +1813,5 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-spark-go-2023-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Spark Go (2023) Lock Screen Password</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Videos How to Add Slow Motion Effects on Kapwing
-date: 2024-04-29T06:26:57.047Z
-updated: 2024-04-30T06:26:57.047Z
+date: 2024-05-19T10:32:47.821Z
+updated: 2024-05-20T10:32:47.821Z
 tags: 
   - video editing software
   - video editing
@@ -2856,4 +2856,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-poco-x5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Poco X5</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy A25 5G Phone</u></a></li>
 </ul></div>
+
 

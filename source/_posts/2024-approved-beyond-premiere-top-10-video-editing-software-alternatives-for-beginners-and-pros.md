@@ -2992,3 +2992,4 @@ Follow @Benjamin Arango
 <li><a href="https://animation-videos.techidaily.com/in-2024-how-to-animate-graphics-in-canva/"><u>In 2024, How To Animate Graphics in Canva</u></a></li>
 </ul></div>
 
+

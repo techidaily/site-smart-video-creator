@@ -1,7 +1,7 @@
 ---
 title: FCPX Plugin Not Loading? Heres How to Fix It (2023 Update) for 2024
-date: 2024-04-29T06:18:15.895Z
-updated: 2024-04-30T06:18:15.895Z
+date: 2024-05-19T10:32:14.178Z
+updated: 2024-05-20T10:32:14.178Z
 tags: 
   - video editing software
   - video editing
@@ -1438,4 +1438,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus Nord N30 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-130-music-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia 130 Music Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

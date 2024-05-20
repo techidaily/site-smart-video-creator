@@ -1,7 +1,7 @@
 ---
 title: Updated How to Save Instagram Audio as MP3
-date: 2024-04-29T06:20:26.472Z
-updated: 2024-04-30T06:20:26.472Z
+date: 2024-05-19T10:32:22.590Z
+updated: 2024-05-20T10:32:22.590Z
 tags: 
   - video editing software
   - video editing
@@ -2589,4 +2589,5 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-top-luts-for-sony-hlg-to-download-for-2024/"><u>Updated Top LUTs for Sony HLG to Download for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Refine Image Size and Shape
-date: 2024-04-29T06:22:46.860Z
-updated: 2024-04-30T06:22:46.860Z
+date: 2024-05-19T10:32:31.574Z
+updated: 2024-05-20T10:32:31.574Z
 tags: 
   - video editing software
   - video editing
@@ -2026,4 +2026,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

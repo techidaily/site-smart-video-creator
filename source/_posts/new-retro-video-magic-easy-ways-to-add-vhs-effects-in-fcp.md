@@ -1,7 +1,7 @@
 ---
 title: New Retro Video Magic Easy Ways to Add VHS Effects in FCP
-date: 2024-04-29T06:22:54.149Z
-updated: 2024-04-30T06:22:54.149Z
+date: 2024-05-19T10:32:31.952Z
+updated: 2024-05-20T10:32:31.952Z
 tags: 
   - video editing software
   - video editing
@@ -2962,4 +2962,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-whats-the-best-laptops-for-video-editing/"><u>2024 Approved Whats The Best Laptops For Video Editing</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-6-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 6 Plus After Forgetting my PIN Code?</u></a></li>
 </ul></div>
+
 

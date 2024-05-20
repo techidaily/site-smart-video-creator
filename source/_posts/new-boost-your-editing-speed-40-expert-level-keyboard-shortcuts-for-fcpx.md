@@ -1,7 +1,7 @@
 ---
 title: New Boost Your Editing Speed 40 Expert-Level Keyboard Shortcuts for FCPX
-date: 2024-04-29T06:15:42.763Z
-updated: 2024-04-30T06:15:42.763Z
+date: 2024-05-19T10:32:05.004Z
+updated: 2024-05-20T10:32:05.004Z
 tags: 
   - video editing software
   - video editing
@@ -2009,4 +2009,5 @@ It can help you with so much of professional and interesting video editing optio
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-y27-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Y27 5G</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

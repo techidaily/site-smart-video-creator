@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Premiere Pro Transition Effects to Elevate Your Videos
-date: 2024-04-29T06:14:28.939Z
-updated: 2024-04-30T06:14:28.939Z
+date: 2024-05-19T10:31:59.980Z
+updated: 2024-05-20T10:31:59.980Z
 tags: 
   - video editing software
   - video editing
@@ -1579,4 +1579,5 @@ VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won'
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor 100 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-merge-audio-and-video-using-ffmpeg/"><u>New In 2024, How to Merge Audio and Video Using FFmpeg</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Image Cropping in FCPX Advanced Techniques
-date: 2024-04-29T06:11:03.836Z
-updated: 2024-04-30T06:11:03.836Z
+date: 2024-05-19T10:31:43.200Z
+updated: 2024-05-20T10:31:43.200Z
 tags: 
   - video editing software
   - video editing
@@ -2023,4 +2023,5 @@ Now that you are aware of these top movie maker apps for Android, you can evalua
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-13-mini-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 13 mini to Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

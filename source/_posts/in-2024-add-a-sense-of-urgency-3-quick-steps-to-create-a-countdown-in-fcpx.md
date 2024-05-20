@@ -1,7 +1,7 @@
 ---
 title: In 2024, Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX
-date: 2024-04-29T06:13:12.699Z
-updated: 2024-04-30T06:13:12.699Z
+date: 2024-05-19T10:31:51.560Z
+updated: 2024-05-20T10:31:51.560Z
 tags: 
   - video editing software
   - video editing
@@ -2111,4 +2111,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-agni-2-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Agni 2 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-zte-nubia-z60-ultra-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On ZTE Nubia Z60 Ultra? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

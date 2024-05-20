@@ -1,7 +1,7 @@
 ---
 title: Shake It Off How to Fix Shaky Footage in Adobe Premiere Pro
-date: 2024-04-29T06:11:26.441Z
-updated: 2024-04-30T06:11:26.441Z
+date: 2024-05-19T10:31:44.669Z
+updated: 2024-05-20T10:31:44.669Z
 tags: 
   - video editing software
   - video editing
@@ -2662,4 +2662,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-s23-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel S23 to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solved-microsoft-excel-2000-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2000 File Error The document cannot be saved</u></a></li>
 </ul></div>
+
 

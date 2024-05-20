@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trimming Videos Online? Heres How to Do It with Kapwing
-date: 2024-04-29T06:27:04.149Z
-updated: 2024-04-30T06:27:04.149Z
+date: 2024-05-19T10:32:48.304Z
+updated: 2024-05-20T10:32:48.304Z
 tags: 
   - video editing software
   - video editing
@@ -2330,4 +2330,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-split-audio-from-video-in-adobe-premiere-pro-step-by-step/"><u>Updated In 2024, Split Audio From Video in Adobe Premiere Pro Step by Step</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-g2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo G2 Phone without PIN</u></a></li>
 </ul></div>
+
 

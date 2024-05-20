@@ -1,7 +1,7 @@
 ---
 title: FCPX Tutorial Image Cropping Made Easy for 2024
-date: 2024-04-29T06:18:18.196Z
-updated: 2024-04-30T06:18:18.196Z
+date: 2024-05-19T10:32:14.747Z
+updated: 2024-05-20T10:32:14.747Z
 tags: 
   - video editing software
   - video editing
@@ -5313,4 +5313,5 @@ You can download and install any software according to your demands very easily 
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C12 Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-samsung-galaxy-s23-fe-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23 FE working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

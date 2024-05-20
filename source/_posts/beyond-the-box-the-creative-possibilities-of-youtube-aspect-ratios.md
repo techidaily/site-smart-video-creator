@@ -1,7 +1,7 @@
 ---
 title: Beyond the Box The Creative Possibilities of YouTube Aspect Ratios
-date: 2024-04-29T06:09:53.846Z
-updated: 2024-04-30T06:09:53.846Z
+date: 2024-05-19T10:31:39.358Z
+updated: 2024-05-20T10:31:39.358Z
 tags: 
   - video editing software
   - video editing
@@ -1983,4 +1983,5 @@ Follow @Shanoon Cox
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor X9a | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-mini-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 mini Unavailable Issue With Ease</u></a></li>
 </ul></div>
+
 

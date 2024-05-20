@@ -1,7 +1,7 @@
 ---
 title: New Video Formatting Made Easy Change Shape, Size, and Aspect Ratio
-date: 2024-04-29T06:28:14.436Z
-updated: 2024-04-30T06:28:14.436Z
+date: 2024-05-19T10:32:53.105Z
+updated: 2024-05-20T10:32:53.105Z
 tags: 
   - video editing software
   - video editing
@@ -2326,4 +2326,5 @@ Do motion blur effect easily with Filmora!
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo X100 Phone with Broken Screen</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-your-music-videos-to-look-like-professional-music-videos-you-can-always-choose-from-music-videos-luts-to-give-your-videos-a-cinema/"><u>2024 Approved Do You Want Your Music Videos to Look Like Professional Music Videos? You Can Always Choose From Music Videos LUTs to Give Your Videos a Cinematic Touch</u></a></li>
 </ul></div>
+
 

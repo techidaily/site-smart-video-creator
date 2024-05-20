@@ -1,7 +1,7 @@
 ---
 title: How to Stabilize Shaky Videos in After Effects 3 Ways
-date: 2024-04-29T06:09:33.407Z
-updated: 2024-04-30T06:09:33.407Z
+date: 2024-05-19T10:31:37.372Z
+updated: 2024-05-20T10:31:37.372Z
 tags: 
   - video editing software
   - video editing
@@ -2513,4 +2513,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
 <li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wpt-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wpt file documents online</u></a></li>
 </ul></div>
+
 

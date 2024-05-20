@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Compress MPEG2 Videos Using VirtualDub for 2024
-date: 2024-04-29T06:24:49.949Z
-updated: 2024-04-30T06:24:49.949Z
+date: 2024-05-19T10:32:39.912Z
+updated: 2024-05-20T10:32:39.912Z
 tags: 
   - video editing software
   - video editing
@@ -2119,4 +2119,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-15-pro-how-to-unlock-a-disabled-iphone-15-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 15 Pro How to Unlock a Disabled iPhone 15 Pro? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

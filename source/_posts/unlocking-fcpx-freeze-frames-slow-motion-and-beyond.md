@@ -1,7 +1,7 @@
 ---
 title: Unlocking FCPX Freeze Frames, Slow Motion, and Beyond
-date: 2024-04-29T06:12:20.753Z
-updated: 2024-04-30T06:12:20.753Z
+date: 2024-05-19T10:31:47.760Z
+updated: 2024-05-20T10:31:47.760Z
 tags: 
   - video editing software
   - video editing
@@ -1836,4 +1836,5 @@ No matter your go-to genre, YouTube has always been the best place to listen to 
 <li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-narzo-60-pro-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme Narzo 60 Pro 5G? Try These Fixes</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

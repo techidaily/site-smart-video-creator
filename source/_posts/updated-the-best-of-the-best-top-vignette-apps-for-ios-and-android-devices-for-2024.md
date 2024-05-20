@@ -2008,3 +2008,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-reset-infinix-hot-40-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40 Pro Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

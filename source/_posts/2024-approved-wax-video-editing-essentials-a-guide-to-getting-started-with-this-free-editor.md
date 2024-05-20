@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Wax Video Editing Essentials A Guide to Getting Started with This Free Editor
-date: 2024-04-29T06:28:40.385Z
-updated: 2024-04-30T06:28:40.385Z
+date: 2024-05-19T10:32:55.393Z
+updated: 2024-05-20T10:32:55.393Z
 tags: 
   - video editing software
   - video editing
@@ -3136,4 +3136,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo X90S | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-rog-phone-7-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from ROG Phone 7</u></a></li>
 </ul></div>
+
 

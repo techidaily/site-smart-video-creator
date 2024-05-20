@@ -1,7 +1,7 @@
 ---
 title: New Speed Up or Slow Down Videos in QuickTime Player for Windows and Mac
-date: 2024-04-29T06:23:48.974Z
-updated: 2024-04-30T06:23:48.974Z
+date: 2024-05-19T10:32:35.311Z
+updated: 2024-05-20T10:32:35.311Z
 tags: 
   - video editing software
   - video editing
@@ -1784,4 +1784,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2019-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2019 has stopped working error?</u></a></li>
 </ul></div>
+
 

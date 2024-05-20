@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Jump Cut Mastery Elevate Your Video Editing Skills
-date: 2024-04-29T06:18:14.430Z
-updated: 2024-04-30T06:18:14.430Z
+date: 2024-05-19T10:32:14.051Z
+updated: 2024-05-20T10:32:14.051Z
 tags: 
   - video editing software
   - video editing
@@ -2304,4 +2304,5 @@ For macOS 10.12 or later
 <li><a href="https://meme-emoji.techidaily.com/2024-approved-10-most-popular-minion-memes-that-moms-are-crazy-about/"><u>2024 Approved 10 Most Popular Minion Memes that Moms Are Crazy About</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-discover-the-best-video-frame-rate-converters-for-smooth-playback-including-online-and-offline-options-learn-how-to-convert-frame-rates-for-fr/"><u>2024 Approved Discover the Best Video Frame Rate Converters for Smooth Playback, Including Online and Offline Options. Learn How to Convert Frame Rates for Free and Elevate Your Video Quality with These Top 8 Tools</u></a></li>
 </ul></div>
+
 

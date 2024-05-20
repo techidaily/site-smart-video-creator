@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved XML for FCPX Beginners and Beyond A Comprehensive Resource
-date: 2024-04-29T06:29:03.056Z
-updated: 2024-04-30T06:29:03.056Z
+date: 2024-05-19T10:32:56.299Z
+updated: 2024-05-20T10:32:56.299Z
 tags: 
   - video editing software
   - video editing
@@ -2106,4 +2106,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-use-rules-of-thirds/"><u>New How to Use Rules of Thirds</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12t-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12T Pro Lock Screen Password?</u></a></li>
 </ul></div>
+
 

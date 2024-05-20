@@ -1,7 +1,7 @@
 ---
 title: New Master VLC How to Play Videos in Slow Motion on Desktop and Mobile
-date: 2024-04-29T06:21:24.528Z
-updated: 2024-04-30T06:21:24.528Z
+date: 2024-05-19T10:32:26.267Z
+updated: 2024-05-20T10:32:26.267Z
 tags: 
   - video editing software
   - video editing
@@ -2784,4 +2784,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-to-vi/"><u>Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-an-ai-video-generator/"><u>Updated In 2024, What Is an AI Video Generator?</u></a></li>
 </ul></div>
+
 

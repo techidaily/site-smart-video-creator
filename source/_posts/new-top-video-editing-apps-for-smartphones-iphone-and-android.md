@@ -1,7 +1,7 @@
 ---
 title: New Top Video Editing Apps for Smartphones IPhone and Android
-date: 2024-04-29T06:26:44.107Z
-updated: 2024-04-30T06:26:44.107Z
+date: 2024-05-19T10:32:46.899Z
+updated: 2024-05-20T10:32:46.899Z
 tags: 
   - video editing software
   - video editing
@@ -2435,4 +2435,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor Magic V2 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-x9b-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor X9b to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

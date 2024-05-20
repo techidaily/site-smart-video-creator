@@ -1,7 +1,7 @@
 ---
 title: In 2024, Rapid Video Size Adjustment A Beginners Guide
-date: 2024-04-29T06:22:41.755Z
-updated: 2024-04-30T06:22:41.755Z
+date: 2024-05-19T10:32:31.319Z
+updated: 2024-05-20T10:32:31.319Z
 tags: 
   - video editing software
   - video editing
@@ -1495,4 +1495,5 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-edit-recorded-video/"><u>Updated How to Edit Recorded Video</u></a></li>
 </ul></div>
+
 

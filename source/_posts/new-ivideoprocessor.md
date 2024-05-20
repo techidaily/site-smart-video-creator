@@ -1,7 +1,7 @@
 ---
 title: New IVideoProcessor
-date: 2024-04-29T06:20:41.542Z
-updated: 2024-04-30T06:20:41.542Z
+date: 2024-05-19T10:32:23.620Z
+updated: 2024-05-20T10:32:23.620Z
 tags: 
   - video editing software
   - video editing
@@ -1728,4 +1728,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-find-x6-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Find X6 Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

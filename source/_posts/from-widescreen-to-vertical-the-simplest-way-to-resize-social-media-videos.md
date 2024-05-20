@@ -1,7 +1,7 @@
 ---
 title: From Widescreen to Vertical The Simplest Way to Resize Social Media Videos
-date: 2024-04-29T06:10:41.901Z
-updated: 2024-04-30T06:10:41.901Z
+date: 2024-05-19T10:31:41.773Z
+updated: 2024-05-20T10:31:41.773Z
 tags: 
   - video editing software
   - video editing
@@ -1986,4 +1986,5 @@ Follow @Max Wales
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 6 Plus?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-6-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 6 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
+
 

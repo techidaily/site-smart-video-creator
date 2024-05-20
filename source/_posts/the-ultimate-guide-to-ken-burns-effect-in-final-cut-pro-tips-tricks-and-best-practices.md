@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices
-date: 2024-04-29T06:11:48.460Z
-updated: 2024-04-30T06:11:48.460Z
+date: 2024-05-19T10:31:45.750Z
+updated: 2024-05-20T10:31:45.750Z
 tags: 
   - video editing software
   - video editing
@@ -1469,4 +1469,5 @@ Our last pick brings us back to unique solutions! Specifically, we're delving in
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>New In 2024, 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

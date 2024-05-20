@@ -1,7 +1,7 @@
 ---
 title: BEST Video Dimensions for Instagram, In 2024
-date: 2024-04-29T06:13:43.020Z
-updated: 2024-04-30T06:13:43.020Z
+date: 2024-05-19T10:31:54.860Z
+updated: 2024-05-20T10:31:54.860Z
 tags: 
   - video editing software
   - video editing
@@ -1967,4 +1967,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-voice-generator/"><u>In 2024, What Is an AI Voice Generator?</u></a></li>
 </ul></div>
+
 

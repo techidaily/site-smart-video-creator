@@ -1,7 +1,7 @@
 ---
 title: L-Cuts and J-Cuts in FCPX A Beginners Guide to Advanced Audio Editing
-date: 2024-04-29T06:10:55.683Z
-updated: 2024-04-30T06:10:55.683Z
+date: 2024-05-19T10:31:42.748Z
+updated: 2024-05-20T10:31:42.748Z
 tags: 
   - video editing software
   - video editing
@@ -2712,4 +2712,5 @@ You may use VHS effects to add variety to the photographs and videos you upload 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/what-is-ai-api/"><u>What Is AI API?</u></a></li>
 </ul></div>
+
 

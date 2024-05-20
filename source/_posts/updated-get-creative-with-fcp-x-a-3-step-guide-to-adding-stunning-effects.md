@@ -1,7 +1,7 @@
 ---
 title: Updated Get Creative with FCP X A 3-Step Guide to Adding Stunning Effects
-date: 2024-04-29T06:19:42.676Z
-updated: 2024-04-30T06:19:42.676Z
+date: 2024-05-19T10:32:20.247Z
+updated: 2024-05-20T10:32:20.247Z
 tags: 
   - video editing software
   - video editing
@@ -1530,4 +1530,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia XR21 Phone Without Password?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 </ul></div>
+
 

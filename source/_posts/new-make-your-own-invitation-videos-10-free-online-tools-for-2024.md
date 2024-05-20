@@ -2182,3 +2182,4 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Galaxy Z Flip 5?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New Free MKV Editor Top 10 Programs to Split and Trim Videos
-date: 2024-04-29T06:18:52.233Z
-updated: 2024-04-30T06:18:52.233Z
+date: 2024-05-19T10:32:16.258Z
+updated: 2024-05-20T10:32:16.258Z
 tags: 
   - video editing software
   - video editing
@@ -1926,4 +1926,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/all-about-iphone-8-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 8 Plus Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 

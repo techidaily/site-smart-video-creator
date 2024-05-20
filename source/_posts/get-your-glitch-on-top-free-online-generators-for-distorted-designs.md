@@ -1,7 +1,7 @@
 ---
 title: Get Your Glitch On Top Free Online Generators for Distorted Designs
-date: 2024-04-29T06:10:47.774Z
-updated: 2024-04-30T06:10:47.774Z
+date: 2024-05-19T10:31:42.142Z
+updated: 2024-05-20T10:31:42.142Z
 tags: 
   - video editing software
   - video editing
@@ -2252,4 +2252,5 @@ Key features
 <li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme GT Neo 5 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-poco-x6-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Poco X6 Pro Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

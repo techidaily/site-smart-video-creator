@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Size Adjustment A How-To Guide
-date: 2024-04-29T06:10:18.441Z
-updated: 2024-04-30T06:10:18.441Z
+date: 2024-05-19T10:31:40.171Z
+updated: 2024-05-20T10:31:40.171Z
 tags: 
   - video editing software
   - video editing
@@ -3178,4 +3178,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-11x-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 11X 5G Device</u></a></li>
 </ul></div>
+
 

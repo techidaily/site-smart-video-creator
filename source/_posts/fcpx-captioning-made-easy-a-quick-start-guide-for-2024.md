@@ -1,7 +1,7 @@
 ---
 title: FCPX Captioning Made Easy A Quick Start Guide for 2024
-date: 2024-04-29T06:18:11.047Z
-updated: 2024-04-30T06:18:11.047Z
+date: 2024-05-19T10:32:13.888Z
+updated: 2024-05-20T10:32:13.888Z
 tags: 
   - video editing software
   - video editing
@@ -2998,4 +2998,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-12-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 12 without Password</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Poco M6 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

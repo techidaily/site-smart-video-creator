@@ -1,7 +1,7 @@
 ---
 title: Change Video Dimensions Fast A Beginners Guide for 2024
-date: 2024-04-29T06:15:58.889Z
-updated: 2024-04-30T06:15:58.889Z
+date: 2024-05-19T10:32:05.796Z
+updated: 2024-05-20T10:32:05.796Z
 tags: 
   - video editing software
   - video editing
@@ -2562,4 +2562,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video.techidaily.com/updated-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>updated In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-no-problem-7-best-video-merger-software-for-2024/"><u>New No Watermark, No Problem 7 Best Video Merger Software for 2024</u></a></li>
 </ul></div>
+
 

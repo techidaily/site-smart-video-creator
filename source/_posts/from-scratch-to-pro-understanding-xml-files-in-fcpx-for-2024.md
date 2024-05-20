@@ -1,7 +1,7 @@
 ---
 title: From Scratch to Pro Understanding XML Files in FCPX for 2024
-date: 2024-04-29T06:19:28.275Z
-updated: 2024-04-30T06:19:28.275Z
+date: 2024-05-19T10:32:19.032Z
+updated: 2024-05-20T10:32:19.032Z
 tags: 
   - video editing software
   - video editing
@@ -2441,4 +2441,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-11-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 11?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor 100 | Dr.fone</u></a></li>
 </ul></div>
+
 

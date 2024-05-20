@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCPX Audio Editing Essentials A Step-by-Step Guide to L-Cuts and J-Cuts
-date: 2024-04-29T06:18:09.584Z
-updated: 2024-04-30T06:18:09.584Z
+date: 2024-05-19T10:32:13.806Z
+updated: 2024-05-20T10:32:13.806Z
 tags: 
   - video editing software
   - video editing
@@ -2418,4 +2418,5 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-transform-youtube-live-with-these-must-know-secrets/"><u>Updated In 2024, Transform YouTube Live with These Must-Know Secrets</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24-ultra-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24 Ultra Phone FRP Lock</u></a></li>
 </ul></div>
+
 

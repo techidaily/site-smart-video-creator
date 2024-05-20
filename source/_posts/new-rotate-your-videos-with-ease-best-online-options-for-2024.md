@@ -1703,3 +1703,4 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Blaze Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

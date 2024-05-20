@@ -1,7 +1,7 @@
 ---
 title: Updated Shaky Footage? No Problem! FCPX Stabilization Techniques
-date: 2024-04-29T06:23:29.782Z
-updated: 2024-04-30T06:23:29.782Z
+date: 2024-05-19T10:32:34.175Z
+updated: 2024-05-20T10:32:34.175Z
 tags: 
   - video editing software
   - video editing
@@ -2117,4 +2117,5 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-11-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 11 Pro Waze | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Unlocking the Power of Motion Blur in Final Cut Pro X
-date: 2024-04-29T06:27:56.864Z
-updated: 2024-04-30T06:27:56.864Z
+date: 2024-05-19T10:32:51.750Z
+updated: 2024-05-20T10:32:51.750Z
 tags: 
   - video editing software
   - video editing
@@ -2839,4 +2839,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-huawei-p60-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Huawei P60 to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Freeze, Rewind, Repeat FCPX Time Manipulation Mastery
-date: 2024-04-29T06:19:12.562Z
-updated: 2024-04-30T06:19:12.562Z
+date: 2024-05-19T10:32:17.770Z
+updated: 2024-05-20T10:32:17.770Z
 tags: 
   - video editing software
   - video editing
@@ -2360,4 +2360,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-x5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco X5 Pro without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-zte-axon-40-lite-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of ZTE Axon 40 Lite Through Google Earth?</u></a></li>
 </ul></div>
+
 

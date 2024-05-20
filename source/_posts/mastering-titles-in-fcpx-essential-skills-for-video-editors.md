@@ -1,7 +1,7 @@
 ---
 title: Mastering Titles in FCPX Essential Skills for Video Editors
-date: 2024-04-29T06:11:04.261Z
-updated: 2024-04-30T06:11:04.261Z
+date: 2024-05-19T10:31:43.264Z
+updated: 2024-05-20T10:31:43.264Z
 tags: 
   - video editing software
   - video editing
@@ -2884,4 +2884,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
+
 

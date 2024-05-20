@@ -1,7 +1,7 @@
 ---
 title: Updated The Aspect Ratio Handbook A Step-by-Step Guide to Social Media Visuals
-date: 2024-04-29T06:24:21.251Z
-updated: 2024-04-30T06:24:21.251Z
+date: 2024-05-19T10:32:37.382Z
+updated: 2024-05-20T10:32:37.382Z
 tags: 
   - video editing software
   - video editing
@@ -2976,4 +2976,5 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo S18 Pro? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-12-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 12 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
 </ul></div>
+
 

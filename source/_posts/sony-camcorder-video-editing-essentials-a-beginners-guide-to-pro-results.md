@@ -1,7 +1,7 @@
 ---
 title: Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results
-date: 2024-04-29T06:11:28.781Z
-updated: 2024-04-30T06:11:28.781Z
+date: 2024-05-19T10:31:44.727Z
+updated: 2024-05-20T10:31:44.727Z
 tags: 
   - video editing software
   - video editing
@@ -2114,4 +2114,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-google-pixel-8-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Google Pixel 8 Phone | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

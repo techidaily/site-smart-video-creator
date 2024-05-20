@@ -1,7 +1,7 @@
 ---
 title: Camtasia Video Editing Secrets Speeding Up or Slowing Down Footage
-date: 2024-04-29T06:09:56.766Z
-updated: 2024-04-30T06:09:56.766Z
+date: 2024-05-19T10:31:39.418Z
+updated: 2024-05-20T10:31:39.418Z
 tags: 
   - video editing software
   - video editing
@@ -2380,4 +2380,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-itel-p40-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Itel P40.</u></a></li>
 </ul></div>
+
 

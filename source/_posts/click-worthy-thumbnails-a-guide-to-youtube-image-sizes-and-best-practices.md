@@ -1,7 +1,7 @@
 ---
 title: Click-Worthy Thumbnails A Guide to YouTube Image Sizes and Best Practices
-date: 2024-04-29T06:09:28.739Z
-updated: 2024-04-30T06:09:28.739Z
+date: 2024-05-19T10:31:37.151Z
+updated: 2024-05-20T10:31:37.151Z
 tags: 
   - video editing software
   - video editing
@@ -2562,4 +2562,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>New Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Video Ratio Made Simple A Beginners Guide to Resizing
-date: 2024-04-29T06:28:18.274Z
-updated: 2024-04-30T06:28:18.274Z
+date: 2024-05-19T10:32:53.293Z
+updated: 2024-05-20T10:32:53.293Z
 tags: 
   - video editing software
   - video editing
@@ -2893,4 +2893,5 @@ For macOS 10.12 or later
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-12-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme 12 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-edit-videos-for-free-top-online-tools-and-software/"><u>New Edit Videos for Free Top Online Tools and Software</u></a></li>
 </ul></div>
+
 

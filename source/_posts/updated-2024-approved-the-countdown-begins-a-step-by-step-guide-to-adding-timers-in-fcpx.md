@@ -1867,3 +1867,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/from-square-to-widescreen-a-comprehensive-guide-to-facebook-video-aspect-ratios/"><u>From Square to Widescreen A Comprehensive Guide to Facebook Video Aspect Ratios</u></a></li>
 </ul></div>
 
+

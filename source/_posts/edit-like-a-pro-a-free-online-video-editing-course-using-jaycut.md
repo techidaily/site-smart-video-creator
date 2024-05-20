@@ -1,7 +1,7 @@
 ---
 title: Edit Like a Pro A Free Online Video Editing Course Using Jaycut
-date: 2024-04-29T06:10:15.843Z
-updated: 2024-04-30T06:10:15.843Z
+date: 2024-05-19T10:31:40.040Z
+updated: 2024-05-20T10:31:40.040Z
 tags: 
   - video editing software
   - video editing
@@ -1852,4 +1852,5 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-hot-30i-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 30i in Minutes | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-word-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for Word</u></a></li>
 </ul></div>
+
 

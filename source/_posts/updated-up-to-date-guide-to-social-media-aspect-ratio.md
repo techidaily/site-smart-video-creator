@@ -1,7 +1,7 @@
 ---
 title: Updated Up-to-Date Guide to Social Media Aspect Ratio
-date: 2024-04-29T06:14:39.755Z
-updated: 2024-04-30T06:14:39.755Z
+date: 2024-05-19T10:32:00.679Z
+updated: 2024-05-20T10:32:00.679Z
 tags: 
   - video editing software
   - video editing
@@ -2324,4 +2324,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/1713953726064-updated-adding-text-to-your-collage-not-only-makes-it-look-sophisticated-but-also-versatile-so-if-you-too-are-looking-for-ways-to-create-a-collage-text-chec/"><u>Updated Adding Text to Your Collage Not only Makes It Look Sophisticated but Also Versatile. So, if You Too Are Looking for Ways to Create a Collage Text, Check Out Our Article for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-70-lite-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 70 Lite 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Cutting-Edge Editing 40 Final Cut Pro X Keyboard Shortcuts You Need
-date: 2024-04-29T06:16:41.990Z
-updated: 2024-04-30T06:16:41.990Z
+date: 2024-05-19T10:32:08.442Z
+updated: 2024-05-20T10:32:08.442Z
 tags: 
   - video editing software
   - video editing
@@ -1886,4 +1886,5 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-oneplus-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my OnePlus</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 7 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

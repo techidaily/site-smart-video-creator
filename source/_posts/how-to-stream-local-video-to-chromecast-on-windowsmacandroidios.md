@@ -1,7 +1,7 @@
 ---
 title: How to Stream Local Video to Chromecast on Windows/Mac/Android/iOS
-date: 2024-04-29T06:09:33.622Z
-updated: 2024-04-30T06:09:33.622Z
+date: 2024-05-19T10:31:37.377Z
+updated: 2024-05-20T10:31:37.377Z
 tags: 
   - video editing software
   - video editing
@@ -1654,4 +1654,5 @@ Key features
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy F54 5G Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

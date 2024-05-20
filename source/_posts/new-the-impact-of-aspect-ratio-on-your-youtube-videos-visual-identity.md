@@ -1,7 +1,7 @@
 ---
 title: New The Impact of Aspect Ratio on Your YouTube Videos Visual Identity
-date: 2024-04-29T06:24:53.123Z
-updated: 2024-04-30T06:24:53.123Z
+date: 2024-05-19T10:32:40.084Z
+updated: 2024-05-20T10:32:40.084Z
 tags: 
   - video editing software
   - video editing
@@ -2598,4 +2598,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-separate-audio-from-video-in-davinci-resolve-step-by-step/"><u>New In 2024, Separate Audio From Video in DaVinci Resolve Step by Step</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

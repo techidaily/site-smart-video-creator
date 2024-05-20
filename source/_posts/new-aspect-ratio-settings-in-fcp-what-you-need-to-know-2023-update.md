@@ -1,7 +1,7 @@
 ---
 title: New Aspect Ratio Settings in FCP What You Need to Know (2023 Update)
-date: 2024-04-29T06:14:59.303Z
-updated: 2024-04-30T06:14:59.303Z
+date: 2024-05-19T10:32:01.760Z
+updated: 2024-05-20T10:32:01.760Z
 tags: 
   - video editing software
   - video editing
@@ -1713,4 +1713,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-se-2022-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone SE (2022) How to Bypass?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-8-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 8? 7 Mehtods You Cant-Miss</u></a></li>
 </ul></div>
+
 

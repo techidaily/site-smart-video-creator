@@ -2546,3 +2546,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step-for-2024/"><u>Splitting Audio From Video in Sony Vegas Step by Step for 2024</u></a></li>
 </ul></div>
 
+

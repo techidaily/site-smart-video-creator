@@ -1,7 +1,7 @@
 ---
 title: In 2024, Smooth Audio Transitions 2 Methods to Fade In and Out in FCP
-date: 2024-04-29T06:23:42.229Z
-updated: 2024-04-30T06:23:42.229Z
+date: 2024-05-19T10:32:35.037Z
+updated: 2024-05-20T10:32:35.037Z
 tags: 
   - video editing software
   - video editing
@@ -1763,4 +1763,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-zte-nubia-flip-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast ZTE Nubia Flip 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y28-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y28 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

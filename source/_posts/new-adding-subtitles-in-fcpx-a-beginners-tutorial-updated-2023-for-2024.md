@@ -1,7 +1,7 @@
 ---
 title: New Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023) for 2024
-date: 2024-04-29T06:29:52.280Z
-updated: 2024-04-30T06:29:52.280Z
+date: 2024-05-19T10:32:59.644Z
+updated: 2024-05-20T10:32:59.644Z
 tags: 
   - video editing software
   - video editing
@@ -1654,4 +1654,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2V Devices | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-4-methods-to-merge-mp4-and-mp3-for-2024/"><u>Updated 4 Methods to Merge MP4 and MP3 for 2024</u></a></li>
 </ul></div>
+
 

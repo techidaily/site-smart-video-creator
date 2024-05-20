@@ -1,7 +1,7 @@
 ---
 title: New From SD to HD A Guide to Understanding Video Pixel Size
-date: 2024-04-29T06:19:29.960Z
-updated: 2024-04-30T06:19:29.960Z
+date: 2024-05-19T10:32:19.132Z
+updated: 2024-05-20T10:32:19.132Z
 tags: 
   - video editing software
   - video editing
@@ -1962,4 +1962,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y100i Power 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme C33 2023 | Dr.fone</u></a></li>
 </ul></div>
+
 

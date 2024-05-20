@@ -1,7 +1,7 @@
 ---
 title: Updated Unlocking Engagement The Importance of Properly Sized Vertical Videos
-date: 2024-04-29T06:27:55.184Z
-updated: 2024-04-30T06:27:55.184Z
+date: 2024-05-19T10:32:51.619Z
+updated: 2024-05-20T10:32:51.619Z
 tags: 
   - video editing software
   - video editing
@@ -1974,4 +1974,5 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-how-to-create-an-adobe-collage/"><u>New How to Create an Adobe Collage?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-ready-to-record-3-simple-options-for-gamers/"><u>Updated In 2024, Get Ready to Record 3 Simple Options for Gamers</u></a></li>
 </ul></div>
+
 

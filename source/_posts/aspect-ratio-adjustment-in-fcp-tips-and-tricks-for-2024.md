@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Adjustment in FCP Tips and Tricks for 2024
-date: 2024-04-29T06:14:54.868Z
-updated: 2024-04-30T06:14:54.868Z
+date: 2024-05-19T10:32:01.600Z
+updated: 2024-05-20T10:32:01.600Z
 tags: 
   - video editing software
   - video editing
@@ -2977,4 +2977,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus Nord 3 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-gt-neo-5-se-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme GT Neo 5 SE? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
+
 

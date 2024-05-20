@@ -1,7 +1,7 @@
 ---
 title: Aligning Audio and Video Tracks in FCPX 2024 A Step-by-Step Guide
-date: 2024-04-29T06:09:42.238Z
-updated: 2024-04-30T06:09:42.238Z
+date: 2024-05-19T10:31:38.353Z
+updated: 2024-05-20T10:31:38.353Z
 tags: 
   - video editing software
   - video editing
@@ -2490,4 +2490,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-read-on-to-learn-about-opencv-object-tracking-what-it-is-and-how-to-implement-it-in-python-and-opencv/"><u>Updated 2024 Approved Read on to Learn About OpenCV Object Tracking, What It Is, and How to Implement It in Python, and OpenCV</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-adobe-premiere-elements-alternatives/"><u>Updated 2024 Approved Top 10 Adobe Premiere Elements Alternatives</u></a></li>
 </ul></div>
+
 

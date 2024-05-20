@@ -1,7 +1,7 @@
 ---
 title: New Ken Burns Effect Tutorial From Basics to Pro
-date: 2024-04-29T06:20:45.519Z
-updated: 2024-04-30T06:20:45.519Z
+date: 2024-05-19T10:32:24.014Z
+updated: 2024-05-20T10:32:24.014Z
 tags: 
   - video editing software
   - video editing
@@ -2704,4 +2704,5 @@ When selecting the software to use for [editing video](https://tools.techidaily.
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-13-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 13 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-x-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone X - 4 Easy Ways</u></a></li>
 </ul></div>
+
 

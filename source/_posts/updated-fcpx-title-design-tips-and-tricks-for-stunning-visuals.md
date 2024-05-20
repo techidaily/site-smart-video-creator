@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Title Design Tips and Tricks for Stunning Visuals
-date: 2024-04-29T06:13:52.221Z
-updated: 2024-04-30T06:13:52.221Z
+date: 2024-05-19T10:31:55.427Z
+updated: 2024-05-20T10:31:55.427Z
 tags: 
   - video editing software
   - video editing
@@ -1960,4 +1960,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone X? Heres the Best Fixes</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-guide-of-8-photo-collage-apps-for-pc-for-2024/"><u>Updated Best Guide of 8 Photo Collage Apps for PC for 2024</u></a></li>
 </ul></div>
+
 

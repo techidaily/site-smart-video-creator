@@ -1,7 +1,7 @@
 ---
 title: In 2024, Kapwing Tutorial Convert Your Videos to Slow Motion in Minutes
-date: 2024-04-29T06:20:44.257Z
-updated: 2024-04-30T06:20:44.257Z
+date: 2024-05-19T10:32:23.904Z
+updated: 2024-05-20T10:32:23.904Z
 tags: 
   - video editing software
   - video editing
@@ -2255,4 +2255,5 @@ This list should help you find the best video editor app for mobile. Contact our
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

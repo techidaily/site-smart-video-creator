@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos
-date: 2024-04-29T06:10:28.844Z
-updated: 2024-04-30T06:10:28.844Z
+date: 2024-05-19T10:31:40.857Z
+updated: 2024-05-20T10:31:40.857Z
 tags: 
   - video editing software
   - video editing
@@ -1446,4 +1446,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-whats-rigging-animation-and-why-it-matters/"><u>Updated 2024 Approved Whats Rigging Animation and Why It Matters</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From SD to HD A Guide to Understanding Video Pixel Size
-date: 2024-04-29T06:19:29.749Z
-updated: 2024-04-30T06:19:29.749Z
+date: 2024-05-19T10:32:19.126Z
+updated: 2024-05-20T10:32:19.126Z
 tags: 
   - video editing software
   - video editing
@@ -1875,4 +1875,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/why-is-my-vivo-y77t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y77t Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100i-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100i Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

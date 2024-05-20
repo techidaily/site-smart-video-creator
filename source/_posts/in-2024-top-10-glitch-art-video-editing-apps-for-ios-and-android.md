@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Glitch Art Video Editing Apps for iOS and Android
-date: 2024-04-29T06:14:28.730Z
-updated: 2024-04-30T06:14:28.730Z
+date: 2024-05-19T10:31:59.964Z
+updated: 2024-05-20T10:31:59.964Z
 tags: 
   - video editing software
   - video editing
@@ -2334,4 +2334,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-top-adobe-premiere-plugins/"><u>New 2024 Approved Take Your Videos to the Next Level Top Adobe Premiere Plugins</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-12-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 12 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 

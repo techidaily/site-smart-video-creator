@@ -1,7 +1,7 @@
 ---
 title: Blur Like a Pro Mastering Motion Blur Effects in Final Cut Pro
-date: 2024-04-29T06:09:54.050Z
-updated: 2024-04-30T06:09:54.050Z
+date: 2024-05-19T10:31:39.361Z
+updated: 2024-05-20T10:31:39.361Z
 tags: 
   - video editing software
   - video editing
@@ -1837,4 +1837,5 @@ For macOS 10.12 or later
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-12-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus 12 Android SIM Unlock APK</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>In 2024, Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
 </ul></div>
+
 

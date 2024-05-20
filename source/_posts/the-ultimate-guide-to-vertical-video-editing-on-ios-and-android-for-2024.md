@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Vertical Video Editing on iOS and Android for 2024
-date: 2024-04-29T06:14:24.309Z
-updated: 2024-04-30T06:14:24.309Z
+date: 2024-05-19T10:31:59.596Z
+updated: 2024-05-20T10:31:59.596Z
 tags: 
   - video editing software
   - video editing
@@ -2180,4 +2180,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/new-windows-video-editing-made-easy-a-step-by-step-guide/"><u>New Windows Video Editing Made Easy A Step-by-Step Guide</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

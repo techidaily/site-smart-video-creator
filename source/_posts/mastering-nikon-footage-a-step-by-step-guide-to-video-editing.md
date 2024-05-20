@@ -1,7 +1,7 @@
 ---
 title: Mastering Nikon Footage A Step-by-Step Guide to Video Editing
-date: 2024-04-29T06:09:34.473Z
-updated: 2024-04-30T06:09:34.473Z
+date: 2024-05-19T10:31:37.422Z
+updated: 2024-05-20T10:31:37.422Z
 tags: 
   - video editing software
   - video editing
@@ -2985,4 +2985,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-htc-u23-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset HTC U23 Pro Without Volume Buttons | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-15-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 15 Pro Passcode not Working?</u></a></li>
 </ul></div>
+
 

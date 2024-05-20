@@ -1820,3 +1820,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-phone-aspect-ratio-vertical-definition-types-and-tips/"><u>Updated Phone Aspect Ratio Vertical Definition, Types and Tips</u></a></li>
 </ul></div>
 
+

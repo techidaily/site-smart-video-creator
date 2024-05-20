@@ -2111,3 +2111,4 @@ Filmora unleashed some new features for advanced editing capabilities.
 <li><a href="https://ai-video-editing.techidaily.com/updated-what-is-lumetri-color-and-how-do-you-use-it-in-adobe-after-effects-find-out-the-numerous-functions-of-lumetri-panel-and-ways-to-apply-them-to-your-v/"><u>Updated What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video</u></a></li>
 </ul></div>
 
+

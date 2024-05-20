@@ -1,7 +1,7 @@
 ---
 title: Updated Cut Like a Pro L-Cuts and J-Cuts in Final Cut Pro X
-date: 2024-04-29T06:16:35.950Z
-updated: 2024-04-30T06:16:35.950Z
+date: 2024-05-19T10:32:08.178Z
+updated: 2024-05-20T10:32:08.178Z
 tags: 
   - video editing software
   - video editing
@@ -757,4 +757,5 @@ Follow @Shanoon Cox
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone SE? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

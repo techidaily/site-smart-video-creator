@@ -1788,3 +1788,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-the-most-efficient-ways-to-manage-your-timeline/"><u>In 2024, The Most Efficient Ways to Manage Your Timeline</u></a></li>
 </ul></div>
 
+

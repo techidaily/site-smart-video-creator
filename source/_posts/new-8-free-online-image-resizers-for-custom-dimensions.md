@@ -1,7 +1,7 @@
 ---
 title: New 8 Free Online Image Resizers for Custom Dimensions
-date: 2024-04-29T06:13:05.909Z
-updated: 2024-04-30T06:13:05.909Z
+date: 2024-05-19T10:31:51.135Z
+updated: 2024-05-20T10:31:51.135Z
 tags: 
   - video editing software
   - video editing
@@ -1997,4 +1997,5 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/10-2d3d-animation-tips-and-tricks-to-bring-new-ideas-to-you/"><u>10 2D/3D Animation Tips & Tricks to Bring New Ideas to You</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-smart-7-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Smart 7</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Refine Image Size and Shape for 2024
-date: 2024-04-29T06:22:46.651Z
-updated: 2024-04-30T06:22:46.651Z
+date: 2024-05-19T10:32:31.566Z
+updated: 2024-05-20T10:32:31.566Z
 tags: 
   - video editing software
   - video editing
@@ -2401,4 +2401,5 @@ Follow @Ollie Mattison
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-6-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 6?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-k70-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi K70 to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Caption Your Video in FCPX A Quick and Easy Guide
-date: 2024-04-29T06:15:55.167Z
-updated: 2024-04-30T06:15:55.167Z
+date: 2024-05-19T10:32:05.458Z
+updated: 2024-05-20T10:32:05.458Z
 tags: 
   - video editing software
   - video editing
@@ -2052,4 +2052,5 @@ Thus, this article has taught you about the Camtasia video speed up technique us
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

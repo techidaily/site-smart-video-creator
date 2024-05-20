@@ -1,7 +1,7 @@
 ---
 title: The Art of Transcribing Audio to Text
-date: 2024-04-29T06:11:36.110Z
-updated: 2024-04-30T06:11:36.110Z
+date: 2024-05-19T10:31:44.936Z
+updated: 2024-05-20T10:31:44.936Z
 tags: 
   - video editing software
   - video editing
@@ -2976,4 +2976,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-30-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 30 5G to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

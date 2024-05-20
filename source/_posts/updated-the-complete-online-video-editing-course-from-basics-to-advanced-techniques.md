@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Online Video Editing Course From Basics to Advanced Techniques
-date: 2024-04-29T06:24:46.573Z
-updated: 2024-04-30T06:24:46.573Z
+date: 2024-05-19T10:32:39.325Z
+updated: 2024-05-20T10:32:39.325Z
 tags: 
   - video editing software
   - video editing
@@ -1625,4 +1625,5 @@ Create a thumbnail that speaks about the content of your video. If the thumbnail
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-x-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone X Smoothly</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-s23-fe-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy S23 FE Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New The Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-04-29T06:24:53.548Z
-updated: 2024-04-30T06:24:53.548Z
+date: 2024-05-19T10:32:40.094Z
+updated: 2024-05-20T10:32:40.094Z
 tags: 
   - video editing software
   - video editing
@@ -2382,4 +2382,5 @@ Follow @Benjamin Arango
 <li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Without a Passcode | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-a78-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of A78 5G on Windows</u></a></li>
 </ul></div>
+
 

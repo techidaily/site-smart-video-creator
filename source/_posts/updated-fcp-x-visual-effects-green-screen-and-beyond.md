@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Visual Effects Green Screen and Beyond
-date: 2024-04-29T06:18:09.169Z
-updated: 2024-04-30T06:18:09.169Z
+date: 2024-05-19T10:32:13.795Z
+updated: 2024-05-20T10:32:13.795Z
 tags: 
   - video editing software
   - video editing
@@ -2312,4 +2312,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-x9a-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor X9a Phones? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

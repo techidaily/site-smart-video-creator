@@ -1,7 +1,7 @@
 ---
 title: In 2024, In This Article, I Want to Show You How to Apply an Effect to a Clip, Modify that Effect, Temporarily Turn that Effect on or Off, or Delete It Entirely
-date: 2024-04-29T06:20:33.493Z
-updated: 2024-04-30T06:20:33.493Z
+date: 2024-05-19T10:32:23.084Z
+updated: 2024-05-20T10:32:23.084Z
 tags: 
   - video editing software
   - video editing
@@ -1676,4 +1676,5 @@ Follow @Benjamin Arango
 <li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/free-luts-for-obs-how-to-use-them/"><u>Free LUTs for OBS How to Use Them?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Aspect Ratios in Final Cut Pro A Beginners Guide
-date: 2024-04-29T06:21:26.216Z
-updated: 2024-04-30T06:21:26.216Z
+date: 2024-05-19T10:32:26.307Z
+updated: 2024-05-20T10:32:26.307Z
 tags: 
   - video editing software
   - video editing
@@ -1630,4 +1630,5 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-yuva-3-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lava Yuva 3 Pro Phones</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-c67-4g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme C67 4G</u></a></li>
 </ul></div>
+
 

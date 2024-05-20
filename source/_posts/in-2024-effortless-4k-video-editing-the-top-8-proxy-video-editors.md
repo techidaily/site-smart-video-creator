@@ -1,7 +1,7 @@
 ---
 title: In 2024, Effortless 4K Video Editing The Top 8 Proxy Video Editors
-date: 2024-04-29T06:17:34.249Z
-updated: 2024-04-30T06:17:34.249Z
+date: 2024-05-19T10:32:11.188Z
+updated: 2024-05-20T10:32:11.188Z
 tags: 
   - video editing software
   - video editing
@@ -1499,4 +1499,5 @@ Well, there you have it – the best **basic video editors** for beginners. Vide
 <li><a href="https://review-topics.techidaily.com/recover-iphone-13-mini-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 mini Data From iOS iTunes | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
+
 

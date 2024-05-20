@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Visual Victory A Guide to Perfect Social Media Aspect Ratios
-date: 2024-04-29T06:28:31.293Z
-updated: 2024-04-30T06:28:31.293Z
+date: 2024-05-19T10:32:54.292Z
+updated: 2024-05-20T10:32:54.292Z
 tags: 
   - video editing software
   - video editing
@@ -3368,4 +3368,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video.techidaily.com/new-7-best-real-time-video-translation-apps/"><u>new 7 Best Real Time Video Translation Apps</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

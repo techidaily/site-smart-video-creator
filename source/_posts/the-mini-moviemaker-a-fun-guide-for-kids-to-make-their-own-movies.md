@@ -1,7 +1,7 @@
 ---
 title: The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies
-date: 2024-04-29T06:11:41.745Z
-updated: 2024-04-30T06:11:41.745Z
+date: 2024-05-19T10:31:45.302Z
+updated: 2024-05-20T10:31:45.302Z
 tags: 
   - video editing software
   - video editing
@@ -1425,4 +1425,5 @@ Do magic with Filmora. Try it now.
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-smart-8-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 8 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y100-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y100 5G to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

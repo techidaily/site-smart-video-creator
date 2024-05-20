@@ -2629,3 +2629,4 @@ Follow @Richard Bennett
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-handy-tips-from-adobe-animate-rigging-tutorial-for-all-learners/"><u>New 2024 Approved Handy Tips From Adobe Animate Rigging Tutorial for All Learners</u></a></li>
 </ul></div>
 
+

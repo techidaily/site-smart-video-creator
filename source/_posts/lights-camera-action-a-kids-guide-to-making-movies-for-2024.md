@@ -1,7 +1,7 @@
 ---
 title: Lights, Camera, Action! A Kids Guide to Making Movies for 2024
-date: 2024-04-29T06:20:51.693Z
-updated: 2024-04-30T06:20:51.693Z
+date: 2024-05-19T10:32:24.813Z
+updated: 2024-05-20T10:32:24.813Z
 tags: 
   - video editing software
   - video editing
@@ -1579,4 +1579,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/ways-to-convert-speech-to-text-for-2024/"><u>Ways to Convert Speech to Text for 2024</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

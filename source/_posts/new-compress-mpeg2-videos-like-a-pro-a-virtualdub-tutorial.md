@@ -1,7 +1,7 @@
 ---
 title: New Compress MPEG2 Videos Like a Pro A VirtualDub Tutorial
-date: 2024-04-29T06:16:06.152Z
-updated: 2024-04-30T06:16:06.152Z
+date: 2024-05-19T10:32:06.394Z
+updated: 2024-05-20T10:32:06.394Z
 tags: 
   - video editing software
   - video editing
@@ -3203,4 +3203,5 @@ Follow @Richard Bennett
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola G54 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi 13C Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Get Retro with FCP Easy VHS Effects for Your Videos
-date: 2024-04-29T06:13:59.521Z
-updated: 2024-04-30T06:13:59.521Z
+date: 2024-05-19T10:31:56.282Z
+updated: 2024-05-20T10:31:56.282Z
 tags: 
   - video editing software
   - video editing
@@ -1899,4 +1899,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/1713942959197-updated-what-you-should-know-about-speech-to-text-technology/"><u>Updated What You Should Know About Speech-to-Text Technology</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-a60-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel A60 Phone</u></a></li>
 </ul></div>
+
 

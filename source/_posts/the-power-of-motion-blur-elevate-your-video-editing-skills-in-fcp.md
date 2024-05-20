@@ -1,7 +1,7 @@
 ---
 title: The Power of Motion Blur Elevate Your Video Editing Skills in FCP
-date: 2024-04-29T06:11:42.627Z
-updated: 2024-04-30T06:11:42.627Z
+date: 2024-05-19T10:31:45.372Z
+updated: 2024-05-20T10:31:45.372Z
 tags: 
   - video editing software
   - video editing
@@ -2006,4 +2006,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/macs-finest-8-exceptional-movie-making-tools/"><u>Macs Finest 8 Exceptional Movie Making Tools</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-magic-6-lite-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Magic 6 Lite</u></a></li>
 </ul></div>
+
 

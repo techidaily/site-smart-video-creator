@@ -1,7 +1,7 @@
 ---
 title: Updated Lights, Camera, Action! A Kid-Friendly Guide to Film Production
-date: 2024-04-29T06:20:51.465Z
-updated: 2024-04-30T06:20:51.465Z
+date: 2024-05-19T10:32:24.809Z
+updated: 2024-05-20T10:32:24.809Z
 tags: 
   - video editing software
   - video editing
@@ -3122,4 +3122,5 @@ Filmora also provides more advanced features for video editing like rotating, cr
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Blaze Curve 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-a58-4g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo A58 4G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

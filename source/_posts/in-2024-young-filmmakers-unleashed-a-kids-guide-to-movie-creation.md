@@ -1,7 +1,7 @@
 ---
 title: In 2024, Young Filmmakers Unleashed A Kids Guide to Movie Creation
-date: 2024-04-29T06:14:45.069Z
-updated: 2024-04-30T06:14:45.069Z
+date: 2024-05-19T10:32:01.071Z
+updated: 2024-05-20T10:32:01.071Z
 tags: 
   - video editing software
   - video editing
@@ -1853,4 +1853,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-fun-and-easy-masking-tricks-wondershare-filmora-tutorial/"><u>Updated In 2024, Fun & Easy Masking Tricks Wondershare Filmora Tutorial</u></a></li>
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

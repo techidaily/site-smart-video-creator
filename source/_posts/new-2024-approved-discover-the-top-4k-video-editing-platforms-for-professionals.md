@@ -2161,3 +2161,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effec/"><u>2024 Approved Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
 
+

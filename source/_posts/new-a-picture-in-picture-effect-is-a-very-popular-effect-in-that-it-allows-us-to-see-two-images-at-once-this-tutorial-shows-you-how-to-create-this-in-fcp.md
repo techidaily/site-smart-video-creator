@@ -1,7 +1,7 @@
 ---
 title: New A Picture-in-Picture Effect Is a Very Popular Effect in that It Allows Us to See Two Images at Once. This Tutorial Shows You How to Create This in FCP
-date: 2024-04-29T06:13:08.797Z
-updated: 2024-04-30T06:13:08.797Z
+date: 2024-05-19T10:31:51.262Z
+updated: 2024-05-20T10:31:51.262Z
 tags: 
   - video editing software
   - video editing
@@ -2105,4 +2105,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/updated-split-audio-from-a-video-in-adobe-premiere-pro-step-by-step/"><u>Updated Split Audio From a Video in Adobe Premiere Pro Step by Step</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-m14-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy M14 4G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

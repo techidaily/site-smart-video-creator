@@ -1,7 +1,7 @@
 ---
 title: HD Video Essentials Understanding Pixel Size and Aspect Ratio
-date: 2024-04-29T06:09:32.554Z
-updated: 2024-04-30T06:09:32.554Z
+date: 2024-05-19T10:31:37.332Z
+updated: 2024-05-20T10:31:37.332Z
 tags: 
   - video editing software
   - video editing
@@ -2629,4 +2629,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nubia-z50s-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nubia Z50S Pro to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-g42-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia G42 5G to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

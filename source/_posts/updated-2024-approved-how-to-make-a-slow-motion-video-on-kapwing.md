@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Make a Slow-Motion Video on Kapwing
-date: 2024-04-29T06:30:09.191Z
-updated: 2024-04-30T06:30:09.191Z
+date: 2024-05-19T10:33:01.638Z
+updated: 2024-05-20T10:33:01.638Z
 tags: 
   - video editing software
   - video editing
@@ -1582,4 +1582,5 @@ For macOS 10.12 or later
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-se-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone SE</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 8T 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

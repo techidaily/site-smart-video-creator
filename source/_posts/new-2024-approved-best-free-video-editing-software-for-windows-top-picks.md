@@ -2248,3 +2248,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-15-camera-shake-preset-for-premiere-pro-to-add-camera-shake-with-simple-keyframes-each-preset-is-editable-with-easy-steps-make-your-video-shoc/"><u>2024 Approved 15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects</u></a></li>
 </ul></div>
 
+

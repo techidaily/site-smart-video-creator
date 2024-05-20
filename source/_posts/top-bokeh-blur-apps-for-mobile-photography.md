@@ -1,7 +1,7 @@
 ---
 title: Top Bokeh Blur Apps for Mobile Photography
-date: 2024-04-29T06:12:01.694Z
-updated: 2024-04-30T06:12:01.694Z
+date: 2024-05-19T10:31:46.514Z
+updated: 2024-05-20T10:31:46.514Z
 tags: 
   - video editing software
   - video editing
@@ -2386,4 +2386,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-invites-t/"><u>Updated Bring Your Invites T</u></a></li>
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-lava-agni-2-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Lava Agni 2 5G.</u></a></li>
 </ul></div>
+
 

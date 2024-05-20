@@ -1,7 +1,7 @@
 ---
 title: Audio Editing Essentials 2 Ways to Fade In and Out in FCP
-date: 2024-04-29T06:09:43.920Z
-updated: 2024-04-30T06:09:43.920Z
+date: 2024-05-19T10:31:38.506Z
+updated: 2024-05-20T10:31:38.506Z
 tags: 
   - video editing software
   - video editing
@@ -1608,4 +1608,5 @@ Follow @Shanoon Cox
 <li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-google-pixel-7a-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Google Pixel 7a? Try These Fixes</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

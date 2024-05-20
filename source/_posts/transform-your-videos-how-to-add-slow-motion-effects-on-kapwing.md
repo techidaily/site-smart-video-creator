@@ -1,7 +1,7 @@
 ---
 title: Transform Your Videos How to Add Slow Motion Effects on Kapwing
-date: 2024-04-29T06:12:09.918Z
-updated: 2024-04-30T06:12:09.918Z
+date: 2024-05-19T10:31:47.049Z
+updated: 2024-05-20T10:31:47.049Z
 tags: 
   - video editing software
   - video editing
@@ -1595,4 +1595,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-13-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 13 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia G42 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: FCP X Pro Tutorials Creating Realistic Green Screen Effects
-date: 2024-04-29T06:10:24.381Z
-updated: 2024-04-30T06:10:24.381Z
+date: 2024-05-19T10:31:40.532Z
+updated: 2024-05-20T10:31:40.532Z
 tags: 
   - video editing software
   - video editing
@@ -2439,4 +2439,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-infinix-hot-40i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Infinix Hot 40i</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-customized-transitions-to-obs/"><u>Updated In 2024, How to Add Customized Transitions to OBS</u></a></li>
 </ul></div>
+
 

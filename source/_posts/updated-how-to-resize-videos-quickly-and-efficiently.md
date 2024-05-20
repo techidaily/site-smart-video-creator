@@ -1,7 +1,7 @@
 ---
 title: Updated How to Resize Videos Quickly and Efficiently
-date: 2024-04-29T06:20:25.613Z
-updated: 2024-04-30T06:20:25.613Z
+date: 2024-05-19T10:32:22.480Z
+updated: 2024-05-20T10:32:22.480Z
 tags: 
   - video editing software
   - video editing
@@ -2380,4 +2380,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/xiaomi-14-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi 14 can't play MP4 video files</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix FRP Bypass</u></a></li>
 </ul></div>
+
 

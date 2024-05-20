@@ -2064,3 +2064,4 @@ Follow @Larry Jordan
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-e13-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto E13 to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

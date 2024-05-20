@@ -1,7 +1,7 @@
 ---
 title: New Master FCP X Effects in Minutes A 3-Step Guide
-date: 2024-04-29T06:13:26.402Z
-updated: 2024-04-30T06:13:26.402Z
+date: 2024-05-19T10:31:53.433Z
+updated: 2024-05-20T10:31:53.433Z
 tags: 
   - video editing software
   - video editing
@@ -1866,4 +1866,5 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lava-blaze-pro-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lava Blaze Pro 5G Phone Hassle-Free</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Live Movie Maker Tutorial Adding a Slow Motion Effect to Your Videos
-date: 2024-04-29T06:12:31.982Z
-updated: 2024-04-30T06:12:31.982Z
+date: 2024-05-19T10:31:48.705Z
+updated: 2024-05-20T10:31:48.705Z
 tags: 
   - video editing software
   - video editing
@@ -2253,4 +2253,5 @@ Follow @Benjamin Arango
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-10-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 10 5GMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-100-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor 100</u></a></li>
 </ul></div>
+
 

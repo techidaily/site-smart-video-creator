@@ -2333,3 +2333,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tiktok-visuals-101-understanding-aspect-ratios-and-dimensions-for-maximum-impact/"><u>New 2024 Approved TikTok Visuals 101 Understanding Aspect Ratios and Dimensions for Maximum Impact</u></a></li>
 </ul></div>
 
+

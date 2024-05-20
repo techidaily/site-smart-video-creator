@@ -1,7 +1,7 @@
 ---
 title: Updated Crop, Resize, and Rotate Mastering Video Shape Editing
-date: 2024-04-29T06:16:30.363Z
-updated: 2024-04-30T06:16:30.363Z
+date: 2024-05-19T10:32:07.980Z
+updated: 2024-05-20T10:32:07.980Z
 tags: 
   - video editing software
   - video editing
@@ -1986,4 +1986,5 @@ Follow @Benjamin Arango
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-zte-axon-40-lite-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on ZTE Axon 40 Lite Devices</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78t to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

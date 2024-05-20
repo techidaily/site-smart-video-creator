@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Young Cinematographer Empowering Kids to Tell Their Stories
-date: 2024-04-29T06:26:06.316Z
-updated: 2024-04-30T06:26:06.316Z
+date: 2024-05-19T10:32:43.934Z
+updated: 2024-05-20T10:32:43.934Z
 tags: 
   - video editing software
   - video editing
@@ -4385,4 +4385,5 @@ Although Windows 11 is new and offers several advanced features, at the time of 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 8 Plus</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -2685,3 +2685,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-animate-pictures-in-canva/"><u>New 2024 Approved Animate Pictures in Canva</u></a></li>
 </ul></div>
 
+

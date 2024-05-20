@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts
-date: 2024-04-29T06:18:10.629Z
-updated: 2024-04-30T06:18:10.629Z
+date: 2024-05-19T10:32:13.879Z
+updated: 2024-05-20T10:32:13.879Z
 tags: 
   - video editing software
   - video editing
@@ -2025,4 +2025,5 @@ As previously said, these are the best **video invitation maker app** available.
 <li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo X100 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

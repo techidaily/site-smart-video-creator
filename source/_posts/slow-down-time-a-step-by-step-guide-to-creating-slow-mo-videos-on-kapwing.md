@@ -1,7 +1,7 @@
 ---
 title: Slow Down Time A Step-by-Step Guide to Creating Slow-Mo Videos on Kapwing
-date: 2024-04-29T06:09:36.342Z
-updated: 2024-04-30T06:09:36.342Z
+date: 2024-05-19T10:31:37.572Z
+updated: 2024-05-20T10:31:37.572Z
 tags: 
   - video editing software
   - video editing
@@ -3050,4 +3050,5 @@ Although Windows 11 is new and offers several advanced features, at the time of 
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-s24-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy S24 Location | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-confused-about-deciding-the-next-destination-for-your-trip-this-article-features-some-of-the-best-vloggers-you-can-find-for-gaining-inspir/"><u>New 2024 Approved Confused About Deciding the Next Destination for Your Trip? This Article Features some of the Best Vloggers You Can Find for Gaining Inspiration for Traveling</u></a></li>
 </ul></div>
+
 

@@ -2731,3 +2731,4 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://ai-editing-video.techidaily.com/updated-follow-a-few-simple-steps-and-learn-how-to-create-a-professional-glowing-edge-effect-to-your-videos-in-filmora/"><u>Updated Follow a Few Simple Steps and Learn How to Create a Professional Glowing Edge Effect to Your Videos in Filmora</u></a></li>
 </ul></div>
 
+

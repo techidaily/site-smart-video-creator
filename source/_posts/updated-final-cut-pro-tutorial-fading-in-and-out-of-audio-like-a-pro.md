@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro
-date: 2024-04-29T06:18:30.616Z
-updated: 2024-04-30T06:18:30.616Z
+date: 2024-05-19T10:32:15.229Z
+updated: 2024-05-20T10:32:15.229Z
 tags: 
   - video editing software
   - video editing
@@ -1509,4 +1509,5 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-poco-c51-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 11 Pro 5G</u></a></li>
 </ul></div>
+
 

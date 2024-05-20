@@ -1,7 +1,7 @@
 ---
 title: The Science of Screen Resolutions Calculating Pixel Ratios Like a Pro
-date: 2024-04-29T06:11:43.282Z
-updated: 2024-04-30T06:11:43.282Z
+date: 2024-05-19T10:31:45.394Z
+updated: 2024-05-20T10:31:45.394Z
 tags: 
   - video editing software
   - video editing
@@ -2642,4 +2642,5 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-x-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone X With 7 Methods | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

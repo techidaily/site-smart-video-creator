@@ -1,7 +1,7 @@
 ---
 title: In 2024, Wax Video Editor A Comprehensive Guide to Editing Like a Pro
-date: 2024-04-29T06:28:40.587Z
-updated: 2024-04-30T06:28:40.587Z
+date: 2024-05-19T10:32:55.398Z
+updated: 2024-05-20T10:32:55.398Z
 tags: 
   - video editing software
   - video editing
@@ -1162,4 +1162,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-se-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone SE After Forgetting the Passcode?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-learn-top-best-free-luts-for-premiere-pro/"><u>Updated 2024 Approved Learn Top Best Free LUTs For Premiere Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Perfecting Your Facebook Video Cover Tips for Ideal Dimensions
-date: 2024-04-29T06:11:14.020Z
-updated: 2024-04-30T06:11:14.020Z
+date: 2024-05-19T10:31:43.819Z
+updated: 2024-05-20T10:31:43.819Z
 tags: 
   - video editing software
   - video editing
@@ -1927,4 +1927,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-topics.techidaily.com/updated-ai-portrait-generator-getting-closer-to-the-artistic-marvels-for-2024/"><u>Updated AI Portrait Generator Getting Closer to the Artistic Marvels for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-12-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme 12 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

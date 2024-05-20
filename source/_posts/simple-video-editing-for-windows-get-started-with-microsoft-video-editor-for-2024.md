@@ -1,7 +1,7 @@
 ---
 title: Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024
-date: 2024-04-29T06:23:33.618Z
-updated: 2024-04-30T06:23:33.618Z
+date: 2024-05-19T10:32:34.332Z
+updated: 2024-05-20T10:32:34.332Z
 tags: 
   - video editing software
   - video editing
@@ -1645,4 +1645,5 @@ Follow @Liza Brown
 <li><a href="https://ai-voice-clone.techidaily.com/updated-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with IMEI Code?</u></a></li>
 </ul></div>
+
 

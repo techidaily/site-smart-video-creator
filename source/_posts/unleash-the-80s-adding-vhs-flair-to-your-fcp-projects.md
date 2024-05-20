@@ -1,7 +1,7 @@
 ---
 title: Unleash the 80S Adding VHS Flair to Your FCP Projects
-date: 2024-04-29T06:12:13.990Z
-updated: 2024-04-30T06:12:13.990Z
+date: 2024-05-19T10:31:47.304Z
+updated: 2024-05-20T10:31:47.304Z
 tags: 
   - video editing software
   - video editing
@@ -2205,4 +2205,5 @@ Follow @Benjamin Arango
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-s23-fe-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy S23 FE? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-se-2020-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone SE (2020) With 7 Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

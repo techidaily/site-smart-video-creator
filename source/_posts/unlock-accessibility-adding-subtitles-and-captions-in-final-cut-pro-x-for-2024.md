@@ -1,7 +1,7 @@
 ---
 title: Unlock Accessibility Adding Subtitles and Captions in Final Cut Pro X for 2024
-date: 2024-04-29T06:27:39.188Z
-updated: 2024-04-30T06:27:39.188Z
+date: 2024-05-19T10:32:50.907Z
+updated: 2024-05-20T10:32:50.907Z
 tags: 
   - video editing software
   - video editing
@@ -3006,4 +3006,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/new-applying-the-effect-of-camera-shake-in-video-creation/"><u>New Applying the Effect of Camera Shake in Video Creation</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 13 mini? | Dr.fone</u></a></li>
 </ul></div>
+
 

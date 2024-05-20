@@ -1,7 +1,7 @@
 ---
 title: How to Do Jump Cuts Like a Pro in Final Cut Pro X for 2024
-date: 2024-04-29T06:14:01.678Z
-updated: 2024-04-30T06:14:01.678Z
+date: 2024-05-19T10:31:56.573Z
+updated: 2024-05-20T10:31:56.573Z
 tags: 
   - video editing software
   - video editing
@@ -3940,4 +3940,5 @@ Follow @Shanoon Cox
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia 105 Classic? | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>updated In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Smooth Transitions Mastering L-Cuts and J-Cuts in Final Cut Pro X
-date: 2024-04-29T06:23:43.899Z
-updated: 2024-04-30T06:23:43.899Z
+date: 2024-05-19T10:32:35.114Z
+updated: 2024-05-20T10:32:35.114Z
 tags: 
   - video editing software
   - video editing
@@ -2441,4 +2441,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a78frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A78FRP Lock</u></a></li>
 </ul></div>
+
 

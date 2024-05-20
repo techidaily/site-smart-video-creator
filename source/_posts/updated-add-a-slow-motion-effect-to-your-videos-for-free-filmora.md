@@ -1,7 +1,7 @@
 ---
 title: Updated Add a Slow Motion Effect to Your Videos for Free-Filmora
-date: 2024-04-29T06:13:12.907Z
-updated: 2024-04-30T06:13:12.907Z
+date: 2024-05-19T10:31:51.600Z
+updated: 2024-05-20T10:31:51.600Z
 tags: 
   - video editing software
   - video editing
@@ -2462,4 +2462,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-x6-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco X6 Black and White | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>New Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Size Matters Mastering Facebook Video Cover Dimensions for Maximum Impact
-date: 2024-04-29T06:23:35.936Z
-updated: 2024-04-30T06:23:35.936Z
+date: 2024-05-19T10:32:34.877Z
+updated: 2024-05-20T10:32:34.877Z
 tags: 
   - video editing software
   - video editing
@@ -1864,4 +1864,5 @@ Do motion blur effect easily with Filmora!
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-find-n3-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo Find N3 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-10-v-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 10 V to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

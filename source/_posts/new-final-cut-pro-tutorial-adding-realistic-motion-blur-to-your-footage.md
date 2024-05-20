@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Tutorial Adding Realistic Motion Blur to Your Footage
-date: 2024-04-29T06:18:30.202Z
-updated: 2024-04-30T06:18:30.202Z
+date: 2024-05-19T10:32:15.217Z
+updated: 2024-05-20T10:32:15.217Z
 tags: 
   - video editing software
   - video editing
@@ -2158,4 +2158,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12T Pro</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

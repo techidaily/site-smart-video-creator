@@ -1,7 +1,7 @@
 ---
 title: New Bokeh Perfection The Top iOS and Android Apps for Creative Photography
-date: 2024-04-29T06:15:42.357Z
-updated: 2024-04-30T06:15:42.357Z
+date: 2024-05-19T10:32:04.993Z
+updated: 2024-05-20T10:32:04.993Z
 tags: 
   - video editing software
   - video editing
@@ -2191,4 +2191,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+
 

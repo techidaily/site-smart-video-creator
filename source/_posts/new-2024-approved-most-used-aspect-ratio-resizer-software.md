@@ -3160,3 +3160,4 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/why-your-infinix-smart-8-hd-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Smart 8 HD Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

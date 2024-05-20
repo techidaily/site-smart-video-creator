@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Free Online Tools to Blur Photo Backgrounds
-date: 2024-04-29T06:11:53.872Z
-updated: 2024-04-30T06:11:53.872Z
+date: 2024-05-19T10:31:46.068Z
+updated: 2024-05-20T10:31:46.068Z
 tags: 
   - video editing software
   - video editing
@@ -2155,4 +2155,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/how-to-fast-forward-or-slow-down-videos-in-camtasia/"><u>How to Fast Forward or Slow Down Videos in Camtasia</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-vivo-y55s-5g-2023-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y55s 5G (2023)? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-04-29T06:15:01.000Z
-updated: 2024-04-30T06:15:01.000Z
+date: 2024-05-19T10:32:01.832Z
+updated: 2024-05-20T10:32:01.832Z
 tags: 
   - video editing software
   - video editing
@@ -2025,4 +2025,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y36i | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-f15-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy F15 5G Device</u></a></li>
 </ul></div>
+
 

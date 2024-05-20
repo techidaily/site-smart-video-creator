@@ -1,7 +1,7 @@
 ---
 title: From Zero to Hero Creating a Countdown Timer in FCPX
-date: 2024-04-29T06:10:42.526Z
-updated: 2024-04-30T06:10:42.526Z
+date: 2024-05-19T10:31:41.792Z
+updated: 2024-05-20T10:31:41.792Z
 tags: 
   - video editing software
   - video editing
@@ -2398,4 +2398,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y17s? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-odt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .odt file</u></a></li>
 </ul></div>
+
 

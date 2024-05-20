@@ -1,7 +1,7 @@
 ---
 title: New Work Smarter, Not Harder 20 Adobe Premiere Shortcuts for Editors
-date: 2024-04-29T06:29:02.441Z
-updated: 2024-04-30T06:29:02.441Z
+date: 2024-05-19T10:32:56.284Z
+updated: 2024-05-20T10:32:56.284Z
 tags: 
   - video editing software
   - video editing
@@ -2339,4 +2339,5 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 12 4G</u></a></li>
 </ul></div>
+
 

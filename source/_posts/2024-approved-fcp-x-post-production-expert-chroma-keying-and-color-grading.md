@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCP X Post-Production Expert Chroma Keying and Color Grading
-date: 2024-04-29T06:18:08.749Z
-updated: 2024-04-30T06:18:08.749Z
+date: 2024-05-19T10:32:13.755Z
+updated: 2024-05-20T10:32:13.755Z
 tags: 
   - video editing software
   - video editing
@@ -2210,4 +2210,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-15-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 15 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus, Apples New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

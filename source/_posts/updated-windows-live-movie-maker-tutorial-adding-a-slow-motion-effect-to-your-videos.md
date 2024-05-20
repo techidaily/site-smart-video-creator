@@ -1,7 +1,7 @@
 ---
 title: Updated Windows Live Movie Maker Tutorial Adding a Slow Motion Effect to Your Videos
-date: 2024-04-29T06:28:56.873Z
-updated: 2024-04-30T06:28:56.873Z
+date: 2024-05-19T10:32:56.056Z
+updated: 2024-05-20T10:32:56.056Z
 tags: 
   - video editing software
   - video editing
@@ -2783,4 +2783,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y78t | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel P40 | Dr.fone</u></a></li>
 </ul></div>
+
 

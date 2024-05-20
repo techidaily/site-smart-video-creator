@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Resize Your Video in Minutes A Quick Tutorial
-date: 2024-04-29T06:22:53.739Z
-updated: 2024-04-30T06:22:53.739Z
+date: 2024-05-19T10:32:31.940Z
+updated: 2024-05-20T10:32:31.940Z
 tags: 
   - video editing software
   - video editing
@@ -2300,4 +2300,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-k70-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi K70 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-iphone-6-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6 lock with iTunes</u></a></li>
 </ul></div>
+
 

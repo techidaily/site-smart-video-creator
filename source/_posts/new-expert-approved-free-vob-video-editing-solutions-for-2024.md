@@ -2614,3 +2614,4 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-ace-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Ace 2 | Dr.fone</u></a></li>
 </ul></div>
 
+

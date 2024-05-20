@@ -1,7 +1,7 @@
 ---
 title: Green Screen Like a Pro FCP X Chroma Keying Essentials for 2024
-date: 2024-04-29T06:20:13.216Z
-updated: 2024-04-30T06:20:13.216Z
+date: 2024-05-19T10:32:21.461Z
+updated: 2024-05-20T10:32:21.461Z
 tags: 
   - video editing software
   - video editing
@@ -3482,4 +3482,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix GT 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-the-15-best-apps-to-turn-photos-into-cartoons-and-sketches/"><u>New In 2024, The 15 Best Apps to Turn Photos Into Cartoons and Sketches</u></a></li>
 </ul></div>
+
 

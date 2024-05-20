@@ -1,7 +1,7 @@
 ---
 title: New FCPX Image Editing A Beginners Guide to Cropping
-date: 2024-04-29T06:18:14.006Z
-updated: 2024-04-30T06:18:14.007Z
+date: 2024-05-19T10:32:13.999Z
+updated: 2024-05-20T10:32:13.999Z
 tags: 
   - video editing software
   - video editing
@@ -1970,4 +1970,5 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-c51-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of C51</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

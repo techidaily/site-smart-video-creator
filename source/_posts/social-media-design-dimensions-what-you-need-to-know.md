@@ -1,7 +1,7 @@
 ---
 title: Social Media Design Dimensions What You Need to Know
-date: 2024-04-29T06:11:28.565Z
-updated: 2024-04-30T06:11:28.565Z
+date: 2024-05-19T10:31:44.723Z
+updated: 2024-05-20T10:31:44.723Z
 tags: 
   - video editing software
   - video editing
@@ -3504,4 +3504,5 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone X? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-a14-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy A14 5G Phone</u></a></li>
 </ul></div>
+
 

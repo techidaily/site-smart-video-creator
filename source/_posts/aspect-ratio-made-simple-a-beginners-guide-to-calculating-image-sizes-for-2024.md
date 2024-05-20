@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Made Simple A Beginners Guide to Calculating Image Sizes for 2024
-date: 2024-04-29T06:14:58.247Z
-updated: 2024-04-30T06:14:58.247Z
+date: 2024-05-19T10:32:01.726Z
+updated: 2024-05-20T10:32:01.726Z
 tags: 
   - video editing software
   - video editing
@@ -2895,4 +2895,5 @@ Speed changing is a standard video editing technique that, when done correctly, 
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y17s | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

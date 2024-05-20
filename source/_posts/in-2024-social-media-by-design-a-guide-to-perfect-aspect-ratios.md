@@ -1,7 +1,7 @@
 ---
 title: In 2024, Social Media by Design A Guide to Perfect Aspect Ratios
-date: 2024-04-29T06:23:44.530Z
-updated: 2024-04-30T06:23:44.530Z
+date: 2024-05-19T10:32:35.148Z
+updated: 2024-05-20T10:32:35.148Z
 tags: 
   - video editing software
   - video editing
@@ -2096,4 +2096,5 @@ Well, there you have it – the best **basic video editors** for beginners. Vide
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 13 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Smart 7 HD</u></a></li>
 </ul></div>
+
 

@@ -2031,3 +2031,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-12-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 12 Pro to your Windows PC | Dr.fone</u></a></li>
 </ul></div>
 
+

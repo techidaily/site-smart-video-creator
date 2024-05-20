@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of the Ken Burns Effect A Comprehensive Guide
-date: 2024-04-29T06:12:20.139Z
-updated: 2024-04-30T06:12:20.139Z
+date: 2024-05-19T10:31:47.667Z
+updated: 2024-05-20T10:31:47.667Z
 tags: 
   - video editing software
   - video editing
@@ -1615,4 +1615,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Moto G24? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: FCPX Productivity Hacks Top 40 Keyboard Shortcuts for Editors
-date: 2024-04-29T06:10:25.005Z
-updated: 2024-04-30T06:10:25.005Z
+date: 2024-05-19T10:31:40.588Z
+updated: 2024-05-20T10:31:40.588Z
 tags: 
   - video editing software
   - video editing
@@ -1702,4 +1702,5 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Updated Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
 </ul></div>
+
 

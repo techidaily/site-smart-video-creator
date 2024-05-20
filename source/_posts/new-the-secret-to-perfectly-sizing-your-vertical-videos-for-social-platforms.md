@@ -1,7 +1,7 @@
 ---
 title: New The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms
-date: 2024-04-29T06:24:59.698Z
-updated: 2024-04-30T06:24:59.698Z
+date: 2024-05-19T10:32:40.314Z
+updated: 2024-05-20T10:32:40.314Z
 tags: 
   - video editing software
   - video editing
@@ -2668,4 +2668,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/new-this-article-talks-in-detail-about-how-to-convert-time-lapse-to-normal-video-using-certain-methods-on-iphone-online-tools-and-so-on-it-further-discusses/"><u>New This Article Talks in Detail About How to Convert Time-Lapse to Normal Video Using Certain Methods on iPhone, Online Tools, and so On. It Further Discusses Converting Time-Lapse Video to Normal on the Computer. Check Out</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-gt-3-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme GT 3</u></a></li>
 </ul></div>
+
 

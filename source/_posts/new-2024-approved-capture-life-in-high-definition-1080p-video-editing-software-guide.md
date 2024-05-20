@@ -2642,3 +2642,4 @@ We can't state that VLC is excellent for users and Shotcut and OpenShot are fant
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-spark-10c-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Spark 10C Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

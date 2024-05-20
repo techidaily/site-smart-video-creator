@@ -1,7 +1,7 @@
 ---
 title: In 2024, Slow Down, Speed Up Advanced Timeline Control in FCPX
-date: 2024-04-29T06:23:39.106Z
-updated: 2024-04-30T06:23:39.106Z
+date: 2024-05-19T10:32:34.953Z
+updated: 2024-05-20T10:32:34.953Z
 tags: 
   - video editing software
   - video editing
@@ -2405,4 +2405,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-bring-your-ideas-to-life-top-animation-software-for-beginners-and-pros/"><u>2024 Approved Bring Your Ideas to Life Top Animation Software for Beginners and Pros</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-online-movie-making-software-for-2024/"><u>Updated The Best Free Online Movie Making Software for 2024</u></a></li>
 </ul></div>
+
 

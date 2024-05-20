@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-04-29T06:18:16.521Z
-updated: 2024-04-30T06:18:16.521Z
+date: 2024-05-19T10:32:14.250Z
+updated: 2024-05-20T10:32:14.250Z
 tags: 
   - video editing software
   - video editing
@@ -5264,4 +5264,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-wmv-video-editing-software-top-picks/"><u>Updated 2024 Approved Free WMV Video Editing Software Top Picks</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel A05s | Dr.fone</u></a></li>
 </ul></div>
+
 

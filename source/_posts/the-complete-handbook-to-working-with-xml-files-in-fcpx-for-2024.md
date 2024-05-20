@@ -1,7 +1,7 @@
 ---
 title: The Complete Handbook to Working with XML Files in FCPX for 2024
-date: 2024-04-29T06:24:46.349Z
-updated: 2024-04-30T06:24:46.349Z
+date: 2024-05-19T10:32:39.321Z
+updated: 2024-05-20T10:32:39.321Z
 tags: 
   - video editing software
   - video editing
@@ -1627,4 +1627,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/recover-your-music-after-realme-narzo-n53-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Realme Narzo N53 has been deleted</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-x100-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo X100 Pro Phones with/without a PC</u></a></li>
 </ul></div>
+
 

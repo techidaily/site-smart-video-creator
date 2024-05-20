@@ -1,7 +1,7 @@
 ---
 title: New Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android
-date: 2024-04-29T06:15:10.571Z
-updated: 2024-04-30T06:15:10.571Z
+date: 2024-05-19T10:32:02.494Z
+updated: 2024-05-20T10:32:02.494Z
 tags: 
   - video editing software
   - video editing
@@ -2253,4 +2253,5 @@ This list should help you find the best video editor app for mobile. Contact our
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2007-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2007 Files on Mac Complete Guide</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-honor-x50i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X50i Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

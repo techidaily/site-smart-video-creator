@@ -1,7 +1,7 @@
 ---
 title: Premiere Pro Transition Essentials Top 10 Plugins You Need
-date: 2024-04-29T06:09:35.512Z
-updated: 2024-04-30T06:09:35.512Z
+date: 2024-05-19T10:31:37.475Z
+updated: 2024-05-20T10:31:37.475Z
 tags: 
   - video editing software
   - video editing
@@ -1873,4 +1873,5 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Passcode without a Computer</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock the Power of Slow Motion A Kapwing Video Editing Guide
-date: 2024-04-29T06:27:50.977Z
-updated: 2024-04-30T06:27:50.977Z
+date: 2024-05-19T10:32:51.399Z
+updated: 2024-05-20T10:32:51.399Z
 tags: 
   - video editing software
   - video editing
@@ -2567,4 +2567,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 8? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

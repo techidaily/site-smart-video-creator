@@ -2032,3 +2032,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-emoji-on-mac-that-take-less-than-10-mins/"><u>How to Create Emoji on Mac That Take Less Than 10 Mins</u></a></li>
 </ul></div>
 
+

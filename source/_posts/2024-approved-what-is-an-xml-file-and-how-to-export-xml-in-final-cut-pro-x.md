@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is an XML File and How to Export XML in Final Cut Pro X?
-date: 2024-04-29T06:28:43.882Z
-updated: 2024-04-30T06:28:43.882Z
+date: 2024-05-19T10:32:55.559Z
+updated: 2024-05-20T10:32:55.559Z
 tags: 
   - video editing software
   - video editing
@@ -1730,4 +1730,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-p55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel P55 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

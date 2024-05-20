@@ -1,7 +1,7 @@
 ---
 title: Updated Streamline Your Workflow The Top 8 Video Editing Apps for 4K Proxy Files
-date: 2024-04-29T06:24:03.553Z
-updated: 2024-04-30T06:24:03.553Z
+date: 2024-05-19T10:32:35.905Z
+updated: 2024-05-20T10:32:35.905Z
 tags: 
   - video editing software
   - video editing
@@ -2401,4 +2401,5 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-gt-10-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix GT 10 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-sony-xperia-5-v-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Sony Xperia 5 V has been deleted.</u></a></li>
 </ul></div>
+
 

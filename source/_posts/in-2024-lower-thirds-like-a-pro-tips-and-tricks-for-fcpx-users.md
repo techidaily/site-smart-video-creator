@@ -1,7 +1,7 @@
 ---
 title: In 2024, Lower Thirds Like a Pro Tips and Tricks for FCPX Users
-date: 2024-04-29T06:20:57.006Z
-updated: 2024-04-30T06:20:57.006Z
+date: 2024-05-19T10:32:25.036Z
+updated: 2024-05-20T10:32:25.036Z
 tags: 
   - video editing software
   - video editing
@@ -2086,4 +2086,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze Curve 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unraveling-how-the-slow-motion-guys-have-revolutionized-the-slow-motion-game/"><u>Updated 2024 Approved Unraveling How the Slow Motion Guys Have Revolutionized The Slow Motion Game</u></a></li>
 </ul></div>
+
 

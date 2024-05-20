@@ -1,7 +1,7 @@
 ---
 title: 10 Best Apps to Create Mind-Bending Glitch Art Videos on Mobile
-date: 2024-04-29T06:09:14.827Z
-updated: 2024-04-30T06:09:14.827Z
+date: 2024-05-19T10:31:36.494Z
+updated: 2024-05-20T10:31:36.494Z
 tags: 
   - video editing software
   - video editing
@@ -3688,4 +3688,5 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-oppo-reno-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Oppo Reno 10 5G</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-from-long-to-short-a-beginners-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
 </ul></div>
+
 

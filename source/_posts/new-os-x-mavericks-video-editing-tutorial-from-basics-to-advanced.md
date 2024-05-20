@@ -1,7 +1,7 @@
 ---
 title: New OS X Mavericks Video Editing Tutorial From Basics to Advanced
-date: 2024-04-29T06:22:20.688Z
-updated: 2024-04-30T06:22:20.688Z
+date: 2024-05-19T10:32:30.356Z
+updated: 2024-05-20T10:32:30.356Z
 tags: 
   - video editing software
   - video editing
@@ -2409,4 +2409,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G34 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-unlink-audio-and-video-in-davinci-resolve-detailed-steps-for-2024/"><u>Updated Unlink Audio and Video in DaVinci Resolve Detailed Steps for 2024</u></a></li>
 </ul></div>
+
 

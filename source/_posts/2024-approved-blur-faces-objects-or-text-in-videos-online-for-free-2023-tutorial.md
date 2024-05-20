@@ -2690,3 +2690,4 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-create-a-smooth-cut-transition-effect/"><u>Updated In 2024, How to Create a Smooth Cut Transition Effect?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: FCP X Effects Made Simple A Step-by-Step Tutorial for 2024
-date: 2024-04-29T06:18:07.699Z
-updated: 2024-04-30T06:18:07.699Z
+date: 2024-05-19T10:32:13.619Z
+updated: 2024-05-20T10:32:13.619Z
 tags: 
   - video editing software
   - video editing
@@ -1846,4 +1846,5 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-v30-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme V30 Phone | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-lite-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 Lite to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

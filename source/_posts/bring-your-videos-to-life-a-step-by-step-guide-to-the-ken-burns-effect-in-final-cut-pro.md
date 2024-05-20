@@ -1,7 +1,7 @@
 ---
 title: Bring Your Videos to Life A Step-by-Step Guide to the Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T06:09:55.726Z
-updated: 2024-04-30T06:09:55.726Z
+date: 2024-05-19T10:31:39.399Z
+updated: 2024-05-20T10:31:39.399Z
 tags: 
   - video editing software
   - video editing
@@ -2183,4 +2183,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-12-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 12 5G to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-v29e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo V29e For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

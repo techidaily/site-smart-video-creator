@@ -3358,3 +3358,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/splitting-audio-from-video-in-sony-vegas-step-by-step/"><u>Splitting Audio From Video in Sony Vegas Step by Step</u></a></li>
 </ul></div>
 
+

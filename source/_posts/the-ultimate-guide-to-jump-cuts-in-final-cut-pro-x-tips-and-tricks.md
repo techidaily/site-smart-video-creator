@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks
-date: 2024-04-29T06:11:48.025Z
-updated: 2024-04-30T06:11:48.025Z
+date: 2024-05-19T10:31:45.711Z
+updated: 2024-05-20T10:31:45.711Z
 tags: 
   - video editing software
   - video editing
@@ -1367,4 +1367,5 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro Max iOS? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-flv-video-editor-for-windows-8-a-comprehensive-review/"><u>New FLV Video Editor for Windows 8 A Comprehensive Review</u></a></li>
 </ul></div>
+
 

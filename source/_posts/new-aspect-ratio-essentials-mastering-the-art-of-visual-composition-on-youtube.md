@@ -1,7 +1,7 @@
 ---
 title: New Aspect Ratio Essentials Mastering the Art of Visual Composition on YouTube
-date: 2024-04-29T06:14:57.621Z
-updated: 2024-04-30T06:14:57.621Z
+date: 2024-05-19T10:32:01.682Z
+updated: 2024-05-20T10:32:01.682Z
 tags: 
   - video editing software
   - video editing
@@ -3043,4 +3043,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-100-pro-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from 100 Pro.</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-p55t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel P55T to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

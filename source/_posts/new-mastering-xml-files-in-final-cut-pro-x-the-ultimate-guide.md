@@ -1,7 +1,7 @@
 ---
 title: New Mastering XML Files in Final Cut Pro X The Ultimate Guide
-date: 2024-04-29T06:21:35.914Z
-updated: 2024-04-30T06:21:35.914Z
+date: 2024-05-19T10:32:26.724Z
+updated: 2024-05-20T10:32:26.724Z
 tags: 
   - video editing software
   - video editing
@@ -2066,4 +2066,5 @@ For macOS 10.12 or later
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c53-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C53 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c51-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C51?</u></a></li>
 </ul></div>
+
 

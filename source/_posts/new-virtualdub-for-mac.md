@@ -1,7 +1,7 @@
 ---
 title: New VirtualDub for Mac
-date: 2024-04-29T06:13:33.550Z
-updated: 2024-04-30T06:13:33.550Z
+date: 2024-05-19T10:31:54.355Z
+updated: 2024-05-20T10:31:54.355Z
 tags: 
   - video editing software
   - video editing
@@ -1644,4 +1644,5 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11x-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11x To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

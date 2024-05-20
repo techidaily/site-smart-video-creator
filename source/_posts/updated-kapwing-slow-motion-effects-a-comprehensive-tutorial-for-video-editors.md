@@ -1,7 +1,7 @@
 ---
 title: Updated Kapwing Slow Motion Effects A Comprehensive Tutorial for Video Editors
-date: 2024-04-29T06:20:44.055Z
-updated: 2024-04-30T06:20:44.055Z
+date: 2024-05-19T10:32:23.882Z
+updated: 2024-05-20T10:32:23.882Z
 tags: 
   - video editing software
   - video editing
@@ -1737,4 +1737,5 @@ Do magic with Filmora. Try it now.
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Camon 20 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 12 Pro Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

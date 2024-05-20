@@ -1,7 +1,7 @@
 ---
 title: From Fast to Slow How to Create Engaging Slow-Motion Videos on Kapwing for 2024
-date: 2024-04-29T06:19:21.453Z
-updated: 2024-04-30T06:19:21.453Z
+date: 2024-05-19T10:32:18.436Z
+updated: 2024-05-20T10:32:18.436Z
 tags: 
   - video editing software
   - video editing
@@ -2118,4 +2118,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-troubleshoot-snapchat-camera-zoomed-in-issue-4-tips/"><u>Updated Troubleshoot Snapchat Camera Zoomed in Issue 4 Tips</u></a></li>
 </ul></div>
+
 

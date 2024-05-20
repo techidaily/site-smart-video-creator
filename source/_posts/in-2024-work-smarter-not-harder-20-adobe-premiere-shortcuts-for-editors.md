@@ -1,7 +1,7 @@
 ---
 title: In 2024, Work Smarter, Not Harder 20 Adobe Premiere Shortcuts for Editors
-date: 2024-04-29T06:29:02.233Z
-updated: 2024-04-30T06:29:02.233Z
+date: 2024-05-19T10:32:56.280Z
+updated: 2024-05-20T10:32:56.280Z
 tags: 
   - video editing software
   - video editing
@@ -2233,4 +2233,5 @@ Follow @Liza Brown
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-asus-rog-phone-8-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Asus ROG Phone 8 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-11-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 11? 5 Tips You Must Know</u></a></li>
 </ul></div>
+
 

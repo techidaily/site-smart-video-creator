@@ -1,7 +1,7 @@
 ---
 title: New Smartphone Storytelling How to Shoot Vertical Aspect Ratio Like a Pro
-date: 2024-04-29T06:23:41.400Z
-updated: 2024-04-30T06:23:41.400Z
+date: 2024-05-19T10:32:34.994Z
+updated: 2024-05-20T10:32:34.994Z
 tags: 
   - video editing software
   - video editing
@@ -2940,4 +2940,5 @@ Follow @Liza Brown
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark 10 5G?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Vintage Vibes in FCP A Step-by-Step Guide to VHS Effects for 2024
-date: 2024-04-29T06:28:26.548Z
-updated: 2024-04-30T06:28:26.548Z
+date: 2024-05-19T10:32:53.936Z
+updated: 2024-05-20T10:32:53.936Z
 tags: 
   - video editing software
   - video editing
@@ -1883,4 +1883,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-5-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 5 Lite phone? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

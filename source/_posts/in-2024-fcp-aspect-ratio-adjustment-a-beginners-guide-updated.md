@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCP Aspect Ratio Adjustment A Beginners Guide (Updated )
-date: 2024-04-29T06:18:04.966Z
-updated: 2024-04-30T06:18:04.966Z
+date: 2024-05-19T10:32:13.428Z
+updated: 2024-05-20T10:32:13.428Z
 tags: 
   - video editing software
   - video editing
@@ -2480,4 +2480,5 @@ Follow @Shanoon Cox
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-130-music-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia 130 Music to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

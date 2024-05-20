@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Jump Cuts in Final Cut Pro X A Step-by-Step Guide
-date: 2024-04-29T06:21:29.593Z
-updated: 2024-04-30T06:21:29.593Z
+date: 2024-05-19T10:32:26.434Z
+updated: 2024-05-20T10:32:26.434Z
 tags: 
   - video editing software
   - video editing
@@ -2647,4 +2647,5 @@ This tool allows downloading and converting videos, channels, sub-titles, playli
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-art-generator-wondershare-virbo-glossary/"><u>2024 Approved What Is an AI Art Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

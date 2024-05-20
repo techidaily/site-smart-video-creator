@@ -1,7 +1,7 @@
 ---
 title: Split and Trim MKV Files Best Free Tools
-date: 2024-04-29T06:11:29.853Z
-updated: 2024-04-30T06:11:29.853Z
+date: 2024-05-19T10:31:44.783Z
+updated: 2024-05-20T10:31:44.783Z
 tags: 
   - video editing software
   - video editing
@@ -1691,4 +1691,5 @@ However, if you're searching for a less expensive solution but still concerned a
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-combine-several-xvid-files-into-one-windows-macandroid-iphone-and-online/"><u>New How to Combine Several Xvid Files Into One Windows, Mac，Android, iPhone & Online</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-and-unrestricted-10-top-video-editing-apps-for-android/"><u>Free and Unrestricted 10 Top Video Editing Apps for Android</u></a></li>
 </ul></div>
+
 

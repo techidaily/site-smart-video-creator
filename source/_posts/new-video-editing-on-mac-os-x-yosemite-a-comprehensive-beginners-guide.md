@@ -1,7 +1,7 @@
 ---
 title: New Video Editing on Mac OS X Yosemite A Comprehensive Beginners Guide
-date: 2024-04-29T06:28:10.597Z
-updated: 2024-04-30T06:28:10.597Z
+date: 2024-05-19T10:32:52.850Z
+updated: 2024-05-20T10:32:52.850Z
 tags: 
   - video editing software
   - video editing
@@ -2431,4 +2431,5 @@ Windows Movie Maker is an excellent Windows video editor application for Windows
 <li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2013 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 

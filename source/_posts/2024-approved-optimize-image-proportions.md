@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Optimize Image Proportions
-date: 2024-04-29T06:22:18.010Z
-updated: 2024-04-30T06:22:18.010Z
+date: 2024-05-19T10:32:30.188Z
+updated: 2024-05-20T10:32:30.188Z
 tags: 
   - video editing software
   - video editing
@@ -2895,4 +2895,5 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-poco-by-fonelab-android-recover-music/"><u>How to recover old music from your Poco</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17e-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17e by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -2393,3 +2393,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-ar-or-augmented-reality-is-one-of-the-most-significant-technological-inventions-this-technology-is-used-in-many-applications-that-we-use-daily/"><u>2024 Approved AR, or Augmented Reality, Is One of the Most Significant Technological Inventions. This Technology Is Used in Many Applications that We Use Daily, Like, Maps, Music, Video Games, Tourism, Sightseeing, Etc</u></a></li>
 </ul></div>
 
+

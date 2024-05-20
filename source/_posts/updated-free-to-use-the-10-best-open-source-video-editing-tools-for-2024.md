@@ -3182,3 +3182,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/create-glitch-text-effect/"><u>Create Glitch Text Effect</u></a></li>
 </ul></div>
 
+

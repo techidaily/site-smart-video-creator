@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Essentials 3 Ways to Create Smooth Transitions
-date: 2024-04-29T06:10:27.159Z
-updated: 2024-04-30T06:10:27.159Z
+date: 2024-05-19T10:31:40.765Z
+updated: 2024-05-20T10:31:40.765Z
 tags: 
   - video editing software
   - video editing
@@ -2176,4 +2176,5 @@ Video Stabilization is the need of the hour as you cannot always capture a stabi
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-x100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo X100 Devices</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

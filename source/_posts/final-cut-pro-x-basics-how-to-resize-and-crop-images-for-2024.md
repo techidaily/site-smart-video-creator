@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Basics How to Resize and Crop Images for 2024
-date: 2024-04-29T06:18:31.243Z
-updated: 2024-04-30T06:18:31.243Z
+date: 2024-05-19T10:32:15.263Z
+updated: 2024-05-20T10:32:15.263Z
 tags: 
   - video editing software
   - video editing
@@ -2333,4 +2333,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-gt-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme GT 5 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-f23-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo F23 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Title Tutorial From Basics to Advanced Techniques
-date: 2024-04-29T06:18:17.569Z
-updated: 2024-04-30T06:18:17.569Z
+date: 2024-05-19T10:32:14.305Z
+updated: 2024-05-20T10:32:14.305Z
 tags: 
   - video editing software
   - video editing
@@ -2374,4 +2374,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Itel P40? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Pro Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

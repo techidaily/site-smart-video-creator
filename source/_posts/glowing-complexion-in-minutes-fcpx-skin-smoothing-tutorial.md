@@ -1,7 +1,7 @@
 ---
 title: Glowing Complexion in Minutes FCPX Skin Smoothing Tutorial
-date: 2024-04-29T06:10:48.613Z
-updated: 2024-04-30T06:10:48.613Z
+date: 2024-05-19T10:31:42.193Z
+updated: 2024-05-20T10:31:42.193Z
 tags: 
   - video editing software
   - video editing
@@ -6088,4 +6088,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Productivity Hacks Top 40 Keyboard Shortcuts for Editors
-date: 2024-04-29T06:18:17.146Z
-updated: 2024-04-30T06:18:17.146Z
+date: 2024-05-19T10:32:14.293Z
+updated: 2024-05-20T10:32:14.293Z
 tags: 
   - video editing software
   - video editing
@@ -2103,4 +2103,5 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-6-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 6 and iPad Securely</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-13t-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 13T Pro using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

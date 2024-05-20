@@ -1,7 +1,7 @@
 ---
 title: New Mastering Video Editing A Guide for Sony Camcorder Footage
-date: 2024-04-29T06:21:34.447Z
-updated: 2024-04-30T06:21:34.447Z
+date: 2024-05-19T10:32:26.600Z
+updated: 2024-05-20T10:32:26.600Z
 tags: 
   - video editing software
   - video editing
@@ -1586,4 +1586,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-lava-yuva-3-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Lava Yuva 3 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-x9a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor X9a Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Reach How to Resize Vertical Videos for Social Media Success for 2024
-date: 2024-04-29T06:21:40.146Z
-updated: 2024-04-30T06:21:40.146Z
+date: 2024-05-19T10:32:26.921Z
+updated: 2024-05-20T10:32:26.921Z
 tags: 
   - video editing software
   - video editing
@@ -1975,4 +1975,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-premiere-pro-text-effects-beginner-guide/"><u>New 2024 Approved Premiere Pro Text Effects Beginner Guide</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-list-of-supported-whatsapp-video-format-you-may-want-to-know/"><u>Updated In 2024, List of Supported Whatsapp Video Format You May Want to Know</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Art of Stability Mastering Video Stabilization in After Effects
-date: 2024-04-29T06:11:35.464Z
-updated: 2024-04-30T06:11:35.464Z
+date: 2024-05-19T10:31:44.917Z
+updated: 2024-05-20T10:31:44.917Z
 tags: 
   - video editing software
   - video editing
@@ -2166,4 +2166,5 @@ Key features
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-g22-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia G22 Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-stunning-glitch-effect-in-photoshop-ultimate-guide/"><u>Updated 2024 Approved How to Make Stunning Glitch Effect in Photoshop? Ultimate Guide</u></a></li>
 </ul></div>
+
 

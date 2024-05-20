@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect Tutorial Add Movement to Your Photos
-date: 2024-04-29T06:10:54.841Z
-updated: 2024-04-30T06:10:54.841Z
+date: 2024-05-19T10:31:42.660Z
+updated: 2024-05-20T10:31:42.660Z
 tags: 
   - video editing software
   - video editing
@@ -2724,4 +2724,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Google Pixel Fold | Dr.fone</u></a></li>
 </ul></div>
+
 

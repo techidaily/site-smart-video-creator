@@ -1,7 +1,7 @@
 ---
 title: Image Ratio Mastery Learn to Calculate, Find, and Adjust Like a Pro
-date: 2024-04-29T06:10:52.499Z
-updated: 2024-04-30T06:10:52.499Z
+date: 2024-05-19T10:31:42.488Z
+updated: 2024-05-20T10:31:42.488Z
 tags: 
   - video editing software
   - video editing
@@ -2290,4 +2290,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-9a-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 9A FRP?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 Pro without Password?</u></a></li>
 </ul></div>
+
 

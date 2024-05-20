@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect Tutorial From Basics to Pro for 2024
-date: 2024-04-29T06:20:45.307Z
-updated: 2024-04-30T06:20:45.307Z
+date: 2024-05-19T10:32:24.007Z
+updated: 2024-05-20T10:32:24.007Z
 tags: 
   - video editing software
   - video editing
@@ -3556,4 +3556,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-13-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 13 Pro Max Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-12-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 12 Is Unlocked</u></a></li>
 </ul></div>
+
 

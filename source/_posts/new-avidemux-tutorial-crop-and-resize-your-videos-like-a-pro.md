@@ -1,7 +1,7 @@
 ---
 title: New Avidemux Tutorial Crop and Resize Your Videos Like a Pro
-date: 2024-04-29T06:15:06.115Z
-updated: 2024-04-30T06:15:06.115Z
+date: 2024-05-19T10:32:02.183Z
+updated: 2024-05-20T10:32:02.183Z
 tags: 
   - video editing software
   - video editing
@@ -1895,4 +1895,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-frp.techidaily.com/best-gionee-frp-bypass-guide-by-drfone-android/"><u>Best Gionee FRP Bypass Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v29-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V29 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

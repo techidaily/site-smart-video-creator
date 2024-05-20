@@ -1,7 +1,7 @@
 ---
 title: New Pro-Level Jump Cuts Made Easy A Final Cut Pro X Tutorial
-date: 2024-04-29T06:22:31.604Z
-updated: 2024-04-30T06:22:31.604Z
+date: 2024-05-19T10:32:30.793Z
+updated: 2024-05-20T10:32:30.793Z
 tags: 
   - video editing software
   - video editing
@@ -2564,4 +2564,5 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-motorola-edge-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Motorola Edge 40 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-kapwing-a-simple-guide-to-making-slow-motion-videos/"><u>Get Creative with Kapwing A Simple Guide to Making Slow-Motion Videos</u></a></li>
 </ul></div>
+
 

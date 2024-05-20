@@ -1,7 +1,7 @@
 ---
 title: Mastering Time Manipulation in FCPX for 2024
-date: 2024-04-29T06:21:33.605Z
-updated: 2024-04-30T06:21:33.605Z
+date: 2024-05-19T10:32:26.560Z
+updated: 2024-05-20T10:32:26.560Z
 tags: 
   - video editing software
   - video editing
@@ -2689,4 +2689,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze 2 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/rotate-videos-online-best-web-based-solutions/"><u>Rotate Videos Online Best Web-Based Solutions</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Speed Up or Slow Down Your Camtasia Recordings
-date: 2024-04-29T06:23:49.185Z
-updated: 2024-04-30T06:23:49.185Z
+date: 2024-05-19T10:32:35.334Z
+updated: 2024-05-20T10:32:35.334Z
 tags: 
   - video editing software
   - video editing
@@ -1470,4 +1470,5 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://ai-video-editing.techidaily.com/best-ideas-on-using-filmora-green-screen/"><u>Best Ideas on Using Filmora Green Screen</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-motorola-g24-power-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola G24 Power Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

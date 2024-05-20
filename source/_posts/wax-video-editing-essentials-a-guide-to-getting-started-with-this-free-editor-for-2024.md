@@ -1,7 +1,7 @@
 ---
 title: Wax Video Editing Essentials A Guide to Getting Started with This Free Editor for 2024
-date: 2024-04-29T06:28:40.178Z
-updated: 2024-04-30T06:28:40.178Z
+date: 2024-05-19T10:32:55.387Z
+updated: 2024-05-20T10:32:55.387Z
 tags: 
   - video editing software
   - video editing
@@ -1761,4 +1761,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-redmi-note-12-proplus-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Redmi Note 12 Pro+ 5G? Try These Fixes</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-z-fold-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy Z Fold 5 Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

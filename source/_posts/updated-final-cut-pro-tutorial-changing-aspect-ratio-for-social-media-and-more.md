@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More
-date: 2024-04-29T06:18:30.407Z
-updated: 2024-04-30T06:18:30.407Z
+date: 2024-05-19T10:32:15.224Z
+updated: 2024-05-20T10:32:15.224Z
 tags: 
   - video editing software
   - video editing
@@ -2309,4 +2309,5 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-14-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi 14 Ultra FRP Bypass</u></a></li>
 </ul></div>
+
 

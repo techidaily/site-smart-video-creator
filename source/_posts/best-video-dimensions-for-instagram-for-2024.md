@@ -1,7 +1,7 @@
 ---
 title: BEST Video Dimensions for Instagram for 2024
-date: 2024-04-29T06:13:43.241Z
-updated: 2024-04-30T06:13:43.241Z
+date: 2024-05-19T10:31:54.865Z
+updated: 2024-05-20T10:31:54.865Z
 tags: 
   - video editing software
   - video editing
@@ -2158,4 +2158,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G23 Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

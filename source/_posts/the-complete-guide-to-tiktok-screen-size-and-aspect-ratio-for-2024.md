@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to TikTok Screen Size and Aspect Ratio for 2024
-date: 2024-04-29T06:24:45.047Z
-updated: 2024-04-30T06:24:45.047Z
+date: 2024-05-19T10:32:39.256Z
+updated: 2024-05-20T10:32:39.256Z
 tags: 
   - video editing software
   - video editing
@@ -1862,4 +1862,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-play-40c-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Play 40C without backup.</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-game-video-editing-software-top-picks/"><u>Updated 2024 Approved Free Game Video Editing Software Top Picks</u></a></li>
 </ul></div>
+
 

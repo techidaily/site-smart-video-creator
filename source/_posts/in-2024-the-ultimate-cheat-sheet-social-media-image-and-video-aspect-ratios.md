@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Cheat Sheet Social Media Image and Video Aspect Ratios
-date: 2024-04-29T06:14:21.360Z
-updated: 2024-04-30T06:14:21.360Z
+date: 2024-05-19T10:31:59.385Z
+updated: 2024-05-20T10:31:59.385Z
 tags: 
   - video editing software
   - video editing
@@ -3203,4 +3203,5 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nokia-c110-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nokia C110 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Magic 6 Lite? | Dr.fone</u></a></li>
 </ul></div>
+
 

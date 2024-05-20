@@ -1,7 +1,7 @@
 ---
 title: Adjust Video Playback Speed in Camtasia
-date: 2024-04-29T06:09:22.619Z
-updated: 2024-04-30T06:09:22.619Z
+date: 2024-05-19T10:31:36.862Z
+updated: 2024-05-20T10:31:36.862Z
 tags: 
   - video editing software
   - video editing
@@ -1626,4 +1626,5 @@ There are a ton of **Video Brightening Editor Apps** that will make brightening 
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-z50-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nubia Z50 Ultra</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-your-music-expert-advice-on-converting-soundcloud-to-mp3/"><u>New 2024 Approved Unlock Your Music Expert Advice on Converting Soundcloud to MP3</u></a></li>
 </ul></div>
+
 

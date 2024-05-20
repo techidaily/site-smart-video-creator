@@ -1,7 +1,7 @@
 ---
 title: New Fast Video Resizing A Step-by-Step Guide
-date: 2024-04-29T06:13:52.002Z
-updated: 2024-04-30T06:13:52.002Z
+date: 2024-05-19T10:31:55.415Z
+updated: 2024-05-20T10:31:55.415Z
 tags: 
   - video editing software
   - video editing
@@ -3651,4 +3651,5 @@ It's a shame that iMovie is not available on Windows 10/11 computers. Thankfully
 <li><a href="https://ai-topics.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars/"><u>Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-c53-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme C53 Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

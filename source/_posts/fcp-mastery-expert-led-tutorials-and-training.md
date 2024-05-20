@@ -1,7 +1,7 @@
 ---
 title: FCP Mastery Expert-Led Tutorials and Training
-date: 2024-04-29T06:10:24.170Z
-updated: 2024-04-30T06:10:24.170Z
+date: 2024-05-19T10:31:40.523Z
+updated: 2024-05-20T10:31:40.523Z
 tags: 
   - video editing software
   - video editing
@@ -2941,4 +2941,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi K70E | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-7-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 7 with iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

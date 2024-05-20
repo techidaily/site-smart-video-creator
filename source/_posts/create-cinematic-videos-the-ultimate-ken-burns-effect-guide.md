@@ -1,7 +1,7 @@
 ---
 title: Create Cinematic Videos The Ultimate Ken Burns Effect Guide
-date: 2024-04-29T06:10:03.977Z
-updated: 2024-04-30T06:10:03.977Z
+date: 2024-05-19T10:31:39.563Z
+updated: 2024-05-20T10:31:39.563Z
 tags: 
   - video editing software
   - video editing
@@ -1546,4 +1546,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On OnePlus 12? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi 12 Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

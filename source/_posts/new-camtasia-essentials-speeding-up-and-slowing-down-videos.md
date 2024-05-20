@@ -1,7 +1,7 @@
 ---
 title: New Camtasia Essentials Speeding Up and Slowing Down Videos
-date: 2024-04-29T06:15:53.738Z
-updated: 2024-04-30T06:15:53.738Z
+date: 2024-05-19T10:32:05.417Z
+updated: 2024-05-20T10:32:05.417Z
 tags: 
   - video editing software
   - video editing
@@ -2441,4 +2441,5 @@ Some alternative **MP4 to MP3 Converters** are available for Mac, making the con
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme Narzo 60 Pro 5G Phone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 8 Plus</u></a></li>
 </ul></div>
+
 

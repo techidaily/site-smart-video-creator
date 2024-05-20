@@ -1,7 +1,7 @@
 ---
 title: The Art of Motion Blur A Comprehensive Guide for Final Cut Pro Editors
-date: 2024-04-29T06:11:35.042Z
-updated: 2024-04-30T06:11:35.042Z
+date: 2024-05-19T10:31:44.909Z
+updated: 2024-05-20T10:31:44.909Z
 tags: 
   - video editing software
   - video editing
@@ -3155,4 +3155,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/honor-100-pro-video-recovery-recover-deleted-videos-from-honor-100-pro-by-fonelab-android-recover-video/"><u>Honor 100 Pro Video Recovery - Recover Deleted Videos from Honor 100 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

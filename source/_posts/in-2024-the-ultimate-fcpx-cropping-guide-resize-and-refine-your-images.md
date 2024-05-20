@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate FCPX Cropping Guide Resize and Refine Your Images
-date: 2024-04-29T06:25:08.381Z
-updated: 2024-04-30T06:25:08.381Z
+date: 2024-05-19T10:32:40.672Z
+updated: 2024-05-20T10:32:40.672Z
 tags: 
   - video editing software
   - video editing
@@ -2708,4 +2708,5 @@ For macOS 10.14 or later
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord 3 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme GT Neo 5 SE? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Beginners Guide to Trimming Videos Using Kapwings Online Editor
-date: 2024-04-29T06:13:07.147Z
-updated: 2024-04-30T06:13:07.147Z
+date: 2024-05-19T10:31:51.163Z
+updated: 2024-05-20T10:31:51.163Z
 tags: 
   - video editing software
   - video editing
@@ -2865,4 +2865,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia G22 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Jump Cuts in Final Cut Pro X
-date: 2024-04-29T06:11:48.241Z
-updated: 2024-04-30T06:11:48.241Z
+date: 2024-05-19T10:31:45.716Z
+updated: 2024-05-20T10:31:45.716Z
 tags: 
   - video editing software
   - video editing
@@ -2913,4 +2913,5 @@ The Gaming Intro comes at the front desk while working on your Game videos, cons
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-fcps-cinematic-legacy-10-timeless-movies-made-with-final-cut-pro/"><u>Updated FCPs Cinematic Legacy 10 Timeless Movies Made with Final Cut Pro</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 7</u></a></li>
 </ul></div>
+
 

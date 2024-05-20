@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Wax Tutorial Learn to Edit Videos Like a Pro
-date: 2024-04-29T06:26:03.827Z
-updated: 2024-04-30T06:26:03.827Z
+date: 2024-05-19T10:32:43.821Z
+updated: 2024-05-20T10:32:43.821Z
 tags: 
   - video editing software
   - video editing
@@ -3180,4 +3180,5 @@ Follow @Shanoon Cox
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-pova-5-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Pova 5 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

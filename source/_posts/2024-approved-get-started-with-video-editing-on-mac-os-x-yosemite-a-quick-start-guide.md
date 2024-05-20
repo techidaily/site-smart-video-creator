@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide
-date: 2024-04-29T06:19:59.078Z
-updated: 2024-04-30T06:19:59.078Z
+date: 2024-05-19T10:32:20.814Z
+updated: 2024-05-20T10:32:20.814Z
 tags: 
   - video editing software
   - video editing
@@ -1242,4 +1242,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-transforming-a-slow-motion-video-to-normal-mastering-the-skill/"><u>Updated In 2024, Transforming a Slow-Motion Video to Normal Mastering the Skill</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi 13T | Dr.fone</u></a></li>
 </ul></div>
+
 

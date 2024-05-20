@@ -1,7 +1,7 @@
 ---
 title: Slow Down, Speed Up Advanced Timeline Control in FCPX
-date: 2024-04-29T06:11:27.707Z
-updated: 2024-04-30T06:11:27.707Z
+date: 2024-05-19T10:31:44.699Z
+updated: 2024-05-20T10:31:44.699Z
 tags: 
   - video editing software
   - video editing
@@ -2945,4 +2945,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/sony-xperia-10-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 10 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Moto G04? | Dr.fone</u></a></li>
 </ul></div>
+
 

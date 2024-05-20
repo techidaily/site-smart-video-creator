@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators
-date: 2024-04-29T06:17:00.799Z
-updated: 2024-04-30T06:17:00.799Z
+date: 2024-05-19T10:32:09.885Z
+updated: 2024-05-20T10:32:09.885Z
 tags: 
   - video editing software
   - video editing
@@ -1817,4 +1817,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/samsung-galaxy-s23-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy S23 won’t play MP4 files</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-x5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco X5? | Dr.fone</u></a></li>
 </ul></div>
+
 

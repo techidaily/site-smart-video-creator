@@ -1,7 +1,7 @@
 ---
 title: Updated Change Video Playback Rate in Camtasia A Step-by-Step Guide
-date: 2024-04-29T06:15:59.098Z
-updated: 2024-04-30T06:15:59.098Z
+date: 2024-05-19T10:32:05.862Z
+updated: 2024-05-20T10:32:05.862Z
 tags: 
   - video editing software
   - video editing
@@ -2431,4 +2431,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-zte-nubia-z60-ultra-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For ZTE Nubia Z60 Ultra by Name | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-a2plus-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi A2+ Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

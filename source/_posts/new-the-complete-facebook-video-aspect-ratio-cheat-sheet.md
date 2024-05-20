@@ -1,7 +1,7 @@
 ---
 title: New The Complete Facebook Video Aspect Ratio Cheat Sheet
-date: 2024-04-29T06:24:43.991Z
-updated: 2024-04-30T06:24:43.991Z
+date: 2024-05-19T10:32:39.203Z
+updated: 2024-05-20T10:32:39.203Z
 tags: 
   - video editing software
   - video editing
@@ -2484,4 +2484,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for ZTE Axon 40 Lite | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-tecno-spark-10-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Tecno Spark 10 5G.</u></a></li>
 </ul></div>
+
 

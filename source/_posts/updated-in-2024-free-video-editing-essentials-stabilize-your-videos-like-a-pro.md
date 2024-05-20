@@ -3672,3 +3672,4 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://screen-mirror.techidaily.com/a-guide-lava-blaze-2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Lava Blaze 2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

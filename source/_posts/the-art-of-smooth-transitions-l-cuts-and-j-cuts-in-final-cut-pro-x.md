@@ -1,7 +1,7 @@
 ---
 title: The Art of Smooth Transitions L-Cuts and J-Cuts in Final Cut Pro X
-date: 2024-04-29T06:11:35.257Z
-updated: 2024-04-30T06:11:35.257Z
+date: 2024-05-19T10:31:44.913Z
+updated: 2024-05-20T10:31:44.913Z
 tags: 
   - video editing software
   - video editing
@@ -1733,4 +1733,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/oppo-a18-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Oppo A18 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy F15 5G</u></a></li>
 </ul></div>
+
 

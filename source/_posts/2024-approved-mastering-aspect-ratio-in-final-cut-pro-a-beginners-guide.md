@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Aspect Ratio in Final Cut Pro A Beginners Guide
-date: 2024-04-29T06:21:26.003Z
-updated: 2024-04-30T06:21:26.003Z
+date: 2024-05-19T10:32:26.303Z
+updated: 2024-05-20T10:32:26.303Z
 tags: 
   - video editing software
   - video editing
@@ -1636,4 +1636,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo T2 Pro 5G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y100is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y100is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

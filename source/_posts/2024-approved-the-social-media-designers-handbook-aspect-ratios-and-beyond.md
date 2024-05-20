@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Social Media Designers Handbook Aspect Ratios and Beyond
-date: 2024-04-29T06:25:00.555Z
-updated: 2024-04-30T06:25:00.555Z
+date: 2024-05-19T10:32:40.336Z
+updated: 2024-05-20T10:32:40.336Z
 tags: 
   - video editing software
   - video editing
@@ -2027,4 +2027,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y200e-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y200e 5G Phone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y02t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y02T Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

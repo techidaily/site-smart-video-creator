@@ -1,7 +1,7 @@
 ---
 title: How to Break Down AVI Files Into Smaller Clips A Simple Tutorial
-date: 2024-04-29T06:10:50.351Z
-updated: 2024-04-30T06:10:50.351Z
+date: 2024-05-19T10:31:42.302Z
+updated: 2024-05-20T10:31:42.302Z
 tags: 
   - video editing software
   - video editing
@@ -2726,4 +2726,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-no-cost-no-problem-top-10-free-webm-video-editors/"><u>Updated No Cost, No Problem Top 10 Free WebM Video Editors</u></a></li>
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

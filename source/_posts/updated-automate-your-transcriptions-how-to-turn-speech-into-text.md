@@ -1,7 +1,7 @@
 ---
 title: Updated Automate Your Transcriptions How to Turn Speech Into Text
-date: 2024-04-29T06:15:03.130Z
-updated: 2024-04-30T06:15:03.130Z
+date: 2024-05-19T10:32:01.937Z
+updated: 2024-05-20T10:32:01.937Z
 tags: 
   - video editing software
   - video editing
@@ -1936,4 +1936,5 @@ It is pretty convenient to reduce the playback speed in VLC media player regardl
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pova 6 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-transcribe-audio-to-text-a-step-by-step-guide/"><u>New Transcribe Audio to Text A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

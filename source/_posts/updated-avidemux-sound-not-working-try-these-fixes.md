@@ -1,7 +1,7 @@
 ---
 title: Updated Avidemux Sound Not Working? Try These Fixes
-date: 2024-04-29T06:15:05.690Z
-updated: 2024-04-30T06:15:05.690Z
+date: 2024-05-19T10:32:02.127Z
+updated: 2024-05-20T10:32:02.127Z
 tags: 
   - video editing software
   - video editing
@@ -2345,4 +2345,5 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-music-after-redmi-13c-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Redmi 13C 5G has been deleted</u></a></li>
 </ul></div>
+
 

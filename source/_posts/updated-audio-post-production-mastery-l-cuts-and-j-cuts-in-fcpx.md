@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX
-date: 2024-04-29T06:15:02.067Z
-updated: 2024-04-30T06:15:02.067Z
+date: 2024-05-19T10:32:01.915Z
+updated: 2024-05-20T10:32:01.915Z
 tags: 
   - video editing software
   - video editing
@@ -1736,4 +1736,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y36-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36 Phone without Any Data Loss</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-c51-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco C51 Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

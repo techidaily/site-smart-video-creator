@@ -1,7 +1,7 @@
 ---
 title: Cutting It Up A Beginners Guide to Splitting Videos in Windows Live Movie Maker
-date: 2024-04-29T06:10:08.861Z
-updated: 2024-04-30T06:10:08.861Z
+date: 2024-05-19T10:31:39.668Z
+updated: 2024-05-20T10:31:39.668Z
 tags: 
   - video editing software
   - video editing
@@ -2164,4 +2164,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-6sipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 6s/iPad? Solved | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-the-popular-video-text-effects-to-your-video/"><u>How to Add the Popular Video Text Effects to Your Video?</u></a></li>
 </ul></div>
+
 

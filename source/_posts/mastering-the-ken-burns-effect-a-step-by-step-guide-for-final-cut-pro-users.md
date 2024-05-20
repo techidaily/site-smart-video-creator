@@ -1,7 +1,7 @@
 ---
 title: Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users
-date: 2024-04-29T06:09:34.683Z
-updated: 2024-04-30T06:09:34.683Z
+date: 2024-05-19T10:31:37.427Z
+updated: 2024-05-20T10:31:37.427Z
 tags: 
   - video editing software
   - video editing
@@ -2813,4 +2813,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your OnePlus Ace 2V | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/top-5-nokia-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Lumafusion on Mac OS A Complete Installation and Alternative Guide
-date: 2024-04-29T06:20:58.474Z
-updated: 2024-04-30T06:20:58.474Z
+date: 2024-05-19T10:32:25.098Z
+updated: 2024-05-20T10:32:25.098Z
 tags: 
   - video editing software
   - video editing
@@ -2655,4 +2655,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 After Forgetting the Passcode?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F15 5G FRP?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Tutorial Trimming and Cropping Images Like a Pro
-date: 2024-04-29T06:18:18.408Z
-updated: 2024-04-30T06:18:18.408Z
+date: 2024-05-19T10:32:14.757Z
+updated: 2024-05-20T10:32:14.757Z
 tags: 
   - video editing software
   - video editing
@@ -3394,4 +3394,5 @@ Filmora unleashed some new features for advanced editing capabilities.
 <li><a href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-play-7t-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor Play 7T)</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-x-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone X in the Best Ways</u></a></li>
 </ul></div>
+
 

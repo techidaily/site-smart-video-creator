@@ -1,7 +1,7 @@
 ---
 title: New The Basics of HD Video Pixel Size Explained
-date: 2024-04-29T06:24:21.486Z
-updated: 2024-04-30T06:24:21.486Z
+date: 2024-05-19T10:32:37.433Z
+updated: 2024-05-20T10:32:37.433Z
 tags: 
   - video editing software
   - video editing
@@ -2182,4 +2182,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-12-mini-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 12 mini Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

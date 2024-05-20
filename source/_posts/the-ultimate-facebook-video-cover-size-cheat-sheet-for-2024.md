@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Facebook Video Cover Size Cheat Sheet for 2024
-date: 2024-04-29T06:14:21.570Z
-updated: 2024-04-30T06:14:21.570Z
+date: 2024-05-19T10:31:59.408Z
+updated: 2024-05-20T10:31:59.408Z
 tags: 
   - video editing software
   - video editing
@@ -2728,4 +2728,5 @@ One of the main benefits of using a light video editor is its simplicity and eas
 <li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-7-plus-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 7 Plus?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

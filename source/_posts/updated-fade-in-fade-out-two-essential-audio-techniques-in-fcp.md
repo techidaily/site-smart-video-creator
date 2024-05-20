@@ -1,7 +1,7 @@
 ---
 title: Updated Fade In, Fade Out Two Essential Audio Techniques in FCP
-date: 2024-04-29T06:13:51.792Z
-updated: 2024-04-30T06:13:51.792Z
+date: 2024-05-19T10:31:55.404Z
+updated: 2024-05-20T10:31:55.404Z
 tags: 
   - video editing software
   - video editing
@@ -3008,4 +3008,5 @@ So, now you know about the top **audio waveform video generators.** You can choo
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-video-with-ppt-wondershare-virbo/"><u>Updated Create Video with PPT | Wondershare Virbo</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/excel-2003-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2003 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
 </ul></div>
+
 

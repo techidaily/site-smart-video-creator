@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Bokeh Effects Unleashed Top iOS and Android Apps for Photography
-date: 2024-04-29T06:15:41.945Z
-updated: 2024-04-30T06:15:41.945Z
+date: 2024-05-19T10:32:04.972Z
+updated: 2024-05-20T10:32:04.972Z
 tags: 
   - video editing software
   - video editing
@@ -2383,4 +2383,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-for-dark-luts-premiere-pro-free-this-article-discusses-the-dark-moody-luts-with-top-recommendations-for-beginning-visual-editing/"><u>Updated Are You Looking for Dark LUTs Premiere Pro Free? This Article Discusses the Dark Moody LUTs with Top Recommendations for Beginning Visual Editing</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-13c-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi 13C 5G Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

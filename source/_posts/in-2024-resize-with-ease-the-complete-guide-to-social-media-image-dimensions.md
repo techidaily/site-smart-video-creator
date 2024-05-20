@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resize with Ease The Complete Guide to Social Media Image Dimensions
-date: 2024-04-29T06:22:52.913Z
-updated: 2024-04-30T06:22:52.913Z
+date: 2024-05-19T10:32:31.867Z
+updated: 2024-05-20T10:32:31.867Z
 tags: 
   - video editing software
   - video editing
@@ -2363,4 +2363,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m34-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M34 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a05s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A05s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

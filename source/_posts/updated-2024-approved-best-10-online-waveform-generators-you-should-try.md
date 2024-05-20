@@ -2228,3 +2228,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-resolve-format-error-not-a-pdf-or-corrupted-error-of-pdf-file-by-stellar-guide/"><u>How to Resolve Format error not a PDF or corrupted Error of PDF File</u></a></li>
 </ul></div>
 
+

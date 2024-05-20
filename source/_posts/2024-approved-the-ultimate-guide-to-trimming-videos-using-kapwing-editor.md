@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Guide to Trimming Videos Using Kapwing Editor
-date: 2024-04-29T06:25:30.446Z
-updated: 2024-04-30T06:25:30.446Z
+date: 2024-05-19T10:32:41.652Z
+updated: 2024-05-20T10:32:41.652Z
 tags: 
   - video editing software
   - video editing
@@ -2500,4 +2500,5 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-civi-3-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Civi 3? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

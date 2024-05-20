@@ -1,7 +1,7 @@
 ---
 title: From Click to View The Art of Creating Effective YouTube Thumbnails (Size, Design, and More) for 2024
-date: 2024-04-29T06:19:17.944Z
-updated: 2024-04-30T06:19:17.944Z
+date: 2024-05-19T10:32:18.187Z
+updated: 2024-05-20T10:32:18.187Z
 tags: 
   - video editing software
   - video editing
@@ -2697,4 +2697,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-smooth-cut-transition-effect/"><u>In 2024, How to Create a Smooth Cut Transition Effect?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-lava-blaze-pro-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Lava Blaze Pro 5G</u></a></li>
 </ul></div>
+
 

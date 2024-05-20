@@ -1,7 +1,7 @@
 ---
 title: Create Stunning Slow-Mo Videos with Kapwing A Step-by-Step Guide
-date: 2024-04-29T06:09:29.382Z
-updated: 2024-04-30T06:09:29.382Z
+date: 2024-05-19T10:31:37.188Z
+updated: 2024-05-20T10:31:37.188Z
 tags: 
   - video editing software
   - video editing
@@ -2730,4 +2730,5 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y200-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y200 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-11-pro-max-how-to-unlock-a-disabled-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 11 Pro Max How to Unlock a Disabled Apple iPhone 11 Pro Max?</u></a></li>
 </ul></div>
+
 

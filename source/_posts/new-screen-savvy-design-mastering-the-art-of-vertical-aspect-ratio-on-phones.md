@@ -1,7 +1,7 @@
 ---
 title: New Screen-Savvy Design Mastering the Art of Vertical Aspect Ratio on Phones
-date: 2024-04-29T06:23:26.008Z
-updated: 2024-04-30T06:23:26.008Z
+date: 2024-05-19T10:32:33.896Z
+updated: 2024-05-20T10:32:33.896Z
 tags: 
   - video editing software
   - video editing
@@ -2586,4 +2586,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Fingerprint Lock</u></a></li>
 </ul></div>
+
 

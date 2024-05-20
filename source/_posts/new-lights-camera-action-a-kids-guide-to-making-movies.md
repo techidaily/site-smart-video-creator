@@ -1,7 +1,7 @@
 ---
 title: New Lights, Camera, Action! A Kids Guide to Making Movies
-date: 2024-04-29T06:20:51.901Z
-updated: 2024-04-30T06:20:51.901Z
+date: 2024-05-19T10:32:24.836Z
+updated: 2024-05-20T10:32:24.836Z
 tags: 
   - video editing software
   - video editing
@@ -1699,4 +1699,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y100i Power 5G</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-moto-g73-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Moto G73 5G</u></a></li>
 </ul></div>
+
 

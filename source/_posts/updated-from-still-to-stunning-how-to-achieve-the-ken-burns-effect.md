@@ -1,7 +1,7 @@
 ---
 title: Updated From Still to Stunning How to Achieve the Ken Burns Effect
-date: 2024-04-29T06:19:34.119Z
-updated: 2024-04-30T06:19:34.119Z
+date: 2024-05-19T10:32:19.863Z
+updated: 2024-05-20T10:32:19.863Z
 tags: 
   - video editing software
   - video editing
@@ -2286,4 +2286,5 @@ Filmora also provides more advanced features for video editing like rotating, cr
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-hot-40i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 40i Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
+
 

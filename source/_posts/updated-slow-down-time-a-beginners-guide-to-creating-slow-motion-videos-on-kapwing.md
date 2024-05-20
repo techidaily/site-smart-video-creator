@@ -1,7 +1,7 @@
 ---
 title: Updated Slow Down Time A Beginners Guide to Creating Slow-Motion Videos on Kapwing
-date: 2024-04-29T06:23:39.521Z
-updated: 2024-04-30T06:23:39.521Z
+date: 2024-05-19T10:32:34.959Z
+updated: 2024-05-20T10:32:34.959Z
 tags: 
   - video editing software
   - video editing
@@ -2075,4 +2075,5 @@ You may use VHS effects to add variety to the photographs and videos you upload 
 <li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2007-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2007 File Error</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 
