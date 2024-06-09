@@ -1,7 +1,7 @@
 ---
 title: Video Editing Essentials How to Freeze Frames Like a Pro
-date: 2024-05-19T10:31:47.871Z
-updated: 2024-05-20T10:31:47.871Z
+date: 2024-06-08T14:57:26.961Z
+updated: 2024-06-09T14:57:26.961Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Video Editing Essentials How to Freeze Frames Like a Pro
 excerpt: This Article Describes Video Editing Essentials How to Freeze Frames Like a Pro
 keywords: free video editing essentials stabilize your videos like a pro,easy video editing how to freeze frames like a pro in minutes,video editing essentials how to resize and crop videos,pause perfection how to freeze frame in videos like a pro,video editing essentials freezing frames like a pro,video editing essentials how to freeze frames like a pro,jaycut essentials learn how to use free online video editing software like a pro
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Video Editing Essentials: How to Freeze Frames Like a Pro

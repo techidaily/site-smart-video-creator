@@ -1,7 +1,7 @@
 ---
 title: Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX
-date: 2024-05-19T10:31:38.552Z
-updated: 2024-05-20T10:31:38.553Z
+date: 2024-06-08T14:56:59.807Z
+updated: 2024-06-09T14:56:59.807Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX
 excerpt: This Article Describes Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX
 keywords: audio editing mastery l cuts and j cuts in final cut pro x,audio post production in fcpx l cuts j cuts and more,mastering audio transitions in fcpx l cuts and j cuts explained,audio post production in fcp tips and tricks,audio post production mastery l cuts and j cuts in fcpx,ai animation mastering audio transitions in fcpx l cuts and j cuts explained,mastering audio post production in final cut pro
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Audio Post-Production Mastery: L-Cuts and J-Cuts in FCPX

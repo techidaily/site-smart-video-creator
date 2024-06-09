@@ -1,7 +1,7 @@
 ---
 title: Updated Windows Video Editing Made Easy A Guide to Microsoft Video Editor
-date: 2024-05-19T10:32:56.179Z
-updated: 2024-05-20T10:32:56.179Z
+date: 2024-06-08T14:57:06.111Z
+updated: 2024-06-09T14:57:06.111Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Windows Video Editing Made Easy A Guide to Microsoft Video Editor
 excerpt: This Article Describes Updated Windows Video Editing Made Easy A Guide to Microsoft Video Editor
 keywords: easy video editing software for windows microsoft video editor review,windows video editor a beginners guide to microsoft video editor,video editing made simple microsoft video editor for windows 10 8 and 7 users,windows video editing made easy a guide to microsoft video editor,windows 1087 video editing tutorial master microsoft video editor,microsoft video editor the ultimate guide to editing videos on windows,get started with microsoft video editor easy video editing for windows users
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## Windows Video Editing Made Easy: A Guide to Microsoft Video Editor

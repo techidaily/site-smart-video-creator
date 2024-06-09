@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Simple Yet Powerful Video Editing Options
-date: 2024-04-29T06:42:25.769Z
-updated: 2024-04-30T06:42:25.769Z
+date: 2024-06-08T14:57:12.785Z
+updated: 2024-06-09T14:57:12.785Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Simple Yet Powerful Video Editing Options
 excerpt: This Article Describes New In 2024, Simple Yet Powerful Video Editing Options
 keywords: ai animation cheap but powerful video editing software,simple yet powerful video editors for learners,best cheap yet powerful video editing software,simple yet powerful video editing options,free yet powerful top 4k video editing software,simple yet powerful video editing programs,cheap but powerful video editing software options
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## Simple Yet Powerful Video Editing Options

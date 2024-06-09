@@ -1,7 +1,7 @@
 ---
 title: New MP4 File Editing on Mavericks A Step-by-Step Tutorial for 2024
-date: 2024-04-29T06:40:34.573Z
-updated: 2024-04-30T06:40:34.573Z
+date: 2024-06-08T14:57:31.401Z
+updated: 2024-06-09T14:57:31.401Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New MP4 File Editing on Mavericks A Step-by-Step Tutorial for 2024
 excerpt: This Article Describes New MP4 File Editing on Mavericks A Step-by-Step Tutorial for 2024
 keywords: quicktime video editing for mac users a step by step tutorial,ai animation quicktime video editing for mac users a step by step tutorial,how to edit mp4 videos on mac mavericks a step by step guide,mp4 file editing on mavericks a step by step tutorial,mastering video editing a step by step online tutorial,video editing for mac yosemite a step by step tutorial,transform your mp4 files a step by step video editing tutorial for mac and windows
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## MP4 File Editing on Mavericks: A Step-by-Step Tutorial

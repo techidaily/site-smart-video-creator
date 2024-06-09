@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Detect and Fix Image Aspect Imbalance
-date: 2024-04-29T06:34:25.128Z
-updated: 2024-04-30T06:34:25.128Z
+date: 2024-06-08T14:57:02.877Z
+updated: 2024-06-09T14:57:02.877Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Detect and Fix Image Aspect Imbalance
 excerpt: This Article Describes New In 2024, Detect and Fix Image Aspect Imbalance
 keywords: find and set ideal image ratio,detect and fix image aspect imbalance,determine and fix aspect ratio,identify and improve image aspect,ai animation resize and refine image aspect ratio,resize and refine image aspect ratio,how to calculate image resolution and aspect ratio
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Detect and Fix Image Aspect Imbalance

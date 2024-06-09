@@ -1,7 +1,7 @@
 ---
 title: New This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X for 2024
-date: 2024-04-29T06:45:28.871Z
-updated: 2024-04-30T06:45:28.871Z
+date: 2024-06-08T14:57:02.475Z
+updated: 2024-06-09T14:57:02.475Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X for 2024
 excerpt: This Article Describes New This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X for 2024
 keywords: ai animation final cut pro x freeze frames and slow motion,this article shows you how to do freeze frames and slow motion in final cut pro x,this article shows the detail steps to add titles in final cut pro x,use auto sync of final cut pro to deal with out of sync problem in you video this article shows you how and more,final cut pro x freeze frames and slow motion,freeze frames slow motion final cut pro x,final cut pro x the art of freeze frames and slow motion storytelling
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X

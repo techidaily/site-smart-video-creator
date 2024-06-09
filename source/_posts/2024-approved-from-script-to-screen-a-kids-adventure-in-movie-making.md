@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From Script to Screen A Kids Adventure in Movie Making
-date: 2024-04-29T06:50:24.758Z
-updated: 2024-04-30T06:50:24.758Z
+date: 2024-06-08T14:57:00.356Z
+updated: 2024-06-09T14:57:00.356Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved From Script to Screen A Kids Adventure in Movie Making
 excerpt: This Article Describes 2024 Approved From Script to Screen A Kids Adventure in Movie Making
 keywords: from script to screen choosing the right android movie maker,from script to screen 8 excellent mac movie creation apps,from script to screen a kids guide to movie making,from script to screen a kids adventure in movie making,from idea to screen a simplified movie making process,from script to screen a kids journey in movie making,from script to screen 10 essential android movie making tools
-thumbnail: https://www.lifewire.com/thmb/36O6mR-32uZPQcZCa_oWmrz1kHY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8fb87ff4960ee8bff73c07e4.jpg
 ---
 
 ## From Script to Screen: A Kid's Adventure in Movie Making

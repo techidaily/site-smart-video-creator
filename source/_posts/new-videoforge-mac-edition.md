@@ -1,7 +1,7 @@
 ---
 title: New VideoForge Mac Edition
-date: 2024-05-19T10:32:53.728Z
-updated: 2024-05-20T10:32:53.728Z
+date: 2024-06-08T14:57:24.476Z
+updated: 2024-06-09T14:57:24.476Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New VideoForge Mac Edition
 excerpt: This Article Describes New VideoForge Mac Edition
 keywords: vn video editor mac,best video editing software for mac,videoforge mac edition,avs video editor mac,videoforge for mac,macvideo editor,top mac video editors of
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## VideoForge Mac Edition

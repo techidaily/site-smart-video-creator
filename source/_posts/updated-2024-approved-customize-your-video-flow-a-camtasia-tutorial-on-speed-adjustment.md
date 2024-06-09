@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Customize Your Video Flow A Camtasia Tutorial on Speed Adjustment
-date: 2024-04-29T06:34:06.944Z
-updated: 2024-04-30T06:34:06.944Z
+date: 2024-06-08T14:56:57.006Z
+updated: 2024-06-09T14:56:57.006Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Customize Your Video Flow A Camtasia Tutorial on Speed Adjustment
 excerpt: This Article Describes Updated 2024 Approved Customize Your Video Flow A Camtasia Tutorial on Speed Adjustment
 keywords: speed up or slow down a comprehensive camtasia video guide,customize your video pace with camtasias speed controls,customize your video flow a camtasia tutorial on speed adjustment,video editing freedom how to use any app on your chromebook updated 2023,video pace control a beginners guide to camtasia speed adjustment,camtasia tutorial control video speed,customize your videos speed in camtasia a beginners guide
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Customize Your Video Flow: A Camtasia Tutorial on Speed Adjustment

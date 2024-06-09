@@ -1,7 +1,7 @@
 ---
 title: New Shrink Your Timeline A Simple Guide to Creating Time Lapse Videos for 2024
-date: 2024-04-29T06:42:24.309Z
-updated: 2024-04-30T06:42:24.309Z
+date: 2024-06-08T14:57:21.842Z
+updated: 2024-06-09T14:57:21.842Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Shrink Your Timeline A Simple Guide to Creating Time Lapse Videos for 2024
 excerpt: This Article Describes New Shrink Your Timeline A Simple Guide to Creating Time Lapse Videos for 2024
 keywords: accelerate your footage a step by step guide to time lapse videos,transform your videos a beginners guide to time lapse in final cut pro,shrink your timeline a simple guide to creating time lapse videos,capture the love a simple guide to creating a valentines day video montage,cartoonize your memories a simple guide to converting videos,condense your clips a beginners guide to creating time lapse videos,fast forward your videos a beginners guide to time lapse software
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Shrink Your Timeline: A Simple Guide to Creating Time Lapse Videos

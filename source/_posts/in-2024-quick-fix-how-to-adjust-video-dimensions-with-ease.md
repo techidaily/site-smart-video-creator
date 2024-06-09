@@ -1,7 +1,7 @@
 ---
 title: In 2024, Quick Fix How to Adjust Video Dimensions with Ease
-date: 2024-05-19T10:32:31.040Z
-updated: 2024-05-20T10:32:31.040Z
+date: 2024-06-08T14:57:08.533Z
+updated: 2024-06-09T14:57:08.533Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Quick Fix How to Adjust Video Dimensions with Ease
 excerpt: This Article Describes In 2024, Quick Fix How to Adjust Video Dimensions with Ease
 keywords: ai animation how to flip video quickly and easily,camtasia essentials how to adjust video speed with ease,twitter video dimensions a quick guide to getting it right,from start to finish how to edit videos with quicktime on mac,how to get twitter video dimensions,quick fix how to adjust video dimensions with ease,unleash your creativity how to edit videos with quicktime on mac
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Quick Fix: How to Adjust Video Dimensions with Ease

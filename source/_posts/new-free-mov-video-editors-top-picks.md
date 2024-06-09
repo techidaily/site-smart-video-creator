@@ -1,7 +1,7 @@
 ---
 title: New Free MOV Video Editors Top Picks
-date: 2024-05-19T10:32:16.292Z
-updated: 2024-05-20T10:32:16.292Z
+date: 2024-06-08T14:57:15.798Z
+updated: 2024-06-09T14:57:15.798Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free MOV Video Editors Top Picks
 excerpt: This Article Describes New Free MOV Video Editors Top Picks
 keywords: free mov video splitters top picks for you,free online video editors like imovie top picks,free mov video editors top picks,free mod video editor roundup top picks,best free mov trimmers top picks for video editing,best mts video editors top picks,free mov video editors
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Free MOV Video Editors: Top Picks

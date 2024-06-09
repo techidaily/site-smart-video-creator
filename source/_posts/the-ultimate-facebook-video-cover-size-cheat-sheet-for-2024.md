@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Facebook Video Cover Size Cheat Sheet for 2024
-date: 2024-05-19T10:31:59.408Z
-updated: 2024-05-20T10:31:59.408Z
+date: 2024-06-08T14:57:22.419Z
+updated: 2024-06-09T14:57:22.419Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate Facebook Video Cover Size Cheat Sheet for 2024
 excerpt: This Article Describes The Ultimate Facebook Video Cover Size Cheat Sheet for 2024
 keywords: the ultimate facebook video cover size cheat sheet,mastering facebook video the ultimate aspect ratio cheat sheet,the ultimate cheat sheet mastering facebook video aspect ratios,the ultimate guide to facebook video cover size and dimensions,the ultimate facebook video cover checklist size resolution and more,ai animation the ultimate facebook video cover size cheat sheet,the complete facebook video aspect ratio cheat sheet
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## The Ultimate Facebook Video Cover Size Cheat Sheet

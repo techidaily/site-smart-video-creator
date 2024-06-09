@@ -1,7 +1,7 @@
 ---
 title: Reduce Video Size Online 10 Best Free Compression Tools
-date: 2024-05-19T10:31:44.487Z
-updated: 2024-05-20T10:31:44.487Z
+date: 2024-06-08T14:57:25.457Z
+updated: 2024-06-09T14:57:25.457Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Reduce Video Size Online 10 Best Free Compression Tools
 excerpt: This Article Describes Reduce Video Size Online 10 Best Free Compression Tools
 keywords: reduce video size for free 10 top online compression tools,reduce video size online 10 best free compression tools,free online video compression made easy 10 best tools,shrink your videos 10 best free online compression tools,reduce video size for free 10 best online compressors,the best of the web 10 free online video compression tools,free video compression made easy 10 best online tools
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Reduce Video Size Online: 10 Best Free Compression Tools

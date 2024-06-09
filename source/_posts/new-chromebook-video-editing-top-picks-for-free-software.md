@@ -1,7 +1,7 @@
 ---
 title: New Chromebook Video Editing Top Picks for Free Software
-date: 2024-05-19T10:32:06.030Z
-updated: 2024-05-20T10:32:06.030Z
+date: 2024-06-08T14:57:31.109Z
+updated: 2024-06-09T14:57:31.109Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Chromebook Video Editing Top Picks for Free Software
 excerpt: This Article Describes New Chromebook Video Editing Top Picks for Free Software
 keywords: free and fantastic top video editing software for chromebook users,top 10 best free video editing software for chromebook,edit videos on your chromebook top free software picks,free video editing apps for chromebook top picks,chromebook video editing software top picks,chromebook video editing top picks for free software,top chromebook video editing software free options
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Chromebook Video Editing: Top Picks for Free Software

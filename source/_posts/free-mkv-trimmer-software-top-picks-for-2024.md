@@ -1,7 +1,7 @@
 ---
 title: Free MKV Trimmer Software Top Picks for 2024
-date: 2024-05-19T10:32:16.263Z
-updated: 2024-05-20T10:32:16.263Z
+date: 2024-06-08T14:57:31.233Z
+updated: 2024-06-09T14:57:31.233Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Free MKV Trimmer Software Top Picks for 2024
 excerpt: This Article Describes Free MKV Trimmer Software Top Picks for 2024
 keywords: edit m4a files for free top software picks,free mkv trimming software top 10 picks,cutting edge mkv trimmers for mac top picks 2023,free wmv video merger software top picks,free mp4 video trimming software top picks,free divx video trimming software top picks,free mkv trimmer software top picks
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Free MKV Trimmer Software: Top Picks

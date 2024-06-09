@@ -1,7 +1,7 @@
 ---
 title: New Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite
-date: 2024-05-19T10:32:50.511Z
-updated: 2024-05-20T10:32:50.511Z
+date: 2024-06-08T14:57:05.032Z
+updated: 2024-06-09T14:57:05.032Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite
 excerpt: This Article Describes New Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite
 keywords: unleash your creativity how to edit nikon video files with ease,how to edit video files on mac os x yosemite,unleash your creativity video editing on mac os x yosemite for beginners,unleash your creativity how to edit videos with quicktime on mac,unleash your creativity how to edit gopro videos on mac,unleash your creativity how to edit video files on mac os x yosemite,ai animation unleash your creativity how to edit nikon video files with ease
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Unleash Your Creativity: How to Edit Video Files on Mac OS X Yosemite

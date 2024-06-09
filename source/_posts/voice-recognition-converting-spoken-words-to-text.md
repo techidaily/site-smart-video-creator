@@ -1,7 +1,7 @@
 ---
 title: Voice Recognition Converting Spoken Words to Text
-date: 2024-05-19T10:31:48.326Z
-updated: 2024-05-20T10:31:48.326Z
+date: 2024-06-08T14:57:00.125Z
+updated: 2024-06-09T14:57:00.125Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Voice Recognition Converting Spoken Words to Text
 excerpt: This Article Describes Voice Recognition Converting Spoken Words to Text
 keywords: speech recognition made easy converting audio to text,unlocking the power of speech recognition text conversion 101,voice recognition converting spoken words to text,say it write it how to convert spoken words to written text,converting voice recordings to written documents,speak record transcribe converting voice to text with ease,the ultimate guide to converting text to voice recordings
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Voice Recognition: Converting Spoken Words to Text

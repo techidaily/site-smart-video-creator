@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Trim and Split 3GP Videos in Minutes
-date: 2024-04-29T06:38:41.228Z
-updated: 2024-04-30T06:38:41.228Z
+date: 2024-06-08T14:57:08.118Z
+updated: 2024-06-09T14:57:08.118Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Trim and Split 3GP Videos in Minutes
 excerpt: This Article Describes New 2024 Approved How to Trim and Split 3GP Videos in Minutes
 keywords: kapwing editor how to trim and shorten your videos in minutes,split and trim 3gp files in minutes 2023 guide,3gp file trimmer learn how to cut and split videos,how to trim and split 3gp videos in minutes,edit 3gp videos like a pro cutting trimming and more,how to trim cut and edit 3gp videos like a pro,split trim and convert avi files in minutes 2023 edition
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## How to Trim and Split 3GP Videos in Minutes

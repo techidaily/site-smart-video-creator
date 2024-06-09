@@ -1,7 +1,7 @@
 ---
 title: Updated Compress WebM Videos for Free Top Online Tools
-date: 2024-05-19T10:32:06.441Z
-updated: 2024-05-20T10:32:06.441Z
+date: 2024-06-08T14:57:08.436Z
+updated: 2024-06-09T14:57:08.436Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Compress WebM Videos for Free Top Online Tools
 excerpt: This Article Describes Updated Compress WebM Videos for Free Top Online Tools
 keywords: reduce video size for free 10 top online compression tools,compress webm videos with ease top online tools,compress webm videos for free top online tools,combine mpeg videos for free top rated tools,top webm video compression tools online,compress videos instantly 10 top free online tools,compress videos for free top windows 10 tools
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Compress WebM Videos for Free: Top Online Tools

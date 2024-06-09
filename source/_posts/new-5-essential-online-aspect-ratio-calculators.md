@@ -1,7 +1,7 @@
 ---
 title: New 5 Essential Online Aspect Ratio Calculators
-date: 2024-05-19T10:31:50.777Z
-updated: 2024-05-20T10:31:50.777Z
+date: 2024-06-08T14:57:18.233Z
+updated: 2024-06-09T14:57:18.233Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 5 Essential Online Aspect Ratio Calculators
 excerpt: This Article Describes New 5 Essential Online Aspect Ratio Calculators
 keywords: aspect ratio calculator online,ai animation 5 essential online aspect ratio calculators you need,top 5 aspect ratio calculators online,5 essential aspect ratio calculators you need to know,5 essential online aspect ratio calculators,best 5 aspect ratio calculators online,5 essential online aspect ratio calculators you need
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## 5 Essential Online Aspect Ratio Calculators

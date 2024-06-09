@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top Lego Animation Creators
-date: 2024-04-29T06:45:54.030Z
-updated: 2024-04-30T06:45:54.030Z
+date: 2024-06-08T14:56:57.661Z
+updated: 2024-06-09T14:56:57.661Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Top Lego Animation Creators
 excerpt: This Article Describes New 2024 Approved Top Lego Animation Creators
 keywords: ai animation top whatsapp video status creators,ai animation top apple video editors for creators,top lego animators to watch,lego animation all stars the top creators,the top rated lego animation teams,top free gif animation creators,top lego animation creators
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## Top Lego Animation Creators

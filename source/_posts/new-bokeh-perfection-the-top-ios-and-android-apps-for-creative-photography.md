@@ -1,7 +1,7 @@
 ---
 title: New Bokeh Perfection The Top iOS and Android Apps for Creative Photography
-date: 2024-05-19T10:32:04.993Z
-updated: 2024-05-20T10:32:04.993Z
+date: 2024-06-08T14:57:09.929Z
+updated: 2024-06-09T14:57:09.929Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Bokeh Perfection The Top iOS and Android Apps for Creative Photography
 excerpt: This Article Describes New Bokeh Perfection The Top iOS and Android Apps for Creative Photography
 keywords: mastering bokeh the best mobile apps for ios and android photographers,bokeh magic the best ios and android apps for creative blur effects,bokeh magic top rated apps for ios and android phones,bokeh effects unleashed top ios and android apps for photography,get the perfect blur top bokeh apps for ios and android,bokeh perfection the top ios and android apps for creative photography,create stunning bokeh top apps for iphone and android
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## Bokeh Perfection: The Top iOS and Android Apps for Creative Photography

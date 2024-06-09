@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Editing 101 Trimming Videos with Kapwings Online Tool
-date: 2024-04-29T06:47:59.430Z
-updated: 2024-04-30T06:47:59.430Z
+date: 2024-06-08T14:57:14.554Z
+updated: 2024-06-09T14:57:14.554Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Video Editing 101 Trimming Videos with Kapwings Online Tool
 excerpt: This Article Describes New In 2024, Video Editing 101 Trimming Videos with Kapwings Online Tool
 keywords: video editing 101 trimming videos with kapwings online tool,top 10 free video editing tools for trimming videos online,video editing basics trimming videos with kapwing online,online video editing made easy trimming with kapwing,the ultimate guide to trimming videos online with kapwing editor,master video trimming with kapwings online editor,the ultimate guide to trimming videos with kapwings online editor
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Video Editing 101: Trimming Videos with Kapwing's Online Tool

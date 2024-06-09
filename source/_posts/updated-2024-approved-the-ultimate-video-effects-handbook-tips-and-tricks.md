@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate Video Effects Handbook Tips and Tricks
-date: 2024-04-29T06:45:21.177Z
-updated: 2024-04-30T06:45:21.177Z
+date: 2024-06-08T14:57:09.290Z
+updated: 2024-06-09T14:57:09.290Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Ultimate Video Effects Handbook Tips and Tricks
 excerpt: This Article Describes Updated 2024 Approved The Ultimate Video Effects Handbook Tips and Tricks
 keywords: the ultimate fcp motion blur handbook tips and tricks,the ultimate canon video editing handbook software tips and trends,the ultimate mac movie making handbook tips tricks and tutorials,the ultimate os x mavericks video editing handbook,the ultimate video effects handbook tips and tricks,tiktok video dimensions 2024 the ultimate aspect ratio handbook,the ultimate windows movie maker handbook tips tricks and techniques
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## The Ultimate Video Effects Handbook: Tips and Tricks

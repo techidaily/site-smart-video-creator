@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
-date: 2024-04-29T06:35:56.468Z
-updated: 2024-04-30T06:35:56.468Z
+date: 2024-06-08T14:57:30.455Z
+updated: 2024-06-09T14:57:30.455Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
 excerpt: This Article Describes Updated In 2024, FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts
 keywords: pro editing techniques l cuts and j cuts in fcpx made easy,fcpx audio editing essentials l cuts j cuts and more,mastering audio transitions in fcpx l cuts and j cuts explained,fcpx audio editing essentials learn l cuts and j cuts,audio editing essentials 2 ways to fade in and out in fcp,advanced fcpx editing l cuts j cuts and expert audio tips,fcpx audio editing essentials a step by step guide to l cuts and j cuts
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## FCPX Audio Editing Essentials: Learn L-Cuts and J-Cuts

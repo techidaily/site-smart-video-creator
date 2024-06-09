@@ -1,7 +1,7 @@
 ---
 title: In 2024, Windows Live Movie Maker Tutorial Splitting Videos Made Easy
-date: 2024-05-19T10:32:56.066Z
-updated: 2024-05-20T10:32:56.066Z
+date: 2024-06-08T14:57:25.274Z
+updated: 2024-06-09T14:57:25.274Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Windows Live Movie Maker Tutorial Splitting Videos Made Easy
 excerpt: This Article Describes In 2024, Windows Live Movie Maker Tutorial Splitting Videos Made Easy
 keywords: video editing made easy a windows movie maker tutorial for all,the ultimate guide to splitting videos in windows live movie maker 2023 edition,windows live movie maker tutorial splitting videos made easy,windows live movie maker tutorial splitting videos like a pro,windows movie maker tutorial editing videos like a pro,windows live movie maker tutorial easy video splitting techniques,video editing made easy splitting videos in windows live movie maker for pc users
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Windows Live Movie Maker Tutorial: Splitting Videos Made Easy

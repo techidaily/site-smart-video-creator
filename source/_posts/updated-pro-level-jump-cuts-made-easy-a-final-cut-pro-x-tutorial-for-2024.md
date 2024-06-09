@@ -1,7 +1,7 @@
 ---
 title: Updated Pro-Level Jump Cuts Made Easy A Final Cut Pro X Tutorial for 2024
-date: 2024-04-29T06:41:10.764Z
-updated: 2024-04-30T06:41:10.764Z
+date: 2024-06-08T14:57:24.416Z
+updated: 2024-06-09T14:57:24.416Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Pro-Level Jump Cuts Made Easy A Final Cut Pro X Tutorial for 2024
 excerpt: This Article Describes Updated Pro-Level Jump Cuts Made Easy A Final Cut Pro X Tutorial for 2024
 keywords: video storytelling made easy a final cut pro slideshow tutorial for all levels,pro level jump cuts made easy a final cut pro x tutorial,vhs vibes made easy a final cut pro tutorial,pro level jump cuts in final cut pro x tips and tricks,title design made easy a final cut pro x tutorial,jump cut like a pro expert techniques for final cut pro x editors,final cut pro tutorial changing aspect ratio made easy 2023 update
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Pro-Level Jump Cuts Made Easy: A Final Cut Pro X Tutorial

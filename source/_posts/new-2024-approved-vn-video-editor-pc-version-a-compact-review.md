@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved VN Video Editor PC Version A Compact Review
-date: 2024-04-29T06:48:33.428Z
-updated: 2024-04-30T06:48:33.428Z
+date: 2024-06-08T14:57:00.767Z
+updated: 2024-06-09T14:57:00.767Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved VN Video Editor PC Version A Compact Review
 excerpt: This Article Describes New 2024 Approved VN Video Editor PC Version A Compact Review
 keywords: vn video editor pc version a compact review,vn video editor app review pros and cons,vn video editor pc edition a compact review,whats new with vn video editor on pc a 2024 review,the verdict on vn video editor apk a comprehensive review,a swift review of vn video editors pc version,ai animation vn video editor pc edition a compact review
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## VN Video Editor PC Version: A Compact Review

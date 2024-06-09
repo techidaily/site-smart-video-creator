@@ -1,7 +1,7 @@
 ---
 title: Updated Add a Slow Motion Effect to Your Videos for Free-Filmora
-date: 2024-05-19T10:31:51.600Z
-updated: 2024-05-20T10:31:51.600Z
+date: 2024-06-08T14:56:59.714Z
+updated: 2024-06-09T14:56:59.714Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Add a Slow Motion Effect to Your Videos for Free-Filmora
 excerpt: This Article Describes Updated Add a Slow Motion Effect to Your Videos for Free-Filmora
 keywords: from fast to furious add slow motion effects to your videos for free with filmora,ai animation add a slow motion effect to your videos for free filmora,get ready for dramatic effects add slow mo to your videos for free,make every moment epic add slow motion effects to your videos for free filmora,make every moment epic add slow motion effects to your videos for free,add a slow motion effect to your videos for free filmora,make your videos epic add slow motion effects for free with filmora
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## Add a Slow Motion Effect to Your Videos for Free-Filmora

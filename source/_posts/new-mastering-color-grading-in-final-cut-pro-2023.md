@@ -1,7 +1,7 @@
 ---
 title: New Mastering Color Grading in Final Cut Pro 2023
-date: 2024-05-19T10:32:26.364Z
-updated: 2024-05-20T10:32:26.364Z
+date: 2024-06-08T14:57:29.123Z
+updated: 2024-06-09T14:57:29.123Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering Color Grading in Final Cut Pro 2023
 excerpt: This Article Describes New Mastering Color Grading in Final Cut Pro 2023
 keywords: mastering color in final cut pro a step by step guide,the art of color grading in final cut pro,the art of cinematic color grading in final cut pro x,mastering image cropping in final cut pro x 2023 edition,mastering color grading in final cut pro 2023,from clash to harmony mastering color matching in final cut pro,mastering color grading in final cut pro
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Mastering Color Grading in Final Cut Pro 2023

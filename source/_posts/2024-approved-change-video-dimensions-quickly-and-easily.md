@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Change Video Dimensions Quickly and Easily
-date: 2024-04-29T06:49:43.680Z
-updated: 2024-04-30T06:49:43.680Z
+date: 2024-06-08T14:56:58.583Z
+updated: 2024-06-09T14:56:58.583Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Change Video Dimensions Quickly and Easily
 excerpt: This Article Describes 2024 Approved Change Video Dimensions Quickly and Easily
 keywords: how to flip video quickly and easily,get noticed the ideal facebook video cover size and dimensions,change video dimensions quickly and easily,change video dimensions fast a beginners guide,ai animation how to flip video quickly and easily,change the look how to modify video dimensions easily,the fastest way to change video dimensions
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## Change Video Dimensions Quickly and Easily

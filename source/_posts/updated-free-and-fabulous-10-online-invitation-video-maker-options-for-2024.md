@@ -1,7 +1,7 @@
 ---
 title: Updated Free and Fabulous 10 Online Invitation Video Maker Options for 2024
-date: 2024-04-29T06:36:30.994Z
-updated: 2024-04-30T06:36:30.994Z
+date: 2024-06-08T14:57:24.043Z
+updated: 2024-06-09T14:57:24.043Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Free and Fabulous 10 Online Invitation Video Maker Options for 2024
 excerpt: This Article Describes Updated Free and Fabulous 10 Online Invitation Video Maker Options for 2024
 keywords: create stunning invitations 10 free video maker options,top rated free online invitation video editors and makers,free and fabulous top 5 imovie alternatives for online video editing,ai animation top 10 best free invitation video makers online,top rated free invitation video makers for any occasion,make your own video invitations for free top online tools,free and fabulous 10 online invitation video maker options
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## Free and Fabulous: 10 Online Invitation Video Maker Options

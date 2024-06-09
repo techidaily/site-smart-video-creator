@@ -1,7 +1,7 @@
 ---
 title: New The Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-05-19T10:32:40.094Z
-updated: 2024-05-20T10:32:40.094Z
+date: 2024-06-08T14:57:29.925Z
+updated: 2024-06-09T14:57:29.925Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ken Burns Effect Made Easy Follow These Simple Steps
 excerpt: This Article Describes New The Ken Burns Effect Made Easy Follow These Simple Steps
 keywords: how to create ken burns effect detaied steps,ken burns effect made easy follow these simple steps,ai animation ken burns effect made easy follow these simple steps,the ken burns effect made easy follow these simple steps,ai animation how to create ken burns effect detaied steps,mastering the ken burns effect a step by step guide,ai animation mastering the ken burns effect a step by step guide
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## The Ken Burns Effect Made Easy: Follow These Simple Steps

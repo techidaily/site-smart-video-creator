@@ -1,7 +1,7 @@
 ---
 title: In 2024, Lower Thirds Like a Pro Tips and Tricks for FCPX Users
-date: 2024-05-19T10:32:25.036Z
-updated: 2024-05-20T10:32:25.036Z
+date: 2024-06-08T14:57:28.722Z
+updated: 2024-06-09T14:57:28.722Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Lower Thirds Like a Pro Tips and Tricks for FCPX Users
 excerpt: This Article Describes In 2024, Lower Thirds Like a Pro Tips and Tricks for FCPX Users
 keywords: recording voice overs in fcp like a pro top tips tricks,lower thirds mastery tips and tricks for fcpx users,lower thirds like a pro tips and tricks for fcpx users,easy video flipping tips and tricks for a pro look,the art of slow motion tips and tricks for windows live movie maker users,editing like a pro tips and tricks for sony camcorder video editors,color matching made easy tips and tricks for final cut pro users
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Lower Thirds Like a Pro: Tips and Tricks for FCPX Users

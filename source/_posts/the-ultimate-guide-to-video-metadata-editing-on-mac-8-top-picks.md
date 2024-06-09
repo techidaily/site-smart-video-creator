@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Video Metadata Editing on Mac 8 Top Picks
-date: 2024-05-19T10:31:45.932Z
-updated: 2024-05-20T10:31:45.932Z
+date: 2024-06-08T14:57:09.222Z
+updated: 2024-06-09T14:57:09.222Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate Guide to Video Metadata Editing on Mac 8 Top Picks
 excerpt: This Article Describes The Ultimate Guide to Video Metadata Editing on Mac 8 Top Picks
 keywords: the ultimate guide to video editing on a mac,ai animation the ultimate guide to video editing on a mac,the ultimate guide to video editing on mac,the ultimate guide to video metadata editing on mac top 8 picks,the ultimate list of mac video metadata editors top picks,the ultimate guide to video metadata editing on mac 8 top picks,the ultimate guide to quicktime video editing on mac
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## The Ultimate Guide to Video Metadata Editing on Mac: 8 Top Picks

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Slow Down Your Videos A VLC Tutorial
-date: 2024-04-29T06:31:07.252Z
-updated: 2024-04-30T06:31:07.252Z
+date: 2024-06-08T14:57:16.191Z
+updated: 2024-06-09T14:57:16.191Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Slow Down Your Videos A VLC Tutorial
 excerpt: This Article Describes Updated In 2024, Slow Down Your Videos A VLC Tutorial
 keywords: kapwing tutorial convert your videos to slow motion in minutes,vlc slow motion a beginners guide to slowing down your favorite videos,ai animation slow down your videos a vlc tutorial,slow down your videos a step by step guide to vlcs slo mo feature,slow down your videos a vlc tutorial,kapwing slow motion tutorial a beginners guide to slowing down your videos,slow down your videos a step by step guide to vlcs slow motion feature
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Slow Down Your Videos: A VLC Tutorial

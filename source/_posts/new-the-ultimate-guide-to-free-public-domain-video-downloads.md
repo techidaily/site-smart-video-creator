@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Free Public Domain Video Downloads
-date: 2024-05-19T10:32:41.139Z
-updated: 2024-05-20T10:32:41.139Z
+date: 2024-06-08T14:57:31.047Z
+updated: 2024-06-09T14:57:31.047Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ultimate Guide to Free Public Domain Video Downloads
 excerpt: This Article Describes New The Ultimate Guide to Free Public Domain Video Downloads
 keywords: the ultimate list of public domain video download websites,the ultimate guide to downloading videoleap on macbook proair,the ultimate guide to free public domain video downloads,the ultimate guide to free video trimming on windows 10,public domain video heaven top sites for free downloads,the ultimate guide to public domain video downloads,download free public domain videos from these top websites
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## The Ultimate Guide to Free Public Domain Video Downloads

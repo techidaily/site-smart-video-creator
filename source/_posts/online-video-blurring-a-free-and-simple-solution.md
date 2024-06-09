@@ -1,7 +1,7 @@
 ---
 title: Online Video Blurring A Free and Simple Solution
-date: 2024-05-19T10:31:43.711Z
-updated: 2024-05-20T10:31:43.711Z
+date: 2024-06-08T14:57:11.674Z
+updated: 2024-06-09T14:57:11.674Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Online Video Blurring A Free and Simple Solution
 excerpt: This Article Describes Online Video Blurring A Free and Simple Solution
 keywords: online video blurring the top free tools and techniques,video blurring made easy free online solutions,split screen video editing software free online and offline solutions,gopro video editing simplified a free online resource,the ultimate free video blur hack online solution,online video blurring a free and simple solution,unlock free video blurring easy online solution
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Online Video Blurring: A Free and Simple Solution

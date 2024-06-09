@@ -1,7 +1,7 @@
 ---
 title: Updated Mavericks MP4 Video Editor Edit and Enhance Your Videos
-date: 2024-05-19T10:32:26.775Z
-updated: 2024-05-20T10:32:26.775Z
+date: 2024-06-08T14:56:58.994Z
+updated: 2024-06-09T14:56:58.994Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Mavericks MP4 Video Editor Edit and Enhance Your Videos
 excerpt: This Article Describes Updated Mavericks MP4 Video Editor Edit and Enhance Your Videos
 keywords: top rated web video editors for music enhanced videos,best mp4 editor for mac mavericks easy video editing,mavericks mp4 video editor edit and enhance your videos,mavericks mp4 video editor simplify your editing process,windows 8 flv video editor convert trim and enhance your videos,windows 8 flv editor convert trim and enhance your videos,os x mavericks mp4 editor trim cut and enhance your videos
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## Mavericks MP4 Video Editor: Edit and Enhance Your Videos

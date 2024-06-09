@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Free Slow Motion Video Editor Get Started with Filmora
-date: 2024-04-29T06:36:55.647Z
-updated: 2024-04-30T06:36:55.647Z
+date: 2024-06-08T14:57:18.125Z
+updated: 2024-06-09T14:57:18.125Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Free Slow Motion Video Editor Get Started with Filmora
 excerpt: This Article Describes New In 2024, Free Slow Motion Video Editor Get Started with Filmora
 keywords: get started with filmora 13 free video editor download,get the cinematic look free slow motion video editing with filmora,free slow motion video editor get started with filmora,slow and steady wins free slow motion video editing with filmora,slow down time free slow motion video editing with filmora,free slow motion video editor transform your footage with filmora,free slow motion video editor elevate your content with filmora
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Free Slow Motion Video Editor: Get Started with Filmora

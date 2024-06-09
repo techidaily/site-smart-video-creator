@@ -1,7 +1,7 @@
 ---
 title: FCPX Glitch Busters Quick Fixes for Common Problems
-date: 2024-05-19T10:31:40.582Z
-updated: 2024-05-20T10:31:40.582Z
+date: 2024-06-08T14:57:32.104Z
+updated: 2024-06-09T14:57:32.104Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes FCPX Glitch Busters Quick Fixes for Common Problems
 excerpt: This Article Describes FCPX Glitch Busters Quick Fixes for Common Problems
 keywords: the fcpx fix it guide solving common problems and optimizing workflow,solve common fcpx problems with a simple reset,fcpx glitch busters quick fixes for common problems,mastering fcpx tips and tricks for overcoming common obstacles,buggy fcpx reset and reboot a quick fix for common problems,the fcpx fix it handbook solving common problems,solutions for common final cut pro x crash problems
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## FCPX Glitch Busters: Quick Fixes for Common Problems

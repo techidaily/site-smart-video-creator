@@ -1,7 +1,7 @@
 ---
 title: New In 2024, HD Video 101 Understanding Pixel Resolution
-date: 2024-04-29T06:30:51.320Z
-updated: 2024-04-30T06:30:51.320Z
+date: 2024-06-08T14:57:14.266Z
+updated: 2024-06-09T14:57:14.266Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, HD Video 101 Understanding Pixel Resolution
 excerpt: This Article Describes New In 2024, HD Video 101 Understanding Pixel Resolution
 keywords: understanding hd video resolution a beginners handbook,getting started with hd video understanding pixel size and resolution,ai animation hd video 101 understanding pixel resolution,the hd video handbook understanding pixel resolution and more,hd video 101 mastering pixel size and resolution,hd video 101 understanding pixel resolution,hd video 101 demystifying pixel size and resolution
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## HD Video 101: Understanding Pixel Resolution

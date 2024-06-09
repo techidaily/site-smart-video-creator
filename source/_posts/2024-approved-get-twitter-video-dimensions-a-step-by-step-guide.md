@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Get Twitter Video Dimensions A Step-by-Step Guide
-date: 2024-05-19T10:32:21.028Z
-updated: 2024-05-20T10:32:21.028Z
+date: 2024-06-08T14:57:29.706Z
+updated: 2024-06-09T14:57:29.706Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Get Twitter Video Dimensions A Step-by-Step Guide
 excerpt: This Article Describes 2024 Approved Get Twitter Video Dimensions A Step-by-Step Guide
 keywords: twitter video aspect ratio a step by step guide,facebook video dimensions decoded a step by step guide,twitter video dimensions a quick guide to getting it right,get twitter video dimensions a step by step guide,linkedin video thumbnail dimensions a step by step guide,facebook video cover dimensions a guide to getting it right,mastering twitter video dimensions a beginners guide
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Get Twitter Video Dimensions: A Step-by-Step Guide

@@ -1,7 +1,7 @@
 ---
 title: New Best Free Subtitle Creation Tools on the Web
-date: 2024-05-19T10:32:03.017Z
-updated: 2024-05-20T10:32:03.017Z
+date: 2024-06-08T14:57:05.699Z
+updated: 2024-06-09T14:57:05.699Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Best Free Subtitle Creation Tools on the Web
 excerpt: This Article Describes New Best Free Subtitle Creation Tools on the Web
 keywords: 10 free online tools to create subtitles,best free subtitle creation tools on the web,create captions for free 10 best online subtitle makers,the ultimate list of free online subtitle creation tools,create subtitles online for free top 10 video captioning tools,best free invitation video maker tools on the web,the ultimate list 10 best free online subtitle creators
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## Best Free Subtitle Creation Tools on the Web
