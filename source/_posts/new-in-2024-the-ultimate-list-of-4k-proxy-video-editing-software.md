@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate List of 4K Proxy Video Editing Software
-date: 2024-04-29T06:45:03.200Z
-updated: 2024-04-30T06:45:03.200Z
+date: 2024-06-16T06:00:07.840Z
+updated: 2024-06-17T06:00:07.840Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, The Ultimate List of 4K Proxy Video Editing Software
 excerpt: This Article Describes New In 2024, The Ultimate List of 4K Proxy Video Editing Software
 keywords: the ultimate list of 4k proxy video editing software,the ultimate list of video editing software for beginners,the ultimate list of video editing software for mac,the ultimate list of free mp4 video editing software,ai animation the ultimate list of video editing software,the ultimate list of video editing software,the ultimate list of video editing software for newcomers
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## The Ultimate List of 4K Proxy Video Editing Software

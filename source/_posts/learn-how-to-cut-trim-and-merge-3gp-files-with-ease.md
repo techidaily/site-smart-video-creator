@@ -1,7 +1,7 @@
 ---
 title: Learn How to Cut, Trim, and Merge 3GP Files with Ease
-date: 2024-05-19T10:31:42.768Z
-updated: 2024-05-20T10:31:42.768Z
+date: 2024-06-16T06:00:02.959Z
+updated: 2024-06-17T06:00:02.959Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Learn How to Cut, Trim, and Merge 3GP Files with Ease
 excerpt: This Article Describes Learn How to Cut, Trim, and Merge 3GP Files with Ease
 keywords: the simple way to edit avi files split trim and cut with ease,cut and trim 3gp files with ease updated 2023,learn how to cut trim and merge 3gp files with ease,the easiest way to edit avi files split trim and cut with ease,3gp file trimmer learn how to cut and split videos,trim and edit mkv files with ease top mac tools 2023,cut and edit 3gp files with ease updated 2023
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Learn How to Cut, Trim, and Merge 3GP Files with Ease

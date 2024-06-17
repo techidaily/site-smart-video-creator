@@ -1,7 +1,7 @@
 ---
 title: Top 10 Free Online Video Invitation Creators
-date: 2024-05-19T10:31:46.355Z
-updated: 2024-05-20T10:31:46.355Z
+date: 2024-06-16T05:59:49.603Z
+updated: 2024-06-17T05:59:49.603Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top 10 Free Online Video Invitation Creators
 excerpt: This Article Describes Top 10 Free Online Video Invitation Creators
 keywords: free online invitation video creators top picks,top 10 free video invitation creators,top 10 best free invitation video makers online,top 10 free online video invitation creators,s top rated free online video invitation generators,ai animation top 10 free video invitation creators,make an impact 10 best free invitation video creators online
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Top 10 Free Online Video Invitation Creators

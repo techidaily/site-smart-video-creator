@@ -1,7 +1,7 @@
 ---
 title: New Perfecting Your Facebook Video Cover Tips and Tricks
-date: 2024-05-19T10:32:30.413Z
-updated: 2024-05-20T10:32:30.413Z
+date: 2024-06-16T06:00:05.903Z
+updated: 2024-06-17T06:00:05.903Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Perfecting Your Facebook Video Cover Tips and Tricks
 excerpt: This Article Describes New Perfecting Your Facebook Video Cover Tips and Tricks
 keywords: perfecting your facebook video cover size ratio and more,optimize your facebook video cover a guide to perfect sizing,perfecting your facebook video cover tips for ideal sizing,optimize your facebook video cover tips for the perfect size,ai animation perfecting your facebook video cover tips for ideal sizing,perfecting your facebook video cover tips and tricks,perfecting your facebook video cover tips for ideal dimensions
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Perfecting Your Facebook Video Cover: Tips and Tricks

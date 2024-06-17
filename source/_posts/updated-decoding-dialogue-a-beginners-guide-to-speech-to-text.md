@@ -1,7 +1,7 @@
 ---
 title: Updated Decoding Dialogue A Beginners Guide to Speech-to-Text
-date: 2024-05-19T10:32:08.644Z
-updated: 2024-05-20T10:32:08.644Z
+date: 2024-06-16T06:00:07.551Z
+updated: 2024-06-17T06:00:07.551Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Decoding Dialogue A Beginners Guide to Speech-to-Text
 excerpt: This Article Describes Updated Decoding Dialogue A Beginners Guide to Speech-to-Text
 keywords: decoding speech a beginners guide to text conversion,understanding aspect ratios a beginners guide to image sizing,decoding dialogue a beginners guide to speech to text,mastering filmora scrn a beginners guide to desktop recording,unlock waxs potential a beginners guide to video editing,a beginners guide to understanding aspect ratios and pixels,beginners guide to free video editing tools
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Decoding Dialogue: A Beginner's Guide to Speech-to-Text

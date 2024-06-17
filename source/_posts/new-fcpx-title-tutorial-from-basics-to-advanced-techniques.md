@@ -1,7 +1,7 @@
 ---
 title: New FCPX Title Tutorial From Basics to Advanced Techniques
-date: 2024-05-19T10:32:14.305Z
-updated: 2024-05-20T10:32:14.305Z
+date: 2024-06-16T05:59:42.575Z
+updated: 2024-06-17T05:59:42.575Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New FCPX Title Tutorial From Basics to Advanced Techniques
 excerpt: This Article Describes New FCPX Title Tutorial From Basics to Advanced Techniques
 keywords: fcp audio editing tutorial from basics to advanced techniques,fcpx xml essentials from basics to advanced techniques,fcpx title tutorial from basics to advanced techniques,from basic to brilliant advanced title techniques in fcpx,ai animation fcpx compressor tutorial from basics to advanced techniques,from basic to pro 3 advanced transition techniques in fcp,fcpx compressor tutorial from basics to advanced techniques
-thumbnail: https://www.lifewire.com/thmb/m4BcH-XQSOpQcuE-5vTn1swsxLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-591408071-5bc7767d4cedfd0026a2ce3f.jpg
+thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
 ## FCPX Title Tutorial: From Basics to Advanced Techniques

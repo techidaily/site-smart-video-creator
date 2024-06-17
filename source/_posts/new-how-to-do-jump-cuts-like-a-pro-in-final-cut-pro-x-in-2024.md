@@ -1,7 +1,7 @@
 ---
 title: New How to Do Jump Cuts Like a Pro in Final Cut Pro X, In 2024
-date: 2024-04-29T06:30:52.589Z
-updated: 2024-04-30T06:30:52.589Z
+date: 2024-06-16T06:00:03.384Z
+updated: 2024-06-17T06:00:03.384Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How to Do Jump Cuts Like a Pro in Final Cut Pro X, In 2024
 excerpt: This Article Describes New How to Do Jump Cuts Like a Pro in Final Cut Pro X, In 2024
 keywords: ai animation how to do jump cuts like a pro in final cut pro x,flip it how to reverse video clips in final cut pro like a pro,pro level jump cuts in final cut pro x tips and tricks,cut like a pro l cuts and j cuts in final cut pro x,how to do jump cuts like a pro in final cut pro x,final cut pro x jump cuts from beginner to pro in no time,unlock pro quality jump cuts in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## Jump Cut Mastery: Unlocking the Secrets of Final Cut Pro X

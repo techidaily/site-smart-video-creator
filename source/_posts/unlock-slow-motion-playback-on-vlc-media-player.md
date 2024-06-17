@@ -1,7 +1,7 @@
 ---
 title: Unlock Slow Motion Playback on VLC Media Player
-date: 2024-05-19T10:31:47.651Z
-updated: 2024-05-20T10:31:47.651Z
+date: 2024-06-16T06:00:11.675Z
+updated: 2024-06-17T06:00:11.675Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Unlock Slow Motion Playback on VLC Media Player
 excerpt: This Article Describes Unlock Slow Motion Playback on VLC Media Player
 keywords: vlc video playback hacks how to play in slow motion on any device,unlock slow motion on vlc a beginners guide to video playback tricks,slow motion video playback on vlc a beginners guide,unlock slow motion playback on vlc,unlock slow motion playback on vlc media player,ai animation unlock slow motion playback on vlc,top rated video players for slow motion playback
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## Unlock Slow Motion Playback on VLC Media Player

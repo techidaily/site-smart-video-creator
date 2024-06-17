@@ -1,7 +1,7 @@
 ---
 title: How to Do Jump Cuts Like a Pro in Final Cut Pro X for 2024
-date: 2024-05-19T10:31:56.573Z
-updated: 2024-05-20T10:31:56.573Z
+date: 2024-06-16T06:00:03.676Z
+updated: 2024-06-17T06:00:03.676Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Do Jump Cuts Like a Pro in Final Cut Pro X for 2024
 excerpt: This Article Describes How to Do Jump Cuts Like a Pro in Final Cut Pro X for 2024
 keywords: cut like a pro l cuts and j cuts in final cut pro x,final cut pro x jump cuts from beginner to pro in no time,pro level jump cuts made easy a final cut pro x tutorial,ai animation how to do jump cuts like a pro in final cut pro x,how to do jump cuts like a pro in final cut pro x,edit like a pro top 40 keyboard shortcuts for final cut pro x,jump cut like a pro expert techniques for final cut pro x editors
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## The Ultimate Guide to Jump Cuts in FCPX: Best Practices

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Achieve Filmic Quality A Guide to Cinematic Editing in FCPX
-date: 2024-05-19T10:31:51.540Z
-updated: 2024-05-20T10:31:51.540Z
+date: 2024-06-16T05:59:56.756Z
+updated: 2024-06-17T05:59:56.756Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Achieve Filmic Quality A Guide to Cinematic Editing in FCPX
 excerpt: This Article Describes 2024 Approved Achieve Filmic Quality A Guide to Cinematic Editing in FCPX
 keywords: cinematic color grading and editing in final cut pro x a comprehensive guide,unlock cinematic slow mo a free guide to filmora video editing,the cinematic look a comprehensive guide to fcpx video editing,fcpx image editing a beginners guide to cropping,achieve filmic quality a guide to cinematic editing in fcpx,from footage to film crafting a cinematic look in fcpx,achieve film quality video a step by step guide to final cut pro x
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## Achieve Filmic Quality: A Guide to Cinematic Editing in FCPX

@@ -1,7 +1,7 @@
 ---
 title: VirtualDub Lookalikes Discover Similar Video Editing Software
-date: 2024-05-19T10:31:48.154Z
-updated: 2024-05-20T10:31:48.154Z
+date: 2024-06-16T05:59:52.298Z
+updated: 2024-06-17T05:59:52.298Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes VirtualDub Lookalikes Discover Similar Video Editing Software
 excerpt: This Article Describes VirtualDub Lookalikes Discover Similar Video Editing Software
 keywords: is virtualdub obsolete discover the best free video editing software alternatives,beyond virtualdub discover the top video editing software alternatives,beyond virtualdub discover the top video editing software options,virtualdub lookalikes discover similar video editing software,video editing software similar to virtualdub features and pricing,similar software or alternatives to virtualdub,video editing software like virtualdub top alternatives
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## VirtualDub Lookalikes: Discover Similar Video Editing Software

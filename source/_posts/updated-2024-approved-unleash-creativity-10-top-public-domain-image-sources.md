@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Unleash Creativity 10 Top Public Domain Image Sources
-date: 2024-04-29T06:46:57.463Z
-updated: 2024-04-30T06:46:57.463Z
+date: 2024-06-16T05:59:56.308Z
+updated: 2024-06-17T05:59:56.308Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Unleash Creativity 10 Top Public Domain Image Sources
 excerpt: This Article Describes Updated 2024 Approved Unleash Creativity 10 Top Public Domain Image Sources
 keywords: unleash creative freedom best public domain video resources,unleash creativity 10 top public domain image sources,unleash your creativity 10 public domain image sites,unleash creativity top 10 online intro maker resources,unleash creativity 10 best free public domain images sites,free image heaven top 10 public domain sites,unleash your creativity 10 top rated android movie maker apps
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Unleash Creativity: 10 Top Public Domain Image Sources

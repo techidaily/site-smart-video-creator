@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCPX Video Accessibility Adding Subtitles and Captions
-date: 2024-05-19T10:32:14.765Z
-updated: 2024-05-20T10:32:14.765Z
+date: 2024-06-16T05:59:51.842Z
+updated: 2024-06-17T05:59:51.842Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved FCPX Video Accessibility Adding Subtitles and Captions
 excerpt: This Article Describes 2024 Approved FCPX Video Accessibility Adding Subtitles and Captions
 keywords: fcpx captioning 101 how to add subtitles to your videos,unlock accessibility adding subtitles and captions in final cut pro x,final cut pro x adding subtitles and captions for accessibility,a beginners guide to adding titles captions and subtitles in fcpx,fcpx video accessibility adding subtitles and captions,add subtitles captions fcpx,final cut pro x a step by step guide to adding subtitles and captions
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## FCPX Video Accessibility: Adding Subtitles and Captions

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trim Videos Like a Pro A Step-by-Step Guide to Kapwing Editor
-date: 2024-05-19T10:32:48.241Z
-updated: 2024-05-20T10:32:48.241Z
+date: 2024-06-16T05:59:51.126Z
+updated: 2024-06-17T05:59:51.126Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Trim Videos Like a Pro A Step-by-Step Guide to Kapwing Editor
 excerpt: This Article Describes In 2024, Trim Videos Like a Pro A Step-by-Step Guide to Kapwing Editor
 keywords: cut video clips online a step by step guide to kapwing editor,how to trim and edit videos like a pro with kapwing editor,crop trim and share a quick guide to kapwings video editor,cut and crop a step by step guide to trimming videos with kapwing,kapwing editor a step by step guide to trimming videos,slow motion magic on kapwing a step by step guide to editing like a pro,trim videos like a pro a step by step guide to kapwing editor
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Trim Videos Like a Pro: A Step-by-Step Guide to Kapwing Editor

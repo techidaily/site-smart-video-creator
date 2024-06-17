@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering 3D Video Effects A Windows Tutorial for Beginners
-date: 2024-05-19T10:32:26.279Z
-updated: 2024-05-20T10:32:26.279Z
+date: 2024-06-16T06:00:16.344Z
+updated: 2024-06-17T06:00:16.344Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Mastering 3D Video Effects A Windows Tutorial for Beginners
 excerpt: This Article Describes 2024 Approved Mastering 3D Video Effects A Windows Tutorial for Beginners
 keywords: from basic to brilliant mastering video editing effects for beginners,video editing mastery online tutorials for beginners and pros,edit mp4 files like a pro mac and windows tutorial for beginners,windows video editing essentials mastering 3d effects for beginners,mastering 3d video effects a windows tutorial for beginners,get started with mp4 video editing a friendly tutorial for mac and windows beginners,mp4 video editing for beginners a friendly tutorial for mac and windows users
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Mastering 3D Video Effects: A Windows Tutorial for Beginners

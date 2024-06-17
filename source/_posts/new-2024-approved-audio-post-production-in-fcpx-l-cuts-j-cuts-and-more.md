@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Audio Post-Production in FCPX L-Cuts, J-Cuts, and More
-date: 2024-04-29T06:32:04.780Z
-updated: 2024-04-30T06:32:04.780Z
+date: 2024-06-16T05:59:51.597Z
+updated: 2024-06-17T05:59:51.597Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Audio Post-Production in FCPX L-Cuts, J-Cuts, and More
 excerpt: This Article Describes New 2024 Approved Audio Post-Production in FCPX L-Cuts, J-Cuts, and More
 keywords: audio post production mastery l cuts and j cuts in fcpx,mastering audio post production in final cut pro,audio post production in fcp tips and tricks,audio post production in fcpx l cuts j cuts and more,ai animation mastering audio transitions in fcpx l cuts and j cuts explained,mastering audio transitions in fcpx l cuts and j cuts explained,fcpx audio editing essentials l cuts j cuts and more
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Audio Post-Production in FCPX: L-Cuts, J-Cuts, and More

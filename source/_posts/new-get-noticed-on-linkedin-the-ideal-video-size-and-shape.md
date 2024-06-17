@@ -1,7 +1,7 @@
 ---
 title: New Get Noticed on LinkedIn The Ideal Video Size and Shape
-date: 2024-05-19T10:32:20.507Z
-updated: 2024-05-20T10:32:20.507Z
+date: 2024-06-16T06:00:09.231Z
+updated: 2024-06-17T06:00:09.231Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get Noticed on LinkedIn The Ideal Video Size and Shape
 excerpt: This Article Describes New Get Noticed on LinkedIn The Ideal Video Size and Shape
 keywords: get noticed on linkedin the ideal video size and shape,get noticed on social media the importance of proper video resizing,get noticed on linkedin the science behind effective video aspect ratios,get noticed on linkedin the perfect aspect ratios for video posts,get noticed on linkedin ideal video aspect ratios for standout posts,get noticed on linkedin the ideal video aspect ratio guide,get noticed the ideal facebook video cover size and dimensions
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## Get Noticed on LinkedIn: The Ideal Video Size and Shape

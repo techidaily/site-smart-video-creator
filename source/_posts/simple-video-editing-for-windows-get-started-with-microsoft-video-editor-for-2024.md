@@ -1,7 +1,7 @@
 ---
 title: Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024
-date: 2024-05-19T10:32:34.332Z
-updated: 2024-05-20T10:32:34.332Z
+date: 2024-06-16T06:00:06.098Z
+updated: 2024-06-17T06:00:06.098Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024
 excerpt: This Article Describes Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024
 keywords: video editing made simple microsoft video editor for windows 10 8 and 7 users,transform your videos easy editing with microsoft video editor on windows,get started with video editing a microsoft tutorial for windows 10 8 and 7,simple video editing for windows get started with microsoft video editor,get started with microsoft video editor easy video editing for windows users,effortless video editing microsoft video editor for windows users,easy video editing software for windows microsoft video editor review
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Simple Video Editing for Windows: Get Started with Microsoft Video Editor

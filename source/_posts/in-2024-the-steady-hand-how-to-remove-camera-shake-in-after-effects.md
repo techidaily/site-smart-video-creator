@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Steady Hand How to Remove Camera Shake in After Effects
-date: 2024-05-19T10:32:40.359Z
-updated: 2024-05-20T10:32:40.359Z
+date: 2024-06-16T05:59:51.218Z
+updated: 2024-06-17T05:59:51.218Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Steady Hand How to Remove Camera Shake in After Effects
 excerpt: This Article Describes In 2024, The Steady Hand How to Remove Camera Shake in After Effects
 keywords: the steady hand how to remove camera shake in after effects,taming the shake how to smooth out your videos in after effects,smooth operator removing camera shake in after effects,shake it off how to remove camera shake in adobe premiere pro,steady as a rock how to remove camera shake in after effects,the steadiest hand how to remove camera shake in ae,ai animation smooth operator removing camera shake in after effects
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## The Steady Hand: How to Remove Camera Shake in After Effects

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide
-date: 2024-04-29T06:33:23.778Z
-updated: 2024-04-30T06:33:23.778Z
+date: 2024-06-16T05:59:48.577Z
+updated: 2024-06-17T05:59:48.577Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide
 excerpt: This Article Describes Updated In 2024, Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide
 keywords: cropping images in final cut pro x a comprehensive guide,mastering titles in final cut pro x a comprehensive guide,mastering color grading in final cut pro 2023,the art of cinematic color grading in final cut pro x,cinematic color grading and editing in final cut pro x a comprehensive guide,aspect ratio editing in final cut pro a comprehensive guide,how to create captions in final cut pro x a comprehensive guide
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Cinematic Color Grading and Editing in Final Cut Pro X: A Comprehensive Guide

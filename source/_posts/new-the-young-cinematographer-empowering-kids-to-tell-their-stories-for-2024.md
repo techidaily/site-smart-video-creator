@@ -1,7 +1,7 @@
 ---
 title: New The Young Cinematographer Empowering Kids to Tell Their Stories for 2024
-date: 2024-04-29T06:45:24.925Z
-updated: 2024-04-30T06:45:24.925Z
+date: 2024-06-16T05:59:59.661Z
+updated: 2024-06-17T05:59:59.661Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Young Cinematographer Empowering Kids to Tell Their Stories for 2024
 excerpt: This Article Describes New The Young Cinematographer Empowering Kids to Tell Their Stories for 2024
 keywords: bring your posts to life the ultimate stop motion tutorial for instagram,the young cinematographer empowering kids to tell their stories,elevate your videos mastering lower thirds in fcpx,mp4 to mp3 converter reviews find the best tool for your needs,the animators guide to 2024 top 10 software for bringing your ideas to life,the young directors handbook teach kids to make their own movies,transform your photos into stunning videos with these top makers
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## The Young Cinematographer: Empowering Kids to Tell Their Stories

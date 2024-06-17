@@ -1,7 +1,7 @@
 ---
 title: New In 2024, S Top Free MKV Splitters Trim and Edit with Ease
-date: 2024-04-29T06:41:59.535Z
-updated: 2024-04-30T06:41:59.535Z
+date: 2024-06-16T06:00:12.408Z
+updated: 2024-06-17T06:00:12.408Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, S Top Free MKV Splitters Trim and Edit with Ease
 excerpt: This Article Describes New In 2024, S Top Free MKV Splitters Trim and Edit with Ease
 keywords: trim and edit mkv files with ease top mac tools 2023,the simple way to edit avi files split trim and cut with ease,split your videos with ease top free mpeg splitters,best free mov trimmers edit videos with ease,s top free mkv splitters trim and edit with ease,cut trim and edit mp4 videos with these free editors,trim and edit mp4 videos with these free tools 2023 review
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## 'S Top Free MKV Splitters: Trim and Edit with Ease

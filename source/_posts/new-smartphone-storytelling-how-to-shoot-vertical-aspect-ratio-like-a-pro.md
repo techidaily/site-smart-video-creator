@@ -1,7 +1,7 @@
 ---
 title: New Smartphone Storytelling How to Shoot Vertical Aspect Ratio Like a Pro
-date: 2024-05-19T10:32:34.994Z
-updated: 2024-05-20T10:32:34.994Z
+date: 2024-06-16T06:00:16.937Z
+updated: 2024-06-17T06:00:16.937Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Smartphone Storytelling How to Shoot Vertical Aspect Ratio Like a Pro
 excerpt: This Article Describes New Smartphone Storytelling How to Shoot Vertical Aspect Ratio Like a Pro
 keywords: from snap to cinema mastering vertical aspect ratio on your phone,best practices for creating phone aspect ratio vertical on your smartphone,the art of vertical storytelling phone aspect ratio best practices,smartphone storytelling how to shoot vertical aspect ratio like a pro,smartphone video hacks shooting in vertical aspect ratio,smartphone storytelling best practices for vertical video,mastering mobile video tips for vertical aspect ratio on smartphones
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Smartphone Storytelling: How to Shoot Vertical Aspect Ratio Like a Pro

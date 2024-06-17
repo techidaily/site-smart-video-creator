@@ -1,7 +1,7 @@
 ---
 title: Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-05-19T10:31:38.544Z
-updated: 2024-05-20T10:31:38.544Z
+date: 2024-06-16T05:59:54.958Z
+updated: 2024-06-17T05:59:54.958Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Audio Fade Ins and Outs Made Easy 2 FCP Techniques
 excerpt: This Article Describes Audio Fade Ins and Outs Made Easy 2 FCP Techniques
 keywords: rip audio from instagram simple and fast techniques,audio fade ins and outs made easy 2 final cut pro techniques,ai animation fade in fade out two essential audio techniques in fcp,fcpx audio techniques mastering l cuts j cuts and beyond,fade in fade out two essential audio techniques in fcp,pro editing techniques l cuts and j cuts in fcpx made easy,audio fade ins and outs made easy 2 fcp techniques
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## Audio Fade Ins and Outs Made Easy: 2 FCP Techniques

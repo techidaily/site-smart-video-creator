@@ -1,7 +1,7 @@
 ---
 title: New Top-Notch MTS Video Editors 5 Recommendations
-date: 2024-05-19T10:32:45.700Z
-updated: 2024-05-20T10:32:45.700Z
+date: 2024-06-16T05:59:59.474Z
+updated: 2024-06-17T05:59:59.474Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Top-Notch MTS Video Editors 5 Recommendations
 excerpt: This Article Describes New Top-Notch MTS Video Editors 5 Recommendations
 keywords: zero cost avi video editors our top 5 recommendations,mts video editing software top 5 recommendations,mts video editor reviews top 5 options compared,top notch mts video editors 5 recommendations,no cost flv video editors our top 5 recommendations,android video editors for chromebook top recommendations,free video loop editor top recommendations
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Top-Notch MTS Video Editors: 5 Recommendations

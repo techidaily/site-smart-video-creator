@@ -1,7 +1,7 @@
 ---
 title: In 2024, Retro Video Magic Easy Ways to Add VHS Effects in FCP
-date: 2024-05-19T10:32:31.948Z
-updated: 2024-05-20T10:32:31.948Z
+date: 2024-06-16T05:59:50.229Z
+updated: 2024-06-17T05:59:50.229Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Retro Video Magic Easy Ways to Add VHS Effects in FCP
 excerpt: This Article Describes In 2024, Retro Video Magic Easy Ways to Add VHS Effects in FCP
 keywords: retro video magic easy ways to add vhs effects in fcp,get retro with fcp easy vhs effects for your videos,retro video magic top apps for applying vhs effects on mobile,ai animation add pro level effects to your videos in 3 easy steps with fcp x,add pro level effects to your videos in 3 easy steps with fcp x,ai animation get retro with fcp easy vhs effects for your videos,the vhs effect in fcp a beginners guide to retro editing
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## Retro Video Magic: Easy Ways to Add VHS Effects in FCP

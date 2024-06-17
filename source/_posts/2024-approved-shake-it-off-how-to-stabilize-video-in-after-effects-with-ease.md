@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Shake It Off How to Stabilize Video in After Effects with Ease
-date: 2024-05-19T10:33:24.185Z
-updated: 2024-05-20T10:33:24.185Z
+date: 2024-06-16T05:59:58.687Z
+updated: 2024-06-17T05:59:58.687Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Shake It Off How to Stabilize Video in After Effects with Ease
 excerpt: This Article Describes 2024 Approved Shake It Off How to Stabilize Video in After Effects with Ease
 keywords: shake it off how to fix unstable video in after effects,shake it off how to stabilize unsteady video in after effects,ai animation how to stabilize shaky videos in after effects,how to stabilize shaky videos in after effects,how to stabilize shaky videos in after effects 3 ways,shake it off how to stabilize video in after effects with ease,ai animation how to stabilize shaky videos in after effects 3 ways
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Shake It Off: How to Stabilize Video in After Effects with Ease

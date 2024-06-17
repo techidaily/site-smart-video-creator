@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Splice Video Editor Mac Version Free Download
-date: 2024-04-29T06:42:41.285Z
-updated: 2024-04-30T06:42:41.285Z
+date: 2024-06-16T05:59:45.536Z
+updated: 2024-06-17T05:59:45.536Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Splice Video Editor Mac Version Free Download
 excerpt: This Article Describes Updated In 2024, Splice Video Editor Mac Version Free Download
 keywords: splice video editor for mac free download now,splice video editor for mac free download and start creating,download splice video editor for mac,ai animation download splice video editor for mac,splice video editor mac version free download,splice video editor mac version download and install today,free download splice video editor for macos
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Splice Video Editor Mac Version: Free Download

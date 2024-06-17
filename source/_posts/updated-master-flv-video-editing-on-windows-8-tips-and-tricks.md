@@ -1,7 +1,7 @@
 ---
 title: Updated Master FLV Video Editing on Windows 8 Tips and Tricks
-date: 2024-05-19T10:32:26.232Z
-updated: 2024-05-20T10:32:26.232Z
+date: 2024-06-16T05:59:45.701Z
+updated: 2024-06-17T05:59:45.701Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Master FLV Video Editing on Windows 8 Tips and Tricks
 excerpt: This Article Describes Updated Master FLV Video Editing on Windows 8 Tips and Tricks
 keywords: master flv video editing on windows 8 tips and tricks,top rated mp4 video tag editing tools for windows and mac,the ultimate guide to 3d video editing on windows tips and tricks,reaction video mastery tips and tricks with filmora,unleash your creativity mp4 video editing tips and tricks for mac and windows,the ultimate guide to video editing in windows tips tricks and techniques,fast video editing on mac tips and tricks for speedy video cutting
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## Master FLV Video Editing on Windows 8: Tips and Tricks

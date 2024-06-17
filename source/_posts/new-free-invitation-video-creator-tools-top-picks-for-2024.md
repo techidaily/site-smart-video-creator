@@ -1,7 +1,7 @@
 ---
 title: New Free Invitation Video Creator Tools Top Picks for 2024
-date: 2024-04-29T06:36:45.534Z
-updated: 2024-04-30T06:36:45.534Z
+date: 2024-06-16T06:00:08.892Z
+updated: 2024-06-17T06:00:08.892Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Invitation Video Creator Tools Top Picks for 2024
 excerpt: This Article Describes New Free Invitation Video Creator Tools Top Picks for 2024
 keywords: auto reframe video editing tools top picks for creators,top picks slow motion video editing tools for creators,free online invitation video creators top picks,free invitation video creator tools top picks,create stunning video invitations for free top tools,top 10 free video invitation creators,make movies for free top online video creation tools
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Free Invitation Video Creator Tools: Top Picks

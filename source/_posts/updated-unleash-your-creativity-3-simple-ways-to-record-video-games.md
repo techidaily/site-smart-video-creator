@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash Your Creativity 3 Simple Ways to Record Video Games
-date: 2024-05-19T10:32:49.792Z
-updated: 2024-05-20T10:32:49.792Z
+date: 2024-06-16T05:59:52.447Z
+updated: 2024-06-17T05:59:52.447Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Unleash Your Creativity 3 Simple Ways to Record Video Games
 excerpt: This Article Describes Updated Unleash Your Creativity 3 Simple Ways to Record Video Games
 keywords: unleash your creativity 3 simple ways to record video games,unleash your creativity free game video editing software,unleash your creativity best apple video editors,unleash your creativity top free mod video editors,unleash your creativity simple gopro hd video editing techniques,unleash your creativity top rated 4k video editing software,unleash your creativity 3 simple video game recording tools
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## Unleash Your Creativity: 3 Simple Ways to Record Video Games

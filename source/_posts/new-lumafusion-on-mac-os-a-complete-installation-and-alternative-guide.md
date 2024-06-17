@@ -1,7 +1,7 @@
 ---
 title: New Lumafusion on Mac OS A Complete Installation and Alternative Guide
-date: 2024-05-19T10:32:25.098Z
-updated: 2024-05-20T10:32:25.098Z
+date: 2024-06-16T05:59:57.979Z
+updated: 2024-06-17T05:59:57.979Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Lumafusion on Mac OS A Complete Installation and Alternative Guide
 excerpt: This Article Describes New Lumafusion on Mac OS A Complete Installation and Alternative Guide
 keywords: lumafusion for mac a complete guide to installation and alternatives,lumafusion on mac os a complete installation and alternative guide,lumafusion for mac a comprehensive guide to installation and alternatives,lumafusion on mac installation guide and alternative options,mac os video editing lumafusion installation and top alternatives,the ultimate guide to lumafusion on mac installation features and alternatives,ai animation lumafusion on mac installation guide and alternative options
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Lumafusion on Mac OS: A Complete Installation and Alternative Guide

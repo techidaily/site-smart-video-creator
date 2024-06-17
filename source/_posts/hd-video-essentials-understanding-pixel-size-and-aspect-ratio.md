@@ -1,7 +1,7 @@
 ---
 title: HD Video Essentials Understanding Pixel Size and Aspect Ratio
-date: 2024-05-19T10:31:37.332Z
-updated: 2024-05-20T10:31:37.332Z
+date: 2024-06-16T06:00:06.194Z
+updated: 2024-06-17T06:00:06.194Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes HD Video Essentials Understanding Pixel Size and Aspect Ratio
 excerpt: This Article Describes HD Video Essentials Understanding Pixel Size and Aspect Ratio
 keywords: hd video essentials mastering pixel size and resolution,hd video essentials understanding pixel density and more,hd video fundamentals understanding pixel size resolution and frame rate,ai animation hd video essentials understanding pixel size and aspect ratio,a beginners guide to understanding aspect ratios and pixels,demystifying hd video pixel size aspect ratio and beyond,hd video essentials understanding pixel size and aspect ratio
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## HD Video Essentials: Understanding Pixel Size and Aspect Ratio

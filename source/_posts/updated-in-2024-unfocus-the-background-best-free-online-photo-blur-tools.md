@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unfocus the Background Best Free Online Photo Blur Tools
-date: 2024-04-29T06:46:55.991Z
-updated: 2024-04-30T06:46:55.991Z
+date: 2024-06-16T06:00:01.740Z
+updated: 2024-06-17T06:00:01.740Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Unfocus the Background Best Free Online Photo Blur Tools
 excerpt: This Article Describes Updated In 2024, Unfocus the Background Best Free Online Photo Blur Tools
 keywords: best free online photo background blur tools,ai animation best free online photo background blur tools,best free photo background blur online tools,unfocus the background best free online photo blur tools,unfocus the background best free online blur tools,ai animation best free photo background blur online tools,online photo background blur the best free tools and websites
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Unfocus the Background: Best Free Online Photo Blur Tools

@@ -1,7 +1,7 @@
 ---
 title: New Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects for 2024
-date: 2024-04-29T06:36:22.464Z
-updated: 2024-04-30T06:36:22.464Z
+date: 2024-06-16T05:59:48.753Z
+updated: 2024-06-17T05:59:48.753Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects for 2024
 excerpt: This Article Describes New Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects for 2024
 keywords: no more jitters mastering video stabilization in after effects,on the level expert tips for stabilizing video in after effects,pro level video stabilization in adobe premiere pro a beginners guide,fixing wobbly videos a beginners guide to stabilization in ae,fixing the shake a step by step guide to video stabilization in after effects,fixing the wobble a beginners guide to video stabilization in after effects,fixing the wobble a beginners guide to video stabilization in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## Fixing the Wobble: A Beginner's Guide to Video Stabilization in After Effects

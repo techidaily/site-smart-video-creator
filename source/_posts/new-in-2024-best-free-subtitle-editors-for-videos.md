@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best Free Subtitle Editors for Videos
-date: 2024-04-29T06:32:24.673Z
-updated: 2024-04-30T06:32:24.673Z
+date: 2024-06-16T06:00:16.852Z
+updated: 2024-06-17T06:00:16.852Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Best Free Subtitle Editors for Videos
 excerpt: This Article Describes New In 2024, Best Free Subtitle Editors for Videos
 keywords: best free subtitle editors to caption your videos online,best free online video editors for movies,best free video editors for ubuntu,subtitle your videos for free 10 best online tools,best free subtitle editors for video creators,best free subtitle editors for videos,the 5 best free video editors for splitting videos
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Best Free Subtitle Editors for Videos

@@ -1,7 +1,7 @@
 ---
 title: New Split Screen Video Makers The Ultimate Guide for iOS and Android Users
-date: 2024-05-19T10:32:35.484Z
-updated: 2024-05-20T10:32:35.484Z
+date: 2024-06-16T06:00:07.770Z
+updated: 2024-06-17T06:00:07.770Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Split Screen Video Makers The Ultimate Guide for iOS and Android Users
 excerpt: This Article Describes New Split Screen Video Makers The Ultimate Guide for iOS and Android Users
 keywords: the ultimate guide to free video fx apps for ios and android,ai animation split screen video makers the best ios and android apps,the ultimate guide to free green screen apps for android and ios,the ultimate guide to split screen video apps for mobile,the ultimate guide to video makers with music for android iphone,split screen video makers the ultimate guide for ios and android users,split screen video makers the best ios and android apps
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Split Screen Video Makers: The Ultimate Guide for iOS and Android Users

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate List of Split Screen Video Apps for Mobile
-date: 2024-04-29T06:45:12.068Z
-updated: 2024-04-30T06:45:12.068Z
+date: 2024-06-16T06:00:09.062Z
+updated: 2024-06-17T06:00:09.062Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Ultimate List of Split Screen Video Apps for Mobile
 excerpt: This Article Describes Updated 2024 Approved The Ultimate List of Split Screen Video Apps for Mobile
 keywords: the ultimate list of free video stabilizer apps for android users,the ultimate list top 10 glitch video editing apps for mobile creatives,the ultimate list of free green screen apps for mobile video editing,the ultimate guide to split screen video apps for mobile,the ultimate list of free mov video splitters,the ultimate list of split screen video apps for mobile,the ultimate list 10 free video speed editor apps for mobile users
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## The Ultimate List of Split Screen Video Apps for Mobile

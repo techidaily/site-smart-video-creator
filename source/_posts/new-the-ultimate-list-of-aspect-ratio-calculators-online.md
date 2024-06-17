@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate List of Aspect Ratio Calculators Online
-date: 2024-05-19T10:32:42.615Z
-updated: 2024-05-20T10:32:42.615Z
+date: 2024-06-16T05:59:44.530Z
+updated: 2024-06-17T05:59:44.530Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ultimate List of Aspect Ratio Calculators Online
 excerpt: This Article Describes New The Ultimate List of Aspect Ratio Calculators Online
 keywords: aspect ratio made simple the best online calculators,the ultimate list of online image aspect ratio converters,the ultimate list of aspect ratio converter tools,the ultimate list of free aspect ratio calculator tools,the ultimate list of aspect ratio calculators for designers,the ultimate list of aspect ratio calculators online,best 5 aspect ratio calculators online
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## The Ultimate List of Aspect Ratio Calculators Online

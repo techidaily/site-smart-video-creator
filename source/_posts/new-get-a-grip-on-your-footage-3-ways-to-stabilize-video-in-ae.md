@@ -1,7 +1,7 @@
 ---
 title: New Get a Grip on Your Footage 3 Ways to Stabilize Video in AE
-date: 2024-05-19T10:32:20.153Z
-updated: 2024-05-20T10:32:20.153Z
+date: 2024-06-16T06:00:03.560Z
+updated: 2024-06-17T06:00:03.560Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get a Grip on Your Footage 3 Ways to Stabilize Video in AE
 excerpt: This Article Describes New Get a Grip on Your Footage 3 Ways to Stabilize Video in AE
 keywords: get a grip on your footage 3 ways to stabilize video in ae,steady as a rock how to stabilize your video in fcpx,elevate your footage the art of video stabilization in fcpx,get a grip on your footage fcpx video stabilization made easy,free your footage top android video stabilizer apps,refine your footage how to stabilize videos like a pro in ae,get a grip on your footage stabilizing video in after effects
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Get a Grip on Your Footage: 3 Ways to Stabilize Video in AE

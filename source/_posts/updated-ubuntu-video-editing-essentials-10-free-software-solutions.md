@@ -1,7 +1,7 @@
 ---
 title: Updated Ubuntu Video Editing Essentials 10 Free Software Solutions
-date: 2024-05-19T10:32:48.524Z
-updated: 2024-05-20T10:32:48.524Z
+date: 2024-06-16T06:00:07.692Z
+updated: 2024-06-17T06:00:07.692Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Ubuntu Video Editing Essentials 10 Free Software Solutions
 excerpt: This Article Describes Updated Ubuntu Video Editing Essentials 10 Free Software Solutions
 keywords: ubuntu video editing essentials 10 free software solutions,free and fabulous top 10 ubuntu video editing software options,ubuntu video editing essentials top 10 free options,ubuntu video editing essentials top 10 free software,ubuntus finest 10 free video editing software options,ubuntu video editing essentials top 10 free tools,free and fantastic 10 ubuntu video editing software options
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Ubuntu Video Editing Essentials: 10 Free Software Solutions

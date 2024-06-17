@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Landscape to Portrait The Art of Resizing Videos for Social Media
-date: 2024-05-19T10:32:18.652Z
-updated: 2024-05-20T10:32:18.652Z
+date: 2024-06-16T06:00:14.099Z
+updated: 2024-06-17T06:00:14.099Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, From Landscape to Portrait The Art of Resizing Videos for Social Media
 excerpt: This Article Describes In 2024, From Landscape to Portrait The Art of Resizing Videos for Social Media
 keywords: from landscape to portrait the art of resizing videos for social media,resize like a pro the 1 tip for vertical social media videos,transform your videos in minutes the best way to resize for social media,get noticed on social media the importance of proper video resizing,the secret to perfect proportions resizing vertical videos for social,the art of video resizing tips for perfect proportions,resize like a pro mastering vertical video ratios for social media
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## From Landscape to Portrait: The Art of Resizing Videos for Social Media
