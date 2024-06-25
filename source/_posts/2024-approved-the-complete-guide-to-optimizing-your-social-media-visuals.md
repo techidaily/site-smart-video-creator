@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Complete Guide to Optimizing Your Social Media Visuals
-date: 2024-05-19T10:32:39.216Z
-updated: 2024-05-20T10:32:39.216Z
+date: 2024-06-24T06:04:03.582Z
+updated: 2024-06-25T06:04:03.582Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Complete Guide to Optimizing Your Social Media Visuals
 excerpt: This Article Describes 2024 Approved The Complete Guide to Optimizing Your Social Media Visuals
 keywords: optimize your online presence a guide to social media aspect ratios,sizing up success how to optimize your vertical videos for social media,the complete guide to social media image optimization aspect ratios and more,maximize your reach a guide to optimizing social media aspect ratios,get noticed on social media the ultimate guide to vertical video resizing,get noticed on social media the importance of proper video resizing,the complete guide to optimizing your social media visuals
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## The Complete Guide to Optimizing Your Social Media Visuals
@@ -1948,16 +1948,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -1974,15 +1974,15 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
 In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1995,7 +1995,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -2048,16 +2048,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -2074,15 +2074,15 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
 In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -2095,7 +2095,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -2148,16 +2148,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -2174,15 +2174,15 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
 In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -2195,7 +2195,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.
@@ -2248,16 +2248,16 @@ Now there are hundreds of video editing software, and every video editor has his
 
 * Select the clip that needs to apply blur face in the timeline, and then go to the **Effects** tab and select   **Utility**.
 
-![ Filmora 9 video editor utility options ](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+![Filmora 9 video editor utility options](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
 
 * If the image is still, then you can click **Mosaic** option and drag it in the video clip in the timeline.
 
-![ Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
+![Filmora 9 video editor Mosaic](https://images.wondershare.com/filmora/article-images/filmora9-mosaic-effect-adjust.jpg)
 
 * Double click the video clip applied Mosaic effect in the timeline to enter the video effects tab, in where you can dictate the size of the area, the mosaic types, and also adjust the opacity.
 * If the image is in motion and you’d like the blurred area to be mobile as well, drag the **Face Off** from the Effects tab to the timeline and adjust it in the Video Effects tab as well. You can pick the face-off pattern under Video Effects and the Face-off feature will tracks the face that appears on the screen and applies a blur to it.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
+![blur faces](https://images.wondershare.com/filmora/article-images/filmora-blur-face.JPG)
 
 * When you’re done, click **OK**  to save the changes and then click **Export** and pick your desired video format.
 
@@ -2274,15 +2274,15 @@ Those interested in learning how to [blur faces in videos in order to apply the 
 * Sign in your YouTube account and select the **Creator** **Studio** option after clicking the avatar. Locate the video that you want to edit and access video **Enhancements**.
 * You will see two blurring options in the **Enhancement** window: **Blur faces** and **Custom blurring**. To blur all faces appear in the video, go to **Blur faces** and click **Edit**
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-in-youtube-enhancement.jpg)
 
 * YouTube will use the face detection tool to analyze all faces in the video and displays the faces in the left side. You can click the face image to blur a specific face throughout the video.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-blur-faces-window.jpg)
 
 * Preview the blurring effects and if everything goes OK, click **Save** to save the face blurring effect to video. After you’re finished the editing, click **Save** to save the edits in-place, or **Save as New Video**, which creates a new video (this would mean, however, that you would lose any views you previously had).
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/youtube-enhancement-save.jpg)
 
 In the Enhancement window, you can also blur a specific area of the video with the **custom blurring** option. Want to edit YouTube videos with more features, check our picks of the[best video editing software for YouTubers in 2018.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -2295,7 +2295,7 @@ In the Enhancement window, you can also blur a specific area of the video with t
 * Open **Movavi** and locate the **Filters**
 * Click **Blur**.
 
-![ blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
+![blur faces](https://images.wondershare.com/filmora/article-images/blur-face-with-movavi-video-editor.jpg)
 
 * Once the filter gallery opens, **drag your desired filter** over the clip or image.
 * You can apply either the **Blur Intense** or the **Blur Mild** effects if you would like to determine their strength.

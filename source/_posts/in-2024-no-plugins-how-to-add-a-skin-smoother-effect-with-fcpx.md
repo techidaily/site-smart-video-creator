@@ -1,7 +1,7 @@
 ---
 title: In 2024, No Plugins How to Add a Skin Smoother Effect with FCPX
-date: 2024-05-19T10:31:51.691Z
-updated: 2024-05-20T10:31:51.691Z
+date: 2024-06-24T06:04:10.674Z
+updated: 2024-06-25T06:04:10.674Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, No Plugins How to Add a Skin Smoother Effect with FCPX
 excerpt: This Article Describes In 2024, No Plugins How to Add a Skin Smoother Effect with FCPX
 keywords: full guide how to add a skin smoother effect with final cut pro,add skin smoother effect in fcpx,fcpx pro tip add a skin smoother effect without any plugins,the natural look how to smooth skin in fcpx without plugins,ai animation no plugins how to add a skin smoother effect with fcpx,no plugins how to add a skin smoother effect with fcpx,no plugins required how to achieve smooth skin in fcpx
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## [No Plugins] How to Add a Skin Smoother Effect with FCPX
@@ -1424,7 +1424,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1438,11 +1438,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1451,7 +1451,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1497,7 +1497,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1511,11 +1511,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1524,7 +1524,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1570,7 +1570,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1584,11 +1584,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1597,7 +1597,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1643,7 +1643,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1657,11 +1657,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1670,7 +1670,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1896,7 +1896,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -1906,7 +1906,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -2104,7 +2104,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -2114,7 +2114,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -2312,7 +2312,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -2322,7 +2322,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 
@@ -2520,7 +2520,7 @@ This is a hidden feature that not many people know about, but iTunes actually wo
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ● FREE software, pre-installed on Mac computers● Quality settings to ensure good sound quality● AIFF-specific converter | ● No bulk-conversions available● Inefficient AIFF conversion● It will need to be downloaded and installed manually for Windows |
 
-![iTunes ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
+![iTunes](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2017.png)
 
 ****10\. Convertio**
 
@@ -2530,7 +2530,7 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | ● Supports all the general audio files● Various ways to upload● High-quality conversions | ● FREEmium online converter● 100MB upload limit for the FREE version● Slow conversion |
 
-![Convertio ](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
+![Convertio](https://images.wondershare.com/filmora/article-images/2022/01/your-most-essential-guide-towards-picking-best-aiff-converter%2018.png)
 
 ## Key Takeaways from This Episode
 

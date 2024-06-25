@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
-date: 2024-05-19T10:32:26.540Z
-updated: 2024-05-20T10:32:26.540Z
+date: 2024-06-24T06:04:11.924Z
+updated: 2024-06-25T06:04:11.924Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
 excerpt: This Article Describes 2024 Approved Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide
 keywords: mastering pip in final cut pro a step by step guide,ai animation mastering the ken burns effect a step by step guide,mastering the ken burns effect a step by step guide for final cut pro users,bring your videos to life a step by step guide to the ken burns effect in final cut pro,mastering the ken burns effect a step by step guide,ai animation mastering the ken burns effect a step by step guide for final cut pro users,mastering the ken burns effect in final cut pro a step by step guide
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Mastering the Ken Burns Effect in Final Cut Pro: A Step-by-Step Guide
@@ -465,7 +465,7 @@ You may download [Filmora](https://tools.techidaily.com/wondershare/filmora/down
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows PC
+##### Step1 Install Filmora
 
 You must to download and install Wondershare Filmora on your computer before using it. This TV recorder on the fly may be used for your requirements. You can find every version of the Filmora software, including Windows and Mac versions, as well as the most current version.
 
@@ -571,7 +571,7 @@ You may download [Filmora](https://tools.techidaily.com/wondershare/filmora/down
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Windows PC
+##### Step1 Install Filmora
 
 You must to download and install Wondershare Filmora on your computer before using it. This TV recorder on the fly may be used for your requirements. You can find every version of the Filmora software, including Windows and Mac versions, as well as the most current version.
 
@@ -636,9 +636,7 @@ If you want more controls on 3D animation videos, here we recommend using [Filmo
 
 You need to build a white plane to start making 3D animation with keyframes easily. Filmora offers six different types of keyframes to let your animation become smooth and natural.
 
-Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Below is a comparison table where you can find the best free 3D animation makers. Some 3D animation makers are easy to use. Take a look!
 
@@ -655,7 +653,7 @@ Below is a comparison table where you can find the best free 3D animation makers
 
 ## Part 1: Best Free 3D Animation Software
 
-#### 1\. [**_Blender_**](https://www.blender.org/)
+#### 1\. **_Blender_**
 
 **Pros:**
 
@@ -693,7 +691,7 @@ An easy-to-use, unconventional sector modeler, Wings 3D is a powerful 3D animati
 
 ![Wings 3d](https://images.wondershare.com/filmora/article-images/Wings-3D.JPG)
 
-#### 3.[K-3D](http://www.k-3d.org/)
+#### 3. K-3D
 
 **Pros:**
 
@@ -712,7 +710,7 @@ One of the best 3D animation software is K-3D. K-3D features a procedural engine
 
 ![k 3d](https://images.wondershare.com/filmora/article-images/k-3d.JPG)
 
-#### **_4._**[**_Source Filmmaker_**](http://store.steampowered.com/app/1840/Source%5FFilmmaker/)
+#### **_4._** **_Source Filmmaker_**
 
 **Pros** **:**
 
@@ -730,7 +728,7 @@ This 3D animation software lets you make a movie inside the game engine Source. 
 
 ![source Filmmaker](https://images.wondershare.com/filmora/article-images/Source-Filmmaker.JPG)
 
-#### 5**_._**[**_Mixamo_**](https://www.mixamo.com/#/)
+#### 5**_._** **_Mixamo_**
 
 **Pros:**
 
@@ -749,7 +747,7 @@ With a straightforward and faster workflow, the Mixamo 3D software’s newest us
 
 ## Part 2: Best Paid 3D Animation Software
 
-#### 6**_._**[**_Maya_**](http://www.kqzyfj.com/click-9197885-12159828)
+#### 6**_._** **_Maya_**
 
 **Pros:**
 
@@ -770,7 +768,7 @@ If you want to create or develop games, 3D scenes, movies, or characters, Maya i
 
 ![maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 7**_._**[**_Cinema 4D_**](https://www.maxon.net/en-us/)
+#### 7**_._** **_Cinema 4D_**
 
 **Pros:**
 
@@ -786,7 +784,7 @@ A faster 3D animation software tool than Maya, Cinema 4D offers a gentle curve f
 
 ![Cinema 4d](https://images.wondershare.com/filmora/article-images/Cinema-4D.JPG)
 
-#### **_8._**[**_Houdini_**](https://www.sidefx.com/)
+#### **_8._** **_Houdini_**
 
 **Pros:**
 
@@ -804,7 +802,7 @@ Developed by the Toronto-based Side Effects Software, Houdini covers every major
 
 ![Houdini](https://images.wondershare.com/filmora/article-images/Houdini.JPG)
 
-#### _9._[ZBrush](https://pixologic.com/zbrush/features/Timeline/)
+#### _9._ ZBrush
 
 **Pros:**
 
@@ -821,7 +819,7 @@ ZBrush 4 offers a smart technique to communicate your work with a director or on
 
 ![zbrush](https://images.wondershare.com/filmora/article-images/2022/09/zbrush.jpg)
 
-#### _9._[MotionBuilder:](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+#### _9._ MotionBuilder:
 
 **Pros:**
 
@@ -871,9 +869,7 @@ If you want more controls on 3D animation videos, here we recommend using [Filmo
 
 You need to build a white plane to start making 3D animation with keyframes easily. Filmora offers six different types of keyframes to let your animation become smooth and natural.
 
-Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Below is a comparison table where you can find the best free 3D animation makers. Some 3D animation makers are easy to use. Take a look!
 
@@ -890,7 +886,7 @@ Below is a comparison table where you can find the best free 3D animation makers
 
 ## Part 1: Best Free 3D Animation Software
 
-#### 1\. [**_Blender_**](https://www.blender.org/)
+#### 1\. **_Blender_**
 
 **Pros:**
 
@@ -928,7 +924,7 @@ An easy-to-use, unconventional sector modeler, Wings 3D is a powerful 3D animati
 
 ![Wings 3d](https://images.wondershare.com/filmora/article-images/Wings-3D.JPG)
 
-#### 3.[K-3D](http://www.k-3d.org/)
+#### 3. K-3D
 
 **Pros:**
 
@@ -947,7 +943,7 @@ One of the best 3D animation software is K-3D. K-3D features a procedural engine
 
 ![k 3d](https://images.wondershare.com/filmora/article-images/k-3d.JPG)
 
-#### **_4._**[**_Source Filmmaker_**](http://store.steampowered.com/app/1840/Source%5FFilmmaker/)
+#### **_4._** **_Source Filmmaker_**
 
 **Pros** **:**
 
@@ -965,7 +961,7 @@ This 3D animation software lets you make a movie inside the game engine Source. 
 
 ![source Filmmaker](https://images.wondershare.com/filmora/article-images/Source-Filmmaker.JPG)
 
-#### 5**_._**[**_Mixamo_**](https://www.mixamo.com/#/)
+#### 5**_._** **_Mixamo_**
 
 **Pros:**
 
@@ -984,7 +980,7 @@ With a straightforward and faster workflow, the Mixamo 3D software’s newest us
 
 ## Part 2: Best Paid 3D Animation Software
 
-#### 6**_._**[**_Maya_**](http://www.kqzyfj.com/click-9197885-12159828)
+#### 6**_._** **_Maya_**
 
 **Pros:**
 
@@ -1005,7 +1001,7 @@ If you want to create or develop games, 3D scenes, movies, or characters, Maya i
 
 ![maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 7**_._**[**_Cinema 4D_**](https://www.maxon.net/en-us/)
+#### 7**_._** **_Cinema 4D_**
 
 **Pros:**
 
@@ -1021,7 +1017,7 @@ A faster 3D animation software tool than Maya, Cinema 4D offers a gentle curve f
 
 ![Cinema 4d](https://images.wondershare.com/filmora/article-images/Cinema-4D.JPG)
 
-#### **_8._**[**_Houdini_**](https://www.sidefx.com/)
+#### **_8._** **_Houdini_**
 
 **Pros:**
 
@@ -1039,7 +1035,7 @@ Developed by the Toronto-based Side Effects Software, Houdini covers every major
 
 ![Houdini](https://images.wondershare.com/filmora/article-images/Houdini.JPG)
 
-#### _9._[ZBrush](https://pixologic.com/zbrush/features/Timeline/)
+#### _9._ ZBrush
 
 **Pros:**
 
@@ -1056,7 +1052,7 @@ ZBrush 4 offers a smart technique to communicate your work with a director or on
 
 ![zbrush](https://images.wondershare.com/filmora/article-images/2022/09/zbrush.jpg)
 
-#### _9._[MotionBuilder:](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+#### _9._ MotionBuilder:
 
 **Pros:**
 
@@ -1106,9 +1102,7 @@ If you want more controls on 3D animation videos, here we recommend using [Filmo
 
 You need to build a white plane to start making 3D animation with keyframes easily. Filmora offers six different types of keyframes to let your animation become smooth and natural.
 
-Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Below is a comparison table where you can find the best free 3D animation makers. Some 3D animation makers are easy to use. Take a look!
 
@@ -1125,7 +1119,7 @@ Below is a comparison table where you can find the best free 3D animation makers
 
 ## Part 1: Best Free 3D Animation Software
 
-#### 1\. [**_Blender_**](https://www.blender.org/)
+#### 1\. **_Blender_**
 
 **Pros:**
 
@@ -1163,7 +1157,7 @@ An easy-to-use, unconventional sector modeler, Wings 3D is a powerful 3D animati
 
 ![Wings 3d](https://images.wondershare.com/filmora/article-images/Wings-3D.JPG)
 
-#### 3.[K-3D](http://www.k-3d.org/)
+#### 3. K-3D
 
 **Pros:**
 
@@ -1182,7 +1176,7 @@ One of the best 3D animation software is K-3D. K-3D features a procedural engine
 
 ![k 3d](https://images.wondershare.com/filmora/article-images/k-3d.JPG)
 
-#### **_4._**[**_Source Filmmaker_**](http://store.steampowered.com/app/1840/Source%5FFilmmaker/)
+#### **_4._** **_Source Filmmaker_**
 
 **Pros** **:**
 
@@ -1200,7 +1194,7 @@ This 3D animation software lets you make a movie inside the game engine Source. 
 
 ![source Filmmaker](https://images.wondershare.com/filmora/article-images/Source-Filmmaker.JPG)
 
-#### 5**_._**[**_Mixamo_**](https://www.mixamo.com/#/)
+#### 5**_._** **_Mixamo_**
 
 **Pros:**
 
@@ -1219,7 +1213,7 @@ With a straightforward and faster workflow, the Mixamo 3D software’s newest us
 
 ## Part 2: Best Paid 3D Animation Software
 
-#### 6**_._**[**_Maya_**](http://www.kqzyfj.com/click-9197885-12159828)
+#### 6**_._** **_Maya_**
 
 **Pros:**
 
@@ -1240,7 +1234,7 @@ If you want to create or develop games, 3D scenes, movies, or characters, Maya i
 
 ![maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 7**_._**[**_Cinema 4D_**](https://www.maxon.net/en-us/)
+#### 7**_._** **_Cinema 4D_**
 
 **Pros:**
 
@@ -1256,7 +1250,7 @@ A faster 3D animation software tool than Maya, Cinema 4D offers a gentle curve f
 
 ![Cinema 4d](https://images.wondershare.com/filmora/article-images/Cinema-4D.JPG)
 
-#### **_8._**[**_Houdini_**](https://www.sidefx.com/)
+#### **_8._** **_Houdini_**
 
 **Pros:**
 
@@ -1274,7 +1268,7 @@ Developed by the Toronto-based Side Effects Software, Houdini covers every major
 
 ![Houdini](https://images.wondershare.com/filmora/article-images/Houdini.JPG)
 
-#### _9._[ZBrush](https://pixologic.com/zbrush/features/Timeline/)
+#### _9._ ZBrush
 
 **Pros:**
 
@@ -1291,7 +1285,7 @@ ZBrush 4 offers a smart technique to communicate your work with a director or on
 
 ![zbrush](https://images.wondershare.com/filmora/article-images/2022/09/zbrush.jpg)
 
-#### _9._[MotionBuilder:](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+#### _9._ MotionBuilder:
 
 **Pros:**
 
@@ -1341,9 +1335,7 @@ If you want more controls on 3D animation videos, here we recommend using [Filmo
 
 You need to build a white plane to start making 3D animation with keyframes easily. Filmora offers six different types of keyframes to let your animation become smooth and natural.
 
-Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Besides, auto color correction and audio mixer will upgrade your 3D animation video to a new level. You can also apply light flares effects to make amazing 3D animation. Now, free download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Below is a comparison table where you can find the best free 3D animation makers. Some 3D animation makers are easy to use. Take a look!
 
@@ -1360,7 +1352,7 @@ Below is a comparison table where you can find the best free 3D animation makers
 
 ## Part 1: Best Free 3D Animation Software
 
-#### 1\. [**_Blender_**](https://www.blender.org/)
+#### 1\. **_Blender_**
 
 **Pros:**
 
@@ -1398,7 +1390,7 @@ An easy-to-use, unconventional sector modeler, Wings 3D is a powerful 3D animati
 
 ![Wings 3d](https://images.wondershare.com/filmora/article-images/Wings-3D.JPG)
 
-#### 3.[K-3D](http://www.k-3d.org/)
+#### 3. K-3D
 
 **Pros:**
 
@@ -1417,7 +1409,7 @@ One of the best 3D animation software is K-3D. K-3D features a procedural engine
 
 ![k 3d](https://images.wondershare.com/filmora/article-images/k-3d.JPG)
 
-#### **_4._**[**_Source Filmmaker_**](http://store.steampowered.com/app/1840/Source%5FFilmmaker/)
+#### **_4._** **_Source Filmmaker_**
 
 **Pros** **:**
 
@@ -1435,7 +1427,7 @@ This 3D animation software lets you make a movie inside the game engine Source. 
 
 ![source Filmmaker](https://images.wondershare.com/filmora/article-images/Source-Filmmaker.JPG)
 
-#### 5**_._**[**_Mixamo_**](https://www.mixamo.com/#/)
+#### 5**_._** **_Mixamo_**
 
 **Pros:**
 
@@ -1454,7 +1446,7 @@ With a straightforward and faster workflow, the Mixamo 3D software’s newest us
 
 ## Part 2: Best Paid 3D Animation Software
 
-#### 6**_._**[**_Maya_**](http://www.kqzyfj.com/click-9197885-12159828)
+#### 6**_._** **_Maya_**
 
 **Pros:**
 
@@ -1475,7 +1467,7 @@ If you want to create or develop games, 3D scenes, movies, or characters, Maya i
 
 ![maya](https://images.wondershare.com/filmora/article-images/maya.JPG)
 
-#### 7**_._**[**_Cinema 4D_**](https://www.maxon.net/en-us/)
+#### 7**_._** **_Cinema 4D_**
 
 **Pros:**
 
@@ -1491,7 +1483,7 @@ A faster 3D animation software tool than Maya, Cinema 4D offers a gentle curve f
 
 ![Cinema 4d](https://images.wondershare.com/filmora/article-images/Cinema-4D.JPG)
 
-#### **_8._**[**_Houdini_**](https://www.sidefx.com/)
+#### **_8._** **_Houdini_**
 
 **Pros:**
 
@@ -1509,7 +1501,7 @@ Developed by the Toronto-based Side Effects Software, Houdini covers every major
 
 ![Houdini](https://images.wondershare.com/filmora/article-images/Houdini.JPG)
 
-#### _9._[ZBrush](https://pixologic.com/zbrush/features/Timeline/)
+#### _9._ ZBrush
 
 **Pros:**
 
@@ -1526,7 +1518,7 @@ ZBrush 4 offers a smart technique to communicate your work with a director or on
 
 ![zbrush](https://images.wondershare.com/filmora/article-images/2022/09/zbrush.jpg)
 
-#### _9._[MotionBuilder:](https://www.autodesk.com/products/motionbuilder/overview?term=1-YEAR&tab=subscription)
+#### _9._ MotionBuilder:
 
 **Pros:**
 
@@ -1586,9 +1578,7 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 ---
 
-With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
 
@@ -1622,7 +1612,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
@@ -1689,9 +1679,7 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 ---
 
-With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
 
@@ -1725,7 +1713,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
@@ -1792,9 +1780,7 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 ---
 
-With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
 
@@ -1828,7 +1814,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
@@ -1895,9 +1881,7 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 ---
 
-With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
 
@@ -1931,7 +1915,7 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
-![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 

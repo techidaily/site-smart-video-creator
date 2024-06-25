@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Best Free Video Invitation Designers for Your Next Event
-date: 2024-04-29T06:43:29.430Z
-updated: 2024-04-30T06:43:29.430Z
+date: 2024-06-24T06:04:12.063Z
+updated: 2024-06-25T06:04:12.063Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, The Best Free Video Invitation Designers for Your Next Event
 excerpt: This Article Describes Updated In 2024, The Best Free Video Invitation Designers for Your Next Event
 keywords: discover the best free 4k video editors for your next project,the best free iphone video editing apps for rotation 2023 review,the best free video invitation designers for your next event,discover the best free online video editors for your needs,design and send video invites for free best online tools,elevate your events best video invitation apps for mobile,free video invitation design tools the ultimate 2024 list
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## The Best Free Video Invitation Designers for Your Next Event
@@ -472,7 +472,7 @@ Finally, when the conversion has been completed, select the 'Download MP3' butto
 
 Now on to our list of the best **free FLAC Converter** options out there. We have eight of them for you to choose from, each unique from the other to make sure that you can find the one that suits your current need or project the most.
 
-### 01****[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01**** Wondershare Filmora Video Editor
 
 **Compatibility**: Windows & Mac OS
 
@@ -674,7 +674,7 @@ Finally, when the conversion has been completed, select the 'Download MP3' butto
 
 Now on to our list of the best **free FLAC Converter** options out there. We have eight of them for you to choose from, each unique from the other to make sure that you can find the one that suits your current need or project the most.
 
-### 01****[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01**** Wondershare Filmora Video Editor
 
 **Compatibility**: Windows & Mac OS
 
@@ -876,7 +876,7 @@ Finally, when the conversion has been completed, select the 'Download MP3' butto
 
 Now on to our list of the best **free FLAC Converter** options out there. We have eight of them for you to choose from, each unique from the other to make sure that you can find the one that suits your current need or project the most.
 
-### 01****[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01**** Wondershare Filmora Video Editor
 
 **Compatibility**: Windows & Mac OS
 
@@ -1078,7 +1078,7 @@ Finally, when the conversion has been completed, select the 'Download MP3' butto
 
 Now on to our list of the best **free FLAC Converter** options out there. We have eight of them for you to choose from, each unique from the other to make sure that you can find the one that suits your current need or project the most.
 
-### 01****[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01**** Wondershare Filmora Video Editor
 
 **Compatibility**: Windows & Mac OS
 
@@ -1241,7 +1241,7 @@ The last of the tools on this list, Freemake, is another Windows-only software! 
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [Movie Rotator 2.0](http://movierotator.com/)
+## Movie Rotator 2.0
 
 Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible with Windows 7 and 8 and enables you to rotate videos in just one few clicks. In addition to 3GP, the software also supports other formats such as AVI, MPG, FLV, MP4, WMV, MOV and so much more.
 
@@ -1255,7 +1255,7 @@ Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible
 
 * Only available for Windows 7 and 8.
 
-## [Video Rotator](http://www.videorotator.com/index.html)
+## Video Rotator
 
 Video Rotator is an application for flipping video clips 90 degree clockwise, horizontal mirror, anticlockwise, or upside-down. The program supports over 15 popular video input formats which includes 3GP, MPG, AVI, FLV, WMV, MOV and MP4, etc. Video Rotator allows users to also save the rotated videos into 5 popular video formats: MPG, FLV, MP4, AVI, and MOV. This program supports batch mode which enables users are able to flip & rotate videos in bulk.
 
@@ -1272,7 +1272,7 @@ Video Rotator is an application for flipping video clips 90 degree clockwise, ho
 * Crashed occasionally;
 * No previewer.
 
-## [Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## Free Video Flip and Rotate
 
 With Free Video Flip, you can flip or rotate video with a mouse click. It features different predefined presets and you can rotate the video by 90 degrees, 180 degrees in clockwise and anti-clockwise direction. Or flip the video vertically as well as horizontally to make more correction to the original video or rotated video.
 
@@ -1286,7 +1286,7 @@ With Free Video Flip, you can flip or rotate video with a mouse click. It featur
 
 * It offers to install a lot of unwanted applications.
 
-## [Freemake Video Converter](http://www.freemake.com/)
+## Freemake Video Converter
 
 Freemake Video Converter is more than just a video converter. It also provides a very easy way for you to change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -1302,7 +1302,7 @@ Freemake Video Converter is more than just a video converter. It also provides a
 
 * There is a charge to upgrade it to the Gold Version.
 
-## [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## Any Video Converter
 
 Any video Converter features a very easy-to-use interface. It even enables you to rotate in batches and do some smart editing like trimming, cropping, clipping as well. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including 3GP of course.
 
@@ -1344,7 +1344,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [Movie Rotator 2.0](http://movierotator.com/)
+## Movie Rotator 2.0
 
 Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible with Windows 7 and 8 and enables you to rotate videos in just one few clicks. In addition to 3GP, the software also supports other formats such as AVI, MPG, FLV, MP4, WMV, MOV and so much more.
 
@@ -1358,7 +1358,7 @@ Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible
 
 * Only available for Windows 7 and 8.
 
-## [Video Rotator](http://www.videorotator.com/index.html)
+## Video Rotator
 
 Video Rotator is an application for flipping video clips 90 degree clockwise, horizontal mirror, anticlockwise, or upside-down. The program supports over 15 popular video input formats which includes 3GP, MPG, AVI, FLV, WMV, MOV and MP4, etc. Video Rotator allows users to also save the rotated videos into 5 popular video formats: MPG, FLV, MP4, AVI, and MOV. This program supports batch mode which enables users are able to flip & rotate videos in bulk.
 
@@ -1375,7 +1375,7 @@ Video Rotator is an application for flipping video clips 90 degree clockwise, ho
 * Crashed occasionally;
 * No previewer.
 
-## [Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## Free Video Flip and Rotate
 
 With Free Video Flip, you can flip or rotate video with a mouse click. It features different predefined presets and you can rotate the video by 90 degrees, 180 degrees in clockwise and anti-clockwise direction. Or flip the video vertically as well as horizontally to make more correction to the original video or rotated video.
 
@@ -1389,7 +1389,7 @@ With Free Video Flip, you can flip or rotate video with a mouse click. It featur
 
 * It offers to install a lot of unwanted applications.
 
-## [Freemake Video Converter](http://www.freemake.com/)
+## Freemake Video Converter
 
 Freemake Video Converter is more than just a video converter. It also provides a very easy way for you to change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -1405,7 +1405,7 @@ Freemake Video Converter is more than just a video converter. It also provides a
 
 * There is a charge to upgrade it to the Gold Version.
 
-## [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## Any Video Converter
 
 Any video Converter features a very easy-to-use interface. It even enables you to rotate in batches and do some smart editing like trimming, cropping, clipping as well. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including 3GP of course.
 
@@ -1447,7 +1447,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [Movie Rotator 2.0](http://movierotator.com/)
+## Movie Rotator 2.0
 
 Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible with Windows 7 and 8 and enables you to rotate videos in just one few clicks. In addition to 3GP, the software also supports other formats such as AVI, MPG, FLV, MP4, WMV, MOV and so much more.
 
@@ -1461,7 +1461,7 @@ Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible
 
 * Only available for Windows 7 and 8.
 
-## [Video Rotator](http://www.videorotator.com/index.html)
+## Video Rotator
 
 Video Rotator is an application for flipping video clips 90 degree clockwise, horizontal mirror, anticlockwise, or upside-down. The program supports over 15 popular video input formats which includes 3GP, MPG, AVI, FLV, WMV, MOV and MP4, etc. Video Rotator allows users to also save the rotated videos into 5 popular video formats: MPG, FLV, MP4, AVI, and MOV. This program supports batch mode which enables users are able to flip & rotate videos in bulk.
 
@@ -1478,7 +1478,7 @@ Video Rotator is an application for flipping video clips 90 degree clockwise, ho
 * Crashed occasionally;
 * No previewer.
 
-## [Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## Free Video Flip and Rotate
 
 With Free Video Flip, you can flip or rotate video with a mouse click. It features different predefined presets and you can rotate the video by 90 degrees, 180 degrees in clockwise and anti-clockwise direction. Or flip the video vertically as well as horizontally to make more correction to the original video or rotated video.
 
@@ -1492,7 +1492,7 @@ With Free Video Flip, you can flip or rotate video with a mouse click. It featur
 
 * It offers to install a lot of unwanted applications.
 
-## [Freemake Video Converter](http://www.freemake.com/)
+## Freemake Video Converter
 
 Freemake Video Converter is more than just a video converter. It also provides a very easy way for you to change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -1508,7 +1508,7 @@ Freemake Video Converter is more than just a video converter. It also provides a
 
 * There is a charge to upgrade it to the Gold Version.
 
-## [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## Any Video Converter
 
 Any video Converter features a very easy-to-use interface. It even enables you to rotate in batches and do some smart editing like trimming, cropping, clipping as well. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including 3GP of course.
 
@@ -1550,7 +1550,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [Movie Rotator 2.0](http://movierotator.com/)
+## Movie Rotator 2.0
 
 Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible with Windows 7 and 8 and enables you to rotate videos in just one few clicks. In addition to 3GP, the software also supports other formats such as AVI, MPG, FLV, MP4, WMV, MOV and so much more.
 
@@ -1564,7 +1564,7 @@ Movie Rotator 2.0 is the updated version of Movie Rotator. It's fully compatible
 
 * Only available for Windows 7 and 8.
 
-## [Video Rotator](http://www.videorotator.com/index.html)
+## Video Rotator
 
 Video Rotator is an application for flipping video clips 90 degree clockwise, horizontal mirror, anticlockwise, or upside-down. The program supports over 15 popular video input formats which includes 3GP, MPG, AVI, FLV, WMV, MOV and MP4, etc. Video Rotator allows users to also save the rotated videos into 5 popular video formats: MPG, FLV, MP4, AVI, and MOV. This program supports batch mode which enables users are able to flip & rotate videos in bulk.
 
@@ -1581,7 +1581,7 @@ Video Rotator is an application for flipping video clips 90 degree clockwise, ho
 * Crashed occasionally;
 * No previewer.
 
-## [Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## Free Video Flip and Rotate
 
 With Free Video Flip, you can flip or rotate video with a mouse click. It features different predefined presets and you can rotate the video by 90 degrees, 180 degrees in clockwise and anti-clockwise direction. Or flip the video vertically as well as horizontally to make more correction to the original video or rotated video.
 
@@ -1595,7 +1595,7 @@ With Free Video Flip, you can flip or rotate video with a mouse click. It featur
 
 * It offers to install a lot of unwanted applications.
 
-## [Freemake Video Converter](http://www.freemake.com/)
+## Freemake Video Converter
 
 Freemake Video Converter is more than just a video converter. It also provides a very easy way for you to change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -1611,7 +1611,7 @@ Freemake Video Converter is more than just a video converter. It also provides a
 
 * There is a charge to upgrade it to the Gold Version.
 
-## [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## Any Video Converter
 
 Any video Converter features a very easy-to-use interface. It even enables you to rotate in batches and do some smart editing like trimming, cropping, clipping as well. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including 3GP of course.
 
@@ -1720,7 +1720,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1730,7 +1730,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1740,7 +1740,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1758,9 +1758,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -1828,7 +1826,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1838,7 +1836,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1848,7 +1846,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1866,9 +1864,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -1936,7 +1932,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1946,7 +1942,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1956,7 +1952,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1974,9 +1970,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -2044,7 +2038,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -2054,7 +2048,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -2064,7 +2058,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
