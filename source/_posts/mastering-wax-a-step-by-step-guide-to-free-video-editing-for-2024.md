@@ -1,7 +1,7 @@
 ---
 title: Mastering Wax A Step-by-Step Guide to Free Video Editing for 2024
-date: 2024-05-19T10:31:57.365Z
-updated: 2024-05-20T10:31:57.365Z
+date: 2024-07-02T16:52:43.012Z
+updated: 2024-07-03T16:52:43.012Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mastering Wax A Step-by-Step Guide to Free Video Editing for 2024
 excerpt: This Article Describes Mastering Wax A Step-by-Step Guide to Free Video Editing for 2024
 keywords: mastering jaycut a step by step guide to free online video editing,mastering wax a step by step guide to free video editing,free video editing for beginners a step by step guide to getting started,mastering nikon footage a step by step guide to video editing,mastering canon footage a step by step guide to video editing,mastering wax a step by step guide to editing videos for free,ai animation mastering wax a step by step guide to free video editing
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Mastering Wax: A Step-by-Step Guide to Free Video Editing
@@ -920,7 +920,7 @@ Do you want to cut some unwanted elements from a video you just shot, downloaded
 
 Are you planning to extract some highlights and key messages from hours of raw video footage and join them in your research project presentation?
 
-Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/)lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
+Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/) lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -968,15 +968,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.
@@ -1009,7 +1009,7 @@ Do you want to cut some unwanted elements from a video you just shot, downloaded
 
 Are you planning to extract some highlights and key messages from hours of raw video footage and join them in your research project presentation?
 
-Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/)lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
+Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/) lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1057,15 +1057,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.
@@ -1098,7 +1098,7 @@ Do you want to cut some unwanted elements from a video you just shot, downloaded
 
 Are you planning to extract some highlights and key messages from hours of raw video footage and join them in your research project presentation?
 
-Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/)lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
+Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/) lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1146,15 +1146,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.
@@ -1187,7 +1187,7 @@ Do you want to cut some unwanted elements from a video you just shot, downloaded
 
 Are you planning to extract some highlights and key messages from hours of raw video footage and join them in your research project presentation?
 
-Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/)lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
+Cutting and joining video clips can be done very fast without losing any of the quality if you use the right tools. In this article, you will see how **[Wondershare Filmora X video cutter and joiner](https://tools.techidaily.com/wondershare/filmora/download/) lets you cut and join the best of your original footage** and then make these clips available on any video sharing sites like youtube, Facebook, Vimeo, etc., various mobile devices, DVDs and more.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1235,15 +1235,15 @@ To get started, download Filmora Video cutter and Joiner (the latest version 10 
 
 First, click the “Import” button and choose the source video file from your local hard drive, then drag and drop the file on the timeline below.
 
-![ Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+![Filmora Import](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
 If you want to cut out the beginning or ending part of the video, you can use the Trim feature in Filmora. Move your Cursor to the timeline, and drag it towards left or right to squeeze or expand unit time for precise video trimming and cutting. The beginning or closing part will be trimmed out automatically.
 
-![ Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
+![Filmora Trim sides](https://images.wondershare.com/filmora/guide/trim-sides.gif)
 
 If the unwanted part is located in the middle of the clip, then you can zoom in the timeline to preview the video frames precisely. Find the part you’d want, then move the playhead to the starting point of the wanted clip, click the scissor button now.
 
-![ Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
+![Filmora Split and Cut](https://images.wondershare.com/filmora/guide/cut-a-section.gif)
 
 Move the playhead again to the ending point of your wanted clip, further, click the scissor button again. Now you’ve successfully separated your video clips. If you want to cut out some unwanted parts, just select it in the timeline and click the Trash icon in the timeline to remove it. While to avoid gaps between each clip, we recommend you right-click the related clip and select Ripple Delete. Click the “Export” button to save the video on a computer or share it with YouTube or Vimeo directly.
 There you go! Your video is now successfully cut.

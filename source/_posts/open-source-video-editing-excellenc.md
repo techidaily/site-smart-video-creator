@@ -1,7 +1,7 @@
 ---
 title: Open-Source Video Editing Excellenc
-date: 2024-05-19T10:31:43.739Z
-updated: 2024-05-20T10:31:43.739Z
+date: 2024-07-02T16:53:12.347Z
+updated: 2024-07-03T16:53:12.347Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Open-Source Video Editing Excellenc
 excerpt: This Article Describes Open-Source Video Editing Excellenc
 keywords: open source video editing top 10 free tools,beyond wmm 13 excellent video editing software options,open source video editing excellence top picks,best free and open source video editing software,top open source video editing software,open source video editing excellenc,seamless video editing experiences our top choices
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Open-Source Video Editing Excellenc
@@ -113,7 +113,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -388,7 +388,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -663,7 +663,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -938,7 +938,7 @@ The premium edition of Lightworks charges $23.99 monthly, $239.99 annually, or $
 
 Filmora AI Video Editor
 
-#### Create AI-Generated Video with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Create AI-Generated Video with Filmora
 
 Filmora AI video editor offers a ChatGPT plug-in and AI tools to enhance your creative vision. Make your idea into reality.
 
@@ -1211,7 +1211,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1221,7 +1221,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1231,7 +1231,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1319,7 +1319,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1329,7 +1329,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1339,7 +1339,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1427,7 +1427,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1437,7 +1437,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1447,7 +1447,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1535,7 +1535,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1545,7 +1545,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1555,7 +1555,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1605,7 +1605,7 @@ If you want to have an online solution, [Filmora video trimmer](https://tools.te
 
 ## Top 10 Best Free MP4 Video Cutters
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a free open-source video editing program for Windows, Mac OS X and Linux. It comes with a well selected feature set to get your cutting, filtering and encoding tasks done. It also features a lot of interactive options and step by step guide for using this tool is there. Hence, using this tool is quite easy.
 
@@ -1622,7 +1622,7 @@ Avidemux is a free open-source video editing program for Windows, Mac OS X and L
 * May drop frames in certain formats;
 * Can be complicated for beginning users.
 
-#### 3\. [Lightworks](http://www.lwks.com/)
+#### 3\. Lightworks
 
 This is one of the most advanced video editing or cutter tool. It features seamless options though a little complicated for the novice users. However, it is the coolest tool for serving professional purposes. It can handle large file sizes with ease.
 
@@ -1638,7 +1638,7 @@ This is one of the most advanced video editing or cutter tool. It features seaml
 * It crashes occasionally;
 * Requires a long learning curve.
 
-#### 4\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 4\. VSDC Free Video Editor
 
 It's a free video editing program which supports various video formats include MP4, AVI, MKV, MPG, WMV, FLV and more. It provides various video filters, transitions, audio effects as well as drawing and selection tools. With it, you can easily cut your MP4 files into different pieces. When the editing done, you can also select the optimized save outputs for a variety of devices, including smart phones and gaming consoles.
 
@@ -1653,7 +1653,7 @@ It's a free video editing program which supports various video formats include M
 
 * Computer resources (CPU and RAM) are required at a high level.
 
-#### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+#### 5\. iMovie
 
 The second position of the list will be clinched by iMovie as it is quite similar the Windows Movie Maker, compatible for MAC OS X only. In fact, this software offers a few amazing features which are absent in Windows Movie Maker. With it, you can easily cut video into pieces and edit any part of the video as you like. Truly a powerful and effective tool! File saving and export options are particularly praiseworthy.
 
@@ -1668,7 +1668,7 @@ The second position of the list will be clinched by iMovie as it is quite simila
 
 * The supported video formats are limited.
 
-#### 6\. [Free Video Cutter](http://www.freevideocutter.com/)
+#### 6\. Free Video Cutter
 
 Freemake video Cutter does exactly what its name suggests, and that is cut video. As well as MP4 it can deal with several other video formats, it uses a nice easy to follow interface and is a nice compact package that does the job well.
 
@@ -1676,7 +1676,7 @@ Freemake video Cutter does exactly what its name suggests, and that is cut video
 
 One of the easiest to use, a simple interface and good performance.
 
-#### 7\. [Freemake Video Converter](http://www.freemake.com/free%5Fvideo%5Fconverter/)
+#### 7\. Freemake Video Converter
 
 Whilst, as the name suggests, this package was designed for format conversion, it includes a wealth of other abilities, one of which is video cutting, it can also rejoin and merge clips too. As a video converter, it has the largest range of format compatibility in the list and can even burn your finished videos to DVD or Blu-ray for you. The cutting feature is nicely implemented into a clear interface and should be straightforward for anyone to use.
 
@@ -1684,7 +1684,7 @@ Whilst, as the name suggests, this package was designed for format conversion, i
 
 An easy to use interface and a comprehensive feature set far beyond just cutting make this a great general video utility package.
 
-#### 8\. [Movica](https://sourceforge.net/projects/movica/)
+#### 8\. Movica
 
 This package uses other open source scripting files as the mechanics of doing its job, and is in essence a user interface for those systems. That takes nothing away from it though, the tools it uses are very effective, but in their native form not something most people could take advantage of. In addition to MP4 there are several other video formats available as well as both .wma and .mp3 audio files.
 
@@ -1692,7 +1692,7 @@ This package uses other open source scripting files as the mechanics of doing it
 
 A simple interface and a more technical outlook than many, but it works well.
 
-#### 9\. [Virtualdub](http://www.virtualdub.org/)
+#### 9\. Virtualdub
 
 A fairly comprehensive editing package, VirtualDub has a nice selection of cutting tools enabling accurate cuts and edits with ease, covering the MP4 format as well as several others, it is a useful tool for those looking for additional features beyond just cutting. Due to the lengthy feature set the interface is a little cluttered and for those that want nothing but a cutter, is perhaps overkill, however, it does the job very well and for many presents a useful selection of video tools.
 
@@ -1700,7 +1700,7 @@ A fairly comprehensive editing package, VirtualDub has a nice selection of cutti
 
 With plenty of video tools in addition to cutting, VirtualDub presents an attractive, video toolbox for the enthusiast.
 
-#### 10\. [Online Video Cutter](https://online-video-cutter.com/)
+#### 10\. Online Video Cutter
 
 Our final offering is a slightly different take on the video cutter. This is an online offering that requires no downloads or installation, you simply go to the website, upload your video or select a video on the web, cut the video and save the output. It is very simple, although there is the obvious issue with larger files of upload and download time, but for many applications is perhaps the ideal solution.
 
@@ -1736,7 +1736,7 @@ If you want to have an online solution, [Filmora video trimmer](https://tools.te
 
 ## Top 10 Best Free MP4 Video Cutters
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a free open-source video editing program for Windows, Mac OS X and Linux. It comes with a well selected feature set to get your cutting, filtering and encoding tasks done. It also features a lot of interactive options and step by step guide for using this tool is there. Hence, using this tool is quite easy.
 
@@ -1753,7 +1753,7 @@ Avidemux is a free open-source video editing program for Windows, Mac OS X and L
 * May drop frames in certain formats;
 * Can be complicated for beginning users.
 
-#### 3\. [Lightworks](http://www.lwks.com/)
+#### 3\. Lightworks
 
 This is one of the most advanced video editing or cutter tool. It features seamless options though a little complicated for the novice users. However, it is the coolest tool for serving professional purposes. It can handle large file sizes with ease.
 
@@ -1769,7 +1769,7 @@ This is one of the most advanced video editing or cutter tool. It features seaml
 * It crashes occasionally;
 * Requires a long learning curve.
 
-#### 4\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 4\. VSDC Free Video Editor
 
 It's a free video editing program which supports various video formats include MP4, AVI, MKV, MPG, WMV, FLV and more. It provides various video filters, transitions, audio effects as well as drawing and selection tools. With it, you can easily cut your MP4 files into different pieces. When the editing done, you can also select the optimized save outputs for a variety of devices, including smart phones and gaming consoles.
 
@@ -1784,7 +1784,7 @@ It's a free video editing program which supports various video formats include M
 
 * Computer resources (CPU and RAM) are required at a high level.
 
-#### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+#### 5\. iMovie
 
 The second position of the list will be clinched by iMovie as it is quite similar the Windows Movie Maker, compatible for MAC OS X only. In fact, this software offers a few amazing features which are absent in Windows Movie Maker. With it, you can easily cut video into pieces and edit any part of the video as you like. Truly a powerful and effective tool! File saving and export options are particularly praiseworthy.
 
@@ -1799,7 +1799,7 @@ The second position of the list will be clinched by iMovie as it is quite simila
 
 * The supported video formats are limited.
 
-#### 6\. [Free Video Cutter](http://www.freevideocutter.com/)
+#### 6\. Free Video Cutter
 
 Freemake video Cutter does exactly what its name suggests, and that is cut video. As well as MP4 it can deal with several other video formats, it uses a nice easy to follow interface and is a nice compact package that does the job well.
 
@@ -1807,7 +1807,7 @@ Freemake video Cutter does exactly what its name suggests, and that is cut video
 
 One of the easiest to use, a simple interface and good performance.
 
-#### 7\. [Freemake Video Converter](http://www.freemake.com/free%5Fvideo%5Fconverter/)
+#### 7\. Freemake Video Converter
 
 Whilst, as the name suggests, this package was designed for format conversion, it includes a wealth of other abilities, one of which is video cutting, it can also rejoin and merge clips too. As a video converter, it has the largest range of format compatibility in the list and can even burn your finished videos to DVD or Blu-ray for you. The cutting feature is nicely implemented into a clear interface and should be straightforward for anyone to use.
 
@@ -1815,7 +1815,7 @@ Whilst, as the name suggests, this package was designed for format conversion, i
 
 An easy to use interface and a comprehensive feature set far beyond just cutting make this a great general video utility package.
 
-#### 8\. [Movica](https://sourceforge.net/projects/movica/)
+#### 8\. Movica
 
 This package uses other open source scripting files as the mechanics of doing its job, and is in essence a user interface for those systems. That takes nothing away from it though, the tools it uses are very effective, but in their native form not something most people could take advantage of. In addition to MP4 there are several other video formats available as well as both .wma and .mp3 audio files.
 
@@ -1823,7 +1823,7 @@ This package uses other open source scripting files as the mechanics of doing it
 
 A simple interface and a more technical outlook than many, but it works well.
 
-#### 9\. [Virtualdub](http://www.virtualdub.org/)
+#### 9\. Virtualdub
 
 A fairly comprehensive editing package, VirtualDub has a nice selection of cutting tools enabling accurate cuts and edits with ease, covering the MP4 format as well as several others, it is a useful tool for those looking for additional features beyond just cutting. Due to the lengthy feature set the interface is a little cluttered and for those that want nothing but a cutter, is perhaps overkill, however, it does the job very well and for many presents a useful selection of video tools.
 
@@ -1831,7 +1831,7 @@ A fairly comprehensive editing package, VirtualDub has a nice selection of cutti
 
 With plenty of video tools in addition to cutting, VirtualDub presents an attractive, video toolbox for the enthusiast.
 
-#### 10\. [Online Video Cutter](https://online-video-cutter.com/)
+#### 10\. Online Video Cutter
 
 Our final offering is a slightly different take on the video cutter. This is an online offering that requires no downloads or installation, you simply go to the website, upload your video or select a video on the web, cut the video and save the output. It is very simple, although there is the obvious issue with larger files of upload and download time, but for many applications is perhaps the ideal solution.
 
@@ -1867,7 +1867,7 @@ If you want to have an online solution, [Filmora video trimmer](https://tools.te
 
 ## Top 10 Best Free MP4 Video Cutters
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a free open-source video editing program for Windows, Mac OS X and Linux. It comes with a well selected feature set to get your cutting, filtering and encoding tasks done. It also features a lot of interactive options and step by step guide for using this tool is there. Hence, using this tool is quite easy.
 
@@ -1884,7 +1884,7 @@ Avidemux is a free open-source video editing program for Windows, Mac OS X and L
 * May drop frames in certain formats;
 * Can be complicated for beginning users.
 
-#### 3\. [Lightworks](http://www.lwks.com/)
+#### 3\. Lightworks
 
 This is one of the most advanced video editing or cutter tool. It features seamless options though a little complicated for the novice users. However, it is the coolest tool for serving professional purposes. It can handle large file sizes with ease.
 
@@ -1900,7 +1900,7 @@ This is one of the most advanced video editing or cutter tool. It features seaml
 * It crashes occasionally;
 * Requires a long learning curve.
 
-#### 4\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 4\. VSDC Free Video Editor
 
 It's a free video editing program which supports various video formats include MP4, AVI, MKV, MPG, WMV, FLV and more. It provides various video filters, transitions, audio effects as well as drawing and selection tools. With it, you can easily cut your MP4 files into different pieces. When the editing done, you can also select the optimized save outputs for a variety of devices, including smart phones and gaming consoles.
 
@@ -1915,7 +1915,7 @@ It's a free video editing program which supports various video formats include M
 
 * Computer resources (CPU and RAM) are required at a high level.
 
-#### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+#### 5\. iMovie
 
 The second position of the list will be clinched by iMovie as it is quite similar the Windows Movie Maker, compatible for MAC OS X only. In fact, this software offers a few amazing features which are absent in Windows Movie Maker. With it, you can easily cut video into pieces and edit any part of the video as you like. Truly a powerful and effective tool! File saving and export options are particularly praiseworthy.
 
@@ -1930,7 +1930,7 @@ The second position of the list will be clinched by iMovie as it is quite simila
 
 * The supported video formats are limited.
 
-#### 6\. [Free Video Cutter](http://www.freevideocutter.com/)
+#### 6\. Free Video Cutter
 
 Freemake video Cutter does exactly what its name suggests, and that is cut video. As well as MP4 it can deal with several other video formats, it uses a nice easy to follow interface and is a nice compact package that does the job well.
 
@@ -1938,7 +1938,7 @@ Freemake video Cutter does exactly what its name suggests, and that is cut video
 
 One of the easiest to use, a simple interface and good performance.
 
-#### 7\. [Freemake Video Converter](http://www.freemake.com/free%5Fvideo%5Fconverter/)
+#### 7\. Freemake Video Converter
 
 Whilst, as the name suggests, this package was designed for format conversion, it includes a wealth of other abilities, one of which is video cutting, it can also rejoin and merge clips too. As a video converter, it has the largest range of format compatibility in the list and can even burn your finished videos to DVD or Blu-ray for you. The cutting feature is nicely implemented into a clear interface and should be straightforward for anyone to use.
 
@@ -1946,7 +1946,7 @@ Whilst, as the name suggests, this package was designed for format conversion, i
 
 An easy to use interface and a comprehensive feature set far beyond just cutting make this a great general video utility package.
 
-#### 8\. [Movica](https://sourceforge.net/projects/movica/)
+#### 8\. Movica
 
 This package uses other open source scripting files as the mechanics of doing its job, and is in essence a user interface for those systems. That takes nothing away from it though, the tools it uses are very effective, but in their native form not something most people could take advantage of. In addition to MP4 there are several other video formats available as well as both .wma and .mp3 audio files.
 
@@ -1954,7 +1954,7 @@ This package uses other open source scripting files as the mechanics of doing it
 
 A simple interface and a more technical outlook than many, but it works well.
 
-#### 9\. [Virtualdub](http://www.virtualdub.org/)
+#### 9\. Virtualdub
 
 A fairly comprehensive editing package, VirtualDub has a nice selection of cutting tools enabling accurate cuts and edits with ease, covering the MP4 format as well as several others, it is a useful tool for those looking for additional features beyond just cutting. Due to the lengthy feature set the interface is a little cluttered and for those that want nothing but a cutter, is perhaps overkill, however, it does the job very well and for many presents a useful selection of video tools.
 
@@ -1962,7 +1962,7 @@ A fairly comprehensive editing package, VirtualDub has a nice selection of cutti
 
 With plenty of video tools in addition to cutting, VirtualDub presents an attractive, video toolbox for the enthusiast.
 
-#### 10\. [Online Video Cutter](https://online-video-cutter.com/)
+#### 10\. Online Video Cutter
 
 Our final offering is a slightly different take on the video cutter. This is an online offering that requires no downloads or installation, you simply go to the website, upload your video or select a video on the web, cut the video and save the output. It is very simple, although there is the obvious issue with larger files of upload and download time, but for many applications is perhaps the ideal solution.
 
@@ -1998,7 +1998,7 @@ If you want to have an online solution, [Filmora video trimmer](https://tools.te
 
 ## Top 10 Best Free MP4 Video Cutters
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a free open-source video editing program for Windows, Mac OS X and Linux. It comes with a well selected feature set to get your cutting, filtering and encoding tasks done. It also features a lot of interactive options and step by step guide for using this tool is there. Hence, using this tool is quite easy.
 
@@ -2015,7 +2015,7 @@ Avidemux is a free open-source video editing program for Windows, Mac OS X and L
 * May drop frames in certain formats;
 * Can be complicated for beginning users.
 
-#### 3\. [Lightworks](http://www.lwks.com/)
+#### 3\. Lightworks
 
 This is one of the most advanced video editing or cutter tool. It features seamless options though a little complicated for the novice users. However, it is the coolest tool for serving professional purposes. It can handle large file sizes with ease.
 
@@ -2031,7 +2031,7 @@ This is one of the most advanced video editing or cutter tool. It features seaml
 * It crashes occasionally;
 * Requires a long learning curve.
 
-#### 4\. [VSDC Free Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 4\. VSDC Free Video Editor
 
 It's a free video editing program which supports various video formats include MP4, AVI, MKV, MPG, WMV, FLV and more. It provides various video filters, transitions, audio effects as well as drawing and selection tools. With it, you can easily cut your MP4 files into different pieces. When the editing done, you can also select the optimized save outputs for a variety of devices, including smart phones and gaming consoles.
 
@@ -2046,7 +2046,7 @@ It's a free video editing program which supports various video formats include M
 
 * Computer resources (CPU and RAM) are required at a high level.
 
-#### 5\. [iMovie](http://www.apple.com/mac/imovie/)
+#### 5\. iMovie
 
 The second position of the list will be clinched by iMovie as it is quite similar the Windows Movie Maker, compatible for MAC OS X only. In fact, this software offers a few amazing features which are absent in Windows Movie Maker. With it, you can easily cut video into pieces and edit any part of the video as you like. Truly a powerful and effective tool! File saving and export options are particularly praiseworthy.
 
@@ -2061,7 +2061,7 @@ The second position of the list will be clinched by iMovie as it is quite simila
 
 * The supported video formats are limited.
 
-#### 6\. [Free Video Cutter](http://www.freevideocutter.com/)
+#### 6\. Free Video Cutter
 
 Freemake video Cutter does exactly what its name suggests, and that is cut video. As well as MP4 it can deal with several other video formats, it uses a nice easy to follow interface and is a nice compact package that does the job well.
 
@@ -2069,7 +2069,7 @@ Freemake video Cutter does exactly what its name suggests, and that is cut video
 
 One of the easiest to use, a simple interface and good performance.
 
-#### 7\. [Freemake Video Converter](http://www.freemake.com/free%5Fvideo%5Fconverter/)
+#### 7\. Freemake Video Converter
 
 Whilst, as the name suggests, this package was designed for format conversion, it includes a wealth of other abilities, one of which is video cutting, it can also rejoin and merge clips too. As a video converter, it has the largest range of format compatibility in the list and can even burn your finished videos to DVD or Blu-ray for you. The cutting feature is nicely implemented into a clear interface and should be straightforward for anyone to use.
 
@@ -2077,7 +2077,7 @@ Whilst, as the name suggests, this package was designed for format conversion, i
 
 An easy to use interface and a comprehensive feature set far beyond just cutting make this a great general video utility package.
 
-#### 8\. [Movica](https://sourceforge.net/projects/movica/)
+#### 8\. Movica
 
 This package uses other open source scripting files as the mechanics of doing its job, and is in essence a user interface for those systems. That takes nothing away from it though, the tools it uses are very effective, but in their native form not something most people could take advantage of. In addition to MP4 there are several other video formats available as well as both .wma and .mp3 audio files.
 
@@ -2085,7 +2085,7 @@ This package uses other open source scripting files as the mechanics of doing it
 
 A simple interface and a more technical outlook than many, but it works well.
 
-#### 9\. [Virtualdub](http://www.virtualdub.org/)
+#### 9\. Virtualdub
 
 A fairly comprehensive editing package, VirtualDub has a nice selection of cutting tools enabling accurate cuts and edits with ease, covering the MP4 format as well as several others, it is a useful tool for those looking for additional features beyond just cutting. Due to the lengthy feature set the interface is a little cluttered and for those that want nothing but a cutter, is perhaps overkill, however, it does the job very well and for many presents a useful selection of video tools.
 
@@ -2093,7 +2093,7 @@ A fairly comprehensive editing package, VirtualDub has a nice selection of cutti
 
 With plenty of video tools in addition to cutting, VirtualDub presents an attractive, video toolbox for the enthusiast.
 
-#### 10\. [Online Video Cutter](https://online-video-cutter.com/)
+#### 10\. Online Video Cutter
 
 Our final offering is a slightly different take on the video cutter. This is an online offering that requires no downloads or installation, you simply go to the website, upload your video or select a video on the web, cut the video and save the output. It is very simple, although there is the obvious issue with larger files of upload and download time, but for many applications is perhaps the ideal solution.
 

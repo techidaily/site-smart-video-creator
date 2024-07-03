@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate List of Public Domain Video Download Websites
-date: 2024-05-19T10:34:02.287Z
-updated: 2024-05-20T10:34:02.287Z
+date: 2024-07-02T16:52:33.237Z
+updated: 2024-07-03T16:52:33.237Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Ultimate List of Public Domain Video Download Websites
 excerpt: This Article Describes 2024 Approved The Ultimate List of Public Domain Video Download Websites
 keywords: the ultimate list of public domain video download websites,unleash the power of public domain best video download sites,unleash the archive best public domain video download sites,best websites to download public domain videos,ai animation best websites to download public domain videos,the ultimate guide to public domain video downloads,free and legal top public domain video download websites
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## The Ultimate List of Public Domain Video Download Websites
@@ -42,53 +42,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -136,53 +136,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -230,53 +230,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -324,53 +324,53 @@ In addition, you should avoid using the footage that contains art or music that 
 
 **Finding free public domain footage or public movies** on the Internet has never been too difficult, as you can watch thousands of public domain movies on YouTube, but you cannot download them. Over the course of the last couple of decades, the websites where you can **download public domain footage** have grown in number, which makes it somewhat easier to find the video clips you can use in your projects for free. Here are some of the best online destinations where you can **download public domain videos**.
 
-#### 1. [Prelinger Archive](https://archive.org/details/prelinger)
+#### 1. Prelinger Archive
 
-![Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
+![Public Domain Video Download](https://images.wondershare.com/filmora/article-images/prelinger-achives-public-domain-video-collection.jpg)
 
 With more than 17,000 items in the collection, the Prelinger Archive is probably one of the largest public domain video libraries on the Internet. The archive was founded in 1983 by Rick Prelinger, but by 2002 it became a part of the Library of Congress Motion Picture Broadcasting and Recorded Sound Divison’s collection. You can **download public domain video clips** created by educational institutions, advertising companies, trade associations or corporations from this impressive collection. There are different download options available for each file, so you can choose the size of a file and the method you’re going to use to download a file to your computer.
 
-#### 2. [The Public Domain Review](https://publicdomainreview.org/collections/?medium=film)
+#### 2. The Public Domain Review
 
-![Public Domain Video Collections ](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
+![Public Domain Video Collections](https://images.wondershare.com/filmora/article-images/public-domain-review-film-collection.jpg)
 
 This is an excellent resource for researchers looking for essays, books, audio recordings, images or old films. The movies are divided into different categories such as Animals&Beasts, Politics, War or Sports which makes locating and **downloading public domain videos** faster and easier. The Public Domain Review offers footage that is available within different public domain licenses, so you must make sure that the film you want to download can be used for the purpose you have in mind. The vast majority of the films in this archive are from the last decade of the 19th and the first half of the 20th century. That’s why The Public Domain Review’s selection of films can only be useful if you are researching a topic from that era.
 
-#### 3. [The National Screening Room](https://www.loc.gov/collections/national-screening-room/)
+#### 3. The National Screening Room
 
-![National Screening Room Public Domain Video Collection ](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
+![National Screening Room Public Domain Video Collection](https://images.wondershare.com/filmora/article-images/national-screening-room-collection-videos.jpg)
 
 The National Screening Room is a project created by the Library of Congress National Audio-Visual Conservation Center with the aim of making the videos from their collection available to the viewers around the world. The vast majority of the videos in the collection were filmed during the 20th century, but there are only a few videos available that are produced outside of the United States. The National Screening Room can be a valuable asset if you are looking for videos you can use for educational or research videos that cover topics that range from the development of the arms industry to the daily life of great American inventors.
 
-#### 4. [Pond5’s Public Domain Project](https://www.pond5.com/stock-video-footage/1/.html#1/18447)
+#### 4. Pond5’s Public Domain Project
 
-![Pond 5 Public Domain Video Download ](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
+![Pond 5 Public Domain Video Download](https://images.wondershare.com/filmora/article-images/pond5-free-public-domain-collection.jpg)
 
 Industry professionals don’t need an introduction to the Pond5 platform, because it is probably the largest online marketplace for royalty-free media at the moment. Their Public Domain Project contains a thousand public videos that can be downloaded for free, but the duration of these videos is limited to just two minutes To make things worse, most of these public domain videos don’t have audio, so you can only use them if you already have a soundtrack for the video you’re making. The platform offers powerful search tools that enable you to look for videos based on different parameters. You can download public domain videos in HD resolution, but you must create an account on Pond5 before you can save them to your computer.
 
-#### 5. [Pexels](https://www.pexels.com/search/videos/public%20domain/)
+#### 5. Pexels
 
 ![Pexels Public Domain Video  Collection](https://images.wondershare.com/filmora/article-images/public-domain-videos-from-pexels.jpg)
 
 **Free public domain stock footage** can be used on different types of projects, and it is usually a great choice if you’re looking for some extra shots that will make a scene in your video more cinematic. Pexels offers an impressive collection of free public domain stock videos, so you just have to insert a search term and pick a video clip that best fits your needs. The duration of the free videos you can find on Pexels rarely exceeds thirty seconds, which makes it difficult to make an entire video exclusively from free public domain stock footage. Hence it is better to use Pexels as a complementary source of shots in case you can’t go back to the filming location.
 
-#### 6. [Vidsplay](https://www.vidsplay.com/)
+#### 6. Vidsplay
 
 All video clips you can find on this platform are free, so you just have to select one of the categories and start browsing through the available public domain stock footage. The only condition to use the stock footage on private or commercial projects for free is to credit the Vidsplay platform in the end credits, on the website or in the description of the videos you upload to your social media channels. All stock videos on Vidsplay are available in HD or 4K resolution, and you simply have to click on the Download button below a particular video to save it.
 
-#### 7. [The Moving Image Archive](https://archive.org/details/movies?tab=collection)
+#### 7. The Moving Image Archive
 
 This is yet another archive of public domain videos you can find on the [Arhive.org](https://archive.org/) that features countless collections of texts, images, and videos. Within the Moving Image Archive, you can find different collections that contain full feature movies, art videos, animations, cartoons or television footage. The public domain videos hosted on The Moving Image Archive cover a broad range of topics, but some of them can be in poor resolution. The Moving Image Archive can be an excellent source of footage for anyone who wants to download **public domain video clips** and use them in their commercial or non-commercial projects.
 
-#### 8. [PublicDomainFootage](https://publicdomainfootage.com/)
+#### 8. PublicDomainFootage
 
 BBC, National Geographics or NBC are just a few among many famous television networks that use the services of PublicDomainFootage. All content on the platform is divided into Archival Footage and Historic Newsreels sections that contain categories like Atomic Age, Civil Rights or Pop Culture. You can also use PublicDomainFootage to research a particular topic and request content that is not uploaded to the website. You can **download a public domain video** after you pay a one time fee that enables you to use that video as many times as you want. The platform’s YouTube channel provides an easy way of searching for public domain videos you are going to use in your next documentary film.
 
-#### 9. [NASA’s Video Gallery](https://images.nasa.gov/)
+#### 9. NASA’s Video Gallery
 
 Space exploration is undoubtedly one of the hottest topics of our era, so if you are looking for some space public domain videos NASA’s website is the best place to start. Like all other government institutions, NASA is obligated by the law to offer all images and videos to the public domain. This means that all content you download from their website is free to use. Simply insert the search term and browse the results until you find the video clip you want to save to your computer. However, most public domain videos you can download from NASA’s website last only a couple of minutes.
 
-#### 10. [Motion Elements](https://www.motionelements.com/free/stock-footage)
+#### 10. Motion Elements
 
 The collection of **free public domain stock footage,** this website offers contains more than 4,000 clips. Categories like Cityscape, Animals or Water contain hundreds of stock videos, so you just have to open one of the available categories and locate the video clip you want to download. However, you must first create an account on Motion Elements before you can save video files to your computer. In addition, the platform doesn’t allow you to make more than five downloads per week and you must invite your friends to join the platform if you want to increase the weekly number of downloads. Even so, Motion Elements is a great source of stock footage you can use without any restrictions.
 
@@ -660,7 +660,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -672,7 +672,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -684,7 +684,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -696,7 +696,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -708,7 +708,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -719,7 +719,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -730,7 +730,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -742,7 +742,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 
@@ -790,7 +790,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -802,7 +802,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -814,7 +814,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -826,7 +826,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -838,7 +838,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -849,7 +849,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -860,7 +860,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -872,7 +872,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 
@@ -920,7 +920,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -932,7 +932,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -944,7 +944,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -956,7 +956,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -968,7 +968,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -979,7 +979,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -990,7 +990,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -1002,7 +1002,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 
@@ -1050,7 +1050,7 @@ Being a top notch video editor, [Filmora](https://tools.techidaily.com/wondersha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [XnView](https://www.xnview.com/en/xnview/)
+### 1. XnView
 
 This tool can act as a perfect Windows 10 Photos alternative for viewing images. XnView can work as an image viewer, converter and browser for Windows systems. This intuitive program is quick to learn and costs you nothing for personal use. There are no adware or spywares, as well as it supports 500 plus image formats.
 
@@ -1062,7 +1062,7 @@ This tool can act as a perfect Windows 10 Photos alternative for viewing images.
 
 ![XnView Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/XnView.jpg)
 
-### 2. [123 Photo Viewer](https://www.microsoft.com/en-us/p/123-photo-viewer/9wzdncrdxfxg?activetab=pivot:overviewtab)
+### 2. 123 Photo Viewer
 
 When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be left behind. It supports DDS, PSD, WEBP, TGA formats, GIF etc. Single click magnifying feature is one of the best ones about this software.
 
@@ -1074,7 +1074,7 @@ When we talk about Windows 10 Photos alternative, 123 Photo Viewer should not be
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/123-Photo-Viewer.jpg)
 
-### 3. [ImageGlass](https://imageglass.org/)
+### 3. ImageGlass
 
 Image Glass is one of the most effective programs for image editing and viewing. The interface is a neat and nice one. It supports HEIC, SVG, GIF and RAW images.
 
@@ -1086,7 +1086,7 @@ Image Glass is one of the most effective programs for image editing and viewing.
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/ImageGlass.jpg)
 
-### 4. [Honeyview](https://imagine-picture-viewer.en.softonic.com/)
+### 4. Honeyview
 
 It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR, J2K etc. Animated GIFs, WebP, BPG, and PNG are also the supported animation file types. ZIP, TAR, RAR, CBZ, CBR, LZH are the popular archive formats that it supports for image viewing sans any extraction.
 
@@ -1098,7 +1098,7 @@ It supports a wide range of image formats including PNG, BMP, JPG, PSD, JXR, DDR
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Honeyview.jpg)
 
-### 5. [Imagine Picture Viewer](http://www.faststone.org/FSViewerDetail.htm)
+### 5. Imagine Picture Viewer
 
 If you are looking for a lightweight Windows 10 Photos alternative, then Imagine Picture Viewer is the right place for you. You also have the facility to browse images without any bulky graphic suites. It allows you to edit your images into black and white ones or add a sepia tone or oil painting effect. Though, it is a bit slow and can undo only the last action you have performed.
 
@@ -1109,7 +1109,7 @@ If you are looking for a lightweight Windows 10 Photos alternative, then Imagine
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine-Picture-Viewer.jpg)
 
-### 6. [FastStone Viewer](http://en.bandisoft.com/honeyview/、)
+### 6. FastStone Viewer
 
 This software is a stable, quick and intuitive image converter, browser and editor. You can view, crop, manage, remove red-eye, compare, resize, email, color adjust and retouch images with this tool. Supporting a wide range of graphic formats and animated GIF, popular digital image formats as well as RAW formats this program has a world to offer.
 
@@ -1120,7 +1120,7 @@ This software is a stable, quick and intuitive image converter, browser and edit
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/FastStone-Viewer.jpg)
 
-### 7. [Imagine](http://www.portablefreeware.com/index.php?id=1819)
+### 7. Imagine
 
 Imagine is one of the lightest Windows 10 Photos alternative, which you can use at its best. You can use it to view archive files such as RAR, ZIP, 7Z etc. and convert images in batches, capture screen, browse thumbnail, and see slideshow etc. You can add supported plugins to enhance the features.
 
@@ -1132,7 +1132,7 @@ Imagine is one of the lightest Windows 10 Photos alternative, which you can use 
 
 ![Windows 10 photos alternative](https://images.wondershare.com/filmora/article-images/Imagine.jpg)
 
-### 8. [ACDSee](https://www.acdsee.com/en/index)
+### 8. ACDSee
 
 With this tool, you can do parametric photo manipulation with layers. You can review photos on your desktop, picture folder, OneDrive etc. You can even browse documents by date and view file types of business documents.
 

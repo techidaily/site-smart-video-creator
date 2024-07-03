@@ -1,7 +1,7 @@
 ---
 title: Updated MKV File Trimming Made Simple Top 3 Mac Apps
-date: 2024-05-19T10:32:27.182Z
-updated: 2024-05-20T10:32:27.182Z
+date: 2024-07-02T16:52:36.117Z
+updated: 2024-07-03T16:52:36.117Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated MKV File Trimming Made Simple Top 3 Mac Apps
 excerpt: This Article Describes Updated MKV File Trimming Made Simple Top 3 Mac Apps
 keywords: top rated mac mkv editors for trimming videos,mkv file trimming made simple top 3 mac apps,the ultimate 3gp video editor cutting and trimming made simple,macs top rated mkv trimming software,the ultimate guide to mkv trimming on mac 2023 edition,trim mkv files on mac the top 3 software,mkv file trimming made easy free tools
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## MKV File Trimming Made Simple: Top 3 Mac Apps

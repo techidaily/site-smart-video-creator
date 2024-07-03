@@ -1,7 +1,7 @@
 ---
 title: New Mastering Titles in FCPX A Step-by-Step Guide
-date: 2024-05-19T10:32:26.577Z
-updated: 2024-05-20T10:32:26.577Z
+date: 2024-07-02T16:52:30.167Z
+updated: 2024-07-03T16:52:30.167Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mastering Titles in FCPX A Step-by-Step Guide
 excerpt: This Article Describes New Mastering Titles in FCPX A Step-by-Step Guide
 keywords: ai animation mastering green screen in fcp x a step by step guide,mastering compression in fcpx a step by step guide,mastering green screen in fcp x a step by step guide,mastering jump cuts in fcpx a step by step guide,ai animation mastering jump cuts in fcpx a step by step guide,mastering titles in fcpx a step by step guide,master fcp x effects in minutes a 3 step guide
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Mastering Titles in FCPX: A Step-by-Step Guide

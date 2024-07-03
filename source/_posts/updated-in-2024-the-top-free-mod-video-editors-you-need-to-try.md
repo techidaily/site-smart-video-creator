@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Top Free MOD Video Editors You Need to Try
-date: 2024-04-29T06:44:14.076Z
-updated: 2024-04-30T06:44:14.076Z
+date: 2024-07-02T16:52:48.982Z
+updated: 2024-07-03T16:52:48.982Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, The Top Free MOD Video Editors You Need to Try
 excerpt: This Article Describes Updated In 2024, The Top Free MOD Video Editors You Need to Try
 keywords: the ultimate list top 10 free webm video editors you need to try,the top free avi video editors you need to try,the best free wmv video editors you need to try,cutting edge free 4k video editors you need to try,the best free webm video editors you need to try,top rated free mod video editors the best,the top free mod video editors you need to try
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## The Top Free MOD Video Editors You Need to Try
@@ -39,7 +39,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -54,7 +54,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -69,7 +69,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -84,7 +84,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -99,7 +99,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -141,7 +141,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -156,7 +156,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -171,7 +171,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -186,7 +186,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -201,7 +201,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -243,7 +243,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -258,7 +258,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -273,7 +273,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -288,7 +288,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -303,7 +303,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -345,7 +345,7 @@ Are you looking for a MOD editing tool? Well, in this era of high-tech communica
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 1\. Avidemux
 
 Avidemux is a popular video editing tool which is around the internet for a few years. It supports a wide range of video formats and provides excellent features and seamless options to offer to the users. The software has three compatible versions for Windows, Mac OS and Linux.
 
@@ -360,7 +360,7 @@ Avidemux is a popular video editing tool which is around the internet for a few 
 
 * Outdated interface.
 
-#### 2\. [Free Video Dub](http://www.dvdvideosoft.com/products/dvd/Free-Video-Dub.htm)
+#### 2\. Free Video Dub
 
 Free Video Dub is lightweight and user-friendly video editing tool. It supports a number of video formats including AVI, MOV, FLV, MOD, MKV, MTS/M2TS and more. With it, you can easily edit your video files by simply deleting off the unwanted sections. The best part about this tool is that you don't need to re-encode anything, which keeps the original quality of your video.
 
@@ -375,7 +375,7 @@ Free Video Dub is lightweight and user-friendly video editing tool. It supports 
 
 * May be difficult to add visual effects.
 
-#### 3\. [MPEG Streamclip](http://www.squared5.com/)
+#### 3\. MPEG Streamclip
 
 MPEG Streamclip is not only a powerful video conversion tool, but also comes with a lot of features to offer to the users. It supports various video formats VOB, PS, M2P, MOD, VRO, DAT, MOV, DV, AVI, MP4, TS, M2T, MMV and more. It also includes simple nonlinear editing, cropping and scaling functions, which make it a great tool for editing your videos, especially if your project uses video from many different sources that need to fit in the same sequence.
 
@@ -390,7 +390,7 @@ MPEG Streamclip is not only a powerful video conversion tool, but also comes wit
 
 * Restricts your file sizes to 600MB.
 
-#### 4\. [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### 4\. Any Video Converter
 
 Any Video Converter is a popular file conversion tool, which easily convert MOD files and beside that it features loads of conversion options from one video file to another. It can also be marked as a video editing tool, which can serve multiple purposes with precision.
 
@@ -405,7 +405,7 @@ Any Video Converter is a popular file conversion tool, which easily convert MOD 
 
 * Can't convert audio files.
 
-#### 5\. [VSDC Video Editor](http://vsdc-free-video-editor.software.informer.com/)
+#### 5\. VSDC Video Editor
 
 VSDC Free Video Editor is powerful video editing tool, which is completely free and quite popular. It supports a wide range of video formats including MOD, AVI, MP4, MKV, MPG, WMV, 3GP, FLV. Besides the very basic video editing functions, a bunch of filters can turn even a commonplace video sequence into a classy pro-quality movie, while thousands of video and audio effects conveniently grouped into four categories help you making your video to look and sound more dynamic.
 
@@ -468,19 +468,19 @@ Some are paid with free trial alternatives, while others are entirely free to us
 
 03 [Flexclip](#part3)
 
-04[Movavi Video Editor](#part4)
+04 [Movavi Video Editor](#part4)
 
-05[Gihosoft Free Video Cutter](#part5)
+05 [Gihosoft Free Video Cutter](#part5)
 
-06[DaVinci Resolve](#part6)
+06 [DaVinci Resolve](#part6)
 
-07[Cyberlink PowerDirector](#part7)
+07 [Cyberlink PowerDirector](#part7)
 
-08[Clideo](#part8)
+08 [Clideo](#part8)
 
-09[Lightworks](#part9)
+09 [Lightworks](#part9)
 
-10[Avidemux](#part10)
+10 [Avidemux](#part10)
 
 ### 1\. Adobe Premiere Pro CC \[Desktop\]
 
@@ -736,19 +736,19 @@ Some are paid with free trial alternatives, while others are entirely free to us
 
 03 [Flexclip](#part3)
 
-04[Movavi Video Editor](#part4)
+04 [Movavi Video Editor](#part4)
 
-05[Gihosoft Free Video Cutter](#part5)
+05 [Gihosoft Free Video Cutter](#part5)
 
-06[DaVinci Resolve](#part6)
+06 [DaVinci Resolve](#part6)
 
-07[Cyberlink PowerDirector](#part7)
+07 [Cyberlink PowerDirector](#part7)
 
-08[Clideo](#part8)
+08 [Clideo](#part8)
 
-09[Lightworks](#part9)
+09 [Lightworks](#part9)
 
-10[Avidemux](#part10)
+10 [Avidemux](#part10)
 
 ### 1\. Adobe Premiere Pro CC \[Desktop\]
 
@@ -1004,19 +1004,19 @@ Some are paid with free trial alternatives, while others are entirely free to us
 
 03 [Flexclip](#part3)
 
-04[Movavi Video Editor](#part4)
+04 [Movavi Video Editor](#part4)
 
-05[Gihosoft Free Video Cutter](#part5)
+05 [Gihosoft Free Video Cutter](#part5)
 
-06[DaVinci Resolve](#part6)
+06 [DaVinci Resolve](#part6)
 
-07[Cyberlink PowerDirector](#part7)
+07 [Cyberlink PowerDirector](#part7)
 
-08[Clideo](#part8)
+08 [Clideo](#part8)
 
-09[Lightworks](#part9)
+09 [Lightworks](#part9)
 
-10[Avidemux](#part10)
+10 [Avidemux](#part10)
 
 ### 1\. Adobe Premiere Pro CC \[Desktop\]
 
@@ -1272,19 +1272,19 @@ Some are paid with free trial alternatives, while others are entirely free to us
 
 03 [Flexclip](#part3)
 
-04[Movavi Video Editor](#part4)
+04 [Movavi Video Editor](#part4)
 
-05[Gihosoft Free Video Cutter](#part5)
+05 [Gihosoft Free Video Cutter](#part5)
 
-06[DaVinci Resolve](#part6)
+06 [DaVinci Resolve](#part6)
 
-07[Cyberlink PowerDirector](#part7)
+07 [Cyberlink PowerDirector](#part7)
 
-08[Clideo](#part8)
+08 [Clideo](#part8)
 
-09[Lightworks](#part9)
+09 [Lightworks](#part9)
 
-10[Avidemux](#part10)
+10 [Avidemux](#part10)
 
 ### 1\. Adobe Premiere Pro CC \[Desktop\]
 
@@ -1560,7 +1560,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1574,11 +1574,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1587,7 +1587,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1633,7 +1633,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1647,11 +1647,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1660,7 +1660,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1706,7 +1706,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1720,11 +1720,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1733,7 +1733,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1779,7 +1779,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1793,11 +1793,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1806,7 +1806,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 

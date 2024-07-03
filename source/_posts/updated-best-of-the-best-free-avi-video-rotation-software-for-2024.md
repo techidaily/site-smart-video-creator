@@ -1,7 +1,7 @@
 ---
 title: Updated Best of the Best Free AVI Video Rotation Software for 2024
-date: 2024-04-29T06:32:36.065Z
-updated: 2024-04-30T06:32:36.065Z
+date: 2024-07-02T16:53:10.055Z
+updated: 2024-07-03T16:53:10.055Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Best of the Best Free AVI Video Rotation Software for 2024
 excerpt: This Article Describes Updated Best of the Best Free AVI Video Rotation Software for 2024
 keywords: best of the best top 16 free avi video rotation software for any platform,the best free video rotation software for iphone 2023 update,discover the best free iphone video rotation software,the best of the best free vob video editing software,the best free video editing software for 4k videos 2024 update,best of the best free avi video rotation software,best of the best 5 free avi video rotation tools
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Best of the Best: Free AVI Video Rotation Software
@@ -33,7 +33,7 @@ thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/fi
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -48,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/fi
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -66,7 +66,7 @@ thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/fi
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -83,7 +83,7 @@ thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/fi
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -100,7 +100,7 @@ thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/fi
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -142,7 +142,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -157,7 +157,7 @@ Follow @Ollie Mattison
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -175,7 +175,7 @@ Follow @Ollie Mattison
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -192,7 +192,7 @@ Follow @Ollie Mattison
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -209,7 +209,7 @@ Follow @Ollie Mattison
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -251,7 +251,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -266,7 +266,7 @@ Follow @Ollie Mattison
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -284,7 +284,7 @@ Follow @Ollie Mattison
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -301,7 +301,7 @@ Follow @Ollie Mattison
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -318,7 +318,7 @@ Follow @Ollie Mattison
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -360,7 +360,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -375,7 +375,7 @@ Follow @Ollie Mattison
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -393,7 +393,7 @@ Follow @Ollie Mattison
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -410,7 +410,7 @@ Follow @Ollie Mattison
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -427,7 +427,7 @@ Follow @Ollie Mattison
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -502,17 +502,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -554,17 +554,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -606,17 +606,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -658,17 +658,17 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+![Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+![Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+![Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -720,7 +720,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -728,21 +728,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -796,9 +796,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -834,7 +834,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -842,21 +842,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -910,9 +910,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -948,7 +948,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -956,21 +956,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -1024,9 +1024,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -1062,7 +1062,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -1070,21 +1070,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -1138,9 +1138,9 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
+In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
