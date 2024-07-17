@@ -1,7 +1,7 @@
 ---
 title: Essential Adobe Premiere Keyboard Shortcuts to Boost Productivity for 2024
-date: 2024-06-24T06:04:24.210Z
-updated: 2024-06-25T06:04:24.210Z
+date: 2024-07-16T06:49:07.065Z
+updated: 2024-07-17T06:49:07.065Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,12 +33,18 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -75,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -199,6 +214,9 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -215,3 +233,67 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premium-tech-for-home-screenings/"><u>[New] 2024 Approved  Premium Tech for Home Screenings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-photo-editing-canvas-backdrop-eradication/"><u>[New] Advanced Photo Editing  Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-estimate-income-from-youtube-video-snippets/"><u>[New] In 2024, How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-storage-capacity-64gb-vs-128gb-for-video-files-for-2024/"><u>[New] Storage Capacity  64GB vs 128GB for Video Files for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-free-anime-gifs-in-discord-nitro-inclusive-for-2024/"><u>[New] Unlocking Free Anime GIFs in Discord  Nitro Inclusive for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-visualizer-screen-recorder-3000/"><u>[New] Visualizer Screen Recorder 3000</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-analyzing-youtubes-creator-rewards-regularity/"><u>[Updated] 2024 Approved  Analyzing YouTube's Creator Rewards Regularity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-free-screen-partnership-adventures/"><u>[Updated] 2024 Approved  Elite Free Screen Partnership Adventures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pictureweaver-pro-online-illustration-hub/"><u>[Updated] PictureWeaver Pro  Online Illustration Hub</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reignite-drive-the-ultimate-inspiration-list/"><u>[Updated] Reignite Drive  The Ultimate Inspiration List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>2024 Approved  Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earning-through-snaps-a-guide/"><u>2024 Approved  Earning Through Snaps  A Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-should-you-pay-for-unlimited-youtube/"><u>2024 Approved  Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-free-video-clipper-software-for-windows-10-offline-and-online/"><u>2024 Approved The Best Free Video Clipper Software for Windows 10 Offline & Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-free-video-cutters-for-mov-file-editing/"><u>2024 Approved The Best Free Video Cutters for MOV File Editing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-free-video-invitation-software-ranked-and-reviewed/"><u>2024 Approved The Best Free Video Invitation Software Ranked and Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-free-video-watermark-software-for-beginners/"><u>2024 Approved The Best Free Video Watermark Software for Beginners</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-of-both-worlds-35-video-editors-for-desktop-and-mobile-devices/"><u>2024 Approved The Best of Both Worlds 35 Video Editors for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-online-photo-tools-ranked-15/"><u>Best Free Online Photo Tools Ranked #15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-code-0x800f0831-the-key-to-smooth-windows/"><u>Decoding Code 0X800F0831: The Key to Smooth Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-10-best-animated-explainer-video-examples/"><u>In 2024, 10 Best Animated Explainer Video Examples</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-compression-tools-for-ios-devices/"><u>In 2024, The Best Free Video Compression Tools for iOS Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-cutting-software-for-mp4-files/"><u>In 2024, The Best Free Video Cutting Software for MP4 Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-editing-apps-for-32-bit-windows-systems/"><u>In 2024, The Best Free Video Editing Apps for 32-Bit Windows Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-editing-programs-for-rookies/"><u>In 2024, The Best Free Video Editing Programs for Rookies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-editing-software-with-effects-for-mobile-devices/"><u>In 2024, The Best Free Video Editing Software with Effects for Mobile Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-of-both-worlds-free-and-paid-video-editors-for-windows-11/"><u>In 2024, The Best of Both Worlds Free and Paid Video Editors for Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-of-both-worlds-minitool-movie-maker-review-and-top-alternative-options/"><u>In 2024, The Best of Both Worlds Minitool Movie Maker Review and Top Alternative Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>In 2024, The Future in Focus  Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-video-quality-with-apple-music-addition/"><u>In 2024, Unlock Video Quality with Apple Music Addition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-security-camera-programs-2023-reviews-and-ratings/"><u>New The Best Free Security Camera Programs 2023 Reviews and Ratings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-video-compression-tools-for-ios-devices/"><u>New The Best Free Video Compression Tools for iOS Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-video-editing-tools-for-avi-videos/"><u>New The Best Free Video Editing Tools for AVI Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-motion-sensing-apps-for-android-iphone-and-ipad/"><u>New The Best Motion Sensing Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-both-worlds-free-and-paid-3d-animation-software-options/"><u>New The Best of Both Worlds Free and Paid 3D Animation Software Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-both-worlds-minitool-movie-maker-review-and-top-alternative-options/"><u>New The Best of Both Worlds Minitool Movie Maker Review and Top Alternative Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-both-worlds-top-10-free-and-paid-android-video-editors/"><u>New The Best of Both Worlds Top 10 Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-both-worlds-top-android-video-editor-apps-for-chromebook/"><u>New The Best of Both Worlds Top Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-talks-in-detail-about-how-to-export-imovie-video-from-iphone-mac-etc-it-also-covers-the-process-of-using-imovie-alternative-to-edit-videos-/"><u>New This Article Talks in Detail About How to Export iMovie Video From iPhone, Mac, Etc. It Also Covers the Process of Using iMovie Alternative to Edit Videos on Mac. Check Out Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-dual-monitor-setup-problems/"><u>Resolving Dual Monitor Setup Problems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-free-video-editing-software-virtualdub-review-and-top-competitors-for-2024/"><u>The Best Free Video Editing Software Virtualdub Review and Top Competitors for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-free-video-editing-software-with-effects-for-mobile-devices-for-2024/"><u>The Best Free Video Editing Software with Effects for Mobile Devices for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-free-video-splitting-solutions-reviewed-for-2024/"><u>The Best Free Video Splitting Solutions Reviewed for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-free-video-watermark-software-for-beginners-for-2024/"><u>The Best Free Video Watermark Software for Beginners for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-of-both-worlds-free-and-paid-3d-animation-software-options-for-2024/"><u>The Best of Both Worlds Free and Paid 3D Animation Software Options for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-of-both-worlds-online-and-offline-glitch-video-editors-compared-for-2024/"><u>The Best of Both Worlds Online and Offline Glitch Video Editors Compared for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-of-both-worlds-top-10-free-and-paid-android-video-editors-for-2024/"><u>The Best of Both Worlds Top 10 Free and Paid Android Video Editors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-gamers-guide-to-boosting-pc-speed-controls/"><u>The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-picking-powerful-yt-thumbnails/"><u>The Ultimate Guide to Picking Powerful YT Thumbnails</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-breakthrough-how-to-make-a-picture-speak/"><u>Updated Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-neon-font-creator-top-rated-online-tools-for-custom-neon-text/"><u>Updated In 2024, Neon Font Creator Top-Rated Online Tools for Custom Neon Text</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-quicktime-video-editing-tools/"><u>Updated The Best Free QuickTime Video Editing Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-security-camera-programs-2023-reviews-and-ratings/"><u>Updated The Best Free Security Camera Programs 2023 Reviews and Ratings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-video-editing-software-for-4k-videos-2024-update/"><u>Updated The Best Free Video Editing Software for 4K Videos (2024 Update)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-mac-video-editing-tools-for-beginners-a-comprehensive-guide/"><u>Updated The Best Mac Video Editing Tools for Beginners A Comprehensive Guide</u></a></li>
+</ul></div>

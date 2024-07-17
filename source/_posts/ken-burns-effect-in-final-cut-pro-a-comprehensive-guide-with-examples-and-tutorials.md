@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect in Final Cut Pro A Comprehensive Guide with Examples and Tutorials
-date: 2024-07-02T16:57:38.929Z
-updated: 2024-07-03T16:57:38.929Z
+date: 2024-07-16T06:55:24.845Z
+updated: 2024-07-17T06:55:24.845Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 
 # How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,6 +38,9 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -65,12 +71,18 @@ You can also customize the ken burns effects in Final Cut.
 
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -83,6 +95,9 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **Step 3** – Seek out the scale and position tools. You can use these to size your animation, decide how much of a zoom you like, and how fast it will go.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -97,6 +112,9 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -113,3 +131,38 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-livestream-success-on-television-four-pathways-for-2024/"><u>[New] FB Livestream Success on Television  Four Pathways for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tap-into-the-rhythm-web-free-and-comprehensive-for-2024/"><u>[New] Tap Into the Rhythm Web (FREE & Comprehensive) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-perfect-your-technique-recording-the-modern-presentation/"><u>[Updated] 2024 Approved  Perfect Your Technique  Recording the Modern Presentation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-crafting-a-unique-brand-in-crowded-tiktok-space/"><u>[Updated] In 2024, Crafting a Unique Brand in Crowded TikTok Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[Updated] In 2024, The Writer's Toolkit  Dialogue and Narration Techniques for Success</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/10-essential-aspect-ratio-conversion-tools-for-2024/"><u>10 Essential Aspect Ratio Conversion Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/10-essential-tools-for-resizing-videos-for-2024/"><u>10 Essential Tools for Resizing Videos for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/10-exceptional-online-tools-for-crafting-epic-gaming-intros-for-2024/"><u>10 Exceptional Online Tools for Crafting Epic Gaming Intros for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/10-free-android-video-editing-apps-that-dont-add-watermarks-for-2024/"><u>10 Free Android Video Editing Apps That Dont Add Watermarks for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-a-comprehensive-guide-to-adding-text-overlays-on-tiktok/"><u>2024 Approved  A Comprehensive Guide to Adding Text Overlays on TikTok</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-10-essential-aspect-ratio-resizer-tools-you-need/"><u>2024 Approved 10 Essential Aspect Ratio Resizer Tools You Need</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-10-essential-online-resources-for-generating-perfect-waveforms/"><u>2024 Approved 10 Essential Online Resources for Generating Perfect Waveforms</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-10-exceptional-video-editing-software-for-mac-alternatives-to-vegas-pro/"><u>2024 Approved 10 Exceptional Video Editing Software for Mac Alternatives to Vegas Pro</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-essential-animated-text-makers-for-unbeatable-engagement/"><u>In 2024, 10 Essential Animated Text Makers for Unbeatable Engagement</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-essential-movie-trailer-apps-for-ios-devices-this-year/"><u>In 2024, 10 Essential Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-essential-video-editor-apps-you-need-to-know/"><u>In 2024, 10 Essential Video Editor Apps You Need to Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-free-and-easy-video-editing-software-alternatives-to-wmm/"><u>In 2024, 10 Free and Easy Video Editing Software Alternatives to WMM</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-next-gen-screen-capture-tools-ultra-fast-action/"><u>In 2024, Next-Gen Screen Capture Tools - Ultra-Fast Action</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-essential-online-video-rotation-software-for-creators/"><u>New 10 Essential Online Video Rotation Software for Creators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-essential-video-editing-programs-for-professionals/"><u>New 10 Essential Video Editing Programs for Professionals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-essential-video-rotation-software-for-web-and-social-media/"><u>New 10 Essential Video Rotation Software for Web and Social Media</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-exceptional-audio-conversion-software-options/"><u>New 10 Exceptional Audio Conversion Software Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-free-android-video-editing-apps-without-watermarks-or-subscriptions/"><u>New 10 Free Android Video Editing Apps Without Watermarks or Subscriptions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-free-avi-merger-tools-to-combine-avi-videos-seamlessly/"><u>New 10 Free AVI Merger Tools to Combine AVI Videos Seamlessly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>The Ultimate TikTok Playbook  Driving View Growth and Engagement</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-10-essential-android-video-editor-apps-for-chromebook/"><u>Updated 10 Essential Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-10-essential-aspect-ratio-converter-solutions/"><u>Updated 10 Essential Aspect Ratio Converter Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-voice-modulation-mastery-a-guide-to-installing-and-applying-autotune-in-audacity-for-2024/"><u>Updated Voice Modulation Mastery A Guide to Installing and Applying Autotune in Audacity for 2024</u></a></li>
+</ul></div>

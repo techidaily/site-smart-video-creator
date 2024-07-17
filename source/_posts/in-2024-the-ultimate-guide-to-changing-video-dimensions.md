@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Changing Video Dimensions
-date: 2024-07-02T16:58:16.945Z
-updated: 2024-07-03T16:58:16.945Z
+date: 2024-07-16T06:56:10.654Z
+updated: 2024-07-17T06:56:10.654Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 # How to Change Shape of a Video?
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -34,6 +37,9 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -54,10 +60,16 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -78,12 +90,27 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -150,3 +177,41 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-top-5-creative-logo-motion-in-the-social-sphere/"><u>[New] 2024 Approved  Top 5 Creative Logo Motion in the Social Sphere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-upload-ubiquity-from-twitter-to-snapchat-videos/"><u>[New] 2024 Approved  Upload Ubiquity  From Twitter to Snapchat Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-diy-youtube-intros-and-ends-without-breaking-the-bank-for-2024/"><u>[New] DIY YouTube Intros & Ends Without Breaking the Bank for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-start-saving-videos-of-your-switch-experiences/"><u>[New] Quick Start  Saving Videos of Your Switch Experiences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-comprehensive-morphvox-modification-handbook/"><u>2024 Approved  Comprehensive MorphVOX Modification Handbook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>2024 Approved Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-create-stunning-videos-with-music-top-editors/"><u>2024 Approved Create Stunning Videos with Music Top Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-create-stunning-videos-with-music-top-online-video-editor-picks/"><u>2024 Approved Create Stunning Videos with Music Top Online Video Editor Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-create-stunning-whatsapp-videos-top-free-and-paid-makers/"><u>2024 Approved Create Stunning WhatsApp Videos Top Free and Paid Makers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-stunning-videos-best-collage-apps-for-iphone-and-ipad-for-2024/"><u>Create Stunning Videos Best Collage Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-stunning-videos-on-windows-imovie-inspired-video-editing-tools-for-2024/"><u>Create Stunning Videos on Windows IMovie-Inspired Video Editing Tools for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-5-techniques-for-capturing-win10-games/"><u>In 2024, 5 Techniques for Capturing Win10 Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-invites-top-10-free-video-makers/"><u>In 2024, Create Stunning Invites Top 10 Free Video Makers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-lyric-videos-with-these-web-apps/"><u>In 2024, Create Stunning Lyric Videos with These Web Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>In 2024, Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-stop-motion-clips-for-instagram-a-step-by-step-guide/"><u>In 2024, Create Stunning Stop Motion Clips for Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-video-invites-with-these-ios-and-android-apps/"><u>In 2024, Create Stunning Video Invites with These iOS and Android Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-videos-anywhere-best-mobile-editing-apps/"><u>In 2024, Create Stunning Videos Anywhere Best Mobile Editing Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-videos-top-music-enabled-apps-for-android-and-ios/"><u>In 2024, Create Stunning Videos Top Music-Enabled Apps for Android and iOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-unforgettable-intros-top-movie-intro-makers-revealed/"><u>In 2024, Create Unforgettable Intros Top Movie Intro Makers Revealed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-thriving-in-the-social-media-jungle-facebooks-essentials/"><u>In 2024, Thriving in the Social Media Jungle  Facebook's Essentials</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-mac-slideshows-a-beginners-guide-to-ezvid/"><u>New Create Stunning Mac Slideshows A Beginners Guide to Ezvid</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-unforgettable-intros-7-leading-movie-intro-software/"><u>New Create Unforgettable Intros 7 Leading Movie Intro Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-unforgettable-intros-top-movie-intro-makers-revealed/"><u>New Create Unforgettable Intros Top Movie Intro Makers Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/revolutionize-your-social-media-strategy-use-free-video-creation-kit/"><u>Revolutionize Your Social Media Strategy – Use Free Video Creation Kit</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-lyric-videos-online-best-tools/"><u>Updated Create Stunning Lyric Videos Online Best Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-slow-mo-videos-with-windows-live-movie-maker-updated-2023/"><u>Updated Create Stunning Slow-Mo Videos with Windows Live Movie Maker Updated 2023</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-videos-anywhere-best-mobile-editing-apps/"><u>Updated Create Stunning Videos Anywhere Best Mobile Editing Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-videos-best-movie-makers-for-win-10/"><u>Updated Create Stunning Videos Best Movie Makers for Win 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-videos-on-android-for-free-no-watermark-required/"><u>Updated Create Stunning Videos on Android for Free No Watermark Required</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-videos-with-music-top-editors/"><u>Updated Create Stunning Videos with Music Top Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-unforgettable-intros-7-leading-movie-intro-software/"><u>Updated Create Unforgettable Intros 7 Leading Movie Intro Software</u></a></li>
+</ul></div>

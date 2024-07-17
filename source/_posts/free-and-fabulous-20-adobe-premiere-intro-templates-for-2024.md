@@ -1,7 +1,7 @@
 ---
 title: Free and Fabulous 20 Adobe Premiere Intro Templates for 2024
-date: 2024-07-02T16:53:18.422Z
-updated: 2024-07-03T16:53:18.422Z
+date: 2024-07-16T06:50:23.818Z
+updated: 2024-07-17T06:50:23.818Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,9 @@ Adding the finishing touches to a project, like creating the opening titles or e
 
 Nonetheless, making a unique opening sequence along with impressive animations in Adobe Premiere Pro can be a time-consuming endeavor, so instead of spending countless hours on producing a perfect combination of text and images, you can just download a title template from the Internet.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1 Premier Pro
 
 Jarle Leirpoll runs this site, and it is a treasure trove of information, help, and advice on Premiere from a man who wrote the book (literally, it's for sale on the site!) on Premiere.
@@ -72,6 +75,9 @@ Currently, there are Title Expansion Set, business title set, wedding title set,
 
 Learn more details about [How to Add Text to Video with Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2 Richard Harrington
 
 This is another site that offers templates for download but is also a great place to visit for ideas and information. Richard approaches Premiere from a photographer's viewpoint, and so has a slightly different view on many topics that are well worth reading.
@@ -84,8 +90,14 @@ He has links to a sizable number of templates on Richard Harrington covering a r
 * It includes various templates and presets on Windows and Mac
 * More than title templates also has DVD menus and animated text
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/RichardHarrington.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3 ProVideoCoalition
 
 Another all-encompassing site has a huge amount of information and knowledge to be gained. The templates are just part of the story. They are available on Pro Video Coalition and include numerous files and even some free video content showing their implementation.
@@ -100,6 +112,9 @@ Of particular interest on this site is the regularly updated news which focuses 
 * You can customize the Premiere Pro intro template free download
 * You can create graphic elements
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 4 Coremelt
 
 This is a commercial site that offers a wide variety of high-quality plugins and templates for several video editing platforms. However, we are on the lookout for that fabulous price of free here, so a little digging finds [this page](http://www.coremelt.com/products/activetext.html), here you will find ten templates from one of their best selling products offered entirely free.
@@ -111,6 +126,9 @@ All templates are quality professionally produced products and worth the visit a
 * It includes 3D text and motion graphics templates
 * Free and safe download the Premiere template
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Coremelt.jpg)
 
 ### 5 Bestproaction
@@ -127,6 +145,9 @@ Even for those of us with a limited budget, there may be something that catches 
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Bestproaction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6 FXFactory
 
 This is another commercial site that has a smattering of very high-quality free downloads on offer, including a beautiful template for the original Star Wars movie style scrolling titles.
@@ -140,6 +161,9 @@ FX Factory has also created some great video tutorials on a variety of aspects o
 * Free Premiere Pro effects templates to download
 * Includes a step by step Premiere Pro tutorial
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/FXFactory.JPG)
 
 ### 7 Creative Impatience
@@ -156,6 +180,9 @@ Of particular note are the tutorials, an excellent source of information and tri
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Creative-Impatience.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 8 Filmimpact
 
 A commercial site is offering some great products at competitive prices. At first glance, this may not seem to be a useful place for our search for the free stuff.
@@ -199,6 +226,9 @@ It is a clean title template without unnecessary parts. If you like simple title
 * Simple and clean Premiere title templates
 * Customizable in Premiere
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![premiere pro intro template free download](https://images.wondershare.com/filmora/filmorapro/premiere-clean-elegant-rotation.jpg)
 
 ### 12 Unfolding Titles
@@ -212,6 +242,9 @@ It is a clean title template with an unfolding effect. Each text has two unfoldi
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/filmorapro/premiere-title-unfolding.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 13 Orange83
 
 These are five modern title packs for Premiere. With it, you don't need to use After Effects as you can import them to edit. The best part is you can include your logo and other stuff you like.
@@ -291,8 +324,14 @@ There are nearly one hundred available intro templates for Adobe Premiere Pro, b
 
 Prices start from $16.50 per month, and packages include virtually unlimited access to stock photos and videos, video templates, and much more. The EnvatoElements platform also offers assets that can be used with Final Cut Pro, Adobe After Effects or Apple Motion.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/EnvatoElements.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 19. Videohive
 
 Videohive is a part of the Envato Market platform that also features Web Themes and Templates, Code, Audio, or Graphic sections. It is free to use, but only a limited amount of assets can be downloaded for free.
@@ -305,6 +344,9 @@ Furthermore, you can download presets for both Premiere Pro and After Effects th
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Videohive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 20. RocketStock
 
 This option is best suited for video editors who want to create their intros because RocketStok's Cinematic Style Library extends the scope of options provided by Premiere Pro.
@@ -319,6 +361,9 @@ On the other hand, Premiere Pro's users who don't often use title templates can 
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/RocketStock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Import and Customize Title Templates in Premiere
 
 If you download the template, all the title templates support customization. You can change its size, font, color, and add 3D effects.
@@ -333,6 +378,9 @@ It is easy to import and use it to touch up your video. Check out the steps belo
 
 **Note**: each version of Premiere's interface will look different, but the workflow is similar.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Using title templates can help you achieve a certain visual style faster, so you don't have to spend a lot of time looking for a perfect background or animating the text.
@@ -361,3 +409,48 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-libertycam-studio-a-user-friendly-review/"><u>[New] In 2024, LibertyCam Studio  A User-Friendly Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-auto-play-youtube-iphoneandroid-no-notification/"><u>[Updated] Auto-Play YouTube  IPhone/Android, No Notification</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-embark-on-your-video-vision-start-your-youtube-channel/"><u>[Updated] Embark on Your Video Vision  Start Your YouTube Channel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-aesthetics-tips-for-video-reversal-for-2024/"><u>[Updated] Instagram Aesthetics  Tips for Video Reversal for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-choosing-high-quality-hdr-cameras/"><u>[Updated] Mastering the Art of Choosing High-Quality HDR Cameras</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-ultimate-guide-to-boosting-tiktok-engagement-with-essential-apps/"><u>2024 Approved  The Ultimate Guide to Boosting TikTok Engagement with Essential Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fonepaw-screen-recorder-review/"><u>Fonepaw Screen Recorder Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-9-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nubia Red Magic 9 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-clearview-techniques-for-superior-video-with-vce-2-written-by-john-doe-phd/"><u>In 2024, ClearView Techniques for Superior Video with VCE 2 Written by John Doe, PhD</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-timekeeping-tools-without-a-price/"><u>In 2024, Expert Timekeeping Tools Without a Price</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y02t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y02T Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-in-depth-analysis-of-best-practices-in-valheim-agriculture/"><u>In 2024, In-Depth Analysis of Best Practices in Valheim Agriculture</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-aiff-converter-reviews-choose-the-best-one-for-you/"><u>New 2024 Approved Aiff Converter Reviews Choose the Best One for You</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-all-in-one-video-editor-for-mac-edit-convert-share/"><u>New 2024 Approved All-in-One Video Editor for Mac Edit, Convert, Share</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-android-and-iphone-video-creators-best-music-integrated-options/"><u>New 2024 Approved Android and iPhone Video Creators Best Music-Integrated Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-androids-top-imovie-substitutes-a-comprehensive-list/"><u>New 2024 Approved Androids Top iMovie Substitutes A Comprehensive List</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>New 2024 Approved Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-aiff-converter-reviews-and-ratings-make-an-informed-decision/"><u>New In 2024, Aiff Converter Reviews and Ratings Make an Informed Decision</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-alternatives-to-windows-movie-maker-10-free-and-powerful-options/"><u>New In 2024, Alternatives to Windows Movie Maker 10 Free and Powerful Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-analyze-and-adapt-image-size-ratio/"><u>New In 2024, Analyze and Adapt Image Size Ratio</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-12plus-stunning-instagram-gif-stickers-and-how-to-make-and-find/"><u>Updated 2024 Approved 12+ Stunning Instagram GIF Stickers and How to Make & Find</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-amazon-prime-video-on-any-screen-aspect-ratio-tips-and-tricks/"><u>Updated 2024 Approved Amazon Prime Video on Any Screen Aspect Ratio Tips and Tricks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-android-essentials-the-most-popular-apps-you-need/"><u>Updated 2024 Approved Android Essentials The Most Popular Apps You Need</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-android-essentials-top-5-free-video-stabilization-apps-you-need/"><u>Updated 2024 Approved Android Essentials Top 5 Free Video Stabilization Apps You Need</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-android-video-editing-essentials-10-must-have-apps/"><u>Updated 2024 Approved Android Video Editing Essentials 10 Must-Have Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-androids-best-top-10-video-editing-apps-like-imovie/"><u>Updated 2024 Approved Androids Best Top 10 Video Editing Apps Like iMovie</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-androids-top-imovie-substitutes-a-comprehensive-list/"><u>Updated 2024 Approved Androids Top iMovie Substitutes A Comprehensive List</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-androids-top-video-editing-software-imovie-alternatives-and-beyond/"><u>Updated 2024 Approved Androids Top Video Editing Software IMovie Alternatives and Beyond</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-aiff-converter-reviews-choose-the-best-one-for-you-for-2024/"><u>Updated Aiff Converter Reviews Choose the Best One for You for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-alternatives-to-popular-video-joining-tools-top-picks-for-2024/"><u>Updated Alternatives to Popular Video Joining Tools Top Picks for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-android-video-editing-essentials-10-must-have-apps-for-2024/"><u>Updated Android Video Editing Essentials 10 Must-Have Apps for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-android-video-editor-showdown-choosing-the-best-app-for-2024/"><u>Updated Android Video Editor Showdown Choosing the Best App for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-animate-like-a-pro-the-top-7-drawing-software-for-aspiring-animators-for-2024/"><u>Updated Animate Like a Pro The Top 7 Drawing Software for Aspiring Animators for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-alternatives-to-popular-video-joining-tools-top-picks/"><u>Updated In 2024, Alternatives to Popular Video Joining Tools Top Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-amazon-video-display-settings/"><u>Updated In 2024, Amazon Video Display Settings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-android-video-editing-apps-a-complete-buying-guide/"><u>Updated In 2024, Android Video Editing Apps A Complete Buying Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-android-video-editing-essentials-10-must-have-apps/"><u>Updated In 2024, Android Video Editing Essentials 10 Must-Have Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-androids-top-video-editing-software-imovie-alternatives-and-beyond/"><u>Updated In 2024, Androids Top Video Editing Software IMovie Alternatives and Beyond</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-animate-your-dreams-a-comprehensive-guide-to-the-top-drawing-software/"><u>Updated In 2024, Animate Your Dreams A Comprehensive Guide to the Top Drawing Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S23+? | Dr.fone</u></a></li>
+</ul></div>

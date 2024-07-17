@@ -1,7 +1,7 @@
 ---
 title: How to Add Subtitles/Captions in Final Cut Pro X for 2024
-date: 2024-07-02T17:00:59.238Z
-updated: 2024-07-03T17:00:59.238Z
+date: 2024-07-16T06:59:26.956Z
+updated: 2024-07-17T06:59:26.956Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 # How to Add Subtitles/Captions in Final Cut Pro X?
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -34,6 +37,9 @@ On the other hand, the captions display every kind of audio information, includi
 
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -50,6 +56,9 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -76,6 +85,9 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
@@ -106,6 +118,9 @@ You can use the transcriptions feature of YouTube to import captions file into y
 
 Every Caption set must export individually in Final Cut Pro X. However; there is a shortcut to it using the Compressor feature. Send your captions to Compressor by clicking the **File**\> **Send to Compressor**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -116,6 +131,9 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
@@ -136,3 +154,58 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-beneath-the-spotlight-top-youtube-events-after-vidcon/"><u>[New] 2024 Approved  Beneath the Spotlight  Top YouTube Events After VidCon</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[New] How To Make Your Videos a YouTube Hit  Top Tips and Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-curators-cut-best-of-the-best-reading-list-from-tiktok/"><u>[Updated] In 2024, A Curator's Cut  Best of the Best Reading List From TikTok</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[Updated] In 2024, Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-8-leading-photo-grid-designers-online/"><u>2024 Approved  Discover 8 Leading Photo Grid Designers Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-get-the-most-out-of-kinemaster-video-templates/"><u>2024 Approved How to Get the Most Out of KineMaster Video Templates</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-best-adobe-premiere-pro-add-ons-enhance-your-video-editing-experience/"><u>2024 Approved The Best Adobe Premiere Pro Add-Ons Enhance Your Video Editing Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-motorola-edge-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Motorola Edge 40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-deep-dive-into-durecorders-full-range-for-2024/"><u>A Deep Dive Into DuRecorder's Full Range for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-nostalgic-journey-through-time-with-stop-motion-classics-for-2024/"><u>A Nostalgic Journey Through Time with Stop-Motion Classics for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>From Songs to Symphony  Building a Cohesive YouTube Playlist on Web/App</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/harnessing-spotifys-melodies-practical-steps-for-digitally-capturing-playlists-and-songs/"><u>Harnessing Spotifys Melodies Practical Steps for Digitally Capturing Playlists and Songs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bypassing-blockbusters-2023-indie-favorites/"><u>In 2024, Bypassing Blockbusters  2023 Indie Favorites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>In 2024, Crafting Exceptional Sounds  Spotlight on the Best Mixers for Podcasters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy S23 FE Phone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-optimize-your-view-amazon-prime-video-screen-settings/"><u>In 2024, Optimize Your View Amazon Prime Video Screen Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580007670-knowledge-in-the-tongue-of-your-choice-now-at-half-price/"><u>Knowledge in the Tongue of Your Choice Now at Half Price</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-cheap-yet-powerful-video-editing-software/"><u>New 2024 Approved Best Cheap yet Powerful Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-facebook-to-mp3-converter-websites-ranked/"><u>New 2024 Approved Best Facebook to MP3 Converter Websites Ranked</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-flac-conversion-software-a-comprehensive-roundup/"><u>New 2024 Approved Best FLAC Conversion Software A Comprehensive Roundup</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-free-and-paid-options-like-virtualdub-for-video-processing/"><u>New 2024 Approved Best Free and Paid Options Like VirtualDub for Video Processing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-free-avi-video-editing-software/"><u>New 2024 Approved Best Free AVI Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-free-avi-video-joiners-top-10-picks-for-seamless-merging/"><u>New 2024 Approved Best Free AVI Video Joiners Top 10 Picks for Seamless Merging</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-free-mov-file-joining-solutions/"><u>New 2024 Approved Best Free MOV File Joining Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-apps-for-whatsapp-video-status-for-2024/"><u>New Best Apps for WhatsApp Video Status for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-aspect-ratio-adjustment-software-for-professionals-for-2024/"><u>New Best Aspect Ratio Adjustment Software for Professionals for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-free-online-collage-makers-for-photos-videos-and-more-for-2024/"><u>New Best Free Online Collage Makers for Photos, Videos, and More for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-free-online-video-cutters-top-picks-and-reviews-for-2024/"><u>New Best Free Online Video Cutters Top Picks and Reviews for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-free-and-paid-video-editors-like-windows-movie-maker/"><u>New In 2024, Best Free and Paid Video Editors Like Windows Movie Maker</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pinnacle-10-tools-for-masterful-online-subtitle-edits-for-2024/"><u>Pinnacle 10 Tools for Masterful Online Subtitle Edits for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-macos-11-big-sur-evolution-explained-for-2024/"><u>The Complete MacOS 11 Big Sur Evolution Explained for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-of-google-podcast-uploads/"><u>Unlocking the Secrets of Google Podcast Uploads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-aspect-ratio-adjustment-software-for-professionals/"><u>Updated 2024 Approved Best Aspect Ratio Adjustment Software for Professionals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-invitation-video-maker-tools-on-the-web/"><u>Updated 2024 Approved Best Free Invitation Video Maker Tools on the Web</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-iphone-video-rotation-apps-top-picks/"><u>Updated 2024 Approved Best Free iPhone Video Rotation Apps Top Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-mpeg-video-concatenation-software/"><u>Updated 2024 Approved Best Free MPEG Video Concatenation Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-apps-for-editing-vertical-videos-on-your-smartphone-for-2024/"><u>Updated Best Apps for Editing Vertical Videos on Your Smartphone for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-dvd-to-digital-format-converters-for-2024/"><u>Updated Best DVD to Digital Format Converters for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-flv-video-editor-for-windows-8-simplify-your-editing-process-for-2024/"><u>Updated Best FLV Video Editor for Windows 8 Simplify Your Editing Process for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-avi-video-combining-tools-no-watermarks-or-trials-for-2024/"><u>Updated Best Free AVI Video Combining Tools No Watermarks or Trials for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-mpeg-video-joiner-software-top-5-list-for-2024/"><u>Updated Best Free MPEG Video Joiner Software Top 5 List for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-aspect-ratio-changers-for-video-editing/"><u>Updated In 2024, Best Aspect Ratio Changers for Video Editing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-automatic-video-reframing-software-for-creators/"><u>Updated In 2024, Best Automatic Video Reframing Software for Creators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-digital-trailer-design-studios/"><u>Updated In 2024, Best Digital Trailer Design Studios</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-free-3gp-video-rotation-software-top-picks/"><u>Updated In 2024, Best Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-free-avi-video-rotation-apps-for-windows-mac-android-and-iphone-devices/"><u>Updated In 2024, Best Free AVI Video Rotation Apps for Windows, MAC, Android, and iPhone Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-users/"><u>Updated In 2024, Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-free-m4a-audio-editing-software-for-beginners/"><u>Updated In 2024, Best Free M4A Audio Editing Software for Beginners</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cutting-edge-free-divx-video-editors-top-6/"><u>Updated In 2024, Cutting-Edge Free Divx Video Editors Top 6</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-tiktok-watermark-removal-made-easy-top-online-tools/"><u>Updated TikTok Watermark Removal Made Easy Top Online Tools</u></a></li>
+</ul></div>
