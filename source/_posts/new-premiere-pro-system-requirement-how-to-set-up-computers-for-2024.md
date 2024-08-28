@@ -1,0 +1,194 @@
+---
+title: New Premiere Pro System Requirement How to Set up Computers for 2024
+date: 2024-08-27T04:01:03.802Z
+updated: 2024-08-28T04:01:03.802Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New Premiere Pro System Requirement How to Set up Computers for 2024
+excerpt: This Article Describes New Premiere Pro System Requirement How to Set up Computers for 2024
+keywords: system check ensuring your computer meets premiere pros requirements,ai animation premiere pro system requirement how to set up computers,premiere pro system requirement how to set up computers,premiere pro compatibility what you need to know about system requirements,premiere pro computer setup meet the minimum system requirements,system requirements for running premiere pro how to set up computer,ai animation premiere pro computer setup meet the minimum system requirements
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
+---
+
+## Premiere Pro System Requirement: How to Set up Computers
+
+# System Requirements for Running Premiere Pro: How to Set Up Computer
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+We all know that [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) is one of the best professional video editing software, while to run such a powerful video editing software, you may need a powerful windows PC or Mac as well. Though most modern computer systems can run Adobe Premiere out of the box, there are some steps to take, and potential decisions to make, before installing the software, or if you are building or buying a new computer to make sure you get the best experience possible with the software.
+
+**You may also like:**[Best Adobe Premiere Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## Minimum system requirement to run Premiere Pro on Windows and Mac in 2019
+
+Your computer should at least to meet **the minimum specification** below to run Premiere Pro, and if you need to edit some VR videos, your computer configuration should be higher according to [the minimum specifications list on their website](https://helpx.adobe.com/premiere-pro/system-requirements.html).
+
+* Intel 6th or newer **CPU**
+* Windows 10 (64-bit) 1703 or later/ MacOS V10.12 later
+* **16GB RAM**; 4GB GPU VRAM
+* Fast internal SSD
+* 1920\*1080 **Display resolution**
+* 32-bit **video card**
+* **Internet connection**
+
+However, it is important to remember this is the minimum specification, and will not necessarily give a satisfactory user experience. The recommended specifications are far more likely to provide the kind of performance expected of the software and those would be the ones to use as a guide for the minimum spec for a new computer or any upgrades being planned prior to installation.
+
+---
+
+## How to check Computer Specifications
+
+Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
+
+* Press **Windows Key+ E** on the keyboard to bring up **Windows Explorer**.
+* Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
+
+![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
+
+* The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
+
+Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## How to Set Up Computer for Premiere
+
+#### 1\. Processor
+
+Whilst the software will run on a Core2Duo intel or Phenom II AMD processor, it is worth noting that [rendering can be highly intensive work for the processor](https://www.cgdirector.com/best-cpu-for-rendering/) and the fastest possible processor within your budget will pay dividends in speed of editing. In general, even a Core I3, the cheapest of the current Intel range, will be significantly faster than older processors, but because Premiere happily uses multi cored processors to their full, if the budget can reach to a quad core or more processor then do so, Premiere is a piece of software that benefits from the computational power increase more than most.
+
+#### 2\. Memory
+
+The next consideration is memory. The minimum specification suggests 4GB of RAM with 8GB recommended, for reliable and smooth running consider 8GB minimum, and go for as much as you can. For a computer that is used for other activities as well, multitasking can see even 24GB of Ram being fully utilized, especially if you are working on HD content. Speaking of content, this is the other aspect of memory to look at. Whilst you can use a storage drive that contains everything else on your computer to keep the media you are working on, for HD content especially, and for trouble free and the fastest possible operation it is advisable to reserve a single drive, preferably a 7200 RPM or faster one, exclusively for your media. Bandwidth and access times means Premiere will be significantly faster in operation with its media on a dedicated drive.
+
+#### 3\. Graphic
+
+The final aspect of specification to consider is graphics. Adobe Premiere uses a feature called the Mercury Playback Engine that allows much faster and smoother playback of video without rendering, it has two modes, software only and [GPU acceleration mode](https://www.techopedia.com/definition/32876/gpu-accelerated-computing) (Using either CUDA or OpenCL). The GPU acceleration mode offers significant performance increases and is therefore highly desirable. However, not all GPU's are compatible with the Mercury Playback Engine, the list of those that are is found on the previously linked specification page, so if a new computer is being built or purchased, or upgrades are being considered prior to install, it is highly desirable to utilize a compatible GPU where possible.
+
+#### 5\. Settings
+
+Having covered the basic specifications of a computer that will enhance the operation of Premiere, it is now time to look at the computer settings and how this can affect Premiere's performance and usability.
+
+The first thing to understand is that video editing, especially HD video, is bandwidth intensive, in effect, it fills up the lanes between the CPU, RAM, GPU and Hard Drive during operation. Spreading the use of that bandwidth over several devices can see huge performance gains, so one of the best ways to optimize the computer for Premier is to adjust how the hard drives are used. How effective this can be depends on the computer you are using, so we will try to cover a few different possibilities here.
+
+#### 6\. Drive
+
+If your computer contains a single drive, simply install Premiere and start using it, there are no options available here. If there are two drives, keep one for the operating system, programs and cache files. Use the second drive exclusively for video project files, exported projects and previews.
+
+If the computer has three drives then keep one for the operating system and programs, the second one for the video project files, and use the third for previews, cache files and exported projects.
+
+If you have access to even more drives, then split the cache from the previews, and ultimately have one drive each for previews, exports and cache. Spreading the files across as many drives as possible enhances performance by enabling the different read/write operations to occur without interference from each other.
+
+That is the theory, but how do you achieve this? This is done within Premiere itself, there are two parts, accessing where the media cache files are placed is done though the edit menu, following the path edit > preferences > media.
+
+![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
+
+![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+#### 7\. Sequence Setting
+
+When working with Premiere it is important to have the correct settings for the type of media you are using and the nature of the final output. This is done within Premiere by a function known as a Sequence.
+
+After creating a new project you are presented with the sequence dialogue box. You can have as many sequences in a single project as you like, but Premiere always assumes you require at least one and so needs the first one to be created to allow work on a project. Any media, both audio and video, placed into a sequence is automatically adapted to the settings of that sequence, so you will want to choose settings that match the original media as closely as possible. Each sequence in a project can have different settings if required, as this lessens the workload on the CPU and makes the process faster and smoother.
+
+The sequence dialogue has three tabs, Sequence Presets, Settings and Tracks
+
+The Preset Tab makes setting up a new sequence much simpler. Choosing a preset enables Premiere to choose the settings that best match the chosen video and audio format. There are a wide range of presets available to suit the most commonly used media types, they are organized based on camera formats. Within each group there are numerous settings and configurations to choose from based around frame sizes and interlacing. Whilst choosing the correct preset can be a little daunting to the uninitiated, ensuring the number of frames per second, the frame size and codec are correct is all that is required.
+
+![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
+
+Because the presets do such a good job it is not really necessary to adjust anything in the settings tab, and unless you are trying to do something very specific.
+
+While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
+
+Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+If your computer failed to meet the requirement to run Premiere Pro, you may need to spend some money to buy a powerful computer or choose another professional video editing software similar to Premiere Pro, or choose a video editing software. If your computer isn’t powerful enough to run Premiere Pro, you will get awful experience at editing footage because of the long loading time and stuck playback.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[New] 2024 Approved  Mastering YouTube Pace Control  Top Tips for Slower Views (48 Chars)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-to-delete-social-media-streaming/"><u>[New] The Ultimate Guide to Delete Social Media Streaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-instagram-potential-with-advanced-cropping-methods-for-2024/"><u>[New] Unlock Instagram Potential with Advanced Cropping Methods for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>[Updated] 2024 Approved  Explore Elite Gaming Opening Tutorials  Free & Premium Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlock-smooth-communication-best-10-secured-fee-free-apps-for-ios-and-android-users/"><u>[Updated] In 2024, Unlock Smooth Communication  Best 10 Secured, Fee-Free Apps for iOS and Android Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>Audience Favorites  Outstanding VR Gaming with Google Cardboard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-mastering-autofill-feature-for-iphone-passwords/"><u>Comprehensive Tutorial: Mastering AutoFill Feature for iPhone Passwords</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977831507-download-the-microsoft-wireless-mouse-5000-driver-easily-today/"><u>Download the Microsoft Wireless Mouse 5000 Driver Easily Today!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-object-oriented-programming-for-complex-applications-for-2024/"><u>Exploring Object-Oriented Programming for Complex Applications for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-complimentary-access-to-50-premium-youtube-banners/"><u>In 2024, Your Complimentary Access to 50 Premium YouTube Banners</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial/"><u>New In 2024, Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-plugin-powerhouse-top-10-free-and-paid-options/"><u>New In 2024, FCPX Plugin Powerhouse Top 10 Free and Paid Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-mov-video-orientation-changers-top-rated/"><u>New In 2024, Free MOV Video Orientation Changers Top Rated</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-video-editing-software-top-alternatives-to-imovie/"><u>New In 2024, Free Video Editing Software Top Alternatives to iMovie</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mastering-video-import-and-export-in-adobe-premiere-pro-2023-for-2024/"><u>New Mastering Video Import and Export in Adobe Premiere Pro 2023 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing-for-2024/"><u>New MKVtoolnix for macOS A Beginners Guide to Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-saving-made-easy-a-step-by-step-final-cut-pro-guide-for-2024/"><u>New Saving Made Easy A Step-by-Step Final Cut Pro Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-toon-up-a-beginners-guide-to-converting-digital-videos-into-cartoons-for-2024/"><u>New Toon Up! A Beginners Guide to Converting Digital Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-5-best-free-3gp-video-rotators-for-2024/"><u>New Top 5 Best Free 3GP Video Rotators for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-vlog-editing-made-easy-the-best-free-and-paid-software-solutions-for-2024/"><u>New Vlog Editing Made Easy The Best Free and Paid Software Solutions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/pro-grade-video-editor-unleash-the-potential-of-your-everyday-videos-for-2024/"><u>Pro-Grade Video Editor Unleash the Potential of Your Everyday Videos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-worldwide-cut-learning-costs-by-nearly-96-this-year/"><u>Speak Worldwide - Cut Learning Costs by Nearly 96%% This Year</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-workflow-how-to-optimize-your-macs-storage-for-fcpx-for-2024/"><u>Streamline Your Workflow How to Optimize Your Macs Storage for FCPX for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-savvy-decisions-with-toms-hardware-haven/"><u>Tech Savvy Decisions with Tom's Hardware Haven</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-imovie-replacements-for-windows-10-free-and-premium-options/"><u>Top iMovie Replacements for Windows 10 Free and Premium Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-fcp-techniques-for-2024/"><u>Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-fast-and-easy-online-video-reversal-2023s-best-options-for-2024/"><u>Updated Fast and Easy Online Video Reversal 2023S Best Options for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-still-to-motion-10-top-image-to-video-maker-tools/"><u>Updated From Still to Motion 10 Top Image to Video Maker Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-fcpx-freezing-or-crashing-try-these-quick-fixes/"><u>Updated In 2024, FCPX Freezing or Crashing? Try These Quick Fixes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-mobile-video-to-audio-conversion-made-easy-top-apps-reviewed/"><u>Updated In 2024, Mobile Video to Audio Conversion Made Easy Top Apps Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-rated-4k-video-editing-tools-for-creators/"><u>Updated In 2024, Top-Rated 4K Video Editing Tools for Creators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mac-users-download-splice-video-editing-app-today-for-2024/"><u>Updated Mac Users Download Splice Video Editing App Today for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-rotate-reflect-and-flip-mastering-clip-orientation-in-final-cut-pro-for-2024/"><u>Updated Rotate, Reflect, and Flip Mastering Clip Orientation in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-mobile-apps-for-animated-text-overlays-in-videos-for-2024/"><u>Updated Top Mobile Apps for Animated Text Overlays in Videos for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
