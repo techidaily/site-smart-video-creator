@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top Free Online Tools for Creating Stunning Glitch Effects (Updated 2023)
-date: 2024-08-31T05:59:36.492Z
-updated: 2024-09-01T05:59:36.492Z
+date: 2024-09-04T07:13:39.138Z
+updated: 2024-09-05T07:13:39.138Z
 tags: 
   - video editing software
   - video editing
@@ -45,7 +45,10 @@ GFTO is an online text generator that offers hundreds of text templates, includi
 ![Glitch text effect generator](https://images.wondershare.com/filmora/article-images/engfto-generator_glitch_logo_font_text_effect.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The platform also lets you upload your own fonts, apply gradients, and change the text style. Optionally, you can add an outline to the text, pick the color of the text edges, or change the background. Once you are done editing the text you can save it to your computer as a PNG file and use it as an opening title for your video.
 
@@ -62,7 +65,10 @@ The platform also lets you upload your own fonts, apply gradients, and change th
 * No photo or video editing features
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2. [EPHOTO 360](https://en.ephoto360.com/tik-tok-text-effects-online-generator-485.html)
 
@@ -85,7 +91,16 @@ Once the new page loads, you just have to insert the text into the text boxes an
 * EPHOTO 360 watermarks all pictures
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3. [Photo Mosh](https://photomosh.com/)
 
@@ -113,6 +128,12 @@ Adding a glitch to a photo with Glitchatron is a straightforward task that can b
 
 ![Glitchatron ](https://images.wondershare.com/filmora/article-images/errozero-glitch-effect-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Glitchatron also lets you apply a circular or triangular mask to the photo or add a text overlay. You can insert the text, adjust its size, pick an alignment option, or decide if you want the text to be black or white. However, other color options are unavailable, and you can’t change the font. You can save the photo in PNG file format to your computer or share it on Facebook, Twitter, and other popular social media networks.
 
 **Pros**
@@ -127,9 +148,6 @@ Glitchatron also lets you apply a circular or triangular mask to the photo or ad
 * Text can be either black or white
 * No photo editing tools
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5. [ImageGlitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/)
 
 You shouldn’t expect great results from this online glitch generator, as the website is poorly designed and it offers only a few basic glitch adjustment options. The size of the photo you upload to the website has an impact on how it is going to be displayed, which means that photos in large resolutions may be difficult to preview.
@@ -150,18 +168,12 @@ Furthermore, you can only adjust Glitchiness and Brightness options, while you c
 * Poorly designed and difficult to navigate
 * Only works with photos that have resolution lower than 1024x1024
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 6. [Image Glitch Tool](https://snorpey.github.io/jpg-glitch/)
 
 Image Glitch Tool is a simple glitch effect generator that allows you to upload a photo and adjust the effect’s settings quickly. The photo you upload to this platform is going to be displayed in the Preview Window, and the platform will also resize the photo automatically in case it exceeds its size limitations to avoid errors.
 
 ![Image Glitch Tool ](https://images.wondershare.com/filmora/article-images/jpg-glitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 What’s more, Image Glitch Tool enables you to take photos with a webcam and apply glitch effect to them just moments after you captured them. The Amount, Seed, Iterations, and Quality sliders allow you to fine-tune the glitch effect so that it fits the image you are editing. However, creating a text overlay with this online glitch generator is not possible as you can only use it to apply the glitch effect to photos.
 
 **Pros**
@@ -177,7 +189,10 @@ What’s more, Image Glitch Tool enables you to take photos with a webcam and ap
 * Offers just one glitch effect
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 7. [Mara](https://mara.photos/glitcher/)
 
@@ -200,7 +215,10 @@ The photo will open in the Glitcher window as soon as you upload it, so you can 
 * Adding a text layer is only possible if you use Glitcher in combination with other tools
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 8. [HTML5 Image Glitcher](https://xoihazard.com/tools/glitch/)
 
@@ -208,6 +226,12 @@ You don’t need a lot of photo editing experience in order to create a glitch e
 
 ![HTML5 Image Glitcher ](https://images.wondershare.com/filmora/article-images/html5-image-glitcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once you’ve adjusted these settings you can proceed to select how damaged the photo is going to be, and you should pick the 1-hit option if you want the damage to be minimal or 1000-hits option if you want the damage to be severe. The results will be displayed in the Preview Window immediately so that you can adjust this setting accordingly. You can save the photo you created by either clicking on Download JPEG or Download PNG file.
 
 **Pros**
@@ -228,6 +252,18 @@ Creating a glitch on a photo or even in a short video with any of the glitch eff
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
