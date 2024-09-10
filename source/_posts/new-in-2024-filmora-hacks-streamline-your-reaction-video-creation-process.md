@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Filmora Hacks Streamline Your Reaction Video Creation Process
-date: 2024-08-31T05:55:01.138Z
-updated: 2024-09-01T05:55:01.139Z
+date: 2024-09-09T03:15:06.501Z
+updated: 2024-09-10T03:15:06.501Z
 tags: 
   - video editing software
   - video editing
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -49,6 +55,12 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
@@ -69,14 +81,32 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
@@ -87,8 +117,20 @@ AI Portrait allows you to create wonderful effects using artificial intelligence
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -156,6 +198,3 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

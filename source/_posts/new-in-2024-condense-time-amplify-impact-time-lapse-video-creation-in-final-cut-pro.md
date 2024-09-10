@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Condense Time, Amplify Impact Time Lapse Video Creation in Final Cut Pro
-date: 2024-08-27T04:03:50.487Z
-updated: 2024-08-28T04:03:50.487Z
+date: 2024-09-09T03:15:08.461Z
+updated: 2024-09-10T03:15:08.461Z
 tags: 
   - video editing software
   - video editing
@@ -14,6 +14,12 @@ keywords: ai animation accelerate your footage time lapse video editing in final
 thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Condense Time, Amplify Impact: Time Lapse Video Creation in Final Cut Pro
 
 # How to Make a Time Lapse Video in Final Cut Pro
@@ -36,8 +42,20 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -50,10 +68,22 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
@@ -66,6 +96,12 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -149,6 +185,3 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
