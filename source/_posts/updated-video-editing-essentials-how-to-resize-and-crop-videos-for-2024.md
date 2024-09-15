@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing Essentials How to Resize and Crop Videos for 2024
-date: 2024-09-09T03:15:04.989Z
-updated: 2024-09-10T03:15:04.989Z
+date: 2024-09-09T21:15:31.212Z
+updated: 2024-09-15T00:55:46.419Z
 tags: 
   - video editing software
   - video editing
@@ -14,12 +14,6 @@ keywords: video editing essentials how to freeze frames like a pro,10 essential 
 thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Video Editing Essentials: How to Resize and Crop Videos
 
 # How to Change Shape of a Video?
@@ -40,18 +34,6 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -78,12 +60,6 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
 **Step 1: Import the Video and Get to the Crop and Zoom Window**
@@ -102,18 +78,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -122,18 +86,6 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
 Although the basic concept of both types of masking is same, the options available under each can be used to produce effective outputs.
@@ -184,64 +136,11 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-igtv-to-facebook-distribution-masterclass-approach-for-2024/"><u>[New] IGTV to Facebook Distribution  Masterclass Approach for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-tomtoms-actioncamera-reveal-2023-edition/"><u>[New] In 2024, TomTom's ActionCamera Reveal - 2023 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[New] Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-download-free-mcb-skin-designs-for-2024/"><u>[Updated] Download Free MCB Skin Designs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-impressive-book-trails-presented/"><u>[Updated] Impressive Book Trails Presented</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-chuckles-and-characters-a-guide-to-top-meme-generators/"><u>[Updated] In 2024, Chuckles & Characters  A Guide to Top Meme Generators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-8-low-lag-screen-snipters-overview/"><u>[Updated] Top 8 Low-Lag Screen Snipters Overview</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-games-launcher-trouble-heres-your-solution-for-the-persistent-black-screen-error/"><u>Epic Games Launcher Trouble? Here's Your Solution for the Persistent Black Screen Error</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a2withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A2with/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-a05-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy A05? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insta-editing-secrets-mastering-high-resolution-footage-in-fcpx-for-2024/"><u>Insta-Editing Secrets  Mastering High-Resolution Footage in FCPX for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-like-a-pro-top-8-video-editing-apps-for-4k-proxy/"><u>New In 2024, Edit Like a Pro Top 8 Video Editing Apps for 4K Proxy</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-how-to-make-a-video-with-photos-and-music/"><u>New In 2024, How to Make a Video with Photos and Music</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-fix-stop-final-cut-pro-x-from-crashing-on-your-mac/"><u>New In 2024, The Ultimate Fix Stop Final Cut Pro X From Crashing on Your Mac</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-s-most-popular-free-m4a-editor-programs/"><u>New S Most Popular Free M4A Editor Programs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-fast-video-trimming-on-mac-tips-and-tricks/"><u>New The Ultimate Guide to Fast Video Trimming on Mac Tips and Tricks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-of-video-tag-editors-for-windows-and-macos/"><u>New The Ultimate List of Video Tag Editors for Windows and macOS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-tiktok-watermark-removal-made-easy-top-online-options/"><u>New TikTok Watermark Removal Made Easy Top Online Options</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-15-adobe-premiere-plugins-free-download/"><u>New Top 15 Adobe Premiere Plugins Free Download</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>New Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-vs-other-video-editors-which-one-reigns-supreme-in-2024/"><u>New Virtualdub vs Other Video Editors Which One Reigns Supreme , In 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/officially-free-download-the-newest-geforce-rtx-3070-ti-drivers-for-win-10/"><u>Officially Free: Download the Newest GeForce RTX 3070 Ti Drivers for Win 10</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-cortana-integration-vivetool-approach/"><u>Optimizing Cortana Integration: ViveTool Approach</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-jump-cuts-in-fcpx-best-practices-for-2024/"><u>The Ultimate Guide to Jump Cuts in FCPX Best Practices for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-free-video-call-apps-skype-alternatives-you-must-try/"><u>Top 5 Free Video Call Apps : Skype Alternatives You Must Try!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-video-editors-for-mac-vn-video-editor-and-beyond/"><u>Top Video Editors for Mac VN Video Editor and Beyond</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/transfer-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users/"><u>Transfer Videos to DVD A Comprehensive Guide for Windows and Mac Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-10-best-free-video-rotation-software-for-flipping-clips/"><u>Updated 2024 Approved 10 Best Free Video Rotation Software for Flipping Clips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-subtitle-edit-for-mac-not-working-try-these-alternatives/"><u>Updated 2024 Approved Subtitle Edit for Mac Not Working? Try These Alternatives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-avidemux-video-editing-a-beginners-guide-to-cropping-and-resizing/"><u>Updated Avidemux Video Editing A Beginners Guide to Cropping and Resizing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-avi-rotators-free-and-easy-video-editing-solutions-for-2024/"><u>Updated Best AVI Rotators Free and Easy Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>Updated Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-top-rated-iphone-video-editing-apps/"><u>Updated Edit Like a Pro Top-Rated iPhone Video Editing Apps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-video-cutting-solutions-for-divx-files-a-2023-guide/"><u>Updated In 2024, Free Video Cutting Solutions for Divx Files A 2023 Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-slow-down-and-savor-how-to-add-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated In 2024, Slow Down and Savor How to Add Slow Motion Effects in Windows Live Movie Maker</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-shrink-your-videos-10-best-free-online-compression-services-for-2024/"><u>Updated Shrink Your Videos 10 Best Free Online Compression Services for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-imovie-alternative-for-windows-10-free-and-paid-for-2024/"><u>Updated The Best iMovie Alternative for Windows 10 Free & Paid for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-best-public-domain-images-online/"><u>Updated The Ultimate List Best Public Domain Images Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-turn-your-videos-into-dvds-with-these-3-easy-methods-for-2024/"><u>Updated Turn Your Videos Into DVDs with These 3 Easy Methods for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-truthgpt-coin-and-is-it-a-scam/"><u>What Is TruthGPT Coin, and Is It a Scam?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -249,3 +148,25 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>2024 Approved Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-14-ultra-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi 14 Ultra Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/55plust44gp44gm44kc44kv44kq44oq44og44kj44gm5lplusd44gf44km44gf44ot44oh44kq44gu5pya6ygp5yywic0g44k544og44o844k644gq5yuv55s744k144kk44k66kq5pw044ks44kk44oj/"><u>短くてもクオリティが保たれたビデオの最適化 - スムーズな動画サイズ調整ガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-best-free-video-recording-tools-of-2024-top-5-software-solutions-reviewed-and-compared/"><u>Discover the Best Free Video Recording Tools of 2024 - Top 5 Software Solutions Reviewed and Compared</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a23-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A23 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-video-conversion-effortlessly-transform-m4v-files-into-universal-mp3-audio/"><u>ITunes Video Conversion: Effortlessly Transform M4V Files Into Universal MP3 Audio</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-edge-drivers-download-for-windows-11/"><u>Lenovo Thinkpad Edge Drivers Download for Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-take-your-editing-to-the-next-level-5-final-cut-pro-hacks-for-2024/"><u>New Take Your Editing to the Next Level 5 Final Cut Pro Hacks for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-ranking-the-best-explainer-video-makers-for-businesses/"><u>Updated Ranking the Best Explainer Video Makers for Businesses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-vllo-experience-on-mac-download-and-alternatives-for-2024/"><u>Updated The Ultimate VLLO Experience on Mac Download and Alternatives for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

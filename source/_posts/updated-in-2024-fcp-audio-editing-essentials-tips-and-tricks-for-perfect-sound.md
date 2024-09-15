@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCP Audio Editing Essentials Tips and Tricks for Perfect Sound
-date: 2024-09-09T03:15:03.892Z
-updated: 2024-09-10T03:15:03.892Z
+date: 2024-09-09T21:45:17.143Z
+updated: 2024-09-14T22:16:14.233Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -40,12 +34,6 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## How to edit audio on FCP
@@ -58,22 +46,10 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Note:** In this level, any effects and adjustments in audio are applicable for the entire clip including the audio channels within it. All the adjustments in the individual audio channels made by you would be preserved by FCP. This implies that when one reduces the volume for just one channel but increases the volume of the entire clip, then the single channel’s volume is only raised in proportion to the volume of the other channels. Ideally, you should do your edits at the clip-level when you have only one or two audio channels on your video clip.
@@ -84,12 +60,6 @@ The audio of the video can be detached for editing the audio file separately. Th
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
@@ -111,12 +81,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
@@ -129,49 +93,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-easy-to-use-apps-for-idevice-screen-capturing/"><u>[New] 2024 Approved  Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-path-to-smooth-transitions-in-inshot-editing/"><u>[New] The Path to Smooth Transitions in Inshot Editing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-notch-screen-recorder-pcmacos-edition/"><u>[New] Top-Notch Screen Recorder  PC/macOS Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-strategies-to-improve-seamless-broadcasts-in-obs/"><u>[Updated] Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g-stylus-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Moto G Stylus (2023) Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-highlights-from-the-2022-figure-skate-world/"><u>In 2024, Iconic Highlights From the 2022 Figure Skate World</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-techniques-for-chronological-categorization-of-photographs/"><u>In 2024, Revolutionary Techniques for Chronological Categorization of Photographs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-convert-your-videos-top-mp4-to-mp3-converters-for-any-device/"><u>New In 2024, Convert Your Videos Top MP4 to MP3 Converters for Any Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-video-players-for-slow-motion-playback/"><u>New In 2024, Top-Rated Video Players for Slow Motion Playback</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-trim-cut-and-edit-divx-videos-for-free-top-tools/"><u>New In 2024, Trim, Cut, and Edit Divx Videos for Free Top Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-12-free-animation-apps-for-windows-and-mac/"><u>New In 2024, Unleash Your Creativity 12 Free Animation Apps for Windows and Mac</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-webm-to-mp3-made-easy-10-reliable-converter-options/"><u>New In 2024, WebM to MP3 Made Easy 10 Reliable Converter Options</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-lip-syncing-5-essential-apps-you-need-for-2024/"><u>New The Ultimate Guide to Lip Syncing 5 Essential Apps You Need for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/revolutionize-your-classroom-10-best-animation-software-for-2024/"><u>Revolutionize Your Classroom 10 Best Animation Software for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-to-resolve-astro-a2e-20-microphone-issues/"><u>Simple Steps to Resolve Astro A2e 20 Microphone Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snicker-spinner-picture-editor/"><u>Snicker Spinner  Picture Editor</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-motorola-moto-g24-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Moto G24? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-when-windows-update-fails-to-launch/"><u>The Ultimate Solution for When Windows Update Fails to Launch</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ty-filmmaker-best-economical-camera-lineup/"><u>Thrifty Filmmaker  Best Economical Camera Lineup</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-tips-to-eliminate-slow-connections-and-improve-csgo-ping/"><u>Top Tips to Eliminate Slow Connections and Improve CS:Go Ping</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unlock-cross-platform-video-editing-a-chromebook-guide-for-2024/"><u>Unlock Cross-Platform Video Editing A Chromebook Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-benefits-of-having-an-iptv-or-smart-tv-at-home/"><u>Unveiling the Benefits of Having an IPTV or Smart TV at Home</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-online-video-combiner-tools-top-picks/"><u>Updated 2024 Approved Free Online Video Combiner Tools Top Picks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-in-this-article-you-will-find-ten-of-the-best-and-most-trusted-video-editing-applications-that-do-support-4k-videos-including-both-fre/"><u>Updated 2024 Approved In This Article, You Will Find Ten of the Best and Most Trusted Video Editing Applications that Do Support 4K Videos, Including Both Free 4K and Paid 4K Video Editing Software for You to Choose</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-face-swapping-apps-iphone-and-android-edition/"><u>Updated 2024 Approved Top Face Swapping Apps IPhone and Android Edition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-transform-your-videos-a-step-by-step-mp4-video-editing-guide-for-mac-and-windows/"><u>Updated 2024 Approved Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-bring-your-vision-to-life-best-1080p-video-editing-software-reviewed/"><u>Updated Bring Your Vision to Life Best 1080P Video Editing Software Reviewed</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-filmora-watermark-removal-a-step-by-step-guide-for-2024/"><u>Updated Filmora Watermark Removal A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-storytelling-expert-approved-1080p-video-editing-solutions/"><u>Updated In 2024, Elevate Your Storytelling Expert-Approved 1080P Video Editing Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-solutions-for-common-final-cut-pro-x-crash-problems/"><u>Updated In 2024, Solutions for Common Final Cut Pro X Crash Problems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-best-places-to-download-games-online/"><u>Updated In 2024, The Best Places to Download Games Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-list-10-best-cartoon-video-editing-apps/"><u>Updated In 2024, The Ultimate List 10 Best Cartoon Video Editing Apps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-12-free-animation-apps-for-windows-and-mac/"><u>Updated In 2024, Unleash Your Creativity 12 Free Animation Apps for Windows and Mac</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-color-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>Updated Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>Updated Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-video-maestro-convert-casual-clips-into-cinematic-masterpieces/"><u>Updated Video Maestro Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-11-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 11 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A25 5G?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-reverse-video-online-the-ultimate-guide-for-2024/"><u>New Reverse Video Online The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-smart-8-hd-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-movie-trailer-apps-for-iphone-and-ipad-users-for-2024/"><u>The Ultimate Guide to Movie Trailer Apps for iPhone and iPad Users for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-video-editing-software-for-old-pcs-32-bit-windows-compatibility-for-2024/"><u>Updated Free Video Editing Software for Old PCs 32-Bit Windows Compatibility for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

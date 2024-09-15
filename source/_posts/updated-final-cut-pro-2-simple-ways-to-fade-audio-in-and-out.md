@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro 2 Simple Ways to Fade Audio In and Out
-date: 2024-09-09T03:15:04.542Z
-updated: 2024-09-10T03:15:04.542Z
+date: 2024-09-10T19:59:16.173Z
+updated: 2024-09-15T02:22:43.975Z
 tags: 
   - video editing software
   - video editing
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -48,12 +36,6 @@ This tutorial offers only the basics of the audio fading techniques in Apple Fin
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With this modern and extremely user-friendly tool, you'll find that applying effects like fade-in, fade-out, or crossfade to your audio clips is very easy.
 
 ---
@@ -70,12 +52,6 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
@@ -88,12 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -110,18 +80,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -141,54 +99,11 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-beauty-brilliance-masterclasses-and-product-explorations/"><u>[New] 2024 Approved  Beauty Brilliance  Masterclasses and Product Explorations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-exclusive-screen-time-delight-with-these-top-offline-games/"><u>[New] 2024 Approved  Exclusive Screen Time Delight with These Top Offline Games</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-meme-code-principles-of-viral-video-content-creation/"><u>[New] In 2024, The Meme Code  Principles of Viral Video Content Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simple-ways-to-record-and-save-your-macos-screen/"><u>[New] Simple Ways to Record and Save Your macOS Screen</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-recommended-videos-block-the-videos/"><u>[New] YouTube Recommended Videos - Block the Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-melodic-selections-for-video-editing/"><u>[Updated] Exclusive Melodic Selections for Video Editing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-google-viewerscape-vs-samsung-virtual-world/"><u>[Updated] In 2024, Google Viewerscape Vs. Samsung Virtual World</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-14-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 14 Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-find-x6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Find X6 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-craft-a-vibrant-youtube-experience-with-tracks/"><u>In 2024, Craft a Vibrant Youtube Experience with Tracks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/macs-premier-mkv-player-picks-for-2024/"><u>Mac's Premier MKV Player Picks for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-videos-like-a-pro-microsoft-video-editor-for-windows-10-8-and-7/"><u>New In 2024, Edit Videos Like a Pro Microsoft Video Editor for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-switch-it-up-the-best-face-swap-apps-for-iphone-and-android-users/"><u>New In 2024, Switch It Up The Best Face Swap Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-photo-and-video-montage-makers/"><u>New In 2024, The Ultimate List of Photo and Video Montage Makers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-shape-up-your-videos-easy-resizing-and-cropping-techniques/"><u>New Shape Up Your Videos Easy Resizing and Cropping Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/rotate-a-video-in-final-cut-pro-a-4-step-guide/"><u>Rotate a Video in Final Cut Pro A 4-Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-m4a-editor-software/"><u>Top 5 Best Free M4A Editor Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixing-excessive-cpu-consumption-by-desktop-window-manager-on-windows-11-systems/"><u>Troubleshooting and Fixing Excessive CPU Consumption by Desktop Window Manager on Windows 11 Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-ipad-video-editing-apps-expert-recommendations/"><u>Updated 2024 Approved Best iPad Video Editing Apps Expert Recommendations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcp-voice-over-essentials-mastering-the-basics/"><u>Updated 2024 Approved FCP Voice Over Essentials Mastering the Basics</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-video-to-live-photo-conversion-top-rated-apps-and-guides/"><u>Updated 2024 Approved Video to Live Photo Conversion Top-Rated Apps and Guides</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-videopad-video-editor-2023-a-detailed-review-and-recommendation-for-beginners-and-pros/"><u>Updated 2024 Approved Videopad Video Editor 2023 A Detailed Review and Recommendation for Beginners and Pros</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-3-simple-methods-to-burn-your-favorite-videos-to-dvd-on-windows-and-mac/"><u>Updated 3 Simple Methods to Burn Your Favorite Videos to DVD on Windows and Mac</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-video-editing-software-for-mac-similar-to-pinnacle-studio-for-2024/"><u>Updated Best Video Editing Software for Mac Similar to Pinnacle Studio for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>Updated FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-final-cut-pro-essentials-how-to-use-the-ken-burns-effect-to-enhance-your-video-storytelling/"><u>Updated In 2024, Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-lets-ta/"><u>Updated On December 3Rd Google Play Announced Its Choice and Also Presented the Best Android Apps that Were Selected by Users. So without Further Ado Lets Take a Look at the Best and Most Popular And</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-video-editing-on-windows-using-movie-maker-for-2024/"><u>Updated The Ultimate Guide to Video Editing on Windows Using Movie Maker for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-video-mastery-the-best-free-online-tools-to-merge-your-clips/"><u>Updated Video Mastery The Best Free Online Tools to Merge Your Clips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/video-editing-face-off-premiere-pro-vs-after-effects-whats-the-best-choice-for-2024/"><u>Video Editing Face-Off Premiere Pro vs After Effects - Whats the Best Choice for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/video-editing-hack-how-to-reverse-clips-in-final-cut-pro/"><u>Video Editing Hack How to Reverse Clips in Final Cut Pro</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +111,31 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-zero-to-zoom-expertise-in-a-flash/"><u>[New] From Zero to Zoom Expertise in a Flash</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastery-guide-swiftly-switching-facebook-profile-pictures/"><u>[Updated] Mastery Guide Swiftly Switching Facebook Profile Pictures</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-crack-the-code-detailed-steps-for-extracting-messenger-media/"><u>2024 Approved Crack the Code Detailed Steps for Extracting Messenger Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-setting-the-mood-fading-to-black/"><u>2024 Approved Setting the Mood Fading To Black</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-the-desk-of-tom-at-techvanguard/"><u>Advanced PC Insights From the Desk of Tom at TechVanguard</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-3d-video-production-tools-free-paid-and-in-between/"><u>New In 2024, Top-Rated 3D Video Production Tools Free, Paid, and In-Between</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-top-rated-video-editing-software-for-high-definition-videos/"><u>New S Top-Rated Video Editing Software for High-Definition Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-split-wmv-files-for-free-top-5-tools-for-2024/"><u>New Split WMV Files for Free Top 5 Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-free-mod-video-editing-software-a-beginners-guide-for-2024/"><u>The Best Free MOD Video Editing Software A Beginners Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-text-animation-software-with-motion-tracking/"><u>The Best Text Animation Software with Motion Tracking</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-yuva-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Yuva 2 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-x90s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo X90S Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-fcp-audio-editing-essentials-tips-and-tricks-for-perfect-sound/"><u>Updated In 2024, FCP Audio Editing Essentials Tips and Tricks for Perfect Sound</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-filmmaking-for-all-7-accessible-software-for-low-budget-productions/"><u>Updated In 2024, Filmmaking for All 7 Accessible Software for Low-Budget Productions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: New The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-09-09T03:15:04.037Z
-updated: 2024-09-10T03:15:04.037Z
+date: 2024-09-13T18:08:30.430Z
+updated: 2024-09-14T17:20:41.362Z
 tags: 
   - video editing software
   - video editing
@@ -30,23 +30,11 @@ Here comes an enlightening discussion about the lower third modules in your vide
 
 ![lower third intro](https://images.wondershare.com/filmora/images/final-cut-pro/lower-%20third-intro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 > * [Part 1: What is the lower third?](#part1)
 > * [Part 2: What factors contribute to a good lower third?](#part2)
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -59,12 +47,6 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -127,48 +109,24 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3Step 3: Customize the Title**
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -187,6 +145,19 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -196,61 +167,17 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-a-comprehensive-approach-to-documenting-google-meet-discussions/"><u>[New] A Comprehensive Approach to Documenting Google Meet Discussions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>[New] Bandicam Reconnaissance  A Comprehensive Review of Its Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-effectively-download-huge-quantities-of-tiktok-content/"><u>[New] How to Effectively Download Huge Quantities of TikTok Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-characters-that-convert-ideal-story-strategies/"><u>[New] In 2024, Characters That Convert  Ideal Story Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>[New] Unveiling Top 10 Techniques  Live Cricket Broadcasting</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-spotify-to-youtube-playlist-conversion-5-must-have-apps-for-2024/"><u>[Updated] Effortless Spotify-to-YouTube Playlist Conversion  5 Must-Have Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-rediscovering-removed-youtube-video-easy-access-explained/"><u>[Updated] Rediscovering Removed YouTube Video  Easy Access Explained</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>2024 Approved  Swift Guide  Image to YouTube Thumbnail Transformation Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apples-latest-steal-the-just-released-11-inch-ipad-pro-now-at-all-time-low-price-and-bundled-deals-await/"><u>Apple's Latest Steal: The Just-Released 11-Inch iPad Pro Now at All-Time Low Price and Bundled Deals Await!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/breaking-the-rt-barrier-sharing-photos-and-vids-on-twitter/"><u>Breaking the 'RT' Barrier  Sharing Photos & Vids on Twitter</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/moziscreen-plugins-for-firefox/"><u>MoziScreen Plugins for Firefox</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-kid-friendly-video-editors-10-fun-and-easy-to-use-apps/"><u>New 2024 Approved Kid-Friendly Video Editors 10 Fun and Easy-to-Use Apps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-digitize-your-movie-library-converting-dvds-to-modern-file-formats/"><u>New In 2024, Digitize Your Movie Library Converting DVDs to Modern File Formats</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcp-vs-lumafusion-choosing-the-ultimate-video-editing-software/"><u>New In 2024, FCP vs LumaFusion Choosing the Ultimate Video Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-macos-video-editing-studio-create-stunning-videos/"><u>New In 2024, MacOS Video Editing Studio Create Stunning Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-motion-graphics-software-for-text-tracking/"><u>New In 2024, Top-Rated Motion Graphics Software for Text Tracking</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-make-me-laugh-top-10-meme-generation-apps-for-mobile-devices-for-2024/"><u>New Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-merging-made-easy-the-top-5-free-online-video-combination-tools-for-2024/"><u>New Merging Made Easy The Top 5 Free Online Video Combination Tools for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-the-rest-4-adobe-premiere-rush-competitors/"><u>New The Best of the Rest 4 Adobe Premiere Rush Competitors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-best-way-to-convert-mp4-to-mp3-expert-approved-converters/"><u>New The Best Way to Convert MP4 to MP3 Expert-Approved Converters</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-voice-over-checklist-best-practices-for-final-cut-pro-for-2024/"><u>New The Ultimate Voice Over Checklist Best Practices for Final Cut Pro for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors-for-2024/"><u>Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998963187-overcome-the-problem-of-google-chrome-not-launching-fixes-and-workarounds-inside/"><u>Overcome the Problem of Google Chrome Not Launching - Fixes & Workarounds Inside!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>Pro Video Mastery with iPhone  Unveiling Top 8 Tips for Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adjusting-date-settings-in-microsoft-excel/"><u>Step-by-Step Guide: Adjusting Date Settings in Microsoft Excel</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-complete-online-video-editing-course-from-basics-to-advanced-techniques/"><u>The Complete Online Video Editing Course From Basics to Advanced Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-filmora-on-a-budget-4-proven-ways-to-score-discount-codes/"><u>Updated 2024 Approved Filmora on a Budget 4 Proven Ways to Score Discount Codes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mp4-file-editing-on-mavericks-a-step-by-step-tutorial/"><u>Updated 2024 Approved MP4 File Editing on Mavericks A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-stop-motion-animation-on-instagram-a-beginners-guide-to-creating-viral-videos/"><u>Updated 2024 Approved Stop Motion Animation on Instagram A Beginners Guide to Creating Viral Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-stop-motion-apps-for-mobile/"><u>Updated 2024 Approved The Ultimate Guide to Stop Motion Apps for Mobile</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-animate-like-a-pro-top-10-tools-for-beginners-and-experts-alike/"><u>Updated Animate Like a Pro Top 10 Tools for Beginners and Experts Alike</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-gif-looping-made-easy-best-free-software/"><u>Updated GIF Looping Made Easy Best Free Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-6-video-mergers-without-watermark/"><u>Updated In 2024, 6 Video Mergers Without Watermark</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>Updated In 2024, From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-list-of-video-editing-software-for-newcomers/"><u>Updated In 2024, The Ultimate List of Video Editing Software for Newcomers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-make-unforgettable-videos-top-10-iphone-and-ipad-collage-apps-2023/"><u>Updated Make Unforgettable Videos Top 10 iPhone and iPad Collage Apps 2023</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices-for-2024/"><u>Updated The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-downloading-videoleap-on-macbook-proair-for-2024/"><u>Updated The Ultimate Guide to Downloading Videoleap on MacBook Pro/Air for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -258,3 +185,20 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-iphone-photography-top-10-visual-arrangement-tips/"><u>[New] The Art of iPhone Photography Top 10 Visual Arrangement Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-mac-capture-techniques-overview-char-limit-156/"><u>[Updated] Top Mac Capture Techniques Overview (Char Limit 156)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/century-age-of-ashes-pc-version-fixed-no-more-crashing-issues/"><u>Century: Age of Ashes PC Version - Fixed! No More Crashing Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-steps-for-transforming-your-avchd-video-files-m2ts-mts-ts-to-compatible-mpeg4-format-using-mac-devices/"><u>Easy Steps for Transforming Your AVCHD Video Files (M2TS, MTS, TS) to Compatible MPEG4 Format Using Mac Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-x50iplus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor X50i+ Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-texts-from-android-phones-arrive-on-your-iphone-detailed-solution-steps/"><u>How to Ensure Texts From Android Phones Arrive on Your iPhone – Detailed Solution Steps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-stunning-videos-best-collage-apps-for-iphone-and-ipad/"><u>New In 2024, Create Stunning Videos Best Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-like-a-pro-gopro-video-editing-on-mac-for-beginners/"><u>New In 2024, Edit Like a Pro GoPro Video Editing on Mac for Beginners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-approach-to-mastery-with-iphone-x-animoji-use-for-2024/"><u>Step-by-Step Approach to Mastery with iPhone X Animoji Use for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-video-editing-fast-and-easy-video-trimming-on-mac-for-2024/"><u>Streamline Your Video Editing Fast & Easy Video Trimming on Mac for 2024</u></a></li>
+</ul></div>
+

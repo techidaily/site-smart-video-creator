@@ -1,7 +1,7 @@
 ---
 title: New Pro Audio in FCP Expert Tips for Enhancing Your Video Soundtrack for 2024
-date: 2024-09-09T03:15:05.414Z
-updated: 2024-09-10T03:15:05.414Z
+date: 2024-09-09T02:44:41.743Z
+updated: 2024-09-15T00:29:46.994Z
 tags: 
   - video editing software
   - video editing
@@ -34,12 +34,6 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## How to edit audio on FCP
@@ -52,18 +46,6 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 ![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
@@ -78,22 +60,10 @@ The audio of the video can be detached for editing the audio file separately. Th
 
 ![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
 The Audio Inspector would allow you to apply the following effects:
@@ -107,22 +77,10 @@ The Audio Inspector would allow you to apply the following effects:
 
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
 
 ![Effects](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Audio Configuration: The audio configuration tool would allow the user to modify the audio channel with mono, stereo, or reverse stereo.
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
@@ -135,64 +93,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-instagram-video-posts/"><u>[New] Mastering Instagram Video Posts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-crafting-your-own-android-ringtones-and-sounds/"><u>[New] Step-By-Step  Crafting Your Own Android Ringtones and Sounds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-craft-cartoony-snaps-master-snapchats-anime-filters-guide/"><u>[Updated] 2024 Approved  Craft Cartoony Snaps  Master Snapchat’s Anime Filters Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-5-winter-youtube-background-ideas-to-warm-up-your-videos-for-2024/"><u>[Updated] 5 Winter YouTube Background Ideas to Warm Up Your Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snapshare-success-the-videoviral-story/"><u>[Updated] In 2024, SnapShare Success  The #VideoViral Story</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-use-of-zoom-features-on-chromebooks/"><u>2024 Approved  Optimal Use of Zoom Features on ChromeBooks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/auditory-aspects-in-inshot-video-creation/"><u>Auditory Aspects in InShot Video Creation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cam-protection-the-ultimate-10-guide-for-2024/"><u>Cam Protection  The Ultimate 10 Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms/"><u>In 2024, Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-a23-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy A23 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XS?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-budget-friendly-video-editing-top-free-imovie-alternatives/"><u>New In 2024, Budget-Friendly Video Editing Top Free iMovie Alternatives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-mp4-videos-on-your-pc-a-comprehensive-guide-for-windows-8/"><u>New In 2024, Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-google-plays-top-picks-the-best-android-apps-around/"><u>New In 2024, Google Plays Top Picks The Best Android Apps Around</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>New In 2024, Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-5-best-free-wmv-video-editing-tools/"><u>New In 2024, The Ultimate List 5 Best Free WMV Video Editing Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-virtualdub-mpeg2-the-ultimate-video-compression-solution/"><u>New In 2024, VirtualDub MPEG2 The Ultimate Video Compression Solution</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-this-case-you-would-prefer-to-rotate-3gp-videos-90-degrees-for-a-better-viewing-here-is-a-list-of-top-5-free-3gp-video-rotators/"><u>New In This Case, You Would Prefer to Rotate 3GP Videos 90 Degrees for a Better Viewing. Here Is a List of Top 5 Free 3GP Video Rotators</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mac-users-install-lumafusion-or-discover-its-top-competitors/"><u>New Mac Users Install Lumafusion or Discover Its Top Competitors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-photo-and-video-collage-software-top-picks-for-online-creators/"><u>New Photo and Video Collage Software Top Picks for Online Creators</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-fcpx-skin-smoothing-hack-no-plugins-needed-for-2024/"><u>New The Ultimate FCPX Skin Smoothing Hack No Plugins Needed for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-10-free-video-stabilization-tools-online-a-comprehensive-review-for-2024/"><u>New Top 10 Free Video Stabilization Tools Online A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/s-top-rated-cartoon-video-editors-for-newbies-for-2024/"><u>S Top Rated Cartoon Video Editors for Newbies for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-easy-to-use-web-tools-for-gif-to-video-transformation-for-2024/"><u>Seamless, Easy-to-Use Web Tools for GIF to Video Transformation for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/selecting-the-right-gopro-features-at-your-fingertips/"><u>Selecting the Right Gopro  Features at Your Fingertips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/stellars-guide-to-effective-data-destruction-tips-and-best-practices/"><u>Stellar's Guide to Effective Data Destruction: Tips and Best Practices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/transform-your-media-best-online-photo-and-video-mashup-creators/"><u>Transform Your Media Best Online Photo and Video Mashup Creators</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-the-best-time-lapse-video-editing-software-for-2024/"><u>Unleash Your Creativity The Best Time-Lapse Video Editing Software for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-filmora-coupon-code-2022-7-ways-to-find2022-full-list/"><u>Updated 2024 Approved Filmora Coupon Code 2022 - 7 Ways to Find(2022 Full List)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-m4a-editing-solutions-top-5-software/"><u>Updated 2024 Approved Free M4A Editing Solutions Top 5 Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-to-edit-top-10-online-video-editors-with-no-watermark-limitations/"><u>Updated 2024 Approved Free to Edit Top 10 Online Video Editors with No Watermark Limitations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-gif-velocity-controllers-online-and-mobile-essentials/"><u>Updated 2024 Approved GIF Velocity Controllers Online and Mobile Essentials</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-dont-lose-your-work-a-quick-guide-to-saving-fcp-projects-for-2024/"><u>Updated Dont Lose Your Work! A Quick Guide to Saving FCP Projects for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps-for-2024/"><u>Updated Effortless Video Editing How to Add Effects in FCP X in 3 Steps for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-fcpx-xml-essentials-from-basics-to-advanced-techniques/"><u>Updated FCPX XML Essentials From Basics to Advanced Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-ahead-in-video-editing-6-insider-adobe-premiere-tips-and-techniques/"><u>Updated Get Ahead in Video Editing 6 Insider Adobe Premiere Tips and Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-flip-it-top-10-free-video-rotation-apps-for-android-and-ios/"><u>Updated In 2024, Flip It! Top 10 Free Video Rotation Apps for Android and iOS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-video-editing-apps-with-advanced-effects-for-ios-and-android/"><u>Updated In 2024, Free Video Editing Apps with Advanced Effects for iOS and Android</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-most-popular-video-reversal-websites/"><u>Updated In 2024, S Most Popular Video Reversal Websites</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-this-article-tells-you-several-tips-to-make-a-better-home-movie-master-the-home-movie-making-tips-and-obey-the-rules-so-that-you-can-make-a-/"><u>Updated In 2024, This Article Tells You Several Tips to Make a Better Home Movie. Master the Home Movie Making Tips and Obey the Rules so that You Can Make a Great Movie</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-top-10-free-and-paid-android-video-editors/"><u>Updated In 2024, Unleash Your Creativity Top 10 Free and Paid Android Video Editors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-this-article-we-are-going-to-introduce-you-to-some-of-the-best-lightweight-movie-makers-you-can-easily-use-for-free-on-your-desktop-or-phone-for-/"><u>Updated In This Article, We Are Going to Introduce You to some of the Best Lightweight Movie Makers You Can Easily Use for Free on Your Desktop or Phone for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-make-quick-work-of-long-videos-speed-up-playback-in-quicktime/"><u>Updated Make Quick Work of Long Videos Speed Up Playback in QuickTime</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-merge-wmv-files-with-ease-the-best-free-tools-for-2024/"><u>Updated Merge WMV Files with Ease The Best Free Tools for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-proxy-perfection-top-video-editing-software-for-4k-creators-for-2024/"><u>Updated Proxy Perfection Top Video Editing Software for 4K Creators for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-video-cutters-for-divx-format-2023-review/"><u>Updated The Best Free Video Cutters for Divx Format (2023 Review)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-way-to-trim-vlc-videos-on-mac-maintain-original-quality/"><u>Updated The Best Way to Trim VLC Videos on Mac Maintain Original Quality</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-online-video-editors-compatible-with-chromebook/"><u>Updated Top-Rated Online Video Editors Compatible with Chromebook</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-the-drama-top-slow-motion-video-editing-apps-for-2024/"><u>Updated Unleash the Drama Top Slow Motion Video Editing Apps for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-success-on-youtube-standard-studio-or-beta-for-2024/"><u>[New] Crafting Success on YouTube Standard Studio or Beta for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-prism-of-design-from-theory-to-practice/"><u>[Updated] A Prism of Design From Theory to Practice</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-sending-streaming-content-linking-fb-vids-and-whatsapp-messages/"><u>[Updated] In 2024, Sending Streaming Content Linking FB Vids & WhatsApp Messages</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harness-lightrooms-power-to-create-dynamic-hdr-photos/"><u>Harness Lightroom's Power to Create Dynamic HDR Photos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-navigating-the-social-sphere-of-tiktok-lives/"><u>In 2024, Navigating the Social Sphere of TikTok Lives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-silencing-sounds-five-techniques-for-deleting-audio-in-digital-footage/"><u>In 2024, Silencing Sounds Five Techniques for Deleting Audio in Digital Footage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-6-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 6 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-neon-text-generators-the-9-easiest-online-tools-to-use-this-year-for-2024/"><u>New Neon Text Generators The 9 Easiest Online Tools to Use This Year for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces-for-2024/"><u>New Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-mac-video-editing-software-create-stunning-videos-in-minutes-for-2024/"><u>Top Mac Video Editing Software Create Stunning Videos in Minutes for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-the-power-of-reverse-video-in-final-cut-pro-for-2024/"><u>Updated Unleash the Power of Reverse Video in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-splitting-made-easy-a-step-by-step-guide-for-windows-live-movie-maker-for-2024/"><u>Updated Video Splitting Made Easy A Step-by-Step Guide for Windows Live Movie Maker for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Square to Wide How to Adjust Video Shape
-date: 2024-08-27T04:02:54.982Z
-updated: 2024-08-28T04:02:54.982Z
+date: 2024-09-10T05:53:01.520Z
+updated: 2024-09-15T03:07:43.473Z
 tags: 
   - video editing software
   - video editing
@@ -78,9 +78,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -89,10 +86,6 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
 Although the basic concept of both types of masking is same, the options available under each can be used to produce effective outputs.
@@ -143,58 +136,11 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exclusive-movies-behind-the-best-chart/"><u>[New] 2024 Approved  Exclusive Movies Behind the Best Chart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fabricate-funny-images-on-giphy/"><u>[New] Fabricate Funny Images on Giphy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-a-gamers-guide-to-seamless-ps4-recording-and-streaming-via-obs/"><u>[Updated] 2024 Approved  A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-precision-window-photography-in-winoses-for-2024/"><u>[Updated] Precision Window Photography in WinOSes for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-8-plus-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 8 Plus iCloud Activation Lock</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-bang-for-your-buck-top-filmmaking-software-for-low-budgets-for-2024/"><u>Best Bang for Your Buck Top Filmmaking Software for Low Budgets for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-free-video-editors-for-windows-10-users/"><u>Best Free Video Editors for Windows 10 Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/cinematic-color-grading-and-editing-in-final-cut-pro-x-a-comprehensive-guide-for-2024/"><u>Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/create-a-logo-that-stands-out-best-free-animated-logo-makers-for-2024/"><u>Create a Logo That Stands Out Best Free Animated Logo Makers for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/cut-trim-and-share-the-top-free-online-video-editing-platforms-for-2024/"><u>Cut, Trim, and Share The Top Free Online Video Editing Platforms for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/defeat-mac-no-sound-ultimate-troubleshooting-strategies-revealed/"><u>Defeat 'Mac No Sound': Ultimate Troubleshooting Strategies Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-how-abbyy-dominates-the-market-featured-in-gartners-prestigious-named-leaders-magic-quadrant-for-document-solutions/"><u>Explore How ABBYY Dominates the Market: Featured in Gartner's Prestigious Named Leaders Magic Quadrant for Document Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere-for-2024/"><u>From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/from-video-to-live-photo-expert-recommended-apps-and-guides-for-2024/"><u>From Video to Live Photo Expert-Recommended Apps and Guides for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/how-to-change-video-speed-in-quicktime-player-on-your-computer/"><u>How to Change Video Speed in QuickTime Player on Your Computer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-12-free-download-animation-software-for-windows-and-mac-2022/"><u>In 2024, Best 12 Free Download Animation Software for Windows and Mac 2022</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-capture-life-in-high-definition-1080p-video-editing-software-guide/"><u>In 2024, Capture Life in High Definition 1080P Video Editing Software Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-color-unify-a-step-by-step-guide-to-matching-video-clips-in-powerdirector/"><u>In 2024, Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-erasing-identity-the-most-effective-face-blur-video-editing-software/"><u>In 2024, Erasing Identity The Most Effective Face Blur Video Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-make-ken-burns-effect-in-final-cut-pro/"><u>In 2024, How to Make Ken Burns Effect in Final Cut Pro?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-simplify-video-editing-on-mac-mkvtoolnix-review/"><u>In 2024, Simplify Video Editing on Mac MKVtoolnix Review</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-unifying-your-visuals-how-to-color-match-video-clips-in-powerdirector/"><u>In 2024, Unifying Your Visuals How to Color Match Video Clips in PowerDirector</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-this-article-we-are-going-to-take-you-through-some-of-the-best-online-photo-and-video-collage-makers-you-can-find-on-the-internet-for-2024/"><u>In This Article We Are Going to Take You Through some of the Best Online Photo and Video Collage Makers You Can Find on the Internet for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mac-video-editing-made-easy-install-lumafusion-or-choose-an-alternative-for-2024/"><u>Mac Video Editing Made Easy Install Lumafusion or Choose an Alternative for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-avidemux-sound-not-working-try-these-troubleshooting-tips/"><u>New 2024 Approved Avidemux Sound Not Working? Try These Troubleshooting Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-top-intro-makers-for-pc-both-online-and-offline/"><u>New 2024 Approved Best Top Intro Makers for PC, Both Online and Offline</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-webm-to-mp3-converters-for-fast-and-easy-file-conversion/"><u>New 2024 Approved Best WebM to MP3 Converters for Fast and Easy File Conversion</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-chromecast-without-limits-how-to-play-all-video-formats-2023-edition/"><u>New 2024 Approved Chromecast Without Limits How to Play All Video Formats (2023 Edition)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-editing-gopro-footage-on-pc-quik-and-its-competitors/"><u>New 2024 Approved Editing GoPro Footage on PC Quik and Its Competitors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies/"><u>New 2024 Approved Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-expert-approved-video-editing-tools-and-apps/"><u>New 2024 Approved Expert-Approved Video Editing Tools and Apps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mastering-fcp-5-essential-editing-techniques-to-elevate-your-videos/"><u>New 2024 Approved Mastering FCP 5 Essential Editing Techniques to Elevate Your Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-lowdown-on-minitool-movie-maker-review-tips-and-alternative-video-editors/"><u>New 2024 Approved The Lowdown on Minitool Movie Maker Review, Tips, and Alternative Video Editors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-gopro-quik-and-its-pc-alternatives-for-video-editing-mastery/"><u>New 2024 Approved The Ultimate Guide to GoPro Quik & Its PC Alternatives for Video Editing Mastery</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-10-premiere-pro-transition-effects-to-elevate-your-videos/"><u>New 2024 Approved Top 10 Premiere Pro Transition Effects to Elevate Your Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unlock-pro-quality-videos-mastering-gopro-quik-editing-on-macbook/"><u>New 2024 Approved Unlock Pro-Quality Videos Mastering GoPro Quik Editing on MacBook</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-compression-made-easy-5-free-apps-for-iphone-and-ipad/"><u>New 2024 Approved Video Compression Made Easy 5 Free Apps for iPhone and iPad</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-asus-rog-phone-7-ultimate-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Asus ROG Phone 7 Ultimate for Streaming | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-inaccessible-printer-network/"><u>Troubleshooting: Inaccessible Printer Network</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a15-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A15 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -202,3 +148,31 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-assemble-ppt-narratives-into-video/"><u>[New] Assemble PPT Narratives Into Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-open-worlds-you-cant-ignore-for-2024/"><u>[New] Essential Open Worlds You Can't Ignore for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-video-aspects-online/"><u>[New] Mastering Video Aspects Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-emulate-history-essential-ps1-games-for-pc-lovers-for-2024/"><u>[Updated] Emulate History Essential PS1 Games for PC Lovers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pro-audio-software-win-edition/"><u>[Updated] Pro Audio Software Win Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-instagram-edge-rotating-videos-like-a-pro/"><u>2024 Approved The Instagram Edge Rotating Videos Like a Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/architects-of-online-marvel-adventures/"><u>Architects of Online Marvel Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-high-performance-thermaltake-massive-tm-laptop-chiller-stunning-benefits-meet-steep-cost/"><u>In-Depth Analysis of the High-Performance Thermaltake Massive TM Laptop Chiller: Stunning Benefits Meet Steep Cost</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/"><u>New In 2024, Blur Unwanted Parts of Your Videos with These Mobile Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects/"><u>New In 2024, Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-easy-filmmaker-turn-your-ideas-into-a-movie/"><u>New In 2024, The Easy Filmmaker Turn Your Ideas Into a Movie</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mac-users-rejoice-top-3-mkv-trimming-solutions-2023-for-2024/"><u>New Mac Users Rejoice Top 3 MKV Trimming Solutions 2023 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solo-spotlight-crafting-a-chart-topping-podcast/"><u>Solo Spotlight Crafting a Chart-Topping Podcast</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-best-stop-motion-animation-apps-for-mobile/"><u>Updated In 2024, Unleash Your Creativity Best Stop Motion Animation Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-free-video-editing-on-32-bit-windows-top-software-for-2024/"><u>Updated The Ultimate Guide to Free Video Editing on 32-Bit Windows Top Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options-for-2024/"><u>VN Video Editor for Mac A Comprehensive Guide and Alternative Options for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
