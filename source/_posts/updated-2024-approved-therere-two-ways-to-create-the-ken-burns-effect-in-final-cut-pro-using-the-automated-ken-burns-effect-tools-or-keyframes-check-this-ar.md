@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Therere Two Ways to Create the Ken Burns Effect in Final Cut Pro Using the Automated Ken Burns Effect Tools or Keyframes. Check This Article to Find Out How-To
-date: 2024-09-09T17:46:29.103Z
-updated: 2024-09-14T18:29:18.469Z
+date: 2024-09-17T16:44:21.603Z
+updated: 2024-09-20T02:45:27.930Z
 tags: 
   - video editing software
   - video editing
@@ -71,6 +71,13 @@ You can also customize the ken burns effects in Final Cut.
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -86,10 +93,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -97,13 +104,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -128,12 +128,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-your-youtube-reach-with-famebit-ad-sponsorships-for-2024/"><u>[New] Enhancing Your YouTube Reach with FameBit Ad Sponsorships for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easiest-video-making-apps-for-mac-unleash-your-creativity/"><u>Easiest Video Making Apps for Mac Unleash Your Creativity</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-nvidia-control-panel-for-your-lenovo-legion-5-laptop-step-by-step-guide/"><u>Installing NVIDIA Control Panel for Your Lenovo Legion 5 Laptop: Step by Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-divx-video-cutters/"><u>Top 5 Best Free Divx Video Cutters</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-discover-the-power-of-wax-a-free-video-editor-tutorial/"><u>Updated 2024 Approved Discover the Power of Wax A Free Video Editor Tutorial</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-vlog-editor-apps-ios-and-android/"><u>Updated Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-organizing-soundtracks-formulating-a-youtube-music-list/"><u>[New] 2024 Approved Organizing Soundtracks Formulating a YouTube Music List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere/"><u>[Updated] 2024 Approved From Capturing Moments to Sharing Them Editing with Adobe Premiere</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726028969362-5/"><u>「人気のオンラインで使える最高の音声記録ウェブサイト・トップ5」</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1-step-by-step-guide-transforming-bik-files-into-popular-video-formats-like-mp4-avi-and-mkv/"><u>1. Step-by-Step Guide: Transforming BIK Files Into Popular Video Formats Like MP4, AVI & MKV</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/wavaac/"><u>効率的な手順: WAV形式からAACの音楽ファイルへの変換ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-gamers-choice-top-4k-laptop-list-for-2024/"><u>Elite Gamers' Choice Top 4K Laptop List for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explosive-growth-video-expectations-sky-high-views/"><u>Explosive Growth Video Expectations Sky-High Views</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x100-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pictorial-pop-culture-their-tales/"><u>In 2024, Pictorial Pop Culture Their Tales</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-adapter-missing-system-drive-incompatibility/"><u>Intel Adapter Missing: System Drive Incompatibility</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726028875812-iphoneandroid6/"><u>IPhone/Androidで人気のビデオから音声抽出アプリトップ6つ紹介</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726027678820-pc/"><u>PC用: 音声をトランスクリプト化および編集するためのガイド</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-install-geforce-gtx-460-drivers-on-windows/"><u>Quick and Easy Guide: Install GeForce GTX 460 Drivers on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rhythm-discoveries-at-your-fingertips-free-online-for-2024/"><u>Rhythm Discoveries at Your Fingertips (Free, Online) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-guide-stylishly-resizing-videos-without-a-watermark-for-your-perfect-instagram-post/"><u>Ultimate Guide: Stylishly Resizing Videos Without a Watermark for Your Perfect Instagram Post</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-techniques-for-ripping-dvds-a-comparison-between-pineapple-dvd-ripper-and-other-superior-tools/"><u>Ultimate Techniques for Ripping DVDs: A Comparison Between Pineapple DVD Ripper and Other Superior Tools</u></a></li>
 </ul></div>
 
