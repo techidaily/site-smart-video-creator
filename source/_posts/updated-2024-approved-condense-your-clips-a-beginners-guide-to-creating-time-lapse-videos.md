@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Condense Your Clips A Beginners Guide to Creating Time Lapse Videos
-date: 2024-09-09T22:31:15.542Z
-updated: 2024-09-15T03:24:34.682Z
+date: 2024-09-30T17:11:17.877Z
+updated: 2024-10-01T16:22:14.513Z
 tags: 
   - video editing software
   - video editing
@@ -99,11 +99,25 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -115,7 +129,21 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -130,12 +158,16 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-accelerated-video-capture-device-and-voice-commentary-feature/"><u>[New] 2024 Approved Accelerated Video Capture Device & Voice Commentary Feature</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pc-videography-leveraging-windows-hdr/"><u>[New] PC Videography Leveraging Windows HDR</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-core-strategies-for-tailoring-compelling-social-media-promotions/"><u>[Updated] Core Strategies for Tailoring Compelling Social Media Promotions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leveraging-slacks-features-to-improve-your-workplace-communication-and-collaboration/"><u>Leveraging Slack's Features to Improve Your Workplace Communication and Collaboration</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-video-editors-for-4k-proxy-workflow-2023-edition/"><u>Top Video Editors for 4K Proxy Workflow 2023 Edition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-15-easy-to-use-video-editing-tools-for-free/"><u>Updated In 2024, 15 Easy-to-Use Video Editing Tools for Free</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-this-article-we-will-review-avs-video-editor-and-discuss-features-it-has-and-how-good-avs-video-editor-is-for-2024/"><u>Updated In This Article, We Will Review AVS Video Editor and Discuss, Features It Has and How Good Avs Video Editor Is for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-kinemaster-for-mac-os-download-install-and-start-creating-for-2024/"><u>Updated KineMaster for Mac OS Download, Install, and Start Creating for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-hand-drawing-whiteboard-animation-makers/"><u>Updated The Ultimate Guide to Hand Drawing Whiteboard Animation Makers</u></a></li>
+</ul></div>
 

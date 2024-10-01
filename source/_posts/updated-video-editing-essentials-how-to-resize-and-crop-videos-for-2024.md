@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing Essentials How to Resize and Crop Videos for 2024
-date: 2024-09-09T21:15:31.212Z
-updated: 2024-09-15T00:55:46.419Z
+date: 2024-09-24T16:32:50.865Z
+updated: 2024-10-01T16:40:34.994Z
 tags: 
   - video editing software
   - video editing
@@ -54,11 +54,25 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -77,6 +91,13 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 **Step 4: Export the Video**
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
@@ -136,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -149,12 +177,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/op-picks-8-mirrorless-cameras-that-shine-in-vlogs/"><u>[New] Top Picks 8 Mirrorless Cameras That Shine in Vlogs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>[Updated] In 2024, Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-cut-pro-alternative-on-pc-master-your-video-projects-with-last-neds-imovie-for-windows/"><u>Final Cut Pro Alternative on PC - Master Your Video Projects with Last Ned's iMovie for Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone X?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-leading-online-video-promo-builders/"><u>New Leading Online Video Promo Builders</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-smooth-video-playback-top-webm-to-mp4-converters/"><u>New Unlock Smooth Video Playback Top WebM to MP4 Converters</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-win11-crashes-guide-to-solve/"><u>No More Win11 Crashes: Guide to Solve</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-safe-termination-of-drives-while-preserving-ongoing-tasks/"><u>Resolved: Safe Termination of Drives While Preserving Ongoing Tasks</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2013-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Documents Online for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-mobile-communication-how-metro-by-t-mobiles-unlimited-plans-work-with-seamless-cellular-and-wi-fi-roaming-across-the-us/"><u>Unlock the Power of Mobile Communication: How Metro by T-Mobile's Unlimited Plans Work With Seamless Cellular and Wi-Fi Roaming Across the U.S</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-expert-approved-audio-editing-software-for-high-quality-productions/"><u>Updated 2024 Approved Expert-Approved Audio Editing Software for High-Quality Productions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-transfer-videos-to-dvd-discs-on-windows-and-mac-computers-for-2024/"><u>Updated Transfer Videos to DVD Discs on Windows and Mac Computers for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Therere Two Ways to Create the Ken Burns Effect in Final Cut Pro Using the Automated Ken Burns Effect Tools or Keyframes. Check This Article to Find Out How-To
-date: 2024-09-17T16:44:21.603Z
-updated: 2024-09-20T02:45:27.930Z
+date: 2024-09-30T16:03:47.750Z
+updated: 2024-10-01T17:23:36.929Z
 tags: 
   - video editing software
   - video editing
@@ -57,6 +57,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -67,15 +74,22 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -92,13 +106,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -113,6 +120,13 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -126,5 +140,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips/"><u>[New] In 2024, Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-directory-where-to-download-youtube-ringtones/"><u>[New] Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-transition-from-spotify-to-youtube-find-the-best-apps/"><u>[Updated] 2024 Approved Effortless Transition From Spotify to YouTube Find the Best Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exquisite-online-destinations-for-sparkling-3d-typography/"><u>2024 Approved Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-thumbnail-design-on-macos-unveiled/"><u>In 2024, YouTube Thumbnail Design on macOS Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-when-steam-cant-reach-its-servers/"><u>Troubleshooting Guide for When Steam Can't Reach Its Servers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-reversing-video-in-final-cut-pro/"><u>Updated 2024 Approved The Ultimate Guide to Reversing Video in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-video-watermarking-made-easy-top-5-programs/"><u>Updated Free Video Watermarking Made Easy Top 5 Programs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-video-editing-on-chromebook/"><u>Updated The Ultimate Guide to Video Editing on Chromebook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-stunning-1080p-video-edits-with-the-best-software/"><u>Updated Unlock Stunning 1080P Video Edits with the Best Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/utilizing-smartphones-for-effective-home-based-filming-for-2024/"><u>Utilizing Smartphones for Effective Home-Based Filming for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/vllo-on-mac-a-comprehensive-guide-with-alternative-solutions-for-2024/"><u>VLLO on Mac A Comprehensive Guide with Alternative Solutions for 2024</u></a></li>
+</ul></div>
 

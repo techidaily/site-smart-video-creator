@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Which DVR Is King? TiVo and Comcast Go Head-to-Head in Our Expert Review
-date: 2024-09-07T18:23:20.027Z
-updated: 2024-09-15T00:02:13.600Z
+date: 2024-09-28T17:03:34.620Z
+updated: 2024-10-01T17:08:25.821Z
 tags: 
   - video editing software
   - video editing
@@ -73,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
@@ -93,15 +87,36 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
@@ -109,25 +124,11 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Summary**
 
@@ -136,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -150,5 +158,21 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-beyond-fbx-cutting-edge-apps-for-video-game-archiving/"><u>[Updated] 2024 Approved Beyond FBX Cutting-Edge Apps for Video Game Archiving</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[Updated] 2024 Approved Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leveraging-the-full-visualization-feature-with-google-meets-grids-for-2024/"><u>[Updated] Leveraging the Full Visualization Feature with Google Meet's Grids for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-90-lite-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 90 Lite Fingerprint Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-evolves-with-exciting-new-functions-the-must-know-details/"><u>ChatGPT Evolves with Exciting New Functions - The Must-Know Details</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/trendsetting-visualizations-for-the-year-ahead/"><u>Trendsetting Visualizations for the Year Ahead</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-8-best-alternatives-to-windows-10-photos/"><u>Updated 8 Best Alternatives to Windows 10 Photos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-discover-the-best-top-10-video-players-for-slow-motion-playback/"><u>Updated In 2024, Discover the Best Top 10 Video Players for Slow Motion Playback</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-get-ready-to-pause-a-beginners-guide-to-freezing-frames-in-videos/"><u>Updated In 2024, Get Ready to Pause A Beginners Guide to Freezing Frames in Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-avi-video-rotators-2023-edition/"><u>Updated In 2024, The Ultimate Guide to Free AVI Video Rotators (2023 Edition)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mac-green-screen-editing-a-review-of-the-top-software-choices-for-2024/"><u>Updated Mac Green Screen Editing A Review of the Top Software Choices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-toshiba-copierprinter-drives-for-optimal-windows-performance-free-downloads-available/"><u>Updated Toshiba Copier/Printer Drives for Optimal Windows Performance: Free Downloads Available</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-note-12t-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi Note 12T Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

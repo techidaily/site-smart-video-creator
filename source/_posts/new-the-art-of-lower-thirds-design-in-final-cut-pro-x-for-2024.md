@@ -1,7 +1,7 @@
 ---
 title: New The Art of Lower Thirds Design in Final Cut Pro X for 2024
-date: 2024-09-13T18:08:30.430Z
-updated: 2024-09-14T17:20:41.362Z
+date: 2024-09-24T16:38:03.763Z
+updated: 2024-10-01T16:18:37.833Z
 tags: 
   - video editing software
   - video editing
@@ -47,6 +47,13 @@ On a short note, you can define the lower third module as a piece of a graphical
 
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -58,6 +65,13 @@ The color combinations of your lower third element play a vital factor. Choose t
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -127,6 +141,13 @@ For those who still need more guides about making lower thirds, this Filmora tut
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -146,16 +167,10 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -165,13 +180,6 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -186,5 +194,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud-for-2024/"><u>[New] The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-10-best-tags-analyzing-apps-fb-twt-and-ig-platforms-for-2024/"><u>[Updated] 10 Best Tags Analyzing Apps FB, Twt & IG Platforms for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-6s-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 6s Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/moments-in-gameplay-with-casters-for-2024/"><u>Epic Moments in Gameplay with Casters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-mematic-for-efficient-note-taking-for-2024/"><u>Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stabilize-your-obs-stream-fixing-crashes-on-windows-11-and-10/"><u>How to Stabilize Your OBS Stream: Fixing Crashes on Windows 11 and 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-to-mp3-converter-tool/"><u>In 2024, Facebook to MP3 Converter Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-turn-off-igtv/"><u>In 2024, How to Turn Off IGTV?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-innovative-ways-to-record-without-background-sounds/"><u>In 2024, Innovative Ways to Record Without Background Sounds</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-how-to-rotate-mov-videos-for-free-top-tools/"><u>New In 2024, How to Rotate MOV Videos for Free Top Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-laugh-out-loud-the-best-video-voiceover-apps/"><u>New Laugh Out Loud The Best Video Voiceover Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices/"><u>New Top Meme Maker Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-easy-to-use-cartoon-video-creation-tools-online-and-pc-for-2024/"><u>Top 10 Easy-to-Use Cartoon Video Creation Tools (Online & PC) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-premiere-pro-performance-optimization-tips-for-a-faster-workflow/"><u>Updated 2024 Approved Premiere Pro Performance Optimization Tips for a Faster Workflow</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-ready-for-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad/"><u>Updated Get Ready for the Big Screen Top Movie Trailer Apps for iPhone and iPad</u></a></li>
+</ul></div>
 

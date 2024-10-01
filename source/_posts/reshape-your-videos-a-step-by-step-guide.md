@@ -1,7 +1,7 @@
 ---
 title: Reshape Your Videos A Step-by-Step Guide
-date: 2024-09-18T13:04:36.679Z
-updated: 2024-09-20T05:45:25.768Z
+date: 2024-09-26T16:34:56.525Z
+updated: 2024-10-01T16:50:50.956Z
 tags: 
   - video editing software
   - video editing
@@ -54,11 +54,25 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -77,6 +91,13 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 **Step 4: Export the Video**
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
@@ -136,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -149,12 +177,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-reddit-user-bio-image-guide-size-in-pixels-type-length/"><u>[New] 2024 Approved Reddit User Bio Image Guide Size in Pixels, Type, Length</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-demystifying-facebooks-new-short-form-video-model/"><u>[Updated] Demystifying Facebook's New Short-Form Video Model</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-diving-into-viral-video-dialogues/"><u>[Updated] Diving Into Viral Video Dialogues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-artistry-of-image-editing-understanding-luts-role/"><u>[Updated] The Artistry of Image Editing Understanding LUTs' Role</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-insiders-pathway-to-effective-auditory-notes/"><u>2024 Approved The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-the-crash-top-surf-cameras-of-2023-for-2024/"><u>Capture the Crash Top Surf Cameras of 2023 for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-smart-video-tactics-for-small-enterprises/"><u>In 2024, SMART Video Tactics for Small Enterprises</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-animation-tools-for-schools/"><u>New In 2024, The Ultimate List of Animation Tools for Schools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-how-to-edit-nikon-video-files-with-ease/"><u>New In 2024, Unleash Your Creativity How to Edit Nikon Video Files with Ease</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-vhs-vibes-made-easy-a-final-cut-pro-tutorial/"><u>New In 2024, VHS Vibes Made Easy A Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-animation-creation-top-software-for-2024/"><u>New The Ultimate Guide to Animation Creation Top Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-10-meme-creation-apps-for-mobile/"><u>New The Ultimate List 10 Meme Creation Apps for Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-common-youtube-issues-effective-strategies-and-hacks/"><u>Solving Common YouTube Issues: Effective Strategies & Hacks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-quick-reference-for-mac-writers-obsplusstreamlabs/"><u>The Ultimate Quick Reference for Mac' Writers OBS+Streamlabs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-elevate-your-videos-top-rated-ipad-video-editors/"><u>Updated 2024 Approved Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-reversing-video-in-final-cut-pro-tips-tricks-and-techniques/"><u>Updated 2024 Approved Reversing Video in Final Cut Pro Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-editing-on-mavericks-a-beginners-guide-to-pro-results-for-2024/"><u>Updated Video Editing on Mavericks A Beginners Guide to Pro Results for 2024</u></a></li>
+</ul></div>
 

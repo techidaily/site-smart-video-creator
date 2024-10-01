@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro 2 Simple Ways to Fade Audio In and Out
-date: 2024-09-10T19:59:16.173Z
-updated: 2024-09-15T02:22:43.975Z
+date: 2024-09-30T16:25:40.627Z
+updated: 2024-10-01T17:06:15.311Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -80,11 +87,38 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -112,12 +146,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-prime-picks-experts-choice-of-4k-dslr-rigs-for-2024/"><u>[Updated] Prime Picks Expert's Choice of 4K DSLR Rigs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-ultimate-web-tools-for-superb-video-subtitles/"><u>[Updated] Unraveling the Ultimate Web Tools for Superb Video Subtitles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-viewpoint-validation-digest/"><u>[Updated] Viewpoint Validation Digest</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snickel-and-snicker-5-best-meme-generating-apps/"><u>2024 Approved Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-13t-frp-bypass-by-drfone-android/"><u>About Xiaomi 13T FRP Bypass</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-your-digital-footprint-the-ultimate-list-of-free-apps/"><u>Enhancing Your Digital Footprint - The Ultimate List of FREE Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a24-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A24 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-breakthrough-tactics-for-optimal-iptv-screening/"><u>In 2024, Breakthrough Tactics for Optimal IPTV Screening</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-replace-imovie-with-these-top-windows-10-video-editing-tools/"><u>New In 2024, Replace iMovie with These Top Windows 10 Video Editing Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/quickclip-editor/"><u>QuickClip Editor</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/quicktime-video-speed-control-a-beginners-tutorial-for-2024/"><u>QuickTime Video Speed Control A Beginners Tutorial for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-frontier-in-workforce-evolution-7-impacts-of-generative-artificial-intelligence/"><u>The New Frontier in Workforce Evolution: 7 Impacts of Generative Artificial Intelligence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-decision-final-cut-pro-or-lumafusion-for-your-video-needs/"><u>The Ultimate Decision Final Cut Pro or LumaFusion for Your Video Needs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/toon-up-your-photos-top-mobile-apps-for-cartoon-style-editing-for-2024/"><u>Toon Up Your Photos Top Mobile Apps for Cartoon-Style Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-free-video-editing-tools-for-trimming-videos-online/"><u>Top 10 Free Video Editing Tools for Trimming Videos Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/"><u>Top-Rated Hand Drawing Animation Tools for Whiteboard Explainers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-chatgpts-natural-language-processor-its-significance-explained/"><u>Understanding the Role of ChatGPT's Natural Language Processor: Its Significance Explained</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-avi-video-editing-software-options/"><u>Updated Best Free AVI Video Editing Software Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-and-mac-top-rated-video-tagging-software/"><u>Updated In 2024, Windows and Mac Top-Rated Video Tagging Software</u></a></li>
+</ul></div>
 
