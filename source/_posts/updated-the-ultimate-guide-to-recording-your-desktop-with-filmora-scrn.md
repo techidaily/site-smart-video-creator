@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Recording Your Desktop with Filmora Scrn
-date: 2024-09-09T17:43:35.461Z
-updated: 2024-09-15T05:23:12.755Z
+date: 2024-10-04T21:50:50.966Z
+updated: 2024-10-07T00:02:35.509Z
 tags: 
   - video editing software
   - video editing
@@ -67,6 +67,13 @@ Hit the one that suits you, in this case, hit on "Get Started".
 
 ![get-started](https://images.wondershare.com/filmora/get-started.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3 – Customizing Record Settings
 
 Right after pushing the "Get Started" tab, the "Setup" interface will load up. You will now have 4 different categories to customize the Record Settings.
@@ -75,9 +82,29 @@ Right after pushing the "Get Started" tab, the "Setup" interface will load up. Y
 
 ![screen](https://images.wondershare.com/filmora/screen.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Audio** – Under this section, specify the preferred audio source for your video, either from Computer or Microphone or both. By default, it is set on both.
 
 ![audio](https://images.wondershare.com/filmora/scrn3.JPG)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Camera** – If you have a webcam installed, you can record video via your webcam along with capturing your screen. Get into this section and select your camera, preferred resolution and frame rate.
 
@@ -121,20 +148,13 @@ This was all about how to record desktop using an exceptionally easy desktop rec
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -149,5 +169,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unleash-your-photo-and-video-potential-with-your-cellphones-webcam-features-for-2024/"><u>[New] Unleash Your Photo & Video Potential with Your Cellphone's Webcam Features for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-11-excellent-choices-for-high-quality-audio-logging/"><u>[Updated] 11 Excellent Choices for High-Quality Audio Logging</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-detection-driver-fixed-in-windows-10/"><u>AMD: Detection Driver Fixed in Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fcp-top-5-editing-tricks-to-stay-ahead-of-the-curve-for-2024/"><u>FCP Top 5 Editing Tricks to Stay Ahead of the Curve for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-and-effective-the-top-15-apps-to-effortlessly-remove-programs-from-your-system/"><u>Free and Effective: The Top 15 Apps to Effortlessly Remove Programs From Your System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-g2-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo G2 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-8-premier-mp3-downloaders-for-android-devices/"><u>In 2024, 8 Premier MP3 Downloaders for Android Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-break-free-from-windows-10-photos-discover-the-best-image-editing-software/"><u>In 2024, Break Free From Windows 10 Photos Discover the Best Image Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-fcp-top-3-transition-techniques-for-smooth-edits/"><u>In 2024, Mastering FCP Top 3 Transition Techniques for Smooth Edits</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-meme-generation-made-easy-top-10-apps-for-android-and-ios/"><u>In 2024, Meme Generation Made Easy Top 10 Apps for Android & iOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-online-dailymotion-converter-convert-videos-in-seconds/"><u>In 2024, Online Dailymotion Converter Convert Videos in Seconds</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-10-free-best-quicktime-mov-movie-editors/"><u>In 2024, Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974986626-milestones-in-research-development-and-market-expansion/"><u>Milestones in Research, Development, and Market Expansion.</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unlock-free-sound-effects-for-your-fcp-projects-top-resources-and-tutorials/"><u>New 2024 Approved Unlock Free Sound Effects for Your FCP Projects Top Resources & Tutorials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-non-detection-of-seagate-hard-disk-on-win11/"><u>Troubleshoot Non-Detection of Seagate Hard Disk on Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restart-diagnostics-policy-service/"><u>Troubleshooting Guide: Restart Diagnostics Policy Service</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Square to Wide How to Adjust Video Shape
-date: 2024-09-10T05:53:01.520Z
-updated: 2024-09-15T03:07:43.473Z
+date: 2024-09-30T20:38:20.835Z
+updated: 2024-10-06T21:08:31.769Z
 tags: 
   - video editing software
   - video editing
@@ -54,11 +54,25 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -77,6 +91,13 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 **Step 4: Export the Video**
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
@@ -136,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -149,12 +177,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-aesthetic-windowscape-top-picks-for-stunning-laptop-screen-designs/"><u>[New] Aesthetic Windowscape Top Picks for Stunning Laptop Screen Designs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-precision-in-motion-apowersofts-pc-screen-recorder-review/"><u>[New] In 2024, Precision in Motion Apowersoft's PC Screen Recorder Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-mac-capture-software-excluding-traditional-bandicam/"><u>2024 Approved Best Mac Capture Software Excluding Traditional Bandicam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/be-selective-stop-instagram-suggested-updates/"><u>Be Selective Stop Instagram Suggested Updates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-memes-perfecting-social-media-videos-on-fb-and-insta-for-2024/"><u>Crafting Memes Perfecting Social Media Videos on FB & Insta for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-your-ultimate-companion-a-stepwise-approach-to-filming-with-logitech/"><u>In 2024, Your Ultimate Companion A Stepwise Approach to Filming with Logitech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-fix-windows-compatible-wireless-keyboards-that-wont-respond-anymore/"><u>Mastering the Fix: Windows-Compatible Wireless Keyboards That Won't Respond Anymore!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-video-rotation-apps-rotate-flip-and-spin-your-videos-online/"><u>New The Best Video Rotation Apps Rotate, Flip, and Spin Your Videos Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/turn-your-videos-into-treasures-the-best-dvd-creation-software-for-preserving-memories/"><u>Turn Your Videos Into Treasures The Best DVD Creation Software for Preserving Memories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ling-the-youtube-creator-hub-a-guide/"><u>Unveiling the YouTube Creator Hub A Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-video-blur-made-easy-free-online-method/"><u>Updated 2024 Approved Video Blur Made Easy Free Online Method</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-color-enhancement-in-final-cut-pro-a-step-by-step-guide/"><u>Updated Color Enhancement in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-filmora-13-video-editor-free-download/"><u>Updated Get Filmora 13 Video Editor Free Download</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-your-game-on-top-10-websites-to-download-games/"><u>Updated Get Your Game On Top 10 Websites to Download Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-sony-vegas-not-your-cup-of-tea-try-these-windows-alternatives/"><u>Updated Sony Vegas Not Your Cup of Tea? Try These Windows Alternatives</u></a></li>
+</ul></div>
 
