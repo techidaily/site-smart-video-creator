@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows
-date: 2024-08-27T03:58:12.444Z
-updated: 2024-08-28T03:58:12.444Z
+date: 2024-10-10T16:04:04.821Z
+updated: 2024-10-12T16:53:07.831Z
 tags: 
   - video editing software
   - video editing
@@ -58,6 +58,13 @@ It's free to download now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 1. Cut MP4 Video
@@ -67,6 +74,13 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -93,6 +107,13 @@ No problem.
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -124,13 +145,18 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,6 +164,20 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-addressing-issue-non-appearing-facebook-video-previews/"><u>[New] 2024 Approved Addressing Issue Non-Appearing Facebook Video Previews</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-much-wealth-awaits-one-million-youtube-followers/"><u>[Updated] 2024 Approved How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-blueprint-of-individuality-in-the-crowded-tiktok-space/"><u>[Updated] In 2024, The Blueprint of Individuality in the Crowded TikTok Space</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-efficient-funimate-use/"><u>2024 Approved Expert Strategies for Efficient Funimate Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-seamless-integration-instagram-meets-tiktok/"><u>2024 Approved Seamless Integration Instagram Meets TikTok</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-of-the-best-professional-animation-software-for-mac-and-windows/"><u>Best of the Best Professional Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-error-code-0xc0000001-on-windows/"><u>Decoding and Fixing Error Code 0XC0000001 on Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-3d-animation-makers-for-stunning-videos/"><u>Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-wmv-video-cutting-tools-top-picks-for-2024/"><u>Free WMV Video Cutting Tools Top Picks for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac/"><u>In 2024, Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inverting-photo-colors-with-advanced-tools/"><u>Inverting Photo Colors with Advanced Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+</ul></div>
+

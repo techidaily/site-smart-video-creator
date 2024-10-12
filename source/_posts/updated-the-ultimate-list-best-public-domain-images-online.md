@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate List Best Public Domain Images Online
-date: 2024-08-27T04:00:19.644Z
-updated: 2024-08-28T04:00:19.644Z
+date: 2024-10-10T17:30:30.471Z
+updated: 2024-10-12T16:46:09.170Z
 tags: 
   - video editing software
   - video editing
@@ -48,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
 
 **Pros:**
@@ -84,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
 
 **Pros:**
@@ -120,8 +114,12 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ![Unsplash public domain image  ](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
 
 **Pros:**
@@ -151,8 +149,12 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
 
 **Pros:**
@@ -212,8 +214,12 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -234,15 +240,17 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -250,3 +258,22 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-simplified-process-for-posting-imovie-videos-on-vimeo/"><u>[New] 2024 Approved Simplified Process for Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-8-best-mirrorless-cameras-for-vlogging/"><u>[New] In 2024, 8 Best Mirrorless Cameras for Vlogging</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success/"><u>[New] In 2024, Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-mechanics-behind-youtube-once-a-video-goes-live/"><u>[New] The Mechanics Behind YouTube Once a Video Goes Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-more-video-views-on-youtube/"><u>[Updated] In 2024, How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-start-with-snapseed-a-foundation-for-image-editing-for-2024/"><u>[Updated] Start with Snapseed A Foundation for Image Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/effortless-methods-for-transforming-your-mp3-files-into-high-quality-flac-audio-online-and-via-pc/"><u>Effortless Methods for Transforming Your MP3 Files Into High-Quality FLAC Audio Online and via PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/enhance-watchability-how-to-tune-video-pixels-for-flawless-performance-on-every-screen/"><u>Enhance Watchability: How to Tune Video Pixels for Flawless Performance on Every Screen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fast-and-simple-methods-for-downloading-your-favorite-youtube-clips-onto-a-flash-drive/"><u>Fast and Simple Methods for Downloading Your Favorite YouTube Clips Onto a Flash Drive</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-your-hands-on-discounted-wonderfox-dvd-converter-software-via-bitsdujour-promotion/"><u>Get Your Hands-On Discounted WonderFox DVD Converter Software via BitsDuJour Promotion!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP In 3 Different Ways</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-easily-retrieve-and-watch-snippetvideos-saved-in-your-pocket-archive/"><u>How to Easily Retrieve and Watch SnippetVideos Saved in Your Pocket Archive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/noiseless-speech-transcription-services-for-2024/"><u>Noiseless Speech Transcription Services for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-reading-with-ai-unveiling-5-innovative-applications-for-tailored-book-recommendations/"><u>Personalized Reading with AI: Unveiling 5 Innovative Applications for Tailored Book Recommendations</u></a></li>
+</ul></div>
+

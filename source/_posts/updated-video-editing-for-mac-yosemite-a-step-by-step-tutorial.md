@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing for Mac Yosemite A Step-by-Step Tutorial
-date: 2024-08-27T03:59:49.670Z
-updated: 2024-08-28T03:59:49.670Z
+date: 2024-10-09T16:34:39.612Z
+updated: 2024-10-12T17:09:44.311Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,13 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
@@ -59,8 +66,12 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
@@ -68,26 +79,34 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -95,3 +114,25 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>[Updated] Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>[Updated] Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-premier-free-tools-harnessing-ai-power-for-innovative-image-creation/"><u>5 Premier Free Tools Harnessing AI Power for Innovative Image Creation</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-chroma-key-software-for-mac-reviews-and-comparisons/"><u>Best Chroma Key Software for Mac Reviews and Comparisons</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/capturing-and-sharing-ps4-screenshots-the-ultimate-guide-for-2024/"><u>Capturing and Sharing PS4 Screenshots The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easy-video-editing-for-mac-users-a-guide-to-mkvtoolnix/"><u>Easy Video Editing for Mac Users A Guide to MKVtoolnix</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/elevate-your-brand-with-free-animated-logos-top-creators-and-tips-for-2024/"><u>Elevate Your Brand with Free Animated Logos Top Creators and Tips for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>Enhance Your Virtual Stage The Ultimate List of Top 6 Microphones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-smart-8-plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Smart 8 Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-to-reel-success-on-instagram/"><u>In 2024, Step-by-Step to Reel Success on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-path-to-perfect-presence-on-zoom-platforms/"><u>In 2024, The Path to Perfect Presence on Zoom Platforms</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-gopro-quik-and-its-pc-counterparts/"><u>In 2024, The Ultimate Guide to GoPro Quik and Its PC Counterparts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-low-budget-film-editing-software/"><u>In 2024, The Ultimate Guide to Low-Budget Film Editing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-actions-cameras-reviewed-hero5-vs-yi-in-the-spotlight/"><u>In 2024, Top Actions Cameras Reviewed Hero5 Vs. YI in the Spotlight</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mac-video-editor-reviews-the-best-of/"><u>Mac Video Editor Reviews The Best Of</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/merge-videos-without-ads-7-leading-software-choices/"><u>Merge Videos Without Ads 7 Leading Software Choices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/network-initialization-issue-resolved-in-dragon-ball-fighterz/"><u>Network Initialization Issue Resolved in Dragon Ball FighterZ</u></a></li>
+</ul></div>
+
