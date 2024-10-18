@@ -1,7 +1,7 @@
 ---
 title: Video Editing Hack How to Reverse Clips in Final Cut Pro
-date: 2024-08-27T03:56:29.487Z
-updated: 2024-08-28T03:56:29.487Z
+date: 2024-10-15T16:43:53.432Z
+updated: 2024-10-18T16:13:34.111Z
 tags: 
   - video editing software
   - video editing
@@ -96,57 +96,77 @@ Drag the retiming handler to adjust the speed as per need.
 
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Step 4:**
 
 Play the clip to view editing effects.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## An Easier Way to Reverse A Video in Filmora
 
 [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a free video editing program for reversing videos that is simple to use. It lets users publish their movies to the internet, as well as produce new ones and modify old ones. The procedures for reversing films in Filmora are simple and straightforward, so you may follow them without difficulty.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3**: Click “Export” to save your file.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -154,3 +174,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content-for-2024/"><u>[New] Become a Freelance Transcriber Tips and Tricks for YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-captivation-chronicles-top-storytellers-on-youtube-for-23/"><u>2024 Approved Captivation Chronicles Top Storytellers on YouTube for '23</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-valorant-thumbnail-geniuses-quick-skilled-and-professionally-done/"><u>2024 Approved Valorant Thumbnail Geniuses Quick, Skilled, and Professionally Done</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-content-creation-with-these-8-essential-ai-tools/"><u>Boost Your Content Creation with These 8 Essential AI Tools</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/elevating-cognitive-robotics-with-the-collaborative-innovations-of-abbyy-and-uipath/"><u>Elevating Cognitive Robotics with the Collaborative Innovations of ABBYY and UiPath</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-your-ideal-facial-editor-ios-vs-android-for-2024/"><u>Finding Your Ideal Facial Editor IOS vs Android for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/hochwertige-videokonvertierung-von-mkv-nach-avi-mithilfe-von-winx-hd-video-converter-deluxe/"><u>Hochwertige Videokonvertierung: Von MKV Nach AVI Mithilfe Von WinX HD Video-Converter Deluxe</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-craft-compelling-fb-video-covers-from-scratch/"><u>How to Craft Compelling FB Video Covers From Scratch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-xcover-7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy XCover 7 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-public-domain-video-download-websites/"><u>New In 2024, The Ultimate List of Public Domain Video Download Websites</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-ranking-the-best-top-10-video-editing-software-options/"><u>New Ranking the Best Top 10 Video Editing Software Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-professional-color-in-fcp-tips-and-tricks/"><u>New Unlock Professional Color in FCP Tips and Tricks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-review-is-it-still-the-best-video-editor-for-2024/"><u>New Virtualdub Review Is It Still the Best Video Editor for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-non-responsive-huion-pen-with-this-5-step-quick-guide/"><u>Revive Your Non-Responsive Huion Pen with This 5-Step Quick Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-no-watermark-video-merger-tools-our-top-7-picks/"><u>Updated 2024 Approved No-Watermark Video Merger Tools Our Top 7 Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-elevate-your-job-search-the-best-video-resume-makers-free-templates-for-2024/"><u>Updated Elevate Your Job Search The Best Video Resume Makers (Free Templates) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-here-you-will-get-to-know-about-some-of-the-best-video-making-apps-that-you-can-use-to-create-reactions-not-only-for-tiktok-but-for-many-other-such-/"><u>Updated Here You Will Get to Know About some of the Best Video-Making Apps that You Can Use to Create Reactions Not only for TikTok but for Many Other Such Platforms that Are Available These Days</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-content-top-5-reaction-video-makers/"><u>Updated In 2024, Elevate Your Content Top 5 Reaction Video Makers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-picture-in-picture-perfection-tips-and-tricks-for-final-cut-pro/"><u>Updated In 2024, Picture-in-Picture Perfection Tips and Tricks for Final Cut Pro</u></a></li>
+</ul></div>
+

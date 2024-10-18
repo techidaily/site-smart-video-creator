@@ -1,7 +1,7 @@
 ---
 title: New TiVo vs Comcast X1 Which DVR Offers the Most Bang for Your Buck ?
-date: 2024-08-27T03:56:56.675Z
-updated: 2024-08-28T03:56:56.675Z
+date: 2024-10-16T16:54:53.243Z
+updated: 2024-10-18T16:22:52.494Z
 tags: 
   - video editing software
   - video editing
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -69,15 +76,16 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -92,41 +100,50 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Summary**
 
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -134,11 +151,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-streamlining-access-to-fb-live-via-roku/"><u>[Updated] 2024 Approved Streamlining Access to FB Live via Roku</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-enhancements-for-terria-pros-for-2024/"><u>[Updated] Essential Enhancements for Terria Pros for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8k-tv-showdown-highest-resolution-screens-compared-for-2024/"><u>8K TV Showdown Highest Resolution Screens Compared for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969801794-boost-your-gaming-experience-download-free-asrock-ab350-pro4-drivers-for-window-pcs-now/"><u>Boost Your Gaming Experience – Download Free ASRock AB350 Pro4 Drivers for Window PCs Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-dvd-ripping-process-from-mpeg-to-matroska-mkv-format-for-windows-users/"><u>Effortless DVD Ripping Process From MPEG to Matroska (MKV) Format for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2019 Online with DigiSigner</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-revamping-screens-recording-the-future-on-spring/"><u>In 2024, Revamping Screens Recording The Future on Spring</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantly-strip-outdated-graphic-cards-windows-style/"><u>Instantly Strip Outdated Graphic Cards, Windows Style</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale/"><u>New Rise and Shine Wake Up to Savings with Our Filmora Easter Sale</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-speak-from-the-heart-how-to-make-a-sincere-and-emotional-valentines-day-video-for-2024/"><u>New Speak From the Heart How to Make a Sincere and Emotional Valentines Day Video for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-best-free-green-screen-apps-for-mobile/"><u>New Unleash Your Creativity Best Free Green Screen Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/there-we-introduce-you-3-simple-options-for-recording-video-games-with-ease/"><u>There We Introduce You 3 Simple Options for Recording Video Games with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-a59-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo A59 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-content-with-the-best-3d-video-generators-for-2024/"><u>Transform Your Content with the Best 3D Video Generators for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-filmora-no-strings-attached/"><u>Updated In 2024, The Ultimate Guide to Free Filmora No Strings Attached</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-cheap-film-editing-software-for-2024/"><u>Updated The Ultimate Guide to Cheap Film Editing Software for 2024</u></a></li>
+</ul></div>
+

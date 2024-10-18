@@ -1,7 +1,7 @@
 ---
 title: Unleash the 80S Adding VHS Flair to Your FCP Projects for 2024
-date: 2024-08-27T03:51:15.707Z
-updated: 2024-08-28T03:51:15.707Z
+date: 2024-10-12T16:01:07.352Z
+updated: 2024-10-18T16:11:10.141Z
 tags: 
   - video editing software
   - video editing
@@ -125,6 +125,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now search for the **Strong Glitch effect**.
 
 * Drag and drop it above the previous layer.
@@ -132,6 +139,19 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -160,8 +180,18 @@ You can play around with these values to change the intensity of the VHS effect.
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -185,9 +215,12 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -202,16 +235,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -219,3 +247,21 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>[New] In 2024, Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-class-video-production-smooth-editing-skills/"><u>[New] In-Class Video Production Smooth Editing Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discovering-the-best-music-playback-on-youtube-2023-for-2024/"><u>[Updated] Discovering the Best Music Playback on YouTube, 2023 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-screen-capture-strategies-for-effective-facetime-recording-for-2024/"><u>[Updated] Efficient Screen-Capture Strategies for Effective FaceTime Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-tips-for-locating-youtubes-content-creation-hub-for-2024/"><u>[Updated] Essential Tips for Locating YouTube's Content Creation Hub for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/amplify-your-tiktok-content-with-current-trends-for-2024/"><u>Amplify Your TikTok Content with Current Trends for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/avigif3/"><u>AVI形式を簡単にGIFへと変換!有名ソフトウェア3選をご紹介</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-secure-pc-screen-capture-apps-our-top-10-picks-for-safe-screencasting/"><u>Best Secure PC Screen Capture Apps - Our Top 10 Picks for Safe Screencasting</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-snagit-replacements-top-6-editing-tools-compared/"><u>Discover the Best Snagit Replacements: Top 6 Editing Tools Compared!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/english-worlds-apart/"><u>English Worlds Apart</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-your-epson-wf-2630-printer-works-on-windows-download-the-right-driver-today/"><u>Ensure Your Epson WF-2630 Printer Works on Windows - Download the Right Driver Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-groundbreaking-gradients-adobes-best-lut-choices-to-boost-your-lightroom-work/"><u>In 2024, Groundbreaking Gradients Adobe's Best LUT Choices to Boost Your LightRoom Work</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/44kq44o844oh44kj44k344on44k544gn44gu5roi5b2i5yih5pat44go44oi44oq44of44oz44kw44gu44og44kv44ol44od44kv/"><u>オーディショスでの波形切断とトリミングのテクニック</u></a></li>
+</ul></div>
+

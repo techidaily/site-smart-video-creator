@@ -1,7 +1,7 @@
 ---
 title: Smoother Skin in Minutes A Step-by-Step FCPX Tutorial
-date: 2024-08-27T03:55:00.932Z
-updated: 2024-08-28T03:55:00.932Z
+date: 2024-10-14T16:10:36.048Z
+updated: 2024-10-18T16:45:50.759Z
 tags: 
   - video editing software
   - video editing
@@ -104,6 +104,13 @@ A comprehensive FCP tool with 89 individual plugins to apply the next-generation
 * A variety of cool presents and text generators; and
 * Number counters, chromatic aberration, VHS looks, camera shake, glitch effects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to adopt Skin Smoothing Plugins into FCPX?
 
 Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
@@ -111,39 +118,22 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 4: How to Smooth Skin in Filmora?
 
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
@@ -151,9 +141,12 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: How to smooth skin in Adobe Pro?
 
 Given below are simple steps to create a face matter, control the skin smoothing, adjust color correction, and correct the skin glow in Adobe Pro by using the Beauty Studio Effect:
@@ -174,13 +167,18 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -188,3 +186,24 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-import-melodies-into-premiere-pro-projects/"><u>[Updated] Import Melodies Into Premiere Pro Projects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exclusive-movies-behind-the-best-chart/"><u>2024 Approved Exclusive Movies Behind the Best Chart</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/deciphering-and-crafting-accurate-slug-line-annotations/"><u>Deciphering and Crafting Accurate Slug Line Annotations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-started-with-your-epson-wf-2750-free-driver-downloads-and-tutorials/"><u>Get Started with Your Epson WF-2750 - Free Driver Downloads and Tutorials</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-note-50-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Note 50 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mac-video-cutting-made-simple-quick-tips-for-efficient-editing-for-2024/"><u>New Mac Video Cutting Made Simple Quick Tips for Efficient Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-top-free-m4a-editing-programs-for-windows-mac-and-linux/"><u>New The Top Free M4A Editing Programs for Windows, Mac, and Linux</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/optimize-your-pc-for-premiere-pro-a-step-by-step-guide/"><u>Optimize Your PC for Premiere Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/recordingquality-analysis/"><u>RecordingQuality Analysis</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-funniest-meme-creator-apps-for-android-and-ios-updated-2023-for-2024/"><u>The Funniest Meme Creator Apps for Android and iOS (Updated 2023) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>Updated 2024 Approved From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-iphone-and-ipad-apps-for-movie-trailers/"><u>Updated Best iPhone and iPad Apps for Movie Trailers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-your-fcpx-flow-back-a-comprehensive-reset-and-troubleshooting-guide/"><u>Updated Get Your FCPX Flow Back A Comprehensive Reset and Troubleshooting Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-unlocking-global-audiences-top-video-language-converters/"><u>Updated Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoomed-in-filming-with-precision-and-clarity/"><u>Zoomed In Filming with Precision and Clarity</u></a></li>
+</ul></div>
+

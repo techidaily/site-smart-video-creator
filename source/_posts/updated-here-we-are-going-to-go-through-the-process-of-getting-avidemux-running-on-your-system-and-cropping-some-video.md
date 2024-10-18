@@ -1,7 +1,7 @@
 ---
 title: Updated Here We Are Going to Go Through the Process of Getting Avidemux Running on Your System and Cropping some Video
-date: 2024-08-27T03:48:55.782Z
-updated: 2024-08-28T03:48:55.782Z
+date: 2024-10-17T16:49:47.100Z
+updated: 2024-10-18T16:20:30.632Z
 tags: 
   - video editing software
   - video editing
@@ -114,13 +114,34 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3**: To alter the size of the crop frame, drag the pointer from any corner of your video preview window.
 
@@ -130,6 +151,13 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -138,14 +166,26 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-5-image-background-altering-mobile-apps-iphone/"><u>[New] Prime 5 Image Background Altering Mobile Apps (iPhone)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-symphonic-sounds-windows-edition/"><u>[Updated] Symphonic Sounds Windows Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>In 2024, Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-dont-lose-your-work-how-to-properly-save-a-final-cut-pro-project/"><u>In 2024, Dont Lose Your Work! How to Properly Save a Final Cut Pro Project</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-find-out-the-top-ten-3d-video-maker-and-editor-apps-that-will-help-you-create-stunning-3d-videos-now-create-professional-level-3d-videos-with-ease-w/"><u>In 2024, Find Out the Top Ten 3D Video Maker and Editor Apps that Will Help You Create Stunning 3D Videos. Now Create Professional-Level 3D Videos with Ease with the Best Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-imagesplitter-pro/"><u>In 2024, ImageSplitter Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-starting-point-auditions-approach-to-soft-volume-increase/"><u>In 2024, Starting Point Audition's Approach to Soft Volume Increase</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-tech-marvels-top-picks-for-everyone/"><u>In 2024, Ultimate Tech Marvels Top Picks for Everyone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 5GFRP Lock</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcp-vs-fce-a-side-by-side-comparison-of-video-editing-powerhouses/"><u>New 2024 Approved FCP vs FCE A Side-by-Side Comparison of Video Editing Powerhouses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-wax-way-a-comprehensive-guide-to-free-video-editing/"><u>New 2024 Approved The Wax Way A Comprehensive Guide to Free Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-chatgpt-technique-for-improving-emotional-intelligence-skills/"><u>The ChatGPT Technique for Improving Emotional Intelligence Skills</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Lower Thirds Like a Pro Tips and Tricks for FCPX Users
-date: 2024-08-27T03:53:17.795Z
-updated: 2024-08-28T03:53:17.795Z
+date: 2024-10-16T16:50:18.319Z
+updated: 2024-10-18T16:46:07.894Z
 tags: 
   - video editing software
   - video editing
@@ -85,9 +85,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -104,6 +101,13 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -113,8 +117,12 @@ You can download the app and install them in your system. Launch the tool by dou
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
@@ -134,11 +142,18 @@ For those who still need more guides about making lower thirds, this Filmora tut
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -158,8 +173,12 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -168,16 +187,11 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +199,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-favorites-top-10-viral-music-videos-guide/"><u>[New] Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-hash-trackers-fb-twt-and-ig-networks/"><u>[Updated] In 2024, The Ultimate Guide to Hash Trackers FB, Twt & IG Networks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/"><u>2024 Approved The Essential Filmmaker's Toolkit A Guide to Audio Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-12-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 12 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-s17t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo S17t Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nubia-red-magic-9-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nubia Red Magic 9 Pro+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-epson-v700-driver-for-your-windows-system-windows-71081-guide/"><u>Install the Latest Epson V700 Driver for Your Windows System: Windows 7/10/8.1 Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>New In 2024, Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-rise-and-shine-wondershare-filmora-easter-sale-brings-you-unbeatable-offers/"><u>New In 2024, Rise and Shine Wondershare Filmora Easter Sale Brings You Unbeatable Offers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-stop-motion-animation-made-easy-top-picks-for-mac-and-pc-users/"><u>New Stop Motion Animation Made Easy Top Picks for Mac and PC Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/take-your-gaming-to-the-next-level-sharing-ps4-screenshots-online/"><u>Take Your Gaming to the Next Level Sharing PS4 Screenshots Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-videos-the-9-best-free-online-video-enhancement-software-for-2024/"><u>Transform Your Videos The 9 Best Free Online Video Enhancement Software for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-atomic-heart-crashes-on-system-boot-up-a-detailed-guide/"><u>Troubleshooting Atomic Heart Crashes on System Boot-Up - A Detailed Guide</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-yuva-3-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Yuva 3 Pro fingerprint</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-desktop-recording-101-mastering-filmora-scrn-in-minutes-for-2024/"><u>Updated Desktop Recording 101 Mastering Filmora Scrn in Minutes for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-noticed-10-top-music-video-production-studios-for-2024/"><u>Updated Get Noticed 10 Top Music Video Production Studios for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-video-editing-dilemma-final-cut-pro-or-lumafusion-weve-got-the-answer/"><u>Updated In 2024, Video Editing Dilemma? Final Cut Pro or LumaFusion - Weve Got the Answer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unbiased-review-is-avs-video-editor-the-right-choice-for-you-for-2024/"><u>Updated Unbiased Review Is AVS Video Editor the Right Choice for You for 2024</u></a></li>
+</ul></div>
+
