@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Basic to Brilliant Mastering Video Editing Effects for Beginners
-date: 2024-08-22T11:01:04.018Z
-updated: 2024-08-23T11:01:04.018Z
+date: 2024-10-18T21:57:29.070Z
+updated: 2024-10-24T03:59:06.325Z
 tags: 
   - video editing software
   - video editing
@@ -54,6 +54,13 @@ Install and launch Wondershare Filmora. Click New Project and then click the “
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2 Add cool effects to your video
 
 Now it's time to add cool effects to your video. Just drop the video and audio files from the media library to the corresponding timelines. Then click the “Effect” button in the toolbar to switch to the “Effect” tab. Here you will see filters and overlays effects for you to choose.
@@ -66,13 +73,34 @@ Detailed information about how to add a split-screen effect video, check our [gu
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For steps of compositing a green screen video, check this video tutorial below:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
 ![ Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3 Export your videos
 
@@ -96,14 +124,30 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>[New] In 2024, How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unleash-potential-essential-windows-10-skills-review/"><u>[New] Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-craft-eye-catching-youtubes-end-titles/"><u>[Updated] How to Craft Eye-Catching YouTubes End Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ios-video-experience-the-10-most-excellent-players/"><u>[Updated] IOS Video Experience The 10 Most Excellent Players</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-camera-buff-writers-choice-the-ultimate-list-of-5-low-frame-rate-cams/"><u>2024 Approved Camera Buff' Writers Choice The Ultimate List of 5 Low Frame Rate Cams</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-avi-video-rotation-apps-for-windows-mac-android-and-iphone-devices/"><u>Best Free AVI Video Rotation Apps for Windows, MAC, Android, and iPhone Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-logitech-c920-pro-hd-webcam-analysis-unveiling-ultra-high-definition-quality/"><u>Comprehensive Logitech C920 Pro HD Webcam Analysis - Unveiling Ultra High-Definition Quality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-wmv-video-cutting-tools-top-picks/"><u>Free WMV Video Cutting Tools Top Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-effortless-video-editing-on-mac-with-mkvtoolnix/"><u>In 2024, Effortless Video Editing on Mac with MKVtoolnix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-audio-clips-to-written-content-harnessing-ms-words-transcription-features/"><u>In 2024, From Audio Clips to Written Content Harnessing MS Word's Transcription Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-download-to-implementation-installing-obs-on-a-macpc/"><u>In 2024, From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-organize-your-videos-best-mp4-tag-editing-tools-for-windows-and-mac/"><u>In 2024, Organize Your Videos Best MP4 Tag Editing Tools for Windows and Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-freezing-frames-in-videos-updated/"><u>In 2024, The Ultimate Guide to Freezing Frames in Videos (Updated)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-depth-guide-to-video-money-making-across-platforms/"><u>In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New 2024 Approved Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-slideshow-magic-with-final-cut-pro-tips-tricks-and-techniques/"><u>New 2024 Approved Slideshow Magic with Final Cut Pro Tips, Tricks, and Techniques</u></a></li>
+</ul></div>
+

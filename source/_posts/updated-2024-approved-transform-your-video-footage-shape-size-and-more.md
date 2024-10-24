@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Video Footage Shape, Size, and More
-date: 2024-09-26T17:16:14.585Z
-updated: 2024-10-01T17:24:22.491Z
+date: 2024-10-22T18:24:37.285Z
+updated: 2024-10-23T23:42:26.575Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +68,10 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -92,13 +92,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -106,6 +99,13 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -158,10 +158,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,22 +179,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-delight-in-facebooks-forgotten-meme-kingdoms/"><u>[New] 2024 Approved Delight in Facebook's Forgotten Meme Kingdoms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-farewell-your-instagram-presence-permanently/"><u>[New] 2024 Approved How to Farewell Your Instagram Presence Permanently</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-charting-the-undisclosed-territories-of-youtube-videos/"><u>2024 Approved Charting the Undisclosed Territories of YouTube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/"><u>2024 Approved Snickel & Wail Instagram's 10 Most Hilarious Meme Accounts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-x-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone X and iPad</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photoshops-handy-hacks-for-horizontal-and-vertical-warping/"><u>In 2024, Photoshop's Handy Hacks for Horizontal and Vertical Warping</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-engaging-videos-on-the-go-best-animated-text-apps-for-phones/"><u>New In 2024, Create Engaging Videos on the Go Best Animated Text Apps for Phones</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-lego-animation-creators/"><u>New Top Lego Animation Creators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-information-retrieval-could-ai-tools-overtake-conventional-search-engines-with-systems-like-ch/"><u>The Future of Information Retrieval: Could AI Tools Overtake Conventional Search Engines with Systems Like Ch</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-color-grading-tutorial-final-cut-pro-edition-for-2024/"><u>The Ultimate Color Grading Tutorial Final Cut Pro Edition for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/tivo-or-comcast-which-dvr-service-comes-out-on-top-in-2024/"><u>TiVo or Comcast Which DVR Service Comes Out on Top, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-functioning-voice-chat-in-overwatch-with-simple-steps/"><u>Troubleshoot Non-Functioning Voice Chat in Overwatch with Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-epson-xp-410-drivers-for-windows-users-free-download-steps-inside/"><u>Ultimate Guide to Installing Epson XP-410 Drivers for Windows Users - Free Download Steps Inside</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-avs-video-editor-for-mac-video-editing-tool-for-mac/"><u>Updated AVS Video Editor for Mac Video Editing Tool for Mac</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-sync-up-5-essential-apps-for-making-lip-sync-videos/"><u>Updated In 2024, Sync Up! 5 Essential Apps for Making Lip Sync Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-iphone-video-editing-apps-for-rotation-2023-review-for-2024/"><u>Updated The Best Free iPhone Video Editing Apps for Rotation 2023 Review for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-10-public-domain-image-sites-for-2024/"><u>Updated Unleash Your Creativity 10 Public Domain Image Sites for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-secrets-to-uncovering-missed-confidential-images/"><u>[New] Secrets to Uncovering Missed Confidential Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dodging-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>[Updated] 2024 Approved Dodging Doubts A Guide to Vlogging's Most Common Anxieties</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme/"><u>[Updated] Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-augmentation-changes-our-reality-view/"><u>[Updated] How Augmentation Changes Our Reality View</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-rise-to-greatness-with-these-10-elevating-films/"><u>[Updated] In 2024, Rise to Greatness with These 10 Elevating Films</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-instagrams-reel-arena-with-precision/"><u>In 2024, Navigating Instagram's Reel Arena with Precision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-visual-tech-top-7-screen-options-for-image-experts/"><u>Innovative Visual Tech - Top 7 Screen Options for Image Experts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-make-videos-in-minutes-wevideo-online-editor/"><u>New Make Videos in Minutes WeVideo Online Editor</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/smoother-skin-in-minutes-a-step-by-step-fcpx-tutorial/"><u>Smoother Skin in Minutes A Step-by-Step FCPX Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectrum-signatures-filmmakers-guide-to-adjustment-for-2024/"><u>Spectrum Signatures Filmmaker's Guide to Adjustment for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tutti-i-segreti-per-eseguire-il-backup-delle-tue-e-mail-imap-in-formato-pst-con-questa-guida-dettagliata/"><u>Tutti I Segreti per Eseguire Il Backup Delle Tue E-Mail IMAP in Formato PST Con Questa Guida Dettagliata</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-flawless-faces-in-fcpx-a-plugin-free-approach-to-skin-smoothing/"><u>Updated 2024 Approved Flawless Faces in FCPX A Plugin-Free Approach to Skin Smoothing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-windows-10-webcam-recording-top-10-software-options/"><u>Updated 2024 Approved Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/vertical-video-editing-in-the-cloud-best-web-based-options/"><u>Vertical Video Editing in the Cloud Best Web-Based Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/webm-video-editing-made-easy-top-10-free-tools-for-2024/"><u>WebM Video Editing Made Easy Top 10 Free Tools for 2024</u></a></li>
 </ul></div>
 

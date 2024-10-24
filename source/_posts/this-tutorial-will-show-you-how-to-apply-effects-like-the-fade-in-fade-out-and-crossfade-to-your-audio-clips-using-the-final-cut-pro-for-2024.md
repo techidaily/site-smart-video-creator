@@ -1,7 +1,7 @@
 ---
 title: This Tutorial Will Show You How to Apply Effects Like the Fade-In, Fade-Out and Crossfade to Your Audio Clips Using the Final Cut Pro for 2024
-date: 2024-09-29T16:16:42.129Z
-updated: 2024-10-01T16:14:43.590Z
+date: 2024-10-17T09:48:18.884Z
+updated: 2024-10-23T20:39:49.283Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,17 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-screen-capture-showdown-obs-vs-shadow/"><u>[New] 2024 Approved Screen Capture Showdown OBS vs Shadow</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-chronicle-your-conquests-with-galaxy-screen-captures-for-2024/"><u>[Updated] Chronicle Your Conquests with Galaxy Screen Captures for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>[Updated] In 2024, Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-pinpointing-the-leading-10-secret-story-supporters/"><u>In 2024, Pinpointing the Leading 10 Secret Story Supporters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-googles-upcoming-extravaganza-breaking-news-and-forecast-analysis/"><u>Inside Scoop on Google's Upcoming Extravaganza: Breaking News & Forecast Analysis</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-your-game-on-top-10-websites-to-download-games/"><u>New In 2024, Get Your Game On Top 10 Websites to Download Games</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-video-resumes-best-makers-and-templates/"><u>New In 2024, The Ultimate Guide to Video Resumes Best Makers and Templates</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-whats-the-difference-between-adobe-premiere-and-after-effects-in-2024/"><u>New Whats the Difference Between Adobe Premiere and After Effects, In 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-secret-to-quicker-iphone-screen-turnoffs-effective-strategies-inside/"><u>Unlocking the Secret to Quicker iPhone Screen Turnoffs – Effective Strategies Inside</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-basic-to-brilliant-mastering-video-editing-effects-for-beginners/"><u>Updated 2024 Approved From Basic to Brilliant Mastering Video Editing Effects for Beginners</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated The Ultimate Guide to Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>[New] GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-finest-list-of-cost-effective-video-conferencing-apps/"><u>[New] In 2024, Finest List of Cost-Effective Video Conferencing Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-audio-broadcast-networks-for-2024/"><u>[New] Premier Audio Broadcast Networks for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>[Updated] 2024 Approved Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-fix-getting-snapchat-installed-on-mac-for-2024/"><u>[Updated] Quick Fix Getting Snapchat Installed on Mac for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-still-to-stunning-8-best-animated-photo-makers/"><u>New In 2024, From Still to Stunning 8 Best Animated Photo Makers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-10-adobe-premiere-elements-alternatives/"><u>New Top 10 Adobe Premiere Elements Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-transform-your-photos-into-videos-with-these-10-online-tools-for-2024/"><u>New Transform Your Photos Into Videos with These 10 Online Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-chrome-freeze-with-games/"><u>Overcoming Chrome Freeze with Games</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/pinnacle-studio-not-your-cup-of-tea-explore-these-mac-alternatives-for-2024/"><u>Pinnacle Studio Not Your Cup of Tea? Explore These Mac Alternatives for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-twitch-streamer-secrets-unraveling-common-conundrums-for-beginner-viewers/"><u>Top Twitch Streamer Secrets: Unraveling Common Conundrums for Beginner Viewers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-terrarias-lost-connections-with-these-6-techniques/"><u>Troubleshoot Terraria's Lost Connections with These 6 Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>Updated 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-budget-savvy-filmmaking-7-essential-software-for-beginners/"><u>Updated In 2024, Budget-Savvy Filmmaking 7 Essential Software for Beginners</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-color-harmony-made-easy-a-step-by-step-fcp-guide/"><u>Updated In 2024, Color Harmony Made Easy A Step-by-Step FCP Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-game-downloads-the-top-10plus-sites-you-need/"><u>Updated In 2024, Free Game Downloads The Top 10+ Sites You Need</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unbiased-review-of-avs-video-editor-features-pricing-and-more-for-2024/"><u>Updated Unbiased Review of AVS Video Editor Features, Pricing, and More for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/zero-cost-maximum-creativity-9-free-online-movie-makers/"><u>Zero Cost, Maximum Creativity 9 Free Online Movie Makers</u></a></li>
 </ul></div>
 

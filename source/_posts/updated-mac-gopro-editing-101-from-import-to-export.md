@@ -1,7 +1,7 @@
 ---
 title: Updated Mac GoPro Editing 101 From Import to Export
-date: 2024-08-22T11:04:35.795Z
-updated: 2024-08-23T11:04:35.795Z
+date: 2024-10-21T05:56:33.855Z
+updated: 2024-10-23T21:23:16.148Z
 tags: 
   - video editing software
   - video editing
@@ -60,6 +60,13 @@ If you don’t like the filters or overlays you’ve chosen, you can easily remo
 
 ![filter 9 mac](https://images.wondershare.com/filmora/guide/filter-9-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Elements and Transitions
 
 If you’re feeling a little creative, add some stickers or motion graphics to your GoPro videos. To add elements, head over to the Elements tab. There are 150 elements in Filmora for Mac, and with a subscription, you can get more.
@@ -94,22 +101,21 @@ his feature lets you track objects in your videos so that other objects can move
 
 ![motion track](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.motion-track.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**. Place the Target Box over the object you want to track and click Start Tracking.
 
 ![box](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **Step 3**. Select the media that you want to move with the tracked object. Remember that this media already has to be in the timeline.
 
 ![start tracking](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.start-tracking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **Step 4**. Adjust the size or position of whatever media you selected in the previous step.
 
 #### 2\. Color Match
@@ -121,15 +127,23 @@ Wondershare video editor for Mac also lets you color correct multiple videos as 
 ![color match](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/34.color-match.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2**. Place the playback line on the video you color corrected and then select the other videos you want to color correct.
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/34.done.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 3**. On the toolbar, click the color icon, and a drop-down menu will appear from which you’ll have to click on Color Match. After a new window opens, you can adjust the level of color correction however, you wish.
 
 ![done](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/34.done.jpg)
@@ -146,9 +160,23 @@ If you want to temporarily reduce one audio track volume so that another is more
 
 ![ajust audio](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.ajust-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**. Check the “lower the volume of other clips” box.
 
 ![audio ducking](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4**. Once you press OK, the volume of every other audio track will be lowered. You can adjust the ducking level to achieve your desired effect.
 
@@ -160,23 +188,15 @@ Editing GoPro videos on Mac can be confusing, but it isn’t as difficult as peo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You May Also Like: [Tips and Tricks for GoPro: Get the Most from Your GoPro](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -184,3 +204,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-picture-perfect-presentations-posting-on-youtube/"><u>[New] Picture-Perfect Presentations Posting on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-achieving-expert-control-the-steam-switch-controllers-guide/"><u>[Updated] 2024 Approved Achieving Expert Control The Steam Switch Controllers Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-digital-artisans-exclusive-summit/"><u>[Updated] In 2024, Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>2024 Approved Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/web-windows-10/"><u>効果的なWebミーティングの録画・録音: Windows 10による技術ガイド</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/youtube3/"><u>優れた YouTubeコンテンツを音源に変換する3つの最適手段</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dissecting-av1s-capabilities-beyond-vp9/"><u>Dissecting AV1's Capabilities Beyond VP9</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-miss-out-get-200-off-a-new-macbook-pro-featuring-intel-core-i7-12567u-chip-this-presidents-day-shop-smart-with-zdnet/"><u>Don't Miss Out: Get $200 Off a New MacBook Pro Featuring Intel Core I7-12567U Chip This Presidents' Day - Shop Smart with ZDNET!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-n3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find N3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introducing-mondlys-new-faq-section/"><u>Introducing Mondly’s New FAQ Section</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-7-mp3-downloads-of-beloved-anime-songs-where-to-find-them/"><u>Top 7 MP3 Downloads of Beloved Anime Songs - Where to Find Them</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-free-and-up-to-date-iptv-streaming-extensions-for-kodi-19-and-18-enhancing-your-viewing-experience/"><u>Top Free & Up-to-Date IPTV Streaming Extensions for Kodi 19 & 18: Enhancing Your Viewing Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-three-proven-techniques-for-editing-and-resizing-gifs/"><u>Top Three Proven Techniques for Editing and Resizing GIFs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-the-corsair-h115i-on-latest-windows-systems-win-8-10-and-11-solutions/"><u>Troubleshooting the Corsair H115i on Latest Windows Systems - Win 8, 10 & 11 Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-guide-to-effortless-smv-to-popular-video-conversions-for-music-enthusiasts/"><u>Ultimate Guide to Effortless SMV to Popular Video Conversions for Music Enthusiasts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-guide-video-cropping-techniques-using-windows-movie-maker-for-windows-10-users/"><u>Ultimate Guide: Video Cropping Techniques Using Windows Movie Maker for Windows 10 Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-tutorial-effortless-m4v-media-playback-optimization-for-android-users/"><u>Ultimate Tutorial: Effortless M4V Media Playback Optimization for Android Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/watch-all-your-videos-flawlessly-on-a-nexus-7-device-using-our-top-video-transformation-tool/"><u>Watch All Your Videos Flawlessly on a Nexus 7 Device Using Our Top Video Transformation Tool</u></a></li>
+</ul></div>
+
