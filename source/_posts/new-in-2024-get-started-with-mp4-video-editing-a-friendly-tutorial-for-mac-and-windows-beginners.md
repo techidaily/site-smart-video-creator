@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners
-date: 2024-08-15T03:55:02.602Z
-updated: 2024-08-16T03:55:02.602Z
+date: 2024-10-26T22:14:32.973Z
+updated: 2024-10-30T00:11:25.244Z
 tags: 
   - video editing software
   - video editing
@@ -50,9 +50,6 @@ It's Wondershare Filmora (originally Wondershare Video Editor). With it, you're 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Easily Edit MP4 Video?
 
 Before we proceed to illustrate every detail on how to edit the MP4 video, you can download the MP4 editor first so you can follow the below steps one by one.
@@ -60,9 +57,6 @@ Before we proceed to illustrate every detail on how to edit the MP4 video, you c
 It's free to download now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ####
 
@@ -73,9 +67,6 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ####
 
@@ -88,9 +79,6 @@ If you want to make the joined videos look like a really intact movie, just add 
 If you don't want to choose the transition one by one, let the software choose the transition randomly by right clicking and selecting "Random to All" option.
 
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ####
 
@@ -106,6 +94,13 @@ Just highlight your MP4 video, right click and choose "Audio Detach". The audio 
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 4. Add 300+ Effects to Touch Up MP4 Video
@@ -119,6 +114,13 @@ Besides the basic video editing functions, Video Editor also provides various st
 
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 5. Save or Share the Edited Video
@@ -131,15 +133,23 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 * Directly upload your video to Facebook and YouTube.
 
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -148,11 +158,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-prime-narrative-design-center/"><u>[Updated] Prime Narrative Design Center</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtubes-top-marketing-moves-for-business-growth-unveiled/"><u>[Updated] YouTube's Top Marketing Moves for Business Growth Unveiled</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-premier-usb-thumb-drives-of-2023-a-comprehensive-selection/"><u>Discover the Premier USB Thumb Drives of 2023: A Comprehensive Selection</u></a></li>
+<li><a href="https://win-news.techidaily.com/einfache-hdd-clone-prozedur-von-tragbaren-geraten-schritt-fur-schritt-anleitung/"><u>Einfache HDD-Clone-Prozedur Von Tragbaren Geräten: Schritt Für Schritt Anleitung</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-the-official-ricoh-c4503-printer-software-downloads-fast-latest-version/"><u>Find the Official Ricoh C4503 Printer Software Downloads Fast | Latest Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-unresponsive-email-app-on-your-iphone-essential-tips-and-tricks/"><u>How to Fix an Unresponsive Email App on Your iPhone: Essential Tips & Tricks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-essential-animated-text-generators-to-elevate-your-visuals/"><u>In 2024, 10 Essential Animated Text Generators to Elevate Your Visuals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-filmora-on-a-budget-how-to-get-it-without-breaking-the-law/"><u>In 2024, Filmora on a Budget How to Get It Without Breaking the Law</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-titles-in-fcpx-essential-skills-for-video-editors/"><u>In 2024, Mastering Titles in FCPX Essential Skills for Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mastering-slow-motion-top-10-video-editing-tools-for-professionals-for-2024/"><u>Mastering Slow Motion Top 10 Video Editing Tools for Professionals for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-face-obscuring-made-easy-expert-video-editing-solutions/"><u>New 2024 Approved Face Obscuring Made Easy Expert Video Editing Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-ken-burns-effect-in-final-cut-pro-a-comprehensive-guide-with-examples-and-tutorials/"><u>New 2024 Approved Ken Burns Effect in Final Cut Pro A Comprehensive Guide with Examples and Tutorials</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-no-copyright-worries-best-sites-for-public-domain-video-downloads/"><u>New 2024 Approved No Copyright Worries Best Sites for Public Domain Video Downloads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-organize-your-videos-with-ease-top-8-mac-metadata-editors/"><u>New 2024 Approved Organize Your Videos with Ease Top 8 Mac Metadata Editors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-comprehensive-guide-to-flawless-star-wars-squadrons-gaming-experience/"><u>No More Crashes! Comprehensive Guide to Flawless Star Wars: Squadrons Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/perfect-past-moments-on-fb-a-look-back-edition/"><u>Perfect Past Moments on FB A Look Back Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/photographic-fundamentals-in-5-minutes-with-snapseed/"><u>Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
+</ul></div>
+

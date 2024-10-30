@@ -1,7 +1,7 @@
 ---
 title: Updated From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker for 2024
-date: 2024-08-15T03:57:50.457Z
-updated: 2024-08-16T03:57:50.457Z
+date: 2024-10-27T16:40:32.059Z
+updated: 2024-10-30T01:52:10.082Z
 tags: 
   - video editing software
   - video editing
@@ -32,9 +32,6 @@ Before you start, please make sure you have installed Windows Live Movie Maker. 
 
 ## How to split large video files in Windows Live Movie Maker
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1\. Add photos and videos to Windows Live Movie Maker
 
 Click "Add videos and photos" to browse and select videos and photos from your computer to add. You can also drag and drop videos and photos to the storyboard.
@@ -44,28 +41,36 @@ Click "Add videos and photos" to browse and select videos and photos from your c
 There are two ways to use Windows Live Movie Maker split function: 1\. Choose the video point where you want to split, right-click the video clip, and click "split". 2\. Select the video point you will split. Under "Video Tools", click the "Edit" tab, and then click the "split" button.
 
 ![windows live movie maker split](https://images.wondershare.com/topic/video-editing/windows-live-movie-maker-split.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After that, your video will be split into separate sections. And you can edit separate videos as you like and drag and drop to move the location.
 
 ![windows live movie maker split](https://images.wondershare.com/topic/video-editing/windows-live-movie-maker-split-videos.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3\. Save and share your videos
 
 Click the icon at the top left, then choose Save movie. There are four output video qualities to choose from. When you place your mouse cursor on each option, you can see the output video display size, aspect ratio, etc. You can also burn the videos to DVD by clicking Burn a DVD item and select a destination folder to save your video file.
 
 ![split videos in windows live movie maker](https://images.wondershare.com/topic/video-editing/windows-live-movie-maker-split-save.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you want to share your video on YouTube with more people, you can click Publish movie and choose to Publish on YouTube, enter your YouTube account information and share your video work directly.
@@ -77,11 +82,15 @@ If you want to share your video on YouTube with more people, you can click Publi
 For more powerful moviemakers to split videos, you can try the free trial version of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which can help you split, trim, crop, rotate, and flip videos freely and smoothly. Find your preferred version of Windows or Mac below.
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -89,11 +98,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-how-to-get-a-faster-live-streaming-on-periscope-for-2024/"><u>[New] How to Get a Faster Live Streaming on Periscope for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box/"><u>[Updated] 2024 Approved Become a Social Butterfly Engage in FB Live on Your Roku Box</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-bringing-sketches-to-life-foremost-ipados-apps/"><u>2024 Approved Bringing Sketches to Life Foremost iPadOS Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-personalize-your-online-story-mastery-in-fb-memories/"><u>2024 Approved Personalize Your Online Story Mastery in FB Memories</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-zoom-functionality-tips-for-chromebook-devices/"><u>In 2024, Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-complete-checklist-for-uploading-videos-on-twitpic/"><u>In 2024, The Complete Checklist for Uploading Videos on Twitpic</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-mp4-videos-on-your-pc-a-comprehensive-guide-for-windows-8/"><u>New In 2024, Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-fcpx-skin-smoothing-hack-no-plugins-needed-for-2024/"><u>New The Ultimate FCPX Skin Smoothing Hack No Plugins Needed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-up-your-league-of-legends-installation/"><u>Quick Guide: Speeding Up Your League of Legends Installation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-canon-mf8500c-drivers-on-windows-7-10-and-81/"><u>Step-by-Step Guide: Installing Canon MF8500C Drivers on Windows 7, 10 & 8.1</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-ahead-in-video-editing-6-insider-adobe-premiere-tips-and-techniques/"><u>Updated Get Ahead in Video Editing 6 Insider Adobe Premiere Tips and Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-video-editing-apps-with-advanced-effects-for-ios-and-android/"><u>Updated In 2024, Free Video Editing Apps with Advanced Effects for iOS and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-most-popular-video-reversal-websites/"><u>Updated In 2024, S Most Popular Video Reversal Websites</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-this-article-we-are-going-to-introduce-you-to-some-of-the-best-lightweight-movie-makers-you-can-easily-use-for-free-on-your-desktop-or-phone-for-/"><u>Updated In This Article, We Are Going to Introduce You to some of the Best Lightweight Movie Makers You Can Easily Use for Free on Your Desktop or Phone for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-proxy-perfection-top-video-editing-software-for-4k-creators-for-2024/"><u>Updated Proxy Perfection Top Video Editing Software for 4K Creators for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-video-cutters-for-divx-format-2023-review/"><u>Updated The Best Free Video Cutters for Divx Format (2023 Review)</u></a></li>
+</ul></div>
+
