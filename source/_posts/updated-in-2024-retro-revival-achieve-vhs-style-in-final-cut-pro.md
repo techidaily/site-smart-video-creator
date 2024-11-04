@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Retro Revival Achieve VHS Style in Final Cut Pro
-date: 2024-08-15T03:52:09.821Z
-updated: 2024-08-16T03:52:09.821Z
+date: 2024-10-31T21:01:19.091Z
+updated: 2024-11-04T20:56:06.485Z
 tags: 
   - video editing software
   - video editing
@@ -93,13 +93,6 @@ If you want to quickly add VHS effect to your video, you can use Filmora X. You 
 First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
 
@@ -115,20 +108,31 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
@@ -142,8 +146,12 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
@@ -154,8 +162,12 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
@@ -196,9 +208,6 @@ A resources center built for Filmora. You can find all the materials and effects
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
 
@@ -213,10 +222,6 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -224,11 +229,29 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-instantly-start-youtube-videos-on-your-facebook-timeline/"><u>[New] Instantly Start YouTube Videos on Your Facebook Timeline</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-pajama-plots-reviewed-analyzing-childrens-video-stories-for-2024/"><u>[New] Pajama Plots Reviewed Analyzing Children's Video Stories for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-blending-audio-from-youtube-into-video-mediums/"><u>[Updated] 2024 Approved Blending Audio From YouTube Into Video Mediums</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-video-monetization-showdown-dailymotion-vs-youtubes-financial-gains-for-2024/"><u>[Updated] Video Monetization Showdown Dailymotion vs Youtube's Financial Gains for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-beyond-the-bubble-leading-android-and-ios-video-sharing-apps/"><u>2024 Approved Beyond the Bubble Leading Android and iOS Video Sharing Apps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/be-a-guest-in-the-digital-arena-tips-for-live-viewers-for-2024/"><u>Be a Guest in the Digital Arena Tips for Live Viewers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-cut-to-connect-advanced-editing-with-kinemaster-for-2024/"><u>From Cut to Connect Advanced Editing with Kinemaster for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>In 2024, Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-iphones-voice-memos-with-precision/"><u>Navigating iPhone's Voice Memos with Precision</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-4k-video-editing-software/"><u>New The Ultimate Guide to 4K Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-how-to-split-and-merge-clips-in-windows-live-movie-maker-for-2024/"><u>Updated Effortless Video Editing How to Split and Merge Clips in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-filmora-coupon-hunters-guide-7-essential-tips-for-2024/"><u>Updated Filmora Coupon Hunters Guide 7 Essential Tips for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-getting-started-with-video-editing-a-windows-movie-maker-handbook/"><u>Updated In 2024, Getting Started with Video Editing A Windows Movie Maker Handbook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-avi-file-editing-a-beginners-guide-to-splitting-and-trimming/"><u>Updated Mastering AVI File Editing A Beginners Guide to Splitting and Trimming</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-merge-mov-files-for-free-5-best-options/"><u>Updated Merge MOV Files for Free 5 Best Options</u></a></li>
+</ul></div>
+
