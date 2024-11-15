@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts
-date: 2024-08-09T06:54:20.575Z
-updated: 2024-08-10T06:54:20.575Z
+date: 2024-11-11T21:33:19.974Z
+updated: 2024-11-14T22:14:51.626Z
 tags: 
   - video editing software
   - video editing
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -34,9 +30,6 @@ The ultimate burning program for all your needs!</a>
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -82,9 +75,6 @@ The ultimate burning program for all your needs!</a>
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -107,9 +97,6 @@ The ultimate burning program for all your needs!</a>
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -140,9 +127,6 @@ The ultimate burning program for all your needs!</a>
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -183,9 +167,6 @@ The ultimate burning program for all your needs!</a>
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -226,11 +207,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-piecing-together-a-unique-tiktok-outro-elements/"><u>[New] 2024 Approved Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>[Updated] Uncomplicated Process Altering Clown Fish Voices in WinOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>2024 Approved Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capture-every-detail-exploring-apowersofts-pc-tool/"><u>2024 Approved Capture Every Detail Exploring Apowersoft’s PC Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-professional-looks-after-effects-and-lut-techniques/"><u>2024 Approved Crafting Professional Looks After Effects and LUT Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-finding-and-setting-up-new-acer-aspire-driver-software-in-windows-environment/"><u>Easy Installation: Finding and Setting Up New Acer Aspire Driver Software in Windows Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-magic-v2-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor Magic V2 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-the-power-of-animated-photos-top-10-tools-and-techniques/"><u>New In 2024, Unleash the Power of Animated Photos Top 10 Tools and Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smartpet-solutions-reviewed-top-value-findings/"><u>SmartPet Solutions Reviewed: Top Value Findings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-installing-the-dell-mouse-software/"><u>Step-by-Step Guide: Successfully Installing the Dell Mouse Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-hd-video-editing-software-for-2024/"><u>The Ultimate Guide to HD Video Editing Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-videos-best-collage-apps-for-ios-devices/"><u>Updated Create Stunning Videos Best Collage Apps for iOS Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-follow-the-simple-steps-below-to-flip-crop-resize-or-move-clips-with-final-cut-pro/"><u>Updated Follow the Simple Steps Below to Flip, Crop, Resize or Move Clips with Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-how-to-convert-digital-videos-into-cartoons-for-2024/"><u>Updated How to Convert Digital Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-invitation-creators-for-mobile-devices/"><u>Updated In 2024, Top Video Invitation Creators for Mobile Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-lower-thirds-that-pop-creative-strategies-for-final-cut-pro-x/"><u>Updated Lower Thirds That Pop Creative Strategies for Final Cut Pro X</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

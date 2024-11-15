@@ -1,7 +1,7 @@
 ---
 title: New Unlock Wax The Ultimate Tutorial on Using the Free Video Editor
-date: 2024-08-09T06:48:34.437Z
-updated: 2024-08-10T06:48:34.437Z
+date: 2024-11-11T18:48:06.652Z
+updated: 2024-11-15T05:30:51.875Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -66,25 +56,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -93,11 +74,37 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-superior-mics-for-video-blogging-professionals/"><u>[New] Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-essential-fluid-dynamics-gaming-experiences/"><u>[Updated] In 2024, Top Essential Fluid Dynamics Gaming Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>2024 Approved The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-of-the-best-top-10-free-webm-video-editors-this-year/"><u>Best of the Best Top 10 Free WebM Video Editors This Year</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-g22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia G22 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-gopro-skills-with-this-tutorial/"><u>Elevate Your GoPro Skills with This Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/freeze-time-easy-video-editing-techniques/"><u>Freeze Time Easy Video Editing Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-beyond-gopro-studio-best-video-editing-software-for-gopro-footage/"><u>In 2024, Beyond GoPro Studio Best Video Editing Software for GoPro Footage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-easy-desktop-recording-with-filmora-scrn-a-quick-start-guide/"><u>In 2024, Easy Desktop Recording with Filmora Scrn A Quick Start Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mkv-video-trimming-made-easy-best-mac-apps-2023/"><u>In 2024, MKV Video Trimming Made Easy Best Mac Apps 2023</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-chromecast-play-any-video-format-with-ease-2023-update/"><u>In 2024, Unlock Chromecast Play Any Video Format with Ease 2023 Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-image-to-video-conversion-made-easy-10-best-online-solutions/"><u>New 2024 Approved Image to Video Conversion Made Easy 10 Best Online Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-effective-tricks-to-combat-samsung-galaxy-phone-freezing-glitches/"><u>Quick and Effective Tricks to Combat Samsung Galaxy Phone Freezing Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectified-issue-sound-playback-now-working-in-firefox/"><u>Rectified Issue: Sound Playback Now Working in Firefox</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-gopro-quik-for-pc-a-comprehensive-review-and-alternatives-for-2024/"><u>Updated GoPro Quik for PC A Comprehensive Review and Alternatives for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

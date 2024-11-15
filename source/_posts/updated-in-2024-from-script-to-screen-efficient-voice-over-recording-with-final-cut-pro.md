@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Script to Screen Efficient Voice Over Recording with Final Cut Pro
-date: 2024-08-09T06:52:30.204Z
-updated: 2024-08-10T06:52:30.204Z
+date: 2024-11-08T01:45:20.382Z
+updated: 2024-11-14T23:10:03.793Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 # Quick Tips on Recording Voice Over with Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -49,9 +46,6 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
@@ -64,9 +58,6 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
@@ -101,9 +92,6 @@ Now it is time to select the desired voiceover from auditions and you can previe
 * Simple select your desired audition out of which you need to review voiceovers and then open recordings either by simply pressing Y or go to Clip then select Audition and finally choose Open.
 * Select the take from Audition window and press space bar to play it or you can also switch it on by using Control+Command+Y command.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
 
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
@@ -113,16 +101,23 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQ
 
 **How to sync voiceover with my video with FCPX?**
@@ -135,13 +130,18 @@ It's quite common in FCPX. If reopening the software or rebooting Mac won't fix 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,3 +149,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-cutting-edge-techniques-for-music-in-canva-videos/"><u>[New] In 2024, Cutting-Edge Techniques for Music in Canva Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrated-sound-system-guidebook/"><u>[Updated] Integrated Sound System Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-seo-landscape-top-keyword-research-instruments/"><u>[Updated] Navigating the SEO Landscape Top Keyword Research Instruments</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-apples-magic-mouse-drivers-on-a-windows-computer-step-by-step-tutorial/"><u>How to Install Apple's Magic Mouse Drivers on a Windows Computer: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-full-screen-flexibility-with-pip-feature-on-iphones/"><u>In 2024, Unlock Full Screen Flexibility with PIP Feature on iPhones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unbrand-your-videos-removing-filmora-watermark-with-free-and-paid-options/"><u>New In 2024, Unbrand Your Videos Removing Filmora Watermark with Free and Paid Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>New OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-avi-file-combiners-join-videos-without-cost/"><u>New Top-Rated AVI File Combiners Join Videos Without Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-service-failed-problem-with-your-windows-1011-account-expert-solutions/"><u>Overcoming 'Service Failed' Problem with Your Windows 10/11 Account - Expert Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-capturing-a-screenshot-on-your-acer-device/"><u>Step-by-Step Guide: Capturing a Screenshot on Your Acer Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-a-closer-look-at-vn-video-editor-for-pc-users/"><u>Updated 2024 Approved A Closer Look at VN Video Editor for PC Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>Updated 2024 Approved Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-flip-your-footage-easy-final-cut-pro-tutorial/"><u>Updated 2024 Approved Flip Your Footage Easy Final Cut Pro Tutorial</u></a></li>
+</ul></div>
+
