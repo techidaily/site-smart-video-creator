@@ -1,7 +1,7 @@
 ---
 title: New FCPX Lower Thirds 101 A Beginners Guide to Success for 2024
-date: 2024-08-02T06:12:40.962Z
-updated: 2024-08-03T06:12:40.962Z
+date: 2024-11-20T20:48:58.161Z
+updated: 2024-11-24T02:25:16.421Z
 tags: 
   - video editing software
   - video editing
@@ -28,9 +28,6 @@ The videos drop facts to audiences and educate the viewers. The video makers str
 
 Here comes an enlightening discussion about the lower third modules in your videos. The tips and tricks associated with the making of this lower third element are available in the below content. Surf them carefully and learn the fabulous lower third templates to customize your videos to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![lower third intro](https://images.wondershare.com/filmora/images/final-cut-pro/lower-%20third-intro.jpg)
 
 > * [Part 1: What is the lower third?](#part1)
@@ -39,8 +36,9 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -51,14 +49,16 @@ You can also observe this lower third module during an interview session on your
 
 On a short note, you can define the lower third module as a piece of a graphical element that hangs at the bottom of the screen displaying related data in pace with the existing video content. You can create the lower third module using an incredible tool for your videos in no time. Identify the factors to work on to refine the lower third module appearance and performances.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lower thirds](https://images.wondershare.com/filmora/images/final-cut-pro/lower-thirds.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part2: What factors contribute to a good lower third?**
 
 While designing the lower third element for your video, you must keep an eye on few factors. Work on the below attributes to build a good lower third element. Always remember to keep it simple to obtain the desired outcomes.
@@ -98,8 +98,9 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -114,9 +115,6 @@ Features of Final Cut Pro X to design lower third module element
 * Personalize the lower third element further using the ‘Generator’ option
 * You can include animations for the lower third module to persuade the viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
@@ -125,9 +123,6 @@ In this section, you will learn to make a lower third element using a Final Cut 
 
 You can download the app and install them in your system. Launch the tool by double-tapping the tool icon.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
 **2Step 2: Add the Title**
@@ -140,10 +135,11 @@ In the home screen, import the video that requires the edits and then tap the �
 
 Now, you can edit the texts in the inserted titles and add animation to the element using the attributes under the ‘Generator’ tab. Modify the title’s textures, background, and positions using the relevant options displayed. Choose accordingly to personalize the title element based on your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
@@ -183,11 +179,30 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-chronicles-unveiled-the-best-narrative-channels-on-youtube-this-year/"><u>[New] Chronicles Unveiled The Best Narrative Channels on YouTube This Year</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>[New] IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-engagement-crafting-effective-youtube-backlinks-for-2024/"><u>[Updated] Elevate Engagement Crafting Effective YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-discover-the-ultimate-8-free-spots-for-3d-psds/"><u>[Updated] In 2024, Discover the Ultimate 8 Free Spots for 3D PSDs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/all-in-one-file-reconstruction-software-effective-and-dependable-system-to-recover-any-kind-of-data/"><u>All-in-One File Reconstruction Software: Effective and Dependable System to Recover Any Kind of Data</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/compatibility-issues-decoded-fixing-the-hardware-not-supported-error-message/"><u>Compatibility Issues Decoded: Fixing the Hardware Not Supported Error Message</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-uav-experience-with-these-crucial-parts-for-2024/"><u>Elevate Your UAV Experience with These Crucial Parts for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-sound-effects-for-fcp-a-beginners-guide-to-elevating-your-video-editing-game/"><u>Free Sound Effects for FCP A Beginners Guide to Elevating Your Video Editing Game</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-perfect-images-with-ios-size-modification-skills/"><u>In 2024, Crafting Perfect Images with iOS Size Modification Skills</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-best-free-video-splitting-solutions-reviewed/"><u>New 2024 Approved The Best Free Video Splitting Solutions Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-free-whiteboard-animation-software-for-windows-mac-and-beyond/"><u>New 2024 Approved The Ultimate List of Free Whiteboard Animation Software for Windows, Mac, and Beyond</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a56s-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A56s 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-the-tri-band-high-speed-netgeer-nighthawk-x6-ac3200-a-perfect-balance-for-family-tech-needs/"><u>The Ultimate Review of the Tri-Band, High-Speed Netgeer Nighthawk X6 AC3200: A Perfect Balance for Family Tech Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-iphone-12pro-skins-reviewed-and-ranked-zdnet-insights/"><u>Ultimate Selection of iPhone 12/Pro Skins Reviewed and Ranked | ZDNET Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-cut-like-a-pro-l-cuts-and-j-cuts-in-final-cut-pro-x/"><u>Updated Cut Like a Pro L-Cuts and J-Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/vfrcbr20243/"><u>VFR転CBR：「2024年度新しい手引き3つの超簡単ワークフロー」</u></a></li>
+</ul></div>
+

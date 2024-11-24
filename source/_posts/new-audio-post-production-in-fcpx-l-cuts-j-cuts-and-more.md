@@ -1,7 +1,7 @@
 ---
 title: New Audio Post-Production in FCPX L-Cuts, J-Cuts, and More
-date: 2024-08-02T06:11:22.862Z
-updated: 2024-08-03T06:11:22.862Z
+date: 2024-11-19T04:49:12.426Z
+updated: 2024-11-24T08:42:01.600Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
 # Final Cut Pro X Tutorial: L-Cuts and J-Cuts
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,8 +29,9 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
 
 Ordinary images, text, subtitles, and GIF doesn’t work anymore to get followers or likes on a video on YouTube channel or Instagram. Thus, video creators are tired of trying the same filters, transitions on the video editor tool. To create amazing videos like the ones played on your television and favorite movies, all you need is the split edit type techniques, a powerful editing tool used by professional editors. Although called professional, it isn’t difficult for a beginner if you know J-Cuts and L-Cuts.
@@ -45,8 +43,9 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
 
 As Final Cut Pro X comes overloaded with advanced, powerful tools, you can find it a little tricky. Hence, we are here to help you perform **the Final Cut Pro L-Cuts** in this session. And, yes, the **Final Cut Pro J-Cuts** as well.
@@ -78,8 +77,9 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
 
 Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts and Final Cut Pro J-Cuts.
@@ -103,16 +103,18 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Are you wondering and puzzled that you are a popular Final Cut Pro X user but weren't aware of this powerful split edit tool till now? It isn't too late for you to start yet. Finally, as assured at the beginning of the article, we gave you detailed information on what are J-Cuts in Final Cut Pro along with L-Cuts. With practical implementation on creating Final Cut Pro L-Cuts and J-Cuts, all the best for your first video project!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -120,11 +122,28 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-comprehensive-overview-of-whatsapp-voice-calls/"><u>[New] Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-to-posting-vids-on-facebook/"><u>[New] In 2024, The Ultimate Guide to Posting Vids on Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevating-your-video-content-youtube-to-igtv-transition/"><u>[Updated] Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-zenith-vision-hubs-top-tier-all-in-one-4k/"><u>2024 Approved Zenith Vision Hubs Top Tier, All-in-One 4K</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a70-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel A70</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-stunning-animations-on-the-go-top-free-3d-apps-for-mobile-for-2024/"><u>Create Stunning Animations On-the-Go Top Free 3D Apps for Mobile for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/expert-approved-audio-editing-tools-top-10-list-for-2024/"><u>Expert-Approved Audio Editing Tools Top 10 List for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/futuristic-feature-unveiling-mac-via-applewatch-for-2024/"><u>Futuristic Feature Unveiling Mac via AppleWatch for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-10t-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme 10T 5G</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-background-noise-be-gone-mastering-audio-cleanup-in-final-cut-pro-x/"><u>In 2024, Background Noise Be Gone Mastering Audio Cleanup in Final Cut Pro X</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-cut-and-trim-videos-for-free-the-best-software/"><u>In 2024, Cut and Trim Videos for Free The Best Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-fcp-x-green-screen-magic-in-minutes/"><u>In 2024, Mastering FCP X Green Screen Magic in Minutes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/meme-design-excellence-guide-for-2024/"><u>Meme Design Excellence Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/pitch-perfect-how-to-add-songs-to-your-snapchat-content-for-2024/"><u>Pitch Perfect How to Add Songs to Your Snapchat Content for 2024</u></a></li>
+</ul></div>
+

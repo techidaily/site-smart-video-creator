@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Use VirtualDub for Efficient MPEG2 Compression
-date: 2024-08-09T06:46:36.480Z
-updated: 2024-08-10T06:46:36.480Z
+date: 2024-11-16T20:26:40.140Z
+updated: 2024-11-24T11:17:23.787Z
 tags: 
   - video editing software
   - video editing
@@ -26,20 +26,21 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 VirtualDub is a free video capture/processing tool for Windows platforms (2000/XP/Vista/7). And VirtualDub MPEG-2 is a modified version of VirtualDub that supports MPEG-2 import originally. However, just as the author said "This software is obsolete and will no longer be updated. For MPEG-2 and WMV support in the latest VirtualDub, try my plugins (MPEG-2 plugin for VirtualDub 1.8.1 or above - by editor)".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Download and Install VirtualDub MPEG-2
 
 You could [download VirtualDub MPEG-2](http://www.videohelp.com/download/VirtualDub-MPEG224586%20.zip?r=LcPXQgGCmNps) here and extract files to a folder. Now you get a video processing software with MPEG-2 video import supported. To run VirtualDub MPEG-2, double click the VirtualDub.exe.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use VirtualDub MPEG-2 to Compress Large MPEG-2 Videos
 
 VirtualDub-MPEG2 is designed to work with mpeg2 video, such as Digital TV shows, un-encrypted DVD files (\*.vob) and these video files are usually in big size. Now you can compress them using VirtualDub MPEG-2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Set Up Video Compression
 
@@ -53,17 +54,14 @@ As shown above, select the XVID MPEG-4 codec and click Configure button to make 
 
 **Note**: If Compression is disable, switch to Full processing mode first in the Video menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Step 2: Set Up Audio Compression
 
 Audio compression setup is similar to video compression, go to Audio/Full processing mode, and again Audio/Compression to open the dialog, where MPEG Layer-3 is recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Start Compressing
 
 Now it's the time to start processing your video, here is how:
@@ -73,9 +71,6 @@ Now it's the time to start processing your video, here is how:
 3. Select where you want to save the AVI and name it.
 4. Click Save.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The VirtualDub MPEG-2 needs some time to compress your video. The larger the video file is, the longer. But VirtualDub MPEG2 is a fast video processing software. Take a cup of coffee and relax. Once finished, use your favorite video player to see the compressing result.
@@ -85,9 +80,14 @@ If you don't like VirtualDub MPEG-2 and would like to find some more powerful ed
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -95,11 +95,28 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-practices-for-free-clipart-use-in-projects/"><u>[New] Best Practices for Free Clipart Use in Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>2024 Approved Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-techniques-for-capturing-and-recording-streamed-content/"><u>In 2024, Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-superior-economical-live-camera-snapper/"><u>In 2024, Superior Economical Live Camera Snapper</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-printer-connection-remedy/"><u>Quick Printer Connection Remedy</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essential-guide-to-saving-on-big-screen-viewing-with-lgs-economic-24lh4830-tv-model/"><u>The Essential Guide to Saving on Big Screen Viewing with LG's Economic 24LH4830 TV Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-latest-samsung-galaxy-z-fold-6-unveiled-pricing-launch-timeline-and-detailed-specifications/"><u>Unfolding the Latest - Samsung Galaxy Z Fold 6 Unveiled: Pricing, Launch Timeline & Detailed Specifications</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-crack-the-code-7-secret-ways-to-get-filmora-coupons-for-2024/"><u>Updated Crack the Code 7 Secret Ways to Get Filmora Coupons for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-expert-approved-free-vob-video-editing-solutions-for-2024/"><u>Updated Expert-Approved Free VOB Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-a-splash-10-leading-music-video-makers-of/"><u>Updated In 2024, Make a Splash 10 Leading Music Video Makers Of</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-shaky-no-more-a-step-by-step-guide-to-video-stabilization/"><u>Updated In 2024, Shaky No More A Step-by-Step Guide to Video Stabilization</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-no-more-searching-the-best-filmora-coupon-codes-revealed-for-2024/"><u>Updated No More Searching The Best Filmora Coupon Codes Revealed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808088486-winsxs-folder-clean-up-and-save-space-on-windows-11-easily/"><u>WinSxS Folder: Clean Up and Save Space on Windows 11 Easily</u></a></li>
+</ul></div>
+

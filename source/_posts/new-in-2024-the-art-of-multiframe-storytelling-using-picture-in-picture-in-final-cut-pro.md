@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Art of Multiframe Storytelling Using Picture-in-Picture in Final Cut Pro
-date: 2024-08-09T06:45:51.661Z
-updated: 2024-08-10T06:45:51.661Z
+date: 2024-11-17T22:27:10.764Z
+updated: 2024-11-24T12:46:21.624Z
 tags: 
   - video editing software
   - video editing
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,8 +31,9 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -45,10 +42,11 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2: Add PIP videos
 
@@ -56,16 +54,21 @@ It is time to choose the higher video clip so that the PIP effect can be applied
 
 Note that lower clips use to stay in the background in final results whereas upper clips will appear in the foreground. By default, both clips use to have 100% full screen with 100% opaque settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![transform button](https://images.wondershare.com/filmora/article-images/transform-button-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Apply PIP effect
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Adjust PIP Effect
 
@@ -78,9 +81,6 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 #### Step 6: Apply Cross- Dissolve
@@ -90,11 +90,12 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check this video tutorial to know more details:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Picture in Picture Plug-ins for Final Cut Pro
 
 There are so many plug-ins available in the market for Final Cut Pro platform and all of them possess unique qualities along with impressive toolsets. No matter whether you are a beginner with the PIP effect or professional making high-end video projects, FCP plug-ins can make your task much easier with their intuitive controls.
@@ -117,11 +118,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/free-download-ultimate-guide-installing-qualcomm-atheros-ar3011-bluetooth-30-drivers/"><u>[Free Download] Ultimate Guide: Installing Qualcomm Atheros AR3011 Bluetooth 3.0 Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dial-up-your-facebook-video-faster-essential-software-revealed-for-2024/"><u>[New] Dial-Up Your Facebook Video Faster Essential Software Revealed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-secret-sauce-to-viral-instagram-movie-magic/"><u>[Updated] 2024 Approved The Secret Sauce to Viral Instagram Movie Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-transform-your-youtube-audio-into-aac-format-two-free-solutions/"><u>Effortlessly Transform Your YouTube Audio Into AAC Format: Two FREE Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-mentors-ais-ethical-boundaries/"><u>Machine Mentors: AI's Ethical Boundaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-text-adventure-games-using-chatgpt-for-enhanced-player-experience/"><u>Mastering the Art of Text Adventure Games Using ChatGPT for Enhanced Player Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-free-face-generator-websites/"><u>New In 2024, The Ultimate List of Free Face Generator Websites</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>New OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-process-of-selecting-the-right-smart-tv/"><u>The Process of Selecting the Right Smart TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-smart-choice-avoid-investing-in-the-iphone-16-if-you-value-cutting-edge-apple-tech-insights-from-zdnet/"><u>The Smart Choice: Avoid Investing in the iPhone 16 if You Value Cutting-Edge Apple Tech - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-0x80072f30/"><u>Troubleshooting Microsoft Store: Error Code 0X80072F30</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-quik-for-pc-a-guide-to-using-gopros-video-editor-and-its-alternatives/"><u>Updated 2024 Approved Quik for PC A Guide to Using GoPros Video Editor and Its Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-of-the-best-top-10-pro-audio-editing-software/"><u>Updated 2024 Approved The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-wait-is-over-filmora-x-unveils-arm-support/"><u>Updated 2024 Approved The Wait Is Over Filmora X Unveils ARM Support</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unlock-final-cut-pro-90-day-free-trial-inside/"><u>Updated 2024 Approved Unlock Final Cut Pro 90-Day Free Trial Inside</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-lights-camera-action-a-kid-friendly-guide-to-film-production/"><u>Updated In 2024, Lights, Camera, Action! A Kid-Friendly Guide to Film Production</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-video-creation-software-for-mac-edit-enhance-share/"><u>Updated In 2024, Video Creation Software for Mac Edit, Enhance, Share</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unmissable-4k-footage-the-best-of-the-best-video-samples/"><u>Updated Unmissable 4K Footage The Best of the Best Video Samples</u></a></li>
+</ul></div>
+

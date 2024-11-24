@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Videos The Secrets to Great Lower Thirds in FCPX for 2024
-date: 2024-08-02T06:11:15.146Z
-updated: 2024-08-03T06:11:15.146Z
+date: 2024-11-20T03:02:00.545Z
+updated: 2024-11-24T06:21:29.146Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ Here comes an enlightening discussion about the lower third modules in your vide
 > * [Part 3: How to make a lower third quickly in final cut pro X?\[3-step-guide\]](#part3)
 > * [Part 4: Where to find great lower thirds templates for final cut pro X?](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## **Part1: What is the lower third?**
 
 Are you aware of lower third elements? If you are a newbie video designer, then this article ignites you with reliable facts about it. The lower third module is a graphical element that takes the lower position of a video.
@@ -61,10 +57,11 @@ The color combinations of your lower third element play a vital factor. Choose t
 
 Try different color schemes with Green, Magenta, Orange, and Blue to create a mesmerizing display of the lower third element. You can also use a color picker tool to choose the right combination of colors that match perfectly with the background and typography.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color-factor](https://images.wondershare.com/filmora/images/final-cut-pro/color-factor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Motion effect**
 
@@ -90,14 +87,16 @@ Position the element at the perfect place on the screen to ensure its visibility
 
 Proper alignment and the best coordinates on the screen make the lower third module shine better in your video. Proper placement of this element decides the impact on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -112,10 +111,6 @@ Features of Final Cut Pro X to design lower third module element
 * Personalize the lower third element further using the ‘Generator’ option
 * You can include animations for the lower third module to persuade the viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
@@ -130,9 +125,6 @@ You can download the app and install them in your system. Launch the tool by dou
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
 
 **3Step 3: Customize the Title**
@@ -145,14 +137,12 @@ Use the above instructions, insert the lower third element in your video effortl
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
  You can find the best collections of lower third templates in the online space. Evanto Elements offers an incredible design structure for the lower third module to add value to your videos. They are unique and jaw-dropping. You can opt for this template, instead of creating from the scratch.
@@ -179,13 +169,15 @@ Display the texts promptly to enlighten the audience. Connect the texts to the t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -193,3 +185,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-master-your-audience-smooth-screen-sharing-on-social-livestreams/"><u>[New] 2024 Approved Master Your Audience Smooth Screen Sharing on Social Livestreams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-all-encompassing-virtual-horizon-review/"><u>[New] All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nikon-j5-setting-new-standards-in-high-resolution-video-production/"><u>[New] Nikon J5 Setting New Standards in High-Resolution Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-handbook-on-recording-notes-by-sound/"><u>[Updated] Comprehensive Handbook on Recording Notes by Sound</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>[Updated] In 2024, Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-why-do-imovie-trims-exist-uncovering-the-reason-for-video-cropping/"><u>[Updated] In 2024, Why Do iMovie Trims Exist? Uncovering the Reason for Video Cropping</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-lg-ultrafine-4k-monitor-complete-review/"><u>2024 Approved LG UltraFine 4K Monitor Complete Review</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-3d-animation-makers-for-stunning-videos/"><u>Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere/"><u>From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-ditch-premiere-rush-top-alternative-video-editing-software/"><u>In 2024, Ditch Premiere Rush Top Alternative Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-minitool-movie-maker-a-comprehensive-review-and-comparison-of-alternatives/"><u>In 2024, Minitool Movie Maker A Comprehensive Review and Comparison of Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac/"><u>In 2024, Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-vr-video-conversion-made-simple-top-tools-and-techniques/"><u>New 2024 Approved VR Video Conversion Made Simple Top Tools and Techniques</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling
-date: 2024-08-02T06:12:21.850Z
-updated: 2024-08-03T06:12:21.850Z
+date: 2024-11-18T02:45:42.698Z
+updated: 2024-11-23T22:26:02.560Z
 tags: 
   - video editing software
   - video editing
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 
 # Final Cut Pro X: Freeze-Frames and Slow Motion
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -34,29 +30,24 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
@@ -79,6 +70,10 @@ This locates the source clip in the Browser, selects both the Browser and the cl
 
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
 
 As a connected clip, we can move this new freeze-frame wherever we want. However, be careful in moving the clip, because, unless you mark the original frame with a marker (type "M"), there's no easy way to match the still frame with the source frame, once the still frame is moved somewhere else.
@@ -91,15 +86,16 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
@@ -108,10 +104,11 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
 
@@ -119,10 +116,11 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
@@ -142,9 +140,6 @@ Three things happen at once:
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
@@ -157,9 +152,6 @@ The easy way is to grab the small handle at the end of the clip and drag left or
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -193,16 +185,21 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 #### SUMMARY
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -210,11 +207,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-your-posts-with-these-8-instagram-scheduling-apps/"><u>[New] In 2024, Boost Your Posts with These 8 Instagram Scheduling Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-conveniently-captivated-by-ifunnys-humor-hub/"><u>[New] In 2024, Conveniently Captivated by iFunny's Humor Hub</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-characters-turning-your-pics-into-pop-culture-icons-for-2024/"><u>[Updated] Creative Characters Turning Your Pics Into Pop Culture Icons for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elite-chipsets-your-guide-to-uhd-rendering-for-2024/"><u>Elite Chipsets Your Guide to UHD Rendering for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-easy-avi-editing-on-windows-8-top-rated-video-editor-for-pc-2023/"><u>In 2024, Easy AVI Editing on Windows 8 Top-Rated Video Editor for PC - 2023</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-say-goodbye-to-watermarks-top-online-tiktok-logo-removers/"><u>In 2024, Say Goodbye to Watermarks Top Online TikTok Logo Removers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts/"><u>In 2024, Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-virtualdub-alternatives-which-one-is-right-for-you/"><u>In 2024, Virtualdub Alternatives Which One Is Right for You ?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-usage-settings-on-windows-11-your-how-to-guide/"><u>Navigating Usage Settings on Windows 11: Your How-To Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-10-free-video-surveillance-software-solutions-to-keep-you-safe/"><u>New 2024 Approved 10 Free Video Surveillance Software Solutions to Keep You Safe</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mobile-animation-made-easy-top-10-apps-for-android-and-ios/"><u>New 2024 Approved Mobile Animation Made Easy Top 10 Apps for Android and iOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-online-vertical-video-editing-made-easy-top-tools/"><u>New 2024 Approved Online Vertical Video Editing Made Easy Top Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-virtualdub-replacements-top-picks-for-video-editing/"><u>New 2024 Approved VirtualDub Replacements Top Picks for Video Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-malfunctioning-keyboards-a-step-by-step-guide-for-quick-fixes/"><u>Solve Malfunctioning Keyboards: A Step-by-Step Guide for Quick Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-sonos-era-section-1-problem-theme-question/"><u>The Sonos Era # Section 1: Problem (Theme Question)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-restrictions-why-chatgpt-isnt-ideal-for-crypto-trading-insights/"><u>Understanding the Restrictions: Why ChatGPT Isn't Ideal for Crypto Trading Insights</u></a></li>
+</ul></div>
+

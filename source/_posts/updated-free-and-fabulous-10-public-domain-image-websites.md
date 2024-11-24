@@ -1,7 +1,7 @@
 ---
 title: Updated Free and Fabulous 10 Public Domain Image Websites
-date: 2024-08-09T06:44:39.047Z
-updated: 2024-08-10T06:44:39.047Z
+date: 2024-11-21T06:18:52.914Z
+updated: 2024-11-24T11:51:24.296Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  It is of utmost importance to check if an image is within the public domain before you use it publicly in order to avoid potential legal complications.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How and Where to Find Public Domain Images?
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
@@ -50,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 #### 1. [Pexels](https://www.pexels.com/public-domain-images/)
 
 ![Public Domain Images from Pexels ](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
 
@@ -82,10 +83,11 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 #### 3. [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main%5FPage)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wikimedia commons ](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
 
@@ -103,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![Flickr commons ](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
 
 **Pros:**
@@ -117,10 +123,11 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 #### 5. [Unsplash](https://unsplash.com/public-domain-images)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Unsplash public domain image  ](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
 
@@ -148,9 +155,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 #### 7. [Morguefile](https://morguefile.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Morguefile public domain image  ](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
 
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
@@ -181,10 +185,11 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 #### 9. [NYPL Digital Gallery](https://digitalcollections.nypl.org/)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NYPL Digital Gallery  ](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
@@ -214,9 +219,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -242,11 +244,25 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlocking-the-door-to-joining-a-tiktok-gathering-for-2024/"><u>[New] Unlocking the Door to Joining a TikTok Gathering for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos-for-2024/"><u>[Updated] Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/avoiding-the-elite-fraudsters-web-networks/"><u>Avoiding the Elite Fraudsters' Web Networks</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-distinctions-between-microsoft-and-standard-windows-accounts/"><u>Dissecting: Distinctions Between Microsoft & Standard Windows Accounts</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/must-know-factors-preparing-yourself-before-buying-a-dash-cam/"><u>Must-Know Factors: Preparing Yourself Before Buying a Dash Cam</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>New In 2024, Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-noticed-10-top-music-video-production-studios-for-2024/"><u>Updated Get Noticed 10 Top Music Video Production Studios for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-motion-sensing-apps-for-android-iphone-and-ipad-for-2024/"><u>Updated The Best Motion Sensing Apps for Android, iPhone, and iPad for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unbiased-review-is-avs-video-editor-the-right-choice-for-you-for-2024/"><u>Updated Unbiased Review Is AVS Video Editor the Right Choice for You for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Google Pixel 7a? | Dr.fone</u></a></li>
+</ul></div>
+

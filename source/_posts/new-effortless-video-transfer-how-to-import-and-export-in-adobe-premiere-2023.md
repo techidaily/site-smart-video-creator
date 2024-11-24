@@ -1,7 +1,7 @@
 ---
 title: New Effortless Video Transfer How to Import and Export in Adobe Premiere 2023
-date: 2024-08-02T06:11:41.237Z
-updated: 2024-08-03T06:11:41.237Z
+date: 2024-11-18T22:25:47.096Z
+updated: 2024-11-23T16:38:51.601Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ This is a straightforward command that works like most other programs, and is ac
 
 Whichever way you access it, you get the standard for the platform import dialogue box we see here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
@@ -56,10 +52,11 @@ This method of importing is best suited to self-contained media such as audio or
 
 Whilst on the surface media browser appears to do the same job as the import command the way they carry out the task is somewhat different, media browser is designed to let you see the media created by cameras, and show you easy to understand icons and metadata rather than the intricate pattern of files and folders they use. This makes picking the correct clip from a selection much easier, with metadata showing you date and duration as well as file type.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
 
@@ -74,24 +71,19 @@ There are some exceptions to this, however, despite having a huge number of file
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Exporting
 
 The ultimate aim of any project is obviously to finish it and let others see the result of your creativity, and that means exporting your work into a format that is suitable for the medium you wish the project to be viewed on. Premiere offers a number of options regarding export, you can select an entire sequence to export as a single file for the web or disc, choose a single frame to post to a website, blog or to distribute through email, you can export just the audio, or just the video from a sequence, and if you have the right hardware, can export directly to tape or disk.
 
 To export a project that closely matches the original media in quality and frame rates, often called a master copy, is very straightforward in Premiere, with the sequence selected, either in the Timeline Panel or the Project Panel, you simply use the File > Export > Media path :
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
 
 Which opens the media export dialogue.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
@@ -100,12 +92,17 @@ Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequenc
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
 
@@ -115,13 +112,15 @@ With the addition of [Wondershare Video Converter Ultimate](https://tools.techid
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +128,23 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovative-recording-solutions-for-dynamic-ppts-webcam-edition/"><u>[New] 2024 Approved Innovative Recording Solutions for Dynamic PPTs, Webcam Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-revolutionary-tips-to-upgrade-your-webinar-recordings/"><u>[New] In 2024, Revolutionary Tips to Upgrade Your Webinar Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-iphones-secret-to-quick-cost-free-red-eye-removal-revealed/"><u>[New] IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-effortlessly-gain-premium-quality-pictures-online/"><u>[Updated] How to Effortlessly Gain Premium Quality Pictures Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-gear-guide-uncovering-the-best-streamer-webcams/"><u>[Updated] In 2024, Essential Gear Guide Uncovering the Best Streamer Webcams</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/blur-unwanted-parts-of-your-videos-with-these-mobile-apps-for-2024/"><u>Blur Unwanted Parts of Your Videos with These Mobile Apps for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/cartoonify-your-footage-the-ultimate-video-to-cartoon-tutorial/"><u>Cartoonify Your Footage The Ultimate Video-to-Cartoon Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-and-fantastic-the-best-avi-video-editors/"><u>Free and Fantastic The Best AVI Video Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-online-availability-to-local-usage-llama-2s-journey/"><u>From Online Availability to Local Usage: Llama 2'S Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-merge-mov-files-for-free-5-best-options/"><u>In 2024, Merge MOV Files for Free 5 Best Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-free-video-editing-tools-for-avi-videos/"><u>In 2024, The Best Free Video Editing Tools for AVI Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-visionaries-of-marvellous-marvel-realities/"><u>In 2024, Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-convert-mp4-to-mp3-best-apps-for-iphone-and-android/"><u>New 2024 Approved Convert MP4 to MP3 Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-best-web-based-video-editors-for-chrome-os/"><u>New 2024 Approved The Best Web-Based Video Editors for Chrome OS</u></a></li>
+</ul></div>
+

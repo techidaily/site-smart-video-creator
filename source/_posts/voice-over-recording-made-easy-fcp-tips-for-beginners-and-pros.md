@@ -1,7 +1,7 @@
 ---
 title: Voice Over Recording Made Easy FCP Tips for Beginners and Pros
-date: 2024-08-09T06:46:52.703Z
-updated: 2024-08-10T06:46:52.703Z
+date: 2024-11-22T18:05:35.586Z
+updated: 2024-11-24T02:13:01.330Z
 tags: 
   - video editing software
   - video editing
@@ -46,10 +46,11 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -65,9 +66,6 @@ Now in order to start your recording, you need to press Shift+A from the keyboar
 
 The countdown will automatically start.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
@@ -76,14 +74,15 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
 ![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -101,11 +100,11 @@ Now it is time to select the desired voiceover from auditions and you can previe
 * Simple select your desired audition out of which you need to review voiceovers and then open recordings either by simply pressing Y or go to Clip then select Audition and finally choose Open.
 * Select the take from Audition window and press space bar to play it or you can also switch it on by using Control+Command+Y command.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Select a take from Audition](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Once you find your desired take then select it and hit Done. Note that a selected take appears in yellow outline.
 * Now as you want to finalize your decision so choose your clip then go to auditions and then press Finalize Audition.
@@ -114,17 +113,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 **How to sync voiceover with my video with FCPX?**
@@ -137,13 +133,15 @@ It's quite common in FCPX. If reopening the software or rebooting Mac won't fix 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +149,17 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ultimate-shooting-guide-top-8-tripods-for-4k-cameras/"><u>[Updated] 2024 Approved Ultimate Shooting Guide Top 8 Tripods for 4K Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-stepwise-addition-of-language-overlays-in-igtv-videos/"><u>2024 Approved Stepwise Addition of Language Overlays in IGTV Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/designing-instagrams-ideal-square-video-with-imovie-for-2024/"><u>Designing Instagram's Ideal Square Video with iMovie for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-fixes-at-fingertips-mapping-shortcut-keys-in-windows-11/"><u>Fast Fixes at Fingertips: Mapping Shortcut Keys in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T Phone without Google Account?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-best-time-lapse-video-apps-for-iphone-and-android-for-2024/"><u>New Unleash Your Creativity Best Time-Lapse Video Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-final-cut-pro-editing-tips-you-should-know/"><u>Top 5 Final Cut Pro Editing Tips You Should Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-effortless-color-matching-in-final-cut-pro-a-beginners-guide/"><u>Updated In 2024, Effortless Color Matching in Final Cut Pro A Beginners Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-simplify-your-workflow-top-timecode-conversion-tools-for-video-pros/"><u>Updated Simplify Your Workflow Top Timecode Conversion Tools for Video Pros</u></a></li>
+</ul></div>
+

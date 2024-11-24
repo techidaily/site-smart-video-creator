@@ -1,7 +1,7 @@
 ---
 title: New Unlocking Stills From Videos Top 10 Conversion Tools
-date: 2024-08-09T06:45:21.981Z
-updated: 2024-08-10T06:45:21.981Z
+date: 2024-11-17T10:36:05.665Z
+updated: 2024-11-24T08:55:01.902Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
 # Video to Image: How to Convert Videos to Photos
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,15 +32,13 @@ Even though **converting a video to a photo** is not something you can do, creat
 * [Part 2: Convert Video to JPG/PNG Images Online](#convert%5Fvideo%5Fto%5Fimage%5Fonline)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Converting Videos to JPEG and PNG Images with Desktop Video Converters for macOS and Windows
 
 Exporting a single frame of a video clip is an easy task even amateur photo and video editors can perform effortlessly. Mac and PC users have a broad range of options at their disposal if they want to make still images from their videos. Let’s have a look at some of the best video converters you can use to capture still frames and create JPEG or PNG files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Filmora is a video editing software that also offers the option to capture frames of all video clips you use in your projects after you launch the Filmora video editor, import a video file that contains the frames you would like to save as still images.
@@ -58,10 +53,15 @@ To extract still image from the video frame by frame, you can add the media asse
 
  **Below is the video tutorial about how to convert Video to Images Filmora.**
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
@@ -69,11 +69,12 @@ This is arguably the best photo editing software ever created that grants you ac
 
 ![Convert Video to Image in Photoshop ](https://images.wondershare.com/filmora/article-images/convert-video-to-image-with-adobe-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The video clip is going to be displayed on the timeline that is located at the bottom of the screen and you just have to specify the segment of that file you would like to break down into frames. You can do this by dragging the handles located above the video clip that allows you to set the start and end of the work area.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Render Video to convert to Images in PS ](https://images.wondershare.com/filmora/article-images/save-video-to-images-photoshop.jpg)
 
 When done, head over to the File menu, and select the Render Video option from the Export submenu. After the Render Video window pops up on the screen, you have to change the Adobe Media Encoder option to Photoshop Image Sequence and then click on the Render button. You should keep in mind that the photo editor is going to create separate image files for all the frames that were within the work area you defined, which is why it is important to reduce the work area to the minimum in order to avoid generating hundreds of JPEG images.
@@ -82,9 +83,6 @@ When done, head over to the File menu, and select the Render Video option from t
 
 Extracting still frames with VLC media players is a technical process that will require some understanding of the video editing process. Even so, you can still use this open-source software to generate PNG or JPEG files from your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Convert video to image Preferences  in VCL ](https://images.wondershare.com/filmora/article-images/vcl-convert-video-to-image-preference.jpg)
 
 Select the Preferences option from the Tools menu and then click on the Video tab. Make sure that the All option is selected under Show Settings and scroll down until you find the Filters option and expand this menu. Locate the Scene Filter, click on it and then proceed to specify the format in which your images are going to be saved and adjust the Recording Ratio.
@@ -92,6 +90,10 @@ Select the Preferences option from the Tools menu and then click on the Video ta
 Click on the Save button to confirm the changes, then go back to the Filter submenu, and this time you should click on it rather than expand it. Locate the Scene Video filter, make sure that the checkbox next to it is selected, and click OK to complete the process.
 
 ![Convert video to image Preferences  in VCL ](https://images.wondershare.com/filmora/article-images/vcl-video-filter-video-to-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Next time you play a video in VLC the media player will automatically capture still frames at the recording ratio you specified.
 
@@ -103,23 +105,18 @@ If you are looking for a quick and free way to create still images from videos, 
 
 You can then specify the frequency at which frames are going to be extracted and see the total number of frames that are going to be created from your video. Afterward, you just have to specify the location at which the still frames are going to be saved and click on the Convert button.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### 5\. [Virtual Dub](http://www.virtualdub.org/)
 
 Before you can start extracting still frames from videos with Virtual Dub, you must first install the FFMpeg plugin pack because this video converter cannot open common video file formats like MP4 or MOV. Installing this plugin can get a little technical, but it is far from being complicated. Afterward, you just have to launch Virtual Dub and import the video you would like to use to create JPEG files by clicking on the File menu and selecting the Open option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Convert Video to Image Virtual Dub](https://images.wondershare.com/filmora/article-images/virtual-dub-video-to-image-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the Frame Rate option from the Video menu and make sure that the checkbox next to the Decimate by setting is selected. Insert the frequency at which still frames are going to be captured into the box next to the Decimate by setting and click on the OK button. Head over to the File menu and select the Image Sequence option from the Export submenu. Before you start extracting still frames from a video you just have to select the file format of the output files, and then wait for Virtual Dub to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Converting Videos to JPEG or PNG Images Online
 
 In case you don’t have access to a video or photo editing software and the process of extracting still frames from videos with VLC Media Player or Virtual Dub is too technical for you, there are a number of online solutions you can try. Here are some of the best web-based platforms you can use to convert videos to JPEG or PNG images.
@@ -129,6 +126,10 @@ In case you don’t have access to a video or photo editing software and the pro
 This file conversion platform enables you to convert audio files, documents, and eBooks, but its video to photo conversion options are not the best. You have to select the Image Converter tool and then choose the output format of the images you want to extract from the video. You can then upload a video file from Dropbox, Google Drive, or your computer’s hard drive.
 
 ![ Convert Video to Image Online-Convert  ](https://images.wondershare.com/filmora/article-images/online-converter-convert-video-to-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Before the conversion, you can adjust the Quality Settings and choose if the compression is going to be high, medium, or low, but you must be logged in to save these changes. Click on the Start Conversion button when ready, and wait for the platform to process your video. Each frame of the video you uploaded is going to be converted into a photo and you can choose how many images you want to download or delete.
 
@@ -141,15 +142,13 @@ Converting virtually any type of file with AConvert is easy, which means that yo
 Once the video file you selected is uploaded to the platform you can choose the output file format and decide if you want to resize the images during the conversion or keep their original size. Click on the Convert Now button and then download the image files once the still frames are extracted from the video.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. [Online Converter](https://www.onlineconverter.com/video-to-jpg)
 
 Online Converter offers a variety of image conversion options and it even enables you to convert raw format photos into JPEGs. Its Video to JPEG tool supports nearly all common video file formats, which enables you to extract still frames from videos without having to worry about their compatibility with this tool. You can either upload a video via URL or from a local hard drive, but its size cannot be larger than 200 MB.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![   Online-Convert video to JPG ](https://images.wondershare.com/filmora/article-images/online-converter-video-to-jpg.jpg)
 
 The platform lets you choose if you want to cut a video clip, change its frame size or adjust its quality. Once you fine-tune all the settings click on the Convert button to start creating JPEG files from a video and then download the images to your computer.
@@ -158,16 +157,14 @@ The platform lets you choose if you want to cut a video clip, change its frame s
 
 Editing or converting images with IMG2GO doesn’t require you to have any previous experience, since all the tools this platform offers are easy to use. Convert to JPEG tool can break down an entire video clip into photos in just a few moments. All you have to do is upload a file to the platform, adjust the settings and click on the Start button that is located at the bottom of the page.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  IMG2GO Free Online JPG Converter ](https://images.wondershare.com/filmora/article-images/free-online-jpg-converter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The number of JPEG files IMG2GO will generate depends on the duration of the clip, which is the reason why it is better to extract still frames from shorter videos. Once the conversion process is completed you can choose if you want to save the images on the cloud or to a local hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. [Kapwing](https://www.kapwing.com/tools/convert-video)
 
 Kapwing offers a collection of video editing tools you can use to merge multiple video clips together, add audio to video files or create subtitles. The Convert Video tool lets create MP3, GIF, JPEG, or MP4 files from a video file.
@@ -190,11 +187,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/2024-approved-overcome-blurred-images-the-best-online-enhancers-listed/"><u>2024 Approved Overcome Blurred Images The Best Online Enhancers Listed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-into-the-world-of-incredible-ig-filmmaking/"><u>2024 Approved Step Into the World of Incredible IG Filmmaking</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fixing-windows-11s-broken-search-feature-expert-solutions-revealed-now/"><u>Fixing Windows 11'S Broken Search Feature? Expert Solutions Revealed Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/for-smb-printing-needs/"><u>For SMB Printing Needs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>In 2024, Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-trim-and-merge-videos-for-free-the-ultimate-beginners-toolset/"><u>In 2024, Cut, Trim, and Merge Videos for Free The Ultimate Beginners Toolset</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/schritt-fur-schritt-anleitung-datenwiederherstellung-nach-einem-pc-crash-verstehen-und-umsetzen/"><u>Schritt-Für-Schritt-Anleitung: Datenwiederherstellung Nach Einem PC-Crash Verstehen Und Umsetzen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-mighty-unihertz-atom-xl-a-small-form-factor-incredible-rugged-phone-reviewed/"><u>The Mighty Unihertz Atom XL - A Small Form Factor, Incredible Rugged Phone Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>Updated 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-color-harmony-made-easy-a-step-by-step-fcp-guide/"><u>Updated In 2024, Color Harmony Made Easy A Step-by-Step FCP Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-game-downloads-the-top-10plus-sites-you-need/"><u>Updated In 2024, Free Game Downloads The Top 10+ Sites You Need</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unbiased-review-of-avs-video-editor-features-pricing-and-more-for-2024/"><u>Updated Unbiased Review of AVS Video Editor Features, Pricing, and More for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/zero-cost-maximum-creativity-9-free-online-movie-makers/"><u>Zero Cost, Maximum Creativity 9 Free Online Movie Makers</u></a></li>
+</ul></div>
+

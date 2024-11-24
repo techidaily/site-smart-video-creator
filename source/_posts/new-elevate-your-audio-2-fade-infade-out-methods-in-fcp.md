@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP
-date: 2024-08-02T06:12:35.092Z
-updated: 2024-08-03T06:12:35.092Z
+date: 2024-11-22T01:45:16.564Z
+updated: 2024-11-24T13:07:36.506Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
 # Two Ways to Fade In/Out Audio in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -48,32 +45,32 @@ Before we get started, you can firstly detach the audio from video to better edi
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
@@ -95,15 +92,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -124,11 +125,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-mirthful-missions-delving-into-the-goofy-movie-vhs-for-2024/"><u>[New] 'Mirthful Missions' - Delving Into The Goofy Movie VHS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[New] In 2024, Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easy-steps-for-sharing-your-xbox-playtime-for-2024/"><u>[Updated] Easy Steps for Sharing Your Xbox Playtime for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-guide-to-frozen-indulgence-capture-tech-for-2024/"><u>[Updated] In-Depth Guide to Frozen Indulgence Capture Tech for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-mobile-recording-your-ultimate-snapchat-guide-for-2024/"><u>[Updated] Mastering Mobile Recording Your Ultimate Snapchat Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-bang-for-your-buck-top-filmmaking-software-for-low-budgets-for-2024/"><u>Best Bang for Your Buck Top Filmmaking Software for Low Budgets for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-video-editors-for-windows-10-users/"><u>Best Free Video Editors for Windows 10 Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere-for-2024/"><u>From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-change-video-speed-in-quicktime-player-on-your-computer/"><u>How to Change Video Speed in QuickTime Player on Your Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen/"><u>How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-color-unify-a-step-by-step-guide-to-matching-video-clips-in-powerdirector/"><u>In 2024, Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-erasing-identity-the-most-effective-face-blur-video-editing-software/"><u>In 2024, Erasing Identity The Most Effective Face Blur Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-gopro-quik-and-its-pc-alternatives-for-video-editing-mastery/"><u>New 2024 Approved The Ultimate Guide to GoPro Quik & Its PC Alternatives for Video Editing Mastery</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-from-footage-to-film-the-best-software-for-burning-home-dvds/"><u>Updated In 2024, From Footage to Film The Best Software for Burning Home DVDs</u></a></li>
+</ul></div>
+

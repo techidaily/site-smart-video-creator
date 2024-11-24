@@ -1,7 +1,7 @@
 ---
 title: Updated In This Article, I Want to Show You How to Apply an Effect to a Clip, Modify that Effect, Temporarily Turn that Effect on or Off, or Delete It Entirely for 2024
-date: 2024-08-09T06:44:54.684Z
-updated: 2024-08-10T06:44:54.684Z
+date: 2024-11-23T10:17:32.761Z
+updated: 2024-11-24T12:02:52.896Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -52,15 +49,20 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
@@ -82,35 +84,31 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -124,13 +122,15 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,3 +138,17 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-redux-of-graphics-amd-radeon-update-for-2024/"><u>[New] Redux of Graphics AMD Radeon Update for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>[Updated] How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framework-for-visual-storytelling/"><u>In 2024, Framework for Visual Storytelling</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-professional-mp3-modification-system-for-the-web/"><u>New 2024 Approved Professional MP3 Modification System for the Web</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/no-crack-required-how-to-use-filmora-absolutely-free/"><u>No Crack Required How to Use Filmora Absolutely Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-files-validation-breakdown/"><u>Overcoming Steam Files Validation Breakdown</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-vignette-apps-for-mobile-devices-free-and-premium-options-for-2024/"><u>Top Vignette Apps for Mobile Devices Free and Premium Options for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-rated-free-wmv-video-joining-programs/"><u>Top-Rated Free WMV Video Joining Programs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-video-compression-software-for-windows-10-our-expert-recommendations/"><u>Updated Free Video Compression Software for Windows 10 Our Expert Recommendations</u></a></li>
+</ul></div>
+
