@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Windows 8 Video Editor Edit MP4 Files with Ease
-date: 2024-08-02T06:08:06.099Z
-updated: 2024-08-03T06:08:06.099Z
+date: 2024-11-26T02:58:19.036Z
+updated: 2024-12-02T23:02:46.250Z
 tags: 
   - video editing software
   - video editing
@@ -28,14 +28,12 @@ MP4 format is quite popular among computer users, therefore there are numerous v
 
 In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (Windows 10/8/7/XP/Vista supported) is shared with you. This program enables you to create Hollywood-like home movies with titles, effects, and transitions from all regular videos, audio, and photos. Plus, it offers a free trial for you to evaluate. Just download the free trial of MP4 editor Windows 8 and follow below step by step guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -45,6 +43,10 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
 
@@ -60,10 +62,11 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
@@ -75,9 +78,6 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -88,17 +88,18 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -107,11 +108,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-efficient-edits-encapsulating-powerpoint-talks/"><u>[New] 2024 Approved Efficient Edits Encapsulating PowerPoint Talks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-audibly-enhance-videos-shared-as-tweets/"><u>[Updated] Audibly Enhance Videos Shared as Tweets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-combining-the-best-of-zoom-and-skype-video-calls/"><u>2024 Approved Strategies for Combining the Best of Zoom and Skype Video Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-captivating-images-using-leading-lines-iphone-for-2024/"><u>Crafting Captivating Images Using Leading Lines (iPhone) for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-your-perfect-wallet-friendly-phone-plan-the-best-picks-of-2024/"><u>Find Your Perfect Wallet-Friendly Phone Plan: The Best Picks of 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-pc-issues-steps-to-stop-starfield-from-crashing/"><u>Fixing PC Issues: Steps to Stop Starfield From Crashing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-stunning-home-videos-on-mac-os-with-ease/"><u>New In 2024, Create Stunning Home Videos on Mac OS with Ease</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-the-best-of-both-worlds-convert-mp4-to-mp3-with-these-top-converters/"><u>New In 2024, Get the Best of Both Worlds Convert MP4 to MP3 with These Top Converters</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-say-goodbye-to-filmora-watermark-tutorials-and-tips-for-2024/"><u>New Say Goodbye to Filmora Watermark Tutorials and Tips for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-lenovo-wireless-driver-downloads-and-updates-for-pcs-with-windows-710/"><u>Secure Lenovo Wireless Driver Downloads and Updates for PCs with Windows 7/10</u></a></li>
+<li><a href="https://facebook.techidaily.com/stay-uninterrupted-how-to-turn-off-facebook-responses/"><u>Stay Uninterrupted: How to Turn Off Facebook Responses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-filmora-hacks-streamline-your-reaction-video-creation-process-for-2024/"><u>Updated Filmora Hacks Streamline Your Reaction Video Creation Process for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-how-to-reverse-a-tiktok-video-with-ease-an-ultimate-guide/"><u>Updated How to Reverse A TikTok Video with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-create-stunning-videos-best-collage-makers-for-ios-devices/"><u>Updated In 2024, Create Stunning Videos Best Collage Makers for iOS Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-using-compressor-in-final-cut-pro-x-best-practices-and-workflows/"><u>Updated Using Compressor in Final Cut Pro X Best Practices and Workflows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288611899-vobmp4/"><u>VOBファイルからMP4への自由な変換手順</u></a></li>
+</ul></div>
+

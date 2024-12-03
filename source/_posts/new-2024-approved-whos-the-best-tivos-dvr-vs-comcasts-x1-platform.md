@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Whos the Best TiVos DVR vs Comcasts X1 Platform
-date: 2024-08-02T06:08:21.026Z
-updated: 2024-08-03T06:08:21.026Z
+date: 2024-12-02T01:09:34.236Z
+updated: 2024-12-03T05:25:03.259Z
 tags: 
   - video editing software
   - video editing
@@ -32,14 +32,15 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 1\. TiVo vs Comcast: Cost and rent versus own
 
  With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. TiVo vs Comcast: Services available
 
@@ -55,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  TiVo interface
 
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
@@ -69,18 +74,12 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
  The iPhone app remote screen looks like this:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -88,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
  TiVos have recording capacities that range from 75 to 450 hours, depending on whether it is standard definition or high definition, and which device you are using. You can choose from three models of the Roamio. The base model costs $200 and has 75 hours of capacity. The menu and features are more limited on this one than on the others. There is a middle model priced at $400 that has the same six tuners as the high-end one but can only hold 150 hours of recordings. Then the top tier model costs $600 and has 450 hours of recording capacity, all of it in high definition.
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
 
@@ -97,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
@@ -108,28 +108,26 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
  TiVo’s device remote has a sleek layout called the “peanut”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 **Summary**
 
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -138,11 +136,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-guide-to-adding-creative-closure-in-vimeo-videos/"><u>[New] Guide to Adding Creative Closure in Vimeo Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-your-next-best-source-for-world-exploration/"><u>[Updated] 2024 Approved Your Next-Best Source for World Exploration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-amplify-your-youtubes-interaction-with-emojis-for-2024/"><u>[Updated] Amplify Your Youtubes' Interaction with Emojis for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-instagrams-story-segmenting-system/"><u>[Updated] In 2024, Leveraging Instagram's Story Segmenting System</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-8-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-m14-4g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy M14 4G Phone that is Locked?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-new-version-of-intels-wi-fi-6-ax200-drivers-for-windows-1011-systems/"><u>Install New Version of Intel's Wi-Fi 6 (AX200) Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-like-a-pro-top-8-video-editing-apps-for-4k-proxy/"><u>New In 2024, Edit Like a Pro Top 8 Video Editing Apps for 4K Proxy</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-most-popular-free-m4a-editor-programs/"><u>New S Most Popular Free M4A Editor Programs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>New Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95692901-9781780996288-pagan-portals-by-wolfsbane-mandrake-root/"><u>Pagan Portals - By Wolfsbane & Mandrake Root | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-merging-youtube-music-and-video-content-effectively/"><u>Strategies for Merging YouTube Music & Video Content Effectively</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-video-editors-for-mac-vn-video-editor-and-beyond/"><u>Top Video Editors for Mac VN Video Editor and Beyond</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-10-best-free-video-rotation-software-for-flipping-clips/"><u>Updated 2024 Approved 10 Best Free Video Rotation Software for Flipping Clips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-avidemux-video-editing-a-beginners-guide-to-cropping-and-resizing/"><u>Updated Avidemux Video Editing A Beginners Guide to Cropping and Resizing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>Updated Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-turn-your-videos-into-dvds-with-these-3-easy-methods-for-2024/"><u>Updated Turn Your Videos Into DVDs with These 3 Easy Methods for 2024</u></a></li>
+</ul></div>
+

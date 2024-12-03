@@ -1,7 +1,7 @@
 ---
 title: New Cut Editing Time in Half with These Adobe Premiere Shortcuts for 2024
-date: 2024-08-02T06:10:02.896Z
-updated: 2024-08-03T06:10:02.896Z
+date: 2024-11-29T23:00:10.356Z
+updated: 2024-12-02T18:42:48.092Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -139,18 +127,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -223,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -234,11 +207,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-websites-for-youtube-preview-creation-tools-for-2024/"><u>Essential Websites for YouTube Preview Creation Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-tecno-spark-10-pro-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Tecno Spark 10 Pro’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-v27-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo V27 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-port-reset-failed-issue-for-windows-10/"><u>How to Fix Unknown USB Device (Port Reset Failed) Issue for Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-kinemasters-secret-to-meme-making-mastery/"><u>In 2024, KineMaster's Secret to Meme-Making Mastery</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-bring-your-videos-to-life-a-beginners-guide-to-cartoon-conversion/"><u>New In 2024, Bring Your Videos to Life A Beginners Guide to Cartoon Conversion</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-no-cost-flv-video-editing-the-best-software/"><u>New No-Cost FLV Video Editing The Best Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/tranquil-online-presence-dissuading-commenters-on-fb/"><u>Tranquil Online Presence: Dissuading Commenters on FB</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-digital-privacy-how-virtual-private-networks-revolutionized-online-safety/"><u>Unraveling Digital Privacy: How Virtual Private Networks Revolutionized Online Safety</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-audio-editing-essentials-two-ways-to-create-smooth-fades-in-final-cut-pro/"><u>Updated 2024 Approved Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-adobe-premiere-pro-power-ups-top-15-free-plugins-to-boost-your-workflow/"><u>Updated Adobe Premiere Pro Power-Ups Top 15 Free Plugins to Boost Your Workflow</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-beginners-guide-10-best-cartoon-makers-for-web-and-desktop/"><u>Updated Beginners Guide 10 Best Cartoon Makers for Web and Desktop</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-design-and-send-video-invites-on-the-go-best-mobile-apps/"><u>Updated Design and Send Video Invites On-the-Go Best Mobile Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlock-efficiency-top-adobe-premiere-shortcuts-for-faster-editing/"><u>Updated In 2024, Unlock Efficiency Top Adobe Premiere Shortcuts for Faster Editing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

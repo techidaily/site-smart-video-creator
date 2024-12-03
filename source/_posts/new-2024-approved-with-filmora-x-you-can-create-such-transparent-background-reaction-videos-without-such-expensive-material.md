@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved With Filmora X, You Can Create Such Transparent Background Reaction Videos without Such Expensive Material
-date: 2024-08-02T06:09:24.488Z
-updated: 2024-08-03T06:09:24.488Z
+date: 2024-11-28T06:03:02.919Z
+updated: 2024-12-03T00:55:18.513Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 # How to Make a Reaction Video Easier Than Ever With Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -50,9 +47,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
@@ -61,16 +55,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
@@ -79,16 +67,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -113,11 +95,34 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-comprehensive-guide-merging-primary-and-secondary-footage-for-2024/"><u>[New] Comprehensive Guide Merging Primary and Secondary Footage for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-perfecting-screenshots-editing-vids-vertically-on-fcpx/"><u>[Updated] 2024 Approved Perfecting Screenshots Editing Vids Vertically on FCPX</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers-for-2024/"><u>[Updated] Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-11-kid-vlogging-cameras-perfectly-washable-and-user-friendly/"><u>[Updated] In 2024, Top 11 Kid Vlogging Cameras, Perfectly Washable & User-Friendly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-live-broadcasts-obs-tips-for-youtube-and-twitch/"><u>In 2024, Mastering Live Broadcasts OBS Tips for YouTube & Twitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-ultimate-leap-in-viewing-experience-the-vision-pro-a-game-changer-in-home-cinema-technology/"><u>Introducing Apple's Ultimate Leap in Viewing Experience - The 'Vision Pro': A Game-Changer in Home Cinema Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nature-backdrop-sketches-essential-downloads-for-videographers/"><u>Nature Backdrop Sketches Essential Downloads for Videographers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-silent-editing-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>New In 2024, Silent Editing A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/professional-audio-editing-essentials-top-10-software-solutions-for-2024/"><u>Professional Audio Editing Essentials Top 10 Software Solutions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/rotate-your-3gp-videos-for-free-top-5-tools-for-2024/"><u>Rotate Your 3GP Videos for Free Top 5 Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/skip-the-hunt-exclusive-filmora-coupon-codes-inside-for-2024/"><u>Skip the Hunt Exclusive Filmora Coupon Codes Inside for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-20-time-saving-adobe-premiere-shortcuts-every-editor-should-know/"><u>Updated 20 Time-Saving Adobe Premiere Shortcuts Every Editor Should Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-animations-on-the-go-top-mobile-apps/"><u>Updated Create Stunning Animations On-the-Go Top Mobile Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-want-to-get-vsdc-video-editor-on-mac-but-it-is-only-available-on-windows-dont-worry-we-compiled-a-list-of-best-vsdc-video-editor-for-mac-alt/"><u>Updated In 2024, Want to Get VSDC Video Editor on Mac? But It Is only Available on Windows. Dont Worry, We Compiled a List of Best VSDC Video Editor for Mac Alternatives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-xbox-one-controller-support-software/"><u>Windows 11 Xbox One Controller Support Software</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

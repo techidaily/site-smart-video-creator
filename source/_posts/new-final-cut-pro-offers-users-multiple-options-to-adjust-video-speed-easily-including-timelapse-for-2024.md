@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse for 2024
-date: 2024-08-02T06:09:45.495Z
-updated: 2024-08-03T06:09:45.495Z
+date: 2024-12-01T21:36:24.050Z
+updated: 2024-12-02T21:56:43.687Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 # How to Make a Time Lapse Video in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,16 +34,14 @@ In this article, we are going to show you how you can easily increase the speed 
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (Originally Wondershare Video Editor for Mac). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below to try it right now. And here's a video tutorial on how to make a time-lapse video with Filmora for your reference:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -57,26 +52,29 @@ Choose **File** \> **New** \> **Event**. Name it and click **OK**. Label the pro
 
 Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you can access **Modify** \> **Retime** \> **Fast**). There are 4 preset options you can choose: 2x, 4x, 8x, 20x. Or you can customize the speed by selecting **Custom**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
 **Note:** To set speed separately for different parts of one clip, you can choose **Blade Speed** first, and then blade the clip where you want to set different speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -84,13 +82,15 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -98,3 +98,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-turning-tiktok-hits-into-mobile-ringtones-with-ease/"><u>[New] 2024 Approved Turning TikTok Hits Into Mobile Ringtones with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-the-best-of-moba-on-android-10-lists/"><u>[Updated] 2024 Approved Navigating the Best of MOBA on Android - #10 Lists</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superior-screen-selection-top-10-picks/"><u>[Updated] In 2024, Superior Screen Selection – Top 10 Picks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-jokes-whos-winning-on-the-meme-front-for-2024/"><u>[Updated] Viral Jokes Who's Winning on the Meme Front for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-the-m3-and-m2-macbook-air-expert-comparison/"><u>Choosing Between the M3 and M2 MacBook Air - Expert Comparison</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inverted-video-playback-on-android-made-simple-for-2024/"><u>Inverted Video Playback on Android Made Simple for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easy-video-editing-how-to-reverse-clips-in-final-cut-pro-2023-tutorial/"><u>New In 2024, Easy Video Editing How to Reverse Clips in Final Cut Pro 2023 Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-plugin-powerhouse-top-10-free-and-paid-options/"><u>New In 2024, FCPX Plugin Powerhouse Top 10 Free and Paid Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-mov-video-orientation-changers-top-rated/"><u>New In 2024, Free MOV Video Orientation Changers Top Rated</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-saving-made-easy-a-step-by-step-final-cut-pro-guide-for-2024/"><u>New Saving Made Easy A Step-by-Step Final Cut Pro Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-5-best-free-3gp-video-rotators-for-2024/"><u>New Top 5 Best Free 3GP Video Rotators for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/quick-resize-youtube-to-fit-mac-display-ratio-for-2024/"><u>Quick Resize YouTube to Fit Mac Display Ratio for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-amd-loading-issue-on-windows-10-success-achieved/"><u>Resolving AMD Loading Issue on Windows 10, Success Achieved!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/sicheres-und-einfach-handling-der-dateiubertragung-von-fotos-auf-deinem-ipad/"><u>Sicheres Und Einfach Handling Der Dateiübertragung Von Fotos Auf Deinem iPad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-fcp-techniques-for-2024/"><u>Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-fast-and-easy-online-video-reversal-2023s-best-options-for-2024/"><u>Updated Fast and Easy Online Video Reversal 2023S Best Options for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-still-to-motion-10-top-image-to-video-maker-tools/"><u>Updated From Still to Motion 10 Top Image to Video Maker Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mac-users-download-splice-video-editing-app-today-for-2024/"><u>Updated Mac Users Download Splice Video Editing App Today for 2024</u></a></li>
+</ul></div>
+

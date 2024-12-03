@@ -1,7 +1,7 @@
 ---
 title: New Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos
-date: 2024-08-02T06:07:50.265Z
-updated: 2024-08-03T06:07:50.265Z
+date: 2024-11-27T21:54:21.438Z
+updated: 2024-12-02T22:39:53.417Z
 tags: 
   - video editing software
   - video editing
@@ -47,23 +47,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
@@ -76,9 +67,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
@@ -87,16 +75,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -113,11 +95,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/asy-access-to-no-cost-music-for-video-makers-for-2024/"><u>[New] Easy Access to No-Cost Music for Video Makers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mac-studios-for-top-quality-recordings/"><u>In 2024, Mac Studios for Top-Quality Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-official-hp-wireless-networking-drivers-on-windows-machines/"><u>Install Official HP Wireless Networking Drivers on Windows Machines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-enhancements-revamped-framework-laptops-featuring-intel-core-ultra-and-amd-ryzen-zen-4-processors/"><u>Latest Enhancements: Revamped Framework Laptops Featuring Intel Core Ultra and AMD Ryzen Zen 4 Processors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/simple-strategies-upside-down-video-rotation-via-vlc/"><u>Simple Strategies Upside-Down Video Rotation via VLC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ique-to-implement-youtube-playlists-smoothly-into-web-pages-for-2024/"><u>Technique to Implement YouTube Playlists Smoothly Into Web Pages for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-3d-videos-top-makers-for-every-budget/"><u>Updated Create Stunning 3D Videos Top Makers for Every Budget</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-noticed-20-stunning-adobe-premiere-intro-templates-free-to-download/"><u>Updated Get Noticed 20 Stunning Adobe Premiere Intro Templates Free to Download</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-fcpx-video-editing-how-to-crop-and-resize-images-like-a-pro/"><u>Updated In 2024, FCPX Video Editing How to Crop and Resize Images Like a Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlocking-compressors-power-tips-and-tricks-for-final-cut-pro-x-editors/"><u>Updated In 2024, Unlocking Compressors Power Tips and Tricks for Final Cut Pro X Editors</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
