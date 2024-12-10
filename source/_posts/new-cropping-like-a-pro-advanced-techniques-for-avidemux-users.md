@@ -1,7 +1,7 @@
 ---
 title: New Cropping Like a Pro Advanced Techniques for Avidemux Users
-date: 2024-08-02T06:07:07.453Z
-updated: 2024-08-03T06:07:07.453Z
+date: 2024-12-08T18:05:46.302Z
+updated: 2024-12-09T23:49:47.071Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ If Avidemux is too complicate for you, you can consider [Wondershare Filmora](ht
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Crop a Video with Avidemux
 
 #### 1\. Installation
@@ -46,26 +50,21 @@ One point of note during installation is that you can choose which parts of the 
 
 Once installed you will be presented with the program as seen here.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Installation3](https://images.wondershare.com/multimedia/installation3.png)
 
 #### 2\. Importing Video
 
 The next step is importing video. This can be done in two ways, by clicking the file folder icon at the top left you open a standard file browser to navigate to, and select your chosen video file, or alternatively you can simply drag you video into the main panel to import it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Importing Video1](https://images.wondershare.com/multimedia/importing-video1.png)
 
 Whichever route you take, you will end up with your video file loaded in like this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Importing Video2](https://images.wondershare.com/multimedia/importing-video2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can edit the video as you need, Avidemux contains a wealth of features to enable the full spectrum of editing tasks to be completed. However, here we are going to look at the cropping tool, so on to the next step.
 
@@ -81,26 +80,25 @@ Once that is set you are free to start editing your footage.
 
 It is important to understand how the editing process works in Avidemux, everything is accessed via the filters menu Video>Filters and from here you are faced with a new interface that enables you to choose the component you wish to use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Cropping1](https://images.wondershare.com/multimedia/cropping.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selecting ‘Crop’ from the menu and pressing the green plus symbol at the bottom activated the crop tool and presents you with yet another view that allows you to adjust the crop to your tastes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Cropping2](https://images.wondershare.com/multimedia/cropping2.png)
 
 #### 5\. Cropping controls
 
 There are two options for cropping, you can use the Auto crop feature, which will detect any black lines and crop the footage between them, or if you are using the crop tool for something else, or just want to do it manually, you can set the crop via the left right top and bottom boxes. Values input here are the number of pixels from that edge the crop extends, as you are setting it, this is displayed with a green block signifying the area of the image that will be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Cropping controls1](https://images.wondershare.com/multimedia/cropping-controls1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can adjust this independently for all 4 edges as you wish.
 
@@ -112,17 +110,19 @@ Once you are happy with the crop, you click Ok and it takes you back to the fami
 
 One of the most common points of confusion with Avidemux comes at this point, as your video will look no different to when you started, and many think they have done something wrong, but this is another part of Avidemux workflow. These filters can only be applied when the video is reencoded, and you do that through the file>save menu.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saving the crop1](https://images.wondershare.com/multimedia/saving-the-crop1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selecting this presents the familiar export dialogue and allows you to choose the name and destination of the file. Once that is done you click OK and you will see Avidemux processing your file and re-rendering it in this dialogue box.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Saving the crop2](https://images.wondershare.com/multimedia/saving-the-crop2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 How long it takes will depend on a few factors, how many other effects have been added, how fast a processor your computer has, and how large and what resolution the video is. Format also plays a part in the process too, with some formats taking less time to encode than others. Once it has finished, you can view your video and see the crop in action.
 
@@ -136,17 +136,14 @@ Avidemux is a great piece of software, it lacks the polish of some of its commer
 
 [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful program that allows you to create stunning video clips in only a few clicks. This video editing software provides users with a variety of tools for editing videos. It also includes a user-friendly interface for editing home films on Windows PCs, Macs, and Linux devices. To crop a video, these are to follow:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1**: Open a video that you want to edit. Go to “Import” and choose the file that you want to upload and put it in the Media Library.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-12.png)
 
 **Step 2**: Select the "Crop and Zoom" icon in the Filmora editing tool.
@@ -169,11 +166,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-discover-efficiency-with-these-5-essential-mac-snippers/"><u>[New] 2024 Approved Discover Efficiency with These 5 Essential Mac Snippers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-efficient-strategies-for-hue-modification/"><u>[New] 2024 Approved Efficient Strategies for Hue Modification</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-harmonizing-with-the-best-15-premier-sound-assistants-to-enhance-your-discord-audio/"><u>[Updated] 2024 Approved Harmonizing with the Best 15 Premier Sound Assistants to Enhance Your Discord Audio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-transcoding-vimeo-to-mp3-audio-file/"><u>[Updated] In 2024, Transcoding Vimeo to MP3 Audio File</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-minimizing-motion-blur-with-obs-adjustments-for-2024/"><u>[Updated] Minimizing Motion Blur with OBS Adjustments for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>2024 Approved Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/masterfb-mp4-the-ultimate-downloader-for-vids/"><u>MasterFB-MP4 The Ultimate Downloader for Vids</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-streamline-your-videos-compress-mpeg2-with-virtualdub-for-2024/"><u>New Streamline Your Videos Compress MPEG2 with VirtualDub for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-mpeg2-the-ultimate-video-compression-solution/"><u>New VirtualDub MPEG2 The Ultimate Video Compression Solution</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/overcoming-codec-conundrums-in-videos/"><u>Overcoming Codec Conundrums in Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resuscitating-a-dormant-snapchat-account-techniques-and-tips-for-reactivation/"><u>Resuscitating a Dormant Snapchat Account: Techniques and Tips for Reactivation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/setting-up-zoom-meetings-a-comprehensible-android-methodology-for-2024/"><u>Setting Up Zoom Meetings A Comprehensible Android Methodology for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-lego-animators-to-watch/"><u>Top Lego Animators to Watch</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-final-cut-pro-time-lapse-essentials-tips-tricks-and-best-practices/"><u>Updated In 2024, Final Cut Pro Time Lapse Essentials Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-gopro-video-editing-for-mac-users-tips-tricks-and-tutorials/"><u>Updated In 2024, GoPro Video Editing for Mac Users Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-downloading-kinemaster-on-mac-for-2024/"><u>Updated The Ultimate Guide to Downloading KineMaster on Mac for 2024</u></a></li>
+</ul></div>
+

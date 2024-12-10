@@ -1,7 +1,7 @@
 ---
 title: Mastering Titles in FCPX Essential Skills for Video Editors for 2024
-date: 2024-08-09T06:37:42.614Z
-updated: 2024-08-10T06:37:42.614Z
+date: 2024-12-04T19:39:17.654Z
+updated: 2024-12-09T17:35:36.657Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -86,16 +80,10 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles007.jpg)
 
 Let's add a totally ridiculous title to our turtle - drag Clouds from the Title Browser and place it above the clip at the point where you want a title to appear.
@@ -140,9 +128,6 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -157,9 +142,6 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -180,9 +162,6 @@ Titles015
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -195,9 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -206,12 +182,28 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-entrepreneurs-guide-to-snapchat-advertising-for-2024/"><u>[Updated] The Entrepreneur's Guide to Snapchat Advertising for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-c55-by-drfone-android/"><u>Full Guide to Unlock Your Realme C55</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-download-compatible-pci-network-adapters-drivers-for-windows-versions-11-10-8-7/"><u>How To Find And Download Compatible PCI Network Adapters Drivers For Windows (Versions 11, 10, 8, 7)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-embark-into-the-best-youtube-vr-content-ever/"><u>In 2024, Embark Into the Best YouTube VR Content Ever!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/minirecord-screen-snapshot-evaluation/"><u>MiniRecord Screen Snapshot Evaluation</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-final-cut-pro-essentials-reversing-a-clip-in-4-simple-steps/"><u>New In 2024, Final Cut Pro Essentials Reversing a Clip in 4 Simple Steps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-15-free-video-editing-software-for-beginners-easy-to-use-for-2024/"><u>New Top 15 Free Video Editing Software for Beginners Easy to Use for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-maximize-your-videos-the-top-10-free-4k-video-converter-software/"><u>Updated Maximize Your Videos The Top 10 Free 4K Video Converter Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/want-to-find-the-best-video-editor-for-mac-read-this-article-to-find-out-the-best-video-editing-software-on-mac-that-weve-picked-out-for-you/"><u>Want to Find the Best Video Editor for Mac? Read This Article to Find Out the Best Video Editing Software on Mac that Weve Picked Out for You</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

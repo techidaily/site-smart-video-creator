@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
-date: 2024-08-09T06:35:39.148Z
-updated: 2024-08-10T06:35:39.148Z
+date: 2024-12-06T23:22:34.613Z
+updated: 2024-12-10T05:53:56.486Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 # How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -38,9 +35,6 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -50,8 +44,9 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -60,6 +55,10 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
@@ -67,8 +66,9 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -77,23 +77,20 @@ You can also customize the ken burns effects in Final Cut.
 
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -128,12 +125,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-guide-the-ultimate-list-of-video-converters/"><u>[New] 2024 Approved Guide The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-roadmap-views-subscribers-and-money-on-youtube/"><u>[New] 2024 Approved The Ultimate Roadmap Views, Subscribers & Money on Youtube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-art-of-high-dynamic-range-pro-photoshop-techniques-for-2024/"><u>[New] The Art of High Dynamic Range Pro Photoshop Techniques for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-tier-mkv-players-macos-edition/"><u>[New] Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-benefits-vs-drawbacks-in-vr-technology/"><u>[Updated] Benefits vs Drawbacks in VR Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ark-splusa-on-pc-how-to-stop-the-endless-cycle-of-crashes-with-9-effective-solutions/"><u>ARK: S+A on PC - How to Stop the Endless Cycle of Crashes with 9 Effective Solutions!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-video-player-options-for-windows-1011-including-daums-free-potplayer-app/"><u>Best Video Player Options for Windows 10/11, Including Daum's Free PotPlayer App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-tips-how-to-avoid-the-8-deadliest-youtube-dos-and-donts-for-newbies/"><u>In 2024, Top Tips How to Avoid the 8 Deadliest YouTube Dos and Don'ts for Newbies</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-monitor-errors-a-deep-dive-into-unsupported-input-categories/"><u>Navigating Monitor Errors: A Deep Dive Into Unsupported Input Categories</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-started-with-microsoft-video-editor-easy-video-editing-for-windows-users/"><u>New In 2024, Get Started with Microsoft Video Editor Easy Video Editing for Windows Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/premiere-elements-not-for-you-try-these-10-alternatives-instead-for-2024/"><u>Premiere Elements Not for You? Try These 10 Alternatives Instead for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-windows-live-movie-maker-tutorial-splitting-videos-made-easy/"><u>Updated 2024 Approved Windows Live Movie Maker Tutorial Splitting Videos Made Easy</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-how-to-trim-and-split-3gp-videos-in-minutes-for-2024/"><u>Updated How to Trim and Split 3GP Videos in Minutes for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-running-windows-and-mac-os-video-editing-apps-on-chrome-os-for-2024/"><u>Updated The Ultimate Guide to Running Windows and Mac OS Video Editing Apps on Chrome OS for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-slow-motion-video-editing-top-10-tools-for-2024/"><u>Updated The Ultimate Guide to Slow Motion Video Editing Top 10 Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unbranded-video-merging-our-top-7-recommendations-for-2024/"><u>Updated Unbranded Video Merging Our Top 7 Recommendations for 2024</u></a></li>
+</ul></div>
 

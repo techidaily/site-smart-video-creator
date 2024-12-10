@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora for 2024
-date: 2024-08-09T06:37:36.030Z
-updated: 2024-08-10T06:37:36.030Z
+date: 2024-12-07T02:42:48.653Z
+updated: 2024-12-10T03:04:14.138Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
@@ -54,16 +51,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step4.png)
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
@@ -72,9 +63,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
@@ -91,9 +79,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -102,9 +87,6 @@ AI Portrait allows you to create wonderful effects using artificial intelligence
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -113,12 +95,37 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[New] In 2024, Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-movie-sneak-peeks-ensemble/"><u>[New] Premier Movie Sneak Peeks Ensemble</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cutting-edge-techniques-for-youtube-thumbnails-made-for-macos/"><u>[Updated] Cutting-Edge Techniques for YouTube Thumbnails, Made for macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/centro-di-download-gratuiti-winx-scarica-professional-software-per-estrai-e-converti-video-hd-con-facilita/"><u>Centro Di Download Gratuiti WinX - Scarica Professional Software per Estrai E Converti Video HD Con Facilità!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-viewing-at-home-with-eizos-4k-display-for-2024/"><u>High-Fidelity Viewing at Home with EIZO's 4K Display for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-f34-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy F34 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-iphones-high-dynamic-range-photography-demystified/"><u>In 2024, IPhone's High-Dynamic Range Photography Demystified</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-poco-f5-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Poco F5 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-started-with-mp4-video-editing-a-friendly-tutorial-for-mac-and-windows-beginners/"><u>New In 2024, Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-xp709-system-failure/"><u>Strategies for XP709 System Failure</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-record-like-a-pro-10-best-free-music-production-software/"><u>Updated 2024 Approved Record Like a Pro 10 Best Free Music Production Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>Updated 2024 Approved What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-a-stunning-video-resume-top-4-makers-with-free-resources/"><u>Updated Create a Stunning Video Resume Top 4 Makers with Free Resources</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-home-videos-on-mac-os-with-ease/"><u>Updated Create Stunning Home Videos on Mac OS with Ease</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-design-beautiful-memories-online-photo-and-video-collage-editors-for-2024/"><u>Updated Design Beautiful Memories Online Photo and Video Collage Editors for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-and-easy-the-best-iphone-video-rotation-apps-for-2024/"><u>Updated Free and Easy The Best iPhone Video Rotation Apps for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-disc-to-device-converting-dvds-to-digital-video-files-for-2024/"><u>Updated From Disc to Device Converting DVDs to Digital Video Files for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-why-professionals-choose-final-cut-pro-over-express-for-2024/"><u>Updated Why Professionals Choose Final Cut Pro Over Express for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

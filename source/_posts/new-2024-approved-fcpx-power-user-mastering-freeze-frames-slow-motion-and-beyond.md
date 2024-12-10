@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FCPX Power User Mastering Freeze Frames, Slow Motion, and Beyond
-date: 2024-08-09T06:39:17.422Z
-updated: 2024-08-10T06:39:17.422Z
+date: 2024-12-04T06:37:43.351Z
+updated: 2024-12-09T16:24:22.984Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
@@ -44,10 +48,11 @@ In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freez
 
 This creates a two-second freeze-frame at the position of the playhead.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
@@ -63,10 +68,11 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
@@ -84,15 +90,16 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
@@ -109,9 +116,6 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
@@ -126,24 +130,26 @@ Choose one of the available speeds; in this case, 50%. (Yes, you can change this
 
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Three things happen at once:
 
 * The duration of the clip changes
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
@@ -167,6 +173,10 @@ There is one more setting to consider when slowing a clip. (This does not apply 
 
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
 
 * Normal. This is the best choice for speeds of 50% or faster.
@@ -181,9 +191,6 @@ Frame blending is relatively fast and easy. Optical Flow will look better in mos
 
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -192,18 +199,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -212,12 +207,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-pinpointing-your-place-in-youtubes-varied-landscapes/"><u>[New] 2024 Approved Pinpointing Your Place in YouTube's Varied Landscapes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-conveniently-enjoy-nba-games-top-15-streaming-methods-for-2024/"><u>[New] Conveniently Enjoy NBA Games - Top 15 Streaming Methods for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-future-of-presentations-capturing-via-webcam/"><u>[Updated] In 2024, The Future of Presentations Capturing via Webcam</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-100plus-best-zodiac-bio-ideas-for-messaging-enthusiasts/"><u>[Updated] The 100+ Best Zodiac Bio Ideas for Messaging Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-xmedia-center-all-in-one-windows-alternative/"><u>2024 Approved XMedia Center All-in-One Windows Alternative</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-make-lip-sync-video-without-installing-any-app/"><u>How to Make Lip Sync Video Without Installing Any App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-razr-40-ultra-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Razr 40 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-laugh-out-loud-the-10-best-meme-generator-apps-for-mobile/"><u>New In 2024, Laugh Out Loud The 10 Best Meme Generator Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-reversing-tiktok-videos-101-master-the-technique-with-this-ultimate-guide-for-2024/"><u>New Reversing TikTok Videos 101 Master the Technique with This Ultimate Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-the-best-animation-software-for-mac-and-pc-for-2024/"><u>New Unleash Your Creativity The Best Animation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nikon-d500-review-breaking-boundaries-in-4k-for-2024/"><u>Nikon D500 Review Breaking Boundaries in 4K for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/no-cost-video-editing-top-picks-without-watermarks-for-2024/"><u>No-Cost Video Editing Top Picks Without Watermarks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/spread-smiles-through-adobe-memes/"><u>Spread Smiles Through Adobe Memes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-discover-the-power-of-vn-video-editor-on-pc/"><u>Updated 2024 Approved Discover the Power of VN Video Editor on PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-webm-video-compressors-for-online-use/"><u>Updated 2024 Approved The Best WebM Video Compressors for Online Use</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-novice-to-pro-20-adobe-premiere-shortcuts-to-take-your-skills-to-the-next-level-for-2024/"><u>Updated From Novice to Pro 20 Adobe Premiere Shortcuts to Take Your Skills to the Next Level for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-bring-your-videos-to-life-a-beginners-guide-to-cartoon-conversion/"><u>Updated In 2024, Bring Your Videos to Life A Beginners Guide to Cartoon Conversion</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-3-simple-video-game-recording-tools-for-2024/"><u>Updated Unleash Your Creativity 3 Simple Video Game Recording Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/voice-over-techniques-creating-compelling-video-content-for-2024/"><u>Voice Over Techniques Creating Compelling Video Content for 2024</u></a></li>
+</ul></div>
 

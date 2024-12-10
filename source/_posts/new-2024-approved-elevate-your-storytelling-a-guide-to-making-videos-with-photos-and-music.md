@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Elevate Your Storytelling A Guide to Making Videos with Photos and Music
-date: 2024-08-09T06:36:54.881Z
-updated: 2024-08-10T06:36:54.881Z
+date: 2024-12-06T01:02:49.573Z
+updated: 2024-12-10T07:31:12.575Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 # How to Make a Video with Photos and Music
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -52,9 +49,6 @@ The still image default duration is 5 seconds, you can shorten or extend it by d
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
@@ -67,23 +61,25 @@ If you want to express your feelings or explain something in the slideshow, you 
 
 ![add titles](https://images.wondershare.com/filmora/article-images/add-titles-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\. Select music
 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
 #### 5\. Export
 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
 
@@ -96,8 +92,9 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why Choose Wondershare Filmora?
 
 **1\. Initiative Interface**  
@@ -112,12 +109,17 @@ Easily rotate photos, enhance brightness and color balance to fine tune your vid
 **4\. Share Video in Different Ways**  
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to Facebook and YouTube or burn it a DVD collection.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -125,12 +127,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-revenue-protection/"><u>[New] Revenue Protection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-react-when-youre-your-own-reflection-in-a-video-call/"><u>[Updated] 2024 Approved How to React When You're Your Own Reflection in a Video Call</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/are-budget-ssls-secure-enough-for-businesses/"><u>Are Budget SSLS Secure Enough for Businesses?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-list-of-top-5-iphone-podcast-platforms-for-2024/"><u>Exclusive List of Top 5 iPhone Podcast Platforms for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-live-streaming-platforms-you-should-know/"><u>In 2024, 10 Best Live Streaming Platforms You Should Know</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-windows-10-preparing-your-pc-for-the-upgrade/"><u>In 2024, From Windows 10 Preparing Your PC for the Upgrade</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-c65-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco C65 Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-explainer-video-software-showdown-top-picks/"><u>New In 2024, Explainer Video Software Showdown Top Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-make-me-laugh-best-video-dubbing-apps-for-comedy-clips/"><u>New In 2024, Make Me Laugh Best Video Dubbing Apps for Comedy Clips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-make-your-videos-epic-how-to-add-slow-motion-in-windows-live-movie-maker-for-2024/"><u>New Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-edge-2023-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Edge 2023</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-steps-to-selecting-your-perfect-home-audio-system-as-a-first-timer/"><u>The Essential Steps to Selecting Your Perfect Home Audio System as a First-Timer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-top-rated-video-editing-tools-for-mac-in/"><u>The Top-Rated Video Editing Tools for Mac In</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android/"><u>The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-quicktime-video-editing-on-mac-tips-tricks-and-techniques/"><u>Updated 2024 Approved QuickTime Video Editing on Mac Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-resume-creators-get-started-with-free-templates/"><u>Updated In 2024, Top Video Resume Creators Get Started with Free Templates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-10-coolest-plugins-for-final-cut-pro-x/"><u>Updated Top 10 Coolest Plugins for Final Cut Pro X</u></a></li>
+</ul></div>
 

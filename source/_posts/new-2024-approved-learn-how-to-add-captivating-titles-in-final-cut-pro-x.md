@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Learn How to Add Captivating Titles in Final Cut Pro X
-date: 2024-08-09T06:36:31.950Z
-updated: 2024-08-10T06:36:31.950Z
+date: 2024-12-03T05:56:43.707Z
+updated: 2024-12-09T23:14:18.839Z
 tags: 
   - video editing software
   - video editing
@@ -58,9 +58,6 @@ At its simplest, we use titles to display his (its?) name.
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles003.jpg)
 
 Look at the Browser and see the results of your work. A lower-third title is superimposed over the video in the lower left corner. (I'll talk about formatting the text in a few paragraphs.)
@@ -71,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -86,9 +80,6 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -99,9 +90,6 @@ Let's add a totally ridiculous title to our turtle - drag Clouds from the Title 
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -116,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -129,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -146,9 +128,6 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -183,9 +162,6 @@ Titles015
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -206,12 +182,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-setting-pip-mode-in-the-youtube-app-for-mobile-viewing/"><u>[New] Setting PIP Mode in the YouTube App for Mobile Viewing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unveiling-the-secrets-to-stellar-youtube-intros/"><u>[Updated] 2024 Approved Unveiling the Secrets to Stellar YouTube Intros</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-professional-tips-for-editing-and-refining-instagram-videos/"><u>2024 Approved Professional Tips for Editing and Refining Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-simplifying-cross-platform-sharing-instagram-and-facebook-integration/"><u>2024 Approved Simplifying Cross-Platform Sharing Instagram & Facebook Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-civi-3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Civi 3 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-all-encompassing-iptv-access-strategies/"><u>In 2024, All-Encompassing IPTV Access Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds/"><u>In 2024, Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722890086013-insider-info-on-googles-new-streamer-anticipated-cost-release-timeline-specs-stay-ahead-with-latest-rumors/"><u>Insider Info on Google's New Streamer: Anticipated Cost, Release Timeline, Specs - Stay Ahead with Latest Rumors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-find-the-best-sony-vegas-alternative-for-windows/"><u>New In 2024, Find the Best Sony Vegas Alternative for Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks-for-2024/"><u>New Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-editing-gopro-videos-top-studio-alternatives/"><u>New The Ultimate Guide to Editing GoPro Videos Top Studio Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/samsung-ue590-4k-freesync-gaming-monitor-review-for-2024/"><u>Samsung UE590 4K FreeSync Gaming Monitor Review for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-liquid-damage-warnings-a-step-by-step-guide-for-iphone-usb-c-ports/"><u>Solving 'Liquid Damage' Warnings: A Step-by-Step Guide for iPhone USB-C Ports</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unify-your-visuals-a-step-by-step-color-matching-tutorial-for-powerdirector/"><u>Unify Your Visuals A Step-by-Step Color Matching Tutorial for PowerDirector</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-audio-editing-in-fcp-tips-tricks-and-best-practices-for-2024/"><u>Updated Audio Editing in FCP Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-frame-by-frame-mastering-video-freeze-frames-for-2024/"><u>Updated Frame by Frame Mastering Video Freeze Frames for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-beyond-pinnacle-studio-top-video-editing-software-for-mac/"><u>Updated In 2024, Beyond Pinnacle Studio Top Video Editing Software for Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-hand-drawing-whiteboard-animation-makers/"><u>Updated In 2024, The Ultimate Guide to Hand Drawing Whiteboard Animation Makers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>Updated Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

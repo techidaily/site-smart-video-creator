@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Make Reaction Videos Like a Pro Simplified with Filmoras User-Friendly Tools
-date: 2024-08-09T06:36:23.530Z
-updated: 2024-08-10T06:36:23.530Z
+date: 2024-12-05T09:17:57.923Z
+updated: 2024-12-09T21:24:32.218Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 # How to Make a Reaction Video Easier Than Ever With Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -62,30 +59,18 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 05:** Our goal is to remove the background of the reaction. To do that, we will use Human Segmentation. Drag and drop Human Segmentation into the reaction video. If you haven't purchased this effect already, it will ask you to buy it to export the video. But you want to try it first, click on "Try It."
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step5.png)
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -94,9 +79,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -113,12 +95,33 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-30-dynamic-metaverse-insights-with-arvr-themes/"><u>[New] 30 Dynamic Metaverse Insights with AR/VR Themes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-toolkit-for-editors-magix-video-pro-x-review/"><u>[New] The Ultimate Toolkit for Editors Magix Video Pro X Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-strategy-to-turn-your-fb-page-into-cash/"><u>[Updated] 2024 Approved The Ultimate Strategy to Turn Your FB Page Into Cash</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-flawless-footage-overcome-instagram-video-hurdles-for-2024/"><u>[Updated] Unleash Flawless Footage Overcome Instagram Video Hurdles for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-uncomplicated-approach-for-smooth-iphone-screening/"><u>In 2024, Uncomplicated Approach for Smooth Iphone Screening</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-discover-the-top-4k-video-editing-platforms-for-professionals/"><u>New In 2024, Discover the Top 4K Video Editing Platforms for Professionals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-ditch-premiere-elements-10-better-video-editing-options-for-you/"><u>New In 2024, Ditch Premiere Elements 10 Better Video Editing Options for You</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>New In 2024, Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-and-fabulous-10-public-domain-image-websites/"><u>New In 2024, Free and Fabulous 10 Public Domain Image Websites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-video-quality-on-tiktok/"><u>Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-6-free-mov-video-cutters-for-2024/"><u>Top 6 Free MOV Video Cutters for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces/"><u>Updated In 2024, Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-free-imovie-alternatives-for-video-editing/"><u>Updated Top-Rated Free iMovie Alternatives for Video Editing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

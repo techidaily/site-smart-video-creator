@@ -1,7 +1,7 @@
 ---
 title: Mastering Video Editing on Mac A Guide to OS X Mavericks for 2024
-date: 2024-08-09T06:36:26.352Z
-updated: 2024-08-10T06:36:26.352Z
+date: 2024-12-09T03:26:51.050Z
+updated: 2024-12-09T19:07:37.469Z
 tags: 
   - video editing software
   - video editing
@@ -29,17 +29,15 @@ As Mac OS X 10.14.3 Mavericks will become a popular and household operating syst
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Edit Videos in OS X Mavericks
 
 #### 1 Download this Video Editor for Mavericks and add files
 
 Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or directly drag-n-drop your videos to the timeline to import the file you want to edit on your Mac. For your convenience, a media browser is provided for you to get files from your iTunes library, iMovie, etc. By the way, you can even record videos using a video capture device or with the built-in iSight.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
 #### 2 Edit videos in OS X Mavericks
@@ -48,19 +46,21 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 
 Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. There are two ways to edit video. One is to click the gear button under the video to choose different editing functions like Trimming, Cropping, Rotation, Title, Effect and more. The other is to highlight the video clip and then click the corresponding Trim, Crop, Rotate, Voiceover and button in the tool bar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Add transitions or credit/intro**
 
 To add transitions, you can click **Transitions** at the top, and then drag your favorite transition effect to the track over the video to apply. Then double click it to set the transition duration freely. As you can see, you can also apply one favorite transition effect to all the clips or let the software randomly add transitions for you. To make your videos more stunning, you can also switch to the “Intro/Credit” tab to add different intro/ credit effect to timeline. To change the effect and text, choose the “Title” function and customize it as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3 Save the edited videos
 
@@ -70,15 +70,17 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 Now download this video resizer for Mavericks and explore more video editing functions!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -86,12 +88,27 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/eginning-your-blog-journey-for-financial-gain-for-2024/"><u>[New] Beginning Your Blog Journey for Financial Gain for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-professional-perception-pioneering-hdr-art-with-photoshop/"><u>[New] Professional Perception Pioneering HDR Art with PhotoShop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-overcoming-compatibility-problems-with-rainbow-six-extraction-drivers-and-hardware/"><u>Fix Guide: Overcoming Compatibility Problems with Rainbow Six Extraction Drivers and Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixed-hp-laserjet-1020-drivers-on-windows-systems/"><u>Fixed HP LaserJet 1020 Drivers on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flaky-windows-apps-a-step-by-step-guide/"><u>Fixing Flaky Windows Apps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone SE (2022) in the Best Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy S23</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-maintaining-creative-commons-on-youtube-for-greater-exposure/"><u>In 2024, Maintaining Creative Commons on YouTube for Greater Exposure</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-stream-anything-the-ultimate-chromecast-video-playback-guide/"><u>New In 2024, Stream Anything The Ultimate Chromecast Video Playback Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-of-free-avi-video-rotation-tools-windows-mac-mobile-online/"><u>New The Ultimate List of Free AVI Video Rotation Tools Windows, MAC, Mobile, Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-memories-video-editing-secrets-for-beginners/"><u>Transform Your Memories Video Editing Secrets for Beginners</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-3gp-video-editing-rotate-flip-and-more-with-these-top-tools-for-2024/"><u>Updated Free 3GP Video Editing Rotate, Flip, and More with These Top Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>Updated In 2024, Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
+</ul></div>
 

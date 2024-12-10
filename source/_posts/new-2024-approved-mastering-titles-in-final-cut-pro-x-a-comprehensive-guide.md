@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Titles in Final Cut Pro X A Comprehensive Guide
-date: 2024-08-09T06:38:18.811Z
-updated: 2024-08-10T06:38:18.811Z
+date: 2024-12-03T05:28:14.507Z
+updated: 2024-12-09T20:24:52.936Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -57,9 +54,6 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -78,9 +72,6 @@ Select that title and delete it by pressing the Delete key.
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -123,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -140,9 +128,6 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -157,25 +142,10 @@ While many of these settings you already know there are a few you may not:
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -204,9 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -215,12 +182,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-to-productive-online-team-sessions/"><u>[New] In 2024, The Ultimate Guide to Productive Online Team Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-incor-written-by-a-professor-the-article-discusses-the-use-of-metaphors-and-analogies-to-explain-complex-scientific-concepts-how-can-teachers-effectivel/"><u>[New] Incor Written by a Professor, the Article Discusses the Use of Metaphors and Analogies to Explain Complex Scientific Concepts. How Can Teachers Effectively Incorporate These Rhetorical Devices Into Their Teaching Methods?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-bgm-leading-lines-in-the-realm-of-yt-shorts/"><u>[Updated] 2024 Approved Fresh BGM Leading Lines in the Realm of YT Shorts</u></a></li>
+<li><a href="https://win-data.techidaily.com/all-my-files-deleted-after-reboot-how-can-i-recover-them/"><u>All My Files Deleted After Reboot - How Can I Recover Them?</u></a></li>
+<li><a href="https://win-online.techidaily.com/mantan-tumpat-data-di-windows-11-memperbaiki-partisi-logik-dengan-bebas-penggusuran/"><u>Mantan Tumpat Data Di Windows 11: Memperbaiki Partisi Logik Dengan Bebas Penggusuran</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-20-free-adobe-premiere-title-templates/"><u>New In 2024, Unleash Your Creativity Top 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-free-gif-animators-for-endless-loops/"><u>New Top Free GIF Animators for Endless Loops</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/powerdirector-color-grading-unifying-your-video-clips-look/"><u>PowerDirector Color Grading Unifying Your Video Clips Look</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-basic-ps-color-correction/"><u>Step-by-Step Guide to Basic PS Color Correction</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-creating-free-youtube-outros-1-6-for-2024/"><u>The Ultimate Guide to Creating FREE YouTube Outros #1-6 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-linux-on-a-chromebook-the-ultimate-setup-tutorial/"><u>Updated Linux on a Chromebook The Ultimate Setup Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-editing-made-easy-a-windows-movie-maker-tutorial-for-all-for-2024/"><u>Updated Video Editing Made Easy A Windows Movie Maker Tutorial for All for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
