@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate FCP X Shortcut Adding Effects in 3 Steps or Less
-date: 2024-10-21T19:36:44.428Z
-updated: 2024-10-24T02:48:10.375Z
+date: 2024-12-11T12:42:13.274Z
+updated: 2024-12-16T09:31:53.674Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -61,6 +65,10 @@ The Browser, like all the effects browsers, lists categories of effects on the l
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
 To apply an effect, do one of two things:
@@ -82,11 +90,19 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -106,6 +122,10 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -121,26 +141,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-boundless-creativity-fantasy-backdrops-on-thumbnails-for-2024/"><u>[Updated] Boundless Creativity Fantasy Backdrops on Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-views-top-14-gaming-video-ideas-that-work/"><u>[Updated] In 2024, Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-gaming-displays-at-240hz-top-picks/"><u>Cutting-Edge Gaming Displays at 240Hz, Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/easy-online-conversion-transforming-mxf-into-mp4-without-cost-best-practices-for-windows-and-mac/"><u>Easy Online Conversion: Transforming MXF Into MP4 Without Cost - Best Practices for Windows and Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-pro-e8715-driver-for-windows-11108-free-download-now/"><u>Get Your HP OfficeJet Pro E8715 Driver for Windows 11/10/8 - Free Download Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-text-motion-tracking-expert-approved-software/"><u>New In 2024, Text Motion Tracking Expert-Approved Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-mini-moviemaker-a-fun-guide-for-kids-to-make-their-own-movies-for-2024/"><u>New The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/rotate-your-3gp-videos-with-ease-best-free-tools-of-the-year-for-2024/"><u>Rotate Your 3GP Videos with Ease Best Free Tools of the Year for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-ipad-video-editors-top-5/"><u>Updated 2024 Approved The Ultimate Guide to iPad Video Editors Top 5</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-convert-4k-videos-to-mp4-a-step-by-step-guide-to-easy-downloads-for-2024/"><u>Updated Convert 4K Videos to MP4 A Step-by-Step Guide to Easy Downloads for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlock-chromecast-play-any-video-format-with-ease-2023-update/"><u>Updated In 2024, Unlock Chromecast Play Any Video Format with Ease 2023 Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-core-elements-in-storytelling-skills/"><u>[New] Core Elements in Storytelling Skills</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[Updated] In 2024, Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unmatched-document-enhancements-for-2024/"><u>[Updated] Unmatched Document Enhancements for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/beginners-luck-15-free-video-editing-programs-to-get-you-started-for-2024/"><u>Beginners Luck 15 Free Video Editing Programs to Get You Started for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-event-id-1000-issues-on-various-windows-versions-including-win7-and-win10/"><u>Fixing Event ID 1000 Issues on Various Windows Versions, Including Win7 & Win10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-meizu-21-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Meizu 21 Pro FRP Locks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-gif-tempo-tweakers-online-ios-and-android-options/"><u>In 2024, GIF Tempo Tweakers Online, iOS, and Android Options</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-speed-up-your-video-editing-how-to-cut-large-files-fast-on-mac/"><u>In 2024, Speed Up Your Video Editing How to Cut Large Files Fast on Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovating-with-imagination-pro-tiktok-edits-revealed/"><u>Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/is-avs-video-editor-worth-it-an-honest-review-for-2024/"><u>Is AVS Video Editor Worth It? An Honest Review for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcp-hall-of-fame-10-iconic-films-edited-with-final-cut-pro/"><u>New 2024 Approved FCP Hall of Fame 10 Iconic Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-m4a-editing-solutions-top-5-software/"><u>New 2024 Approved Free M4A Editing Solutions Top 5 Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speedy-repair-techniques-for-when-the-camera-option-vanishes-from-pcs-device-manager/"><u>Speedy Repair Techniques for When the Camera Option Vanishes From PC's Device Manager</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-initializing-virtual-machines-with-iso-files-on-hyper-v-and-vmware/"><u>Step-by-Step Guide: Initializing Virtual Machines with ISO Files on Hyper-V & VMware</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-restoring-your-windows-11-registry-with-yl-computings-tools/"><u>Step-by-Step Guide: Restoring Your Windows 11 Registry with YL Computing's Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

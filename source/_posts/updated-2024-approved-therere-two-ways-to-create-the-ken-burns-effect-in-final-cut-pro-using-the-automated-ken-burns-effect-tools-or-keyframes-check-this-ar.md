@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Therere Two Ways to Create the Ken Burns Effect in Final Cut Pro Using the Automated Ken Burns Effect Tools or Keyframes. Check This Article to Find Out How-To
-date: 2024-10-19T19:41:23.449Z
-updated: 2024-10-23T19:53:09.534Z
+date: 2024-12-12T09:08:50.062Z
+updated: 2024-12-16T10:08:01.167Z
 tags: 
   - video editing software
   - video editing
@@ -35,6 +35,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -42,6 +46,10 @@ First, let’s talk about what Ken Burns is and why he has an effect named after
 The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, slow pan, and scroll across archive photography and still film. This will enable you to substitute whole parts of the program you are making with photographs if you haven’t taken enough footage. It is commonly used in editing, particularly when making things like [wedding videos](https://tools.techidaily.com/wondershare/filmora/download/), which often feature lots of photos of the happy couple.
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
@@ -52,10 +60,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -79,10 +84,7 @@ You can also customize the ken burns effects in Final Cut.
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -99,18 +101,15 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
 
@@ -119,13 +118,6 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,19 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-3d-photography-duel-samsung-vs-lg-edition/"><u>[New] The 3D Photography Duel Samsung VS LG Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-fanfare-to-fame-facebook-features-for-viral-voyages/"><u>[Updated] 2024 Approved From Fanfare to Fame Facebook Features for Viral Voyages</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-make-every-discord-livestree-a-timeless-treasure-for-2024/"><u>[Updated] How to Make Every Discord Livestree a Timeless Treasure for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rhythmic-recording-music-infused-snapchat-adventures-for-2024/"><u>[Updated] Rhythmic Recording Music-Infused Snapchat Adventures for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-digitize-your-movie-library-converting-dvds-to-modern-file-formats/"><u>New In 2024, Digitize Your Movie Library Converting DVDs to Modern File Formats</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-motion-graphics-software-for-text-tracking/"><u>New In 2024, Top-Rated Motion Graphics Software for Text Tracking</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-make-me-laugh-top-10-meme-generation-apps-for-mobile-devices-for-2024/"><u>New Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-update-glitch-error-code-0x8024002e-with-these-easy-tips/"><u>Overcome Windows Update Glitch (Error Code 0X8024002E) with These Easy Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silent-macs-troubleshooting-techniques-and-tips/"><u>Overcoming Silent Macs: Troubleshooting Techniques and Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-stop-motion-apps-for-mobile/"><u>Updated 2024 Approved The Ultimate Guide to Stop Motion Apps for Mobile</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-make-unforgettable-videos-top-10-iphone-and-ipad-collage-apps-2023/"><u>Updated Make Unforgettable Videos Top 10 iPhone and iPad Collage Apps 2023</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices-for-2024/"><u>Updated The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data/"><u>[Updated] 2024 Approved Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-vlc-player-tips-10-hidden-features-for-2024/"><u>[Updated] VLC Player Tips 10 Hidden Features for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-3-step-formula-how-to-check-youtube-income/"><u>2024 Approved [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arm-showdown-will-windows-emerge-victorious-against-apple-silicon-on-performance-front/"><u>ARM Showdown: Will Windows Emerge Victorious Against Apple Silicon on Performance Front?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/effects-mastery-transform-your-videos-with-cutting-edge-techniques-for-2024/"><u>Effects Mastery Transform Your Videos with Cutting-Edge Techniques for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-magic-5-by-drfone-android/"><u>Full Guide to Unlock Your Honor Magic 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-gripping-or-tapping-tracks-perfecting-the-drivers-art/"><u>Gear Gripping or Tapping Tracks: Perfecting the Driver's Art</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-download-filmora-13-editor-for-free-latest-version/"><u>In 2024, Download Filmora 13 Editor for Free Latest Version</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-your-glitch-on-the-top-10-mobile-video-editing-apps-for-experimental-artists/"><u>In 2024, Get Your Glitch On The Top 10 Mobile Video Editing Apps for Experimental Artists</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-pros-and-cons-of-final-cut-pro-vs-final-cut-express/"><u>In 2024, The Pros and Cons of Final Cut Pro vs Final Cut Express</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-were-going-to-take-a-look-at-some-of-the-alternatives-to-adobe-rush-out-there-which-may-be-more-capable-of-getting-the-job-done/"><u>In 2024, Were Going to Take a Look at some of the Alternatives to Adobe Rush Out There, Which May Be More Capable of Getting the Job Done</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mavericks-os-x-the-best-way-to-edit-mp4-videos-for-2024/"><u>Mavericks OS X The Best Way to Edit MP4 Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-reduce-video-size-for-free-10-top-online-compression-tools/"><u>New 2024 Approved Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-transform-your-media-best-online-photo-and-video-mashup-creators/"><u>New 2024 Approved Transform Your Media Best Online Photo and Video Mashup Creators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-vn-video-editor-on-pc-features-pros-and-cons/"><u>New 2024 Approved VN Video Editor on PC Features, Pros, and Cons</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-guide-to-professional-gopro-video-making-for-2024/"><u>The Ultimate Guide to Professional GoPro Video Making for 2024</u></a></li>
 </ul></div>
 

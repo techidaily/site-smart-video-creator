@@ -1,7 +1,7 @@
 ---
 title: Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX
-date: 2024-10-18T17:28:28.742Z
-updated: 2024-10-24T07:33:24.953Z
+date: 2024-12-12T01:06:25.873Z
+updated: 2024-12-15T19:46:24.643Z
 tags: 
   - video editing software
   - video editing
@@ -28,6 +28,10 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
 
 Ordinary images, text, subtitles, and GIF doesn’t work anymore to get followers or likes on a video on YouTube channel or Instagram. Thus, video creators are tired of trying the same filters, transitions on the video editor tool. To create amazing videos like the ones played on your television and favorite movies, all you need is the split edit type techniques, a powerful editing tool used by professional editors. Although called professional, it isn’t difficult for a beginner if you know J-Cuts and L-Cuts.
@@ -39,16 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -82,10 +77,7 @@ In the case of Final Cut Pro **J-Cuts**, the process is reverse, where you need 
 When you look at the transition closely, you can see that it resembles the letter J.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Final Cut Pro X Keyboard Shortcuts for L-Cuts and J-Cuts
@@ -111,10 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,10 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,22 +131,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[New] 2024 Approved Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-breach-overcome-restoring-your-facebook-access/"><u>[New] Breach Overcome Restoring Your Facebook Access</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fast-track-converting-your-srt-files-to-text-format-today/"><u>[New] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/explore-and-choose-from-these-top-10-vector-stockplaces/"><u>Explore and Choose From These Top 10 Vector Stockplaces</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-entry-point-not-available-error-in-fortnite/"><u>Fixing the 'Entry Point Not Available' Error in Fortnite</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-edge-40-neo-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Edge 40 Neo to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/host-the-ultimate-home-karaoke-party-tips-and-tricks-inside/"><u>Host the Ultimate Home Karaoke Party - Tips & Tricks Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-power-up-your-audio-the-best-professional-editing-software/"><u>New In 2024, Power Up Your Audio The Best Professional Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life-for-2024/"><u>New The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-hd-video-editing-software-roundup/"><u>New The Ultimate HD Video Editing Software Roundup</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/no-watermark-video-joiners-our-top-picks/"><u>No-Watermark Video Joiners Our Top Picks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/s-hottest-video-editing-apps-for-iphone-enthusiasts/"><u>S Hottest Video Editing Apps for iPhone Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-shadows-stellars-historic-leap-in-encrypted-data-retrieval/"><u>Unveiling Shadows: Stellar's Historic Leap in Encrypted Data Retrieval</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-trim-avi-videos-with-ease-top-picks-for-desktop-and-mobile-devices/"><u>Updated 2024 Approved Trim AVI Videos with Ease Top Picks for Desktop and Mobile Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-mavericks-video-editing-made-easy-a-step-by-step-guide/"><u>Updated In 2024, Mavericks Video Editing Made Easy A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-windows-8-video-editor-edit-mp4-files-with-ease-for-2024/"><u>Updated Windows 8 Video Editor Edit MP4 Files with Ease for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mastering-tiktoks-economy-with-these-8-profitable-methods/"><u>[New] In 2024, Mastering TikTok's Economy with These 8 Profitable Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-securing-comfort-in-vr-experiences/"><u>[New] Securing Comfort in VR Experiences</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nderstanding-youtubes-premier-package-for-2024/"><u>[New] Understanding YouTube's Premier Package for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-snipers-essential-windows-cutting-software/"><u>[Updated] Top 5 Snipers Essential Windows Cutting Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-what-to-use-instead-of-virtualdub-top-recommendations/"><u>New 2024 Approved What to Use Instead of VirtualDub Top Recommendations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-windows-10-video-editors-the-best-free-and-paid-imovie-alternatives/"><u>New 2024 Approved Windows 10 Video Editors The Best Free and Paid iMovie Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-convert-optimize-and-thrill-the-best-vr-video-conversion-software-for-2024/"><u>New Convert, Optimize, and Thrill The Best VR Video Conversion Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-cropping-like-a-pro-advanced-techniques-for-avidemux-users/"><u>New Cropping Like a Pro Advanced Techniques for Avidemux Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-edit-avi-files-with-ease-top-windows-8-video-editor-2023/"><u>New Edit AVI Files with Ease Top Windows 8 Video Editor - 2023</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-final-cut-pro-x-on-steroids-top-plugins-to-boost-productivity-for-2024/"><u>New Final Cut Pro X on Steroids Top Plugins to Boost Productivity for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-real-to-toon-how-to-turn-videos-into-cartoons-for-2024/"><u>New From Real to Toon How to Turn Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-apis-explained-actions-and-applications/"><u>OpenAI APIs Explained: Actions and Applications</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210770767-9781684988389-the-second-life/"><u>The Second Life | Free Book</u></a></li>
 </ul></div>
 

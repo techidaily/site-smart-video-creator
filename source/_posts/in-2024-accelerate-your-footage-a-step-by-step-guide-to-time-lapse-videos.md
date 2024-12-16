@@ -1,7 +1,7 @@
 ---
 title: In 2024, Accelerate Your Footage A Step-by-Step Guide to Time Lapse Videos
-date: 2024-08-15T03:43:33.164Z
-updated: 2024-08-16T03:43:33.164Z
+date: 2024-12-14T11:28:03.009Z
+updated: 2024-12-15T20:04:45.580Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 # Time Lapse Software: Create Time Lapse Video
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -42,9 +39,6 @@ In this article, we will introduce two methods of creating time lapse video in F
 
 With built-in slow/fast motion effects, you can use Filmora to make time lapse effects in drag-and-drop. If you want to add filters to your video, Filmora offers more than 150 free filters to use. Check the new features of Filmora to empower your imagination. Download it to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Before we get started, we have summarized some tips for shooting time-lapse videos, hope that will help to shoot a good video footage. If you have some other tips and tricks about shooting time lapse videos, please share it on the comment below.
@@ -59,15 +53,16 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 [Tips for Recording Time Lapse Video on iPhone](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Creating time lapse video from photos
 
 #### 1  Import the original photos to Filmora
 
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
@@ -84,6 +79,10 @@ Select one of the photos in the timeline and right click on it to select **Speed
 
 ![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
 #### 4 Export your new video
@@ -94,9 +93,6 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -109,19 +105,17 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -133,15 +127,21 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,5 +150,26 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/aking-money-with-videos-strategies-for-the-aspiring-vlogger/"><u>[New] Making Money with Videos Strategies for the Aspiring Vlogger</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-analyzing-ownership-rights-in-youtube-vs-freedom-of-use-in-cc-for-2024/"><u>[Updated] Analyzing Ownership Rights in Youtube Vs. Freedom Of Use In CC for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-a-world-of-virtual-assistants-discover-our-innovative-software-to-host-doznuts-of-ai-chat-bots-on-your-pc/"><u>Experience a World of Virtual Assistants - Discover Our Innovative Software to Host Doznuts of AI Chat Bots on Your PC!</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-idea-to-action-founding-your-consumer-product-assessment-site-for-2024/"><u>From Idea to Action Founding Your Consumer Product Assessment Site for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE Lock Screen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>New In 2024, Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcp-audio-editing-for-beginners-get-started-today/"><u>New In 2024, FCP Audio Editing for Beginners Get Started Today</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-pro-level-video-effects-a-step-by-step-guide-for-2024/"><u>New Unlock Pro-Level Video Effects A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/taylor-swift-filmography-the-ultimate-viewing-guide/"><u>Taylor Swift Filmography: The Ultimate Viewing Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-camtasia-shortcut-speeding-up-and-slowing-down-videos/"><u>The Ultimate Camtasia Shortcut Speeding Up and Slowing Down Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-for-tablet-shoppers-unveiling-the-appeal-of-apples-latest-m2-ipad-air-in-our-in-depth-review-gadgetgurus/"><u>Top Pick for Tablet Shoppers: Unveiling the Appeal of Apple's Latest M2 iPad Air in Our In-Depth Review | GadgetGurus</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-video-revenue-potential-the-facebook-marketing-playbook/"><u>Unlocking Video Revenue Potential The Facebook Marketing Playbook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unraveling-the-best-solo-play-strategies-for-apex-legends-for-2024/"><u>Unraveling the Best Solo Play Strategies for Apex Legends for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-subtitle-edit-for-mac-not-working-try-these-top-alternatives/"><u>Updated 2024 Approved Subtitle Edit for Mac Not Working? Try These Top Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-beginner-friendly-free-video-editors-cut-trim-and-merge/"><u>Updated Beginner-Friendly Free Video Editors Cut, Trim, and Merge</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-capturing-and-sharing-ps4-screenshots-the-ultimate-guide/"><u>Updated In 2024, Capturing and Sharing PS4 Screenshots The Ultimate Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-glitch-repeat-revolutionize-top-video-editing-apps-for-ios-and-android/"><u>Updated In 2024, Glitch, Repeat, Revolutionize Top Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlock-the-power-of-cartoon-conversion-a-comprehensive-guide/"><u>Updated In 2024, Unlock the Power of Cartoon Conversion A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Meizu 21 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

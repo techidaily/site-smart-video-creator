@@ -1,7 +1,7 @@
 ---
 title: This Tutorial Will Show You How to Apply Effects Like the Fade-In, Fade-Out and Crossfade to Your Audio Clips Using the Final Cut Pro for 2024
-date: 2024-10-17T09:48:18.884Z
-updated: 2024-10-23T20:39:49.283Z
+date: 2024-12-10T00:53:29.397Z
+updated: 2024-12-15T16:33:59.515Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -52,23 +56,32 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -87,25 +100,11 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -119,13 +118,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,24 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>[New] GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-finest-list-of-cost-effective-video-conferencing-apps/"><u>[New] In 2024, Finest List of Cost-Effective Video Conferencing Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premier-audio-broadcast-networks-for-2024/"><u>[New] Premier Audio Broadcast Networks for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>[Updated] 2024 Approved Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-fix-getting-snapchat-installed-on-mac-for-2024/"><u>[Updated] Quick Fix Getting Snapchat Installed on Mac for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-still-to-stunning-8-best-animated-photo-makers/"><u>New In 2024, From Still to Stunning 8 Best Animated Photo Makers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-10-adobe-premiere-elements-alternatives/"><u>New Top 10 Adobe Premiere Elements Alternatives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-transform-your-photos-into-videos-with-these-10-online-tools-for-2024/"><u>New Transform Your Photos Into Videos with These 10 Online Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-chrome-freeze-with-games/"><u>Overcoming Chrome Freeze with Games</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/pinnacle-studio-not-your-cup-of-tea-explore-these-mac-alternatives-for-2024/"><u>Pinnacle Studio Not Your Cup of Tea? Explore These Mac Alternatives for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-twitch-streamer-secrets-unraveling-common-conundrums-for-beginner-viewers/"><u>Top Twitch Streamer Secrets: Unraveling Common Conundrums for Beginner Viewers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-terrarias-lost-connections-with-these-6-techniques/"><u>Troubleshoot Terraria's Lost Connections with These 6 Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>Updated 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-budget-savvy-filmmaking-7-essential-software-for-beginners/"><u>Updated In 2024, Budget-Savvy Filmmaking 7 Essential Software for Beginners</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-color-harmony-made-easy-a-step-by-step-fcp-guide/"><u>Updated In 2024, Color Harmony Made Easy A Step-by-Step FCP Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-game-downloads-the-top-10plus-sites-you-need/"><u>Updated In 2024, Free Game Downloads The Top 10+ Sites You Need</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unbiased-review-of-avs-video-editor-features-pricing-and-more-for-2024/"><u>Updated Unbiased Review of AVS Video Editor Features, Pricing, and More for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/zero-cost-maximum-creativity-9-free-online-movie-makers/"><u>Zero Cost, Maximum Creativity 9 Free Online Movie Makers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-4-top-choices-for-seamless-pcmac-video-capture/"><u>[New] 2024 Approved 4 Top Choices for Seamless PC/Mac Video Capture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-art-of-differentiating-real-vs-fake-facebook-likes/"><u>[New] 2024 Approved The Art of Differentiating Real vs Fake Facebook Likes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[Updated] 2024 Approved The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-chorus-chronicles-new-speaker-insights/"><u>[Updated] In 2024, Chorus Chronicles New Speaker Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapcutsolution-examination-extensive-review/"><u>[Updated] SnapCutSolution Examination – Extensive Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-device-editors-for-app-development/"><u>In 2024, Prime Device Editors for App Development</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-avs-video-editor-review-pros-cons-and-features-for-2024/"><u>New AVS Video Editor Review Pros, Cons, and Features for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools/"><u>New Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-editing-videos-like-a-pro-with-quicktime-on-mac/"><u>New Editing Videos Like a Pro with QuickTime on Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-how-to-reverse-a-video-in-final-cut-pro-for-2024/"><u>New How to Reverse A Video in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-g54-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on G54 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
 </ul></div>
 

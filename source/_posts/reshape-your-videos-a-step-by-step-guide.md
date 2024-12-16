@@ -1,7 +1,7 @@
 ---
 title: Reshape Your Videos A Step-by-Step Guide
-date: 2024-10-20T20:00:50.415Z
-updated: 2024-10-23T16:00:14.608Z
+date: 2024-12-12T13:24:30.610Z
+updated: 2024-12-16T05:01:43.908Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -55,10 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -68,10 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -93,10 +91,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -106,13 +101,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -164,6 +152,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -179,18 +171,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-png-to-jpeg-mac-screenshot-transformations/"><u>[New] 2024 Approved From PNG to JPEG Mac Screenshot Transformations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-ideal-video-sizes-for-instagram-success-for-2024/"><u>[Updated] Unveiling the Ideal Video Sizes for Instagram Success for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-cinematic-frames-a-3-way-insta-guide/"><u>2024 Approved Mastering Cinematic Frames A 3-Way Insta Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/deconstructing-public-sentiments-towards-sites-of-virtual-interaction/"><u>Deconstructing Public Sentiments Towards Sites of Virtual Interaction</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/evaluating-superiority-gopros-max-and-hero-11-face-off-for-2024/"><u>Evaluating Superiority GoPro's Max and Hero 11 Face-Off for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ais-tomorrow-what-lies-beyond-the-current-limitations-of-chatbots-like-chatgpt/"><u>Generative AI's Tomorrow: What Lies Beyond the Current Limitations of Chatbots Like ChatGPT?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-steps-to-acquire-fcp-for-zero-dollars/"><u>In 2024, Steps to Acquire FCP for Zero Dollars</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-top-free-m4a-editing-programs-for-windows-mac-and-linux/"><u>New The Top Free M4A Editing Programs for Windows, Mac, and Linux</u></a></li>
-<li><a href="https://facebook.techidaily.com/platforms-exemption-continued-spread-of-anti-vax-rhetoric/"><u>Platform's Exemption: Continued Spread of Anti-Vax Rhetoric</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-funniest-meme-creator-apps-for-android-and-ios-updated-2023-for-2024/"><u>The Funniest Meme Creator Apps for Android and iOS (Updated 2023) for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>Updated 2024 Approved From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-your-fcpx-flow-back-a-comprehensive-reset-and-troubleshooting-guide/"><u>Updated Get Your FCPX Flow Back A Comprehensive Reset and Troubleshooting Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/video-editing-hack-how-to-reverse-clips-in-final-cut-pro-for-2024/"><u>Video Editing Hack How to Reverse Clips in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>[New] 2024 Approved Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oar-in-popularity-with-key-seo-strategies-for-your-youtube-content/"><u>[New] Soar in Popularity with Key SEO Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-your-content-seo-mastery-starts-here/"><u>[Updated] 2024 Approved Elevate Your Content SEO Mastery Starts Here</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-manage-srt-files-in-winmac-environments-for-2024/"><u>[Updated] Manage SRT Files in Win/Mac Environments for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-hd-lens-guide-for-pro-level-cinematography/"><u>2024 Approved Ultimate HD Lens Guide for Pro-Level Cinematography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-novices-approach-to-acquiring-picture-frames-for-2024/"><u>A Novice's Approach to Acquiring Picture Frames for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-vllo-alternatives-for-mac-users-for-2024/"><u>Discover the Best VLLO Alternatives for Mac Users for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-started-with-jaycut-a-beginners-guide-to-free-video-editing-for-2024/"><u>Get Started with Jaycut A Beginners Guide to Free Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article/"><u>In 2024, How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-rated-pc-intro-makers-free-and-paid-tools-online-and-offline/"><u>In 2024, Top-Rated PC Intro Makers Free and Paid Tools Online & Offline</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/intense-overwatch-gameplay-breakdown-the-ultimate-team-combat-experience/"><u>Intense Overwatch Gameplay Breakdown: The Ultimate Team Combat Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-image-generation-combining-dall-e-and-gpt-4-for-unique-creations/"><u>Mastering Image Generation: Combining DALL-E and GPT-4 for Unique Creations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-elevate-your-video-production-top-4k-video-editing-software/"><u>New 2024 Approved Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-split-your-videos-with-ease-top-5-free-software/"><u>New 2024 Approved Split Your Videos with Ease Top 5 Free Software</u></a></li>
 </ul></div>
 

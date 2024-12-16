@@ -1,7 +1,7 @@
 ---
 title: In 2024, Revolutionize Your Reaction Videos Expert Tips for Using Filmora
-date: 2024-08-15T03:45:45.960Z
-updated: 2024-08-16T03:45:45.960Z
+date: 2024-12-13T20:43:05.112Z
+updated: 2024-12-16T12:06:51.115Z
 tags: 
   - video editing software
   - video editing
@@ -43,23 +43,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step2.png)
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
@@ -72,16 +63,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
@@ -94,9 +79,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step10.png)
 
 #### Conclusion
@@ -113,8 +95,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,5 +102,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-dynamic-images-from-static-pixels-from-photos-to-video/"><u>[New] 2024 Approved Dynamic Images From Static Pixels From Photos to Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-global-gala-of-greatest-video-views/"><u>[New] In 2024, Global Gala of Greatest Video Views</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-explanation-of-intra-national-roaming-with-t-mobile/"><u>A Comprehensive Explanation of Intra-National Roaming with T-Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-error-asking-for-previous-passcode/"><u>Deciphering “Windows Error Asking for Previous Passcode”</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fixing-popular-youtube-short-snafus-for-2024/"><u>Fixing Popular YouTube Short Snafus for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2/"><u>July 2</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-rid-of-hiss-and-hum-advanced-techniques-for-noise-removal-in-fcpx/"><u>New In 2024, Get Rid of Hiss and Hum Advanced Techniques for Noise Removal in FCPX</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-issue-igfxem-chipset-fails-to-function-how-we-overcame-it/"><u>Resolved Issue: IgfxEM Chipset Fails to Function - How We Overcame It</u></a></li>
+<li><a href="https://win-hot.techidaily.com/schnell-wiederherstellen-von-geloschten-wav-audiodateien-effizientes-verfahren/"><u>Schnell Wiederherstellen Von Gelöschten WAV-Audiodateien - Effizientes Verfahren</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-non-responsive-dolby-systems-on-window-10/"><u>Step-by-Step Guide: Repairing Non-Responsive Dolby Systems on Window 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-s-best-mobile-video-editors-with-audio-tracks/"><u>Updated 2024 Approved S Best Mobile Video Editors with Audio Tracks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-filmora-download-no-strings-attached-no-viruses-for-2024/"><u>Updated Free Filmora Download No Strings Attached, No Viruses for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-4k-video-collection-must-watch-clips/"><u>Updated In 2024, The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-guide/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-10-timecode-conversion-tools-for-accurate-timing-web-ios-android/"><u>Updated Top 10 Timecode Conversion Tools for Accurate Timing (Web, iOS, Android)</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

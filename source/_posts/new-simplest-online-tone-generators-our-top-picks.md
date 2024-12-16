@@ -1,7 +1,7 @@
 ---
 title: New Simplest Online Tone Generators Our Top Picks
-date: 2024-10-21T19:36:31.190Z
-updated: 2024-10-24T00:44:27.535Z
+date: 2024-12-09T20:06:45.954Z
+updated: 2024-12-15T19:53:29.653Z
 tags: 
   - video editing software
   - video editing
@@ -62,6 +62,10 @@ Making tones on this online platform doesn’t require any effort at all since y
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
 
 The tones you generate on this website **can’t be downloaded to your computer**, but you can use the **Get Link option** to send a tone to your email or to a friend.
@@ -71,6 +75,10 @@ The tones you generate on this website **can’t be downloaded to your computer*
 The free version of this website offers only a **limited amount of tones** that have a maximum **duration of 5 seconds**. Purchasing Basic, Pro or Corporate packages will grant you access to all types of tones this online tone generator offers, and the tones you download can last up to 300 seconds depending on the sample rate.
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/wavtones-online-tone-generator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **WavtonesAudio Frequency Signal Generator** allows you to alter the properties of each tone it offers, even if you’re using the free version, but you can’t listen to any of the available tones before you download them. This makes it a bit more difficult to generate a tone in accordance with your current demands. Furthermore, the **Bit Depth** of all tones the free version of this online tone generator provides is limited to 16-bit.
 
@@ -82,13 +90,14 @@ There are **four wave types** you can choose from that generate different types 
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -100,10 +109,7 @@ What is your favorite method of generating tones? Leave a comment below and let 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -121,24 +127,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ancient-roguelike-tactics-vs-innovative-approaches/"><u>[New] 2024 Approved Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-breakdown-of-how-youtube-ad-revenue-works-cpm-for-2024/"><u>[New] Breakdown of How YouTube Ad Revenue Works (CPM) for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/kyrocketing-subscribers-on-youtube-step-by-step/"><u>[New] Skyrocketing Subscribers on YouTube Step-by-Step</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016992869-audio-not-working-on-pc-heres-how-you-can-fix-it/"><u>Audio Not Working on PC? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/fortnite-no-longer-crashing-on-your-computer-a-comprehensive-guide-pc-edition-jan-24-update/"><u>Fortnite No Longer Crashing on Your Computer: A Comprehensive Guide (PC Edition - Jan '24 Update)</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor Play 7T Phone without PIN</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-setting-up-your-computer-for-premiere-pro/"><u>In 2024, Edit Like a Pro Setting Up Your Computer for Premiere Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-chart-converters-for-video/"><u>In 2024, Ultimate Chart Converters for Video</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unbrand-your-videos-removing-filmora-watermark-with-free-and-paid-options/"><u>New In 2024, Unbrand Your Videos Removing Filmora Watermark with Free and Paid Options</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>New OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-avi-file-combiners-join-videos-without-cost/"><u>New Top-Rated AVI File Combiners Join Videos Without Cost</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-a-closer-look-at-vn-video-editor-for-pc-users/"><u>Updated 2024 Approved A Closer Look at VN Video Editor for PC Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-flip-your-footage-easy-final-cut-pro-tutorial/"><u>Updated 2024 Approved Flip Your Footage Easy Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-of-the-best-top-10-pro-audio-editing-software/"><u>Updated 2024 Approved The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unlock-final-cut-pro-90-day-free-trial-inside/"><u>Updated 2024 Approved Unlock Final Cut Pro 90-Day Free Trial Inside</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-lights-camera-action-a-kid-friendly-guide-to-film-production/"><u>Updated In 2024, Lights, Camera, Action! A Kid-Friendly Guide to Film Production</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unmissable-4k-footage-the-best-of-the-best-video-samples/"><u>Updated Unmissable 4K Footage The Best of the Best Video Samples</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-channel-name-inspiration-strategies-for-success/"><u>[New] In 2024, Channel Name Inspiration Strategies for Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>[Updated] 2024 Approved From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-social-interaction-with-innovative-fb-slideshow-techniques/"><u>[Updated] Maximizing Social Interaction with Innovative FB Slideshow Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-quiet-phone-discover-8-ways-to-restore-vibrations-on-iphones-in-ringsilent-mode/"><u>Fix Your Quiet Phone! Discover 8 Ways to Restore Vibrations on iPhones in Ring/Silent Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-of-the-best-top-16-free-avi-video-rotation-software-for-any-platform/"><u>In 2024, Best of the Best Top 16 Free AVI Video Rotation Software for Any Platform</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>In 2024, Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-correcting-excessive-encoding-in-obs/"><u>In 2024, Correcting Excessive Encoding in OBS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators/"><u>In 2024, The Ultimate List of Free Green Screen Apps for Mobile Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-a15-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy A15 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-your-creativity-top-3d-video-makers-you-should-know/"><u>In 2024, Unleash Your Creativity Top 3D Video Makers You Should Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mobile-video-editing-essentials-top-apps-for-vertical-content-for-2024/"><u>Mobile Video Editing Essentials Top Apps for Vertical Content for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-10-best-free-chroma-key-apps-for-android-and-ios-devices-2023-edition-for-2024/"><u>New 10 Best Free Chroma Key Apps for Android and iOS Devices 2023 Edition for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>New 2024 Approved Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>New 2024 Approved The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-featured-and-evaluated-by-tech-experts-zdnets-guide/"><u>Top-Ranking iPad Models Featured & Evaluated by Tech Experts - ZDNet's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
 </ul></div>
 

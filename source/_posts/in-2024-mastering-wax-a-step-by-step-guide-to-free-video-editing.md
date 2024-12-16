@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Wax A Step-by-Step Guide to Free Video Editing
-date: 2024-08-15T03:46:07.534Z
-updated: 2024-08-16T03:46:07.534Z
+date: 2024-12-11T06:40:29.604Z
+updated: 2024-12-15T20:37:34.974Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,34 +56,16 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -101,8 +74,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -110,5 +81,27 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-add-music-to-instagram-reels-in-2024/"><u>[New] How to Add Music to Instagram Reels, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] In 2024, The Power of Quantum HDR in Visual Arts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>[New] Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-customize-confidently-express-optimizing-your-voice-on-snapchat-for-2024/"><u>[Updated] Customize, Confidently Express Optimizing Your Voice on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/demystifying-instagram-selfies-a-comprehensive-guide-for-2024/"><u>Demystifying Instagram Selfies A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-explorations-reward-6-innovative-minecraft-residences/"><u>In 2024, Exploration's Reward 6 Innovative Minecraft Residences</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-video-to-dvd-burners-get-video-to-dvd-on-windows-mac-maveric/"><u>New In 2024, Best Video to DVD Burners - Get Video to DVD on Windows / Mac (Maveric)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-delete-tiktok-watermarks-with-the-best-online-tools/"><u>New In 2024, Delete TikTok Watermarks with the Best Online Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/"><u>New In 2024, Uncover the Best Green Screen Software for Mac Video Editing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing-2023/"><u>New MKVtoolnix for macOS A Beginners Guide to Video Editing 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/recorders-unite-compete-for-2024/"><u>Recorders Unite, Compete for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-gadget-analysis-and-reviews-t17239718711434/"><u>Tom's Tech Review: Comprehensive Gadget Analysis & Reviews</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-mod-video-editors/"><u>Top 5 Best Free MOD Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unleash-the-chaos-10-essential-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>Unleash the Chaos 10 Essential Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mkvtoolnix-mac-streamline-your-video-editing-workflow-for-2024/"><u>Updated MKVtoolnix Mac Streamline Your Video Editing Workflow for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

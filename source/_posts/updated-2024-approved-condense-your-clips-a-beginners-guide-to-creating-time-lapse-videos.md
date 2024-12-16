@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Condense Your Clips A Beginners Guide to Creating Time Lapse Videos
-date: 2024-10-19T06:11:14.949Z
-updated: 2024-10-23T17:40:07.455Z
+date: 2024-12-09T08:48:03.278Z
+updated: 2024-12-15T19:41:07.334Z
 tags: 
   - video editing software
   - video editing
@@ -53,6 +53,10 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 [Tips for Recording Time Lapse Video on iPhone](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Creating time lapse video from photos
 
 #### 1  Import the original photos to Filmora
@@ -60,6 +64,10 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
 
@@ -86,10 +94,7 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Speed Up to Make a Time lapse Video
@@ -106,13 +111,6 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
@@ -120,10 +118,7 @@ Right click on the video clip in the timeline to select **Speed and Duration**. 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
@@ -136,14 +131,11 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,21 +152,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-marketing-revolutionizing-customer-outreach/"><u>[New] Metaverse Marketing Revolutionizing Customer Outreach</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-zoom-transcribing-top-5-suggestions-for-all-budgets-for-2024/"><u>[Updated] Mastering Zoom Transcribing Top 5 Suggestions for All Budgets for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Find X7 Ultra FRP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-gionee-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Gionee</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/core-elements-in-virtual-narrative-design-for-2024/"><u>Core Elements in Virtual Narrative Design for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo T2 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-4k-video-editing-software/"><u>New The Ultimate Guide to 4K Video Editing Software</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/passen-sie-ihr-windows-11-image-nahtlos-auf-neue-hardware-um-eine-detaillierte-anleitung/"><u>Passen Sie Ihr Windows 11 Image Nahtlos Auf Neue Hardware Um: Eine Detaillierte Anleitung</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-ways-to-delete-the-windows-restore-partition/"><u>The Ultimate Guide: Ways to Delete the Windows Restore Partition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-how-to-split-and-merge-clips-in-windows-live-movie-maker-for-2024/"><u>Updated Effortless Video Editing How to Split and Merge Clips in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-filmora-coupon-hunters-guide-7-essential-tips-for-2024/"><u>Updated Filmora Coupon Hunters Guide 7 Essential Tips for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-getting-started-with-video-editing-a-windows-movie-maker-handbook/"><u>Updated In 2024, Getting Started with Video Editing A Windows Movie Maker Handbook</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-manage-your-video-library-with-these-mp4-tag-editors/"><u>Updated Manage Your Video Library with These MP4 Tag Editors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-avi-file-editing-a-beginners-guide-to-splitting-and-trimming/"><u>Updated Mastering AVI File Editing A Beginners Guide to Splitting and Trimming</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-merge-mov-files-for-free-5-best-options/"><u>Updated Merge MOV Files for Free 5 Best Options</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ending-grey-shades-in-live-stream-translations-for-2024/"><u>[Updated] Ending Grey Shades in Live Stream Translations for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-list-of-10-best-video-chat-programs-today-for-2024/"><u>[Updated] Master List of 10 Best Video Chat Programs Today for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-angle-adjustment-a-step-by-step-editing-guide/"><u>[Updated] Youtube Angle Adjustment A Step-by-Step Editing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719328256303-bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ge-innovations-sale-alert-snag-savings-of-up-to-61-off-switches-and-smart-lights-during-exclusive-cync-promotion-zdnet/"><u>GE Innovations Sale Alert: Snag Savings of up to 61% Off Switches and Smart Lights During Exclusive Cync Promotion | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-chuckles-unleashed-best-sites-for-funny-tones/"><u>In 2024, Chuckles Unleashed Best Sites for Funny Tones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>New Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-chromecast-video-streaming-made-easy-support-for-all-formats/"><u>New Chromecast Video Streaming Made Easy Support for All Formats</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-cutting-edge-4k-video-editing-software-and-beyond-for-2024/"><u>New Cutting-Edge 4K Video Editing Software and Beyond for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-edit-like-a-pro-best-1080p-video-editing-tools-for-stunning-videos/"><u>New Edit Like a Pro Best 1080P Video Editing Tools for Stunning Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-effortless-avi-video-editing-top-cutters-and-trimmers-for-any-device-for-2024/"><u>New Effortless AVI Video Editing Top Cutters and Trimmers for Any Device for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-storage-solutions-how-to-reclaim-disk-space-and-boost-performance/"><u>New FCPX Storage Solutions How to Reclaim Disk Space and Boost Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-free-video-stabilization-made-easy-top-10-online-tools-for-2024/"><u>New Free Video Stabilization Made Easy Top 10 Online Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-started-with-free-video-editing-top-tools-for-32-bit-windows-for-2024/"><u>New Get Started with Free Video Editing Top Tools for 32-Bit Windows for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-animate-like-a-pro-the-top-7-drawing-software-for-aspiring-animators/"><u>New In 2024, Animate Like a Pro The Top 7 Drawing Software for Aspiring Animators</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-why-are-my-desktop-icons-gone-on-windows-10-and-how-to-fix-them-back/"><u>Resolved! Why Are My Desktop Icons Gone on Windows 10 & How to Fix Them Back</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-succeeding-with-facebook-video-marketing-and-revenue-for-2024/"><u>Strategies for Succeeding with Facebook Video Marketing and Revenue for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-notch-tricks-to-nail-every-green-screen-shot-for-2024/"><u>Top-Notch Tricks to Nail Every Green Screen Shot for 2024</u></a></li>
 </ul></div>
 
