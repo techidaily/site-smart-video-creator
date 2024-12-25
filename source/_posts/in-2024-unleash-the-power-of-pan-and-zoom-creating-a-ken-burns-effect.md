@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unleash the Power of Pan and Zoom Creating a Ken Burns Effect
-date: 2024-08-15T03:46:42.042Z
-updated: 2024-08-16T03:46:42.042Z
+date: 2024-12-21T18:49:43.969Z
+updated: 2024-12-25T01:04:53.459Z
 tags: 
   - video editing software
   - video editing
@@ -40,18 +40,12 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg) _
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 _ ![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg) _
 
 **Step 3: Add the Ken Burns Effect**
@@ -66,10 +60,11 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Customize Your Effect**
 
@@ -81,10 +76,11 @@ In the Ken Burns display, you can see the controls for adjusting the panning and
 4. In the top left-hand corner, click on the Swap button to exchange the two positions as per your requirements;
 5. You can see the preview of the animation on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![custormizing ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%204%20Customizing%20The%20Ken%20Burns%20Effect.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Add a Freeze Frame**
 
@@ -96,11 +92,19 @@ You’re not done yet because you need to hold your picture at the end of the an
 
 _ ![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
 _ ![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7: Swap the Start and End Frame**
 
@@ -112,10 +116,11 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _ ![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 8: Play/Preview Looping**
 
@@ -158,9 +163,6 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -169,8 +171,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,5 +178,23 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-invaluable-slide-show-tools-for-business-executives/"><u>[New] In 2024, Invaluable Slide Show Tools for Business Executives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-key-10-acoustic-amplifiers-for-android-ios/"><u>[Updated] In 2024, Key 10 Acoustic Amplifiers for Android, iOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-maximize-attendee-visibility-with-google-meet-grids/"><u>[Updated] In 2024, Maximize Attendee Visibility with Google Meet Grids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-understanding-youtubes-view-threshold-for-money/"><u>[Updated] Understanding Youtube’s View Threshold for Money</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-exclusive-list-the-top-10-camcorders-for-2ranking/"><u>In 2024, Exclusive List The Top 10 Camcorders for 2Ranking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-xcover-6-pro-tactical-edition-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy XCover 6 Pro Tactical Edition online without jailbreak</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-tutorial-trimming-images-to-perfection/"><u>New In 2024, FCPX Tutorial Trimming Images to Perfection</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>New In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-streamline-your-movie-collection-how-to-convert-dvds-to-digital-formats/"><u>New In 2024, Streamline Your Movie Collection How to Convert DVDs to Digital Formats</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-10-free-video-editors-for-mp4-files/"><u>New In 2024, Unleash Your Creativity Top 10 Free Video Editors for MP4 Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-make-your-videos-pop-top-animated-text-apps-for-android-and-ios-for-2024/"><u>New Make Your Videos Pop Top Animated Text Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-compilation-of-devout-ringtones/"><u>The Ultimate Compilation of Devout Ringtones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-started-with-jaycut-a-beginners-guide-to-free-online-video-editing-for-2024/"><u>Updated Get Started with Jaycut A Beginners Guide to Free Online Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-9-best-free-mp4-video-cutters-for-2024/"><u>Updated Top 9 Best Free MP4 Video Cutters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxdvd-suite-official-version-features-dvd-ripping-intelligent-video-enhancement-and-multi-platform-conversion/"><u>WinXDVD Suite Official Version: Features DVD Ripping, Intelligent Video Enhancement & Multi-Platform Conversion</u></a></li>
+</ul></div>
 

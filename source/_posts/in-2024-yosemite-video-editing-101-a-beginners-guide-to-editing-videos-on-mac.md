@@ -1,7 +1,7 @@
 ---
 title: In 2024, Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac
-date: 2024-08-15T03:47:16.631Z
-updated: 2024-08-16T03:47:16.631Z
+date: 2024-12-22T06:00:27.649Z
+updated: 2024-12-25T04:52:54.433Z
 tags: 
   - video editing software
   - video editing
@@ -30,17 +30,19 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
 
@@ -50,9 +52,6 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yosemite Video Editor basic editing](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
  **Edit and enhance audio**
@@ -65,10 +64,15 @@ If you want to add an additional audio file as the background music to the video
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
 
@@ -77,13 +81,11 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -92,8 +94,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +101,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>[New] Analyzing Toolwiz A Photographer’s Digital Arsenal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hot-tunes-essential-background-scores-for-viral-yt-shorts-for-2024/"><u>[Updated] Hot Tunes Essential Background Scores For Viral YT Shorts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-make-a-ken-burns-effect-in-camtasia-9-for-2024/"><u>[Updated] How to Make a Ken Burns Effect in Camtasia 9 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-virtual-reality-top-8-metaverse-tech/"><u>[Updated] Next-Gen Virtual Reality Top 8 Metaverse Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-security-key-picks-professionally-assessed/"><u>2024'S Elite Security Key Picks, Professionally Assessed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-a-stellar-visual-identity-the-ultimate-guide-to-yt-design-for-2024/"><u>Crafting a Stellar Visual Identity The Ultimate Guide to YT Design for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-ranking-the-best-4k-video-editing-tools-features-pricing-and-more/"><u>New Ranking the Best 4K Video Editing Tools Features, Pricing, and More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-on-board-with-waiting-for-chatgpt-embrace-this-superb-free-open-source-solution-now/"><u>Not on Board with Waiting for ChatGPT? Embrace This Superb Free, Open-Source Solution Now</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-art-of-acceleration-a-comprehensive-guide-to-time-lapse-video-software-for-2024/"><u>The Art of Acceleration A Comprehensive Guide to Time Lapse Video Software for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/omprehensive-handbook-of-youtube-views-and-financial-growth/"><u>The Comprehensive Handbook of YouTube Views and Financial Growth</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-sound-test-airpods-pro-and-samsungs-buds-pro/"><u>The Sound Test: AirPods Pro and Samsung's Buds Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-new-to-video-editing-here-are-the-best-software-options-for-2024/"><u>Updated New to Video Editing? Here Are the Best Software Options for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-free-vob-video-editors-reviewed/"><u>Updated The Best of the Best Free VOB Video Editors , Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-mts-video-editing-top-5-software-for-2024/"><u>Updated The Ultimate Guide to MTS Video Editing Top 5 Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-14-free-video-editors-with-no-watermark/"><u>Updated The Ultimate List 14 Free Video Editors with No Watermark</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-with-filmora-x-you-can-create-such-transparent-background-reaction-videos-without-such-expensive-material-for-2024/"><u>Updated With Filmora X, You Can Create Such Transparent Background Reaction Videos without Such Expensive Material for 2024</u></a></li>
+</ul></div>
 

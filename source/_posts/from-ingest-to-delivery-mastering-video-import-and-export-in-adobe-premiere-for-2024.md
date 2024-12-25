@@ -1,7 +1,7 @@
 ---
 title: From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024
-date: 2024-08-22T11:00:21.173Z
-updated: 2024-08-23T11:00:21.173Z
+date: 2024-12-18T16:53:15.719Z
+updated: 2024-12-25T05:59:40.558Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb
 
 # How to Import and Export Videos in Adobe Premiere
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -38,8 +35,9 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -78,17 +76,19 @@ The ultimate aim of any project is obviously to finish it and let others see the
 
 To export a project that closely matches the original media in quality and frame rates, often called a master copy, is very straightforward in Premiere, with the sequence selected, either in the Timeline Panel or the Project Panel, you simply use the File > Export > Media path :
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Which opens the media export dialogue.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
 
@@ -96,11 +96,12 @@ Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequenc
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
 
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
@@ -109,18 +110,17 @@ The other common requirement is for DVD or Blu-Ray files. Whilst you need access
 
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,5 +129,24 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-world-of-facetune-a-comprehensive-photography-tool/"><u>[Updated] Inside the World of Facetune A Comprehensive Photography Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-collaborative-branding-strategies-in-digital-media/"><u>2024 Approved Collaborative Branding Strategies in Digital Media</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/automated-and-manual-security-methods-protecting-your-data-with-outlook-and-dropbox/"><u>Automated and Manual Security Methods: Protecting Your Data with Outlook & Dropbox</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-and-premium-game-trailer-creators-top-17-picks-for-aspiring-gamers/"><u>Best Free & Premium Game Trailer Creators: Top 17 Picks for Aspiring Gamers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-effortless-google-podcast-upload/"><u>In 2024, Expert Tips for Effortless Google Podcast Upload</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-avs-video-editor-2023-is-it-worth-the-hype/"><u>New In 2024, AVS Video Editor 2023 Is It Worth the Hype?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-mpeg2-video-compression-made-easy-with-virtualdub/"><u>New In 2024, MPEG2 Video Compression Made Easy with VirtualDub</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-lumafusion-on-mac-installation-features-and-alternatives/"><u>New In 2024, The Ultimate Guide to Lumafusion on Mac Installation, Features, and Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-efficient-video-editing-how-to-cut-and-trim-avi-files-fast/"><u>New Unlock Efficient Video Editing How to Cut and Trim AVI Files Fast</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/simplify-your-video-collection-top-8-mac-metadata-editors/"><u>Simplify Your Video Collection Top 8 Mac Metadata Editors</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshoot-and-restore-your-screen-quality-with-yl-computing-rectifying-distorted-images-on-monitors/"><u>Troubleshoot and Restore Your Screen Quality with YL Computing - Rectifying Distorted Images on Monitors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-samsung-galaxy-fit2-the-perfectly-tailored-fitness-buddy-in-a-small-package/"><u>Unveiling Samsung Galaxy Fit2: The Perfectly Tailored Fitness Buddy in a Small Package</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-add-a-professional-touch-free-video-watermark-software/"><u>Updated In 2024, Add a Professional Touch Free Video Watermark Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-adobe-premieres-full-potential-6-expert-level-editing-hacks-for-2024/"><u>Updated Unlock Adobe Premieres Full Potential 6 Expert-Level Editing Hacks for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-windows-10-video-editing-made-easy-top-imovie-alternatives-for-2024/"><u>Updated Windows 10 Video Editing Made Easy Top iMovie Alternatives for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/yl-software-strategies-for-clearing-up-hard-drive-space-efficiently-and-effectively/"><u>YL Software Strategies for Clearing Up Hard Drive Space Efficiently and Effectively</u></a></li>
+</ul></div>
 

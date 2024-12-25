@@ -1,7 +1,7 @@
 ---
 title: In 2024, Dual Approaches to Audio Fades in Final Cut Pro A Step-by-Step Guide
-date: 2024-08-22T11:00:22.232Z
-updated: 2024-08-23T11:00:22.232Z
+date: 2024-12-19T17:41:21.341Z
+updated: 2024-12-25T06:43:54.736Z
 tags: 
   - video editing software
   - video editing
@@ -44,32 +44,24 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -93,13 +85,22 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -112,18 +113,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,5 +132,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>[New] 2024 Approved The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-vlog-edit-mastery-harnessing-the-power-of-jump-cuts/"><u>[New] 2024 Approved Vlog Edit Mastery Harnessing the Power of Jump Cuts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/potlight-on-10-rapidly-expanding-youtube-talks-of-inspiration-for-2024/"><u>[New] Spotlight on 10 Rapidly Expanding YouTube Talks of Inspiration for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-viewership-with-effective-game-streaming/"><u>[Updated] Maximizing Viewership with Effective Game Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/54sh5paz44gn5qw944gx44ka5a2q5l6b5zcr44gr5pig55s7ic0g5a625pep44gr5zac44gz44go5ocd44ge5ye644ks5akx44ke44gb44kl5oml6lu944gq44ki44kv44k744k55pa55rov/"><u>無料で楽しむ子供向け映画 - 家族に喜びと思い出を増やせる手軽なアクセス方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-adobe-media-encoder-2402-installer-for-video-conversion-available-now/"><u>Free Adobe Media Encoder 24.0.2 Installer for Video Conversion, Available Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-tips-for-optimal-screen-recording-with-showmore/"><u>In 2024, Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-10-free-online-video-trimmers-2023-edition/"><u>New In 2024, The Ultimate List of 10 Free Online Video Trimmers 2023 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rise-and-shine-kids-exploring-the-features-of-miraris-bedside-alarm-clock/"><u>Rise and Shine, Kids! Exploring the Features of Mirari's Bedside Alarm Clock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-skewed-media-quality-from-youtube/"><u>Streamlining Skewed Media Quality From YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessential-ai-enhanced-presentation-gear/"><u>The Quintessential AI-Enhanced Presentation Gear</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-gaming-platforms-top-sites-to-download-games/"><u>Updated 2024 Approved Best Gaming Platforms Top Sites to Download Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fast-and-free-dailymotion-to-mp3-converter-online/"><u>Updated 2024 Approved Fast and Free Dailymotion to MP3 Converter Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcpx-subtitle-tutorial-adding-captions-for-better-video-engagement/"><u>Updated 2024 Approved FCPX Subtitle Tutorial Adding Captions for Better Video Engagement</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-3gp-video-editing-cutting-and-trimming-made-easy/"><u>Updated 3GP Video Editing Cutting and Trimming Made Easy</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-discover-the-best-movie-trailer-apps-for-iphone-and-ipad/"><u>Updated In 2024, Discover the Best Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-ditch-imovie-top-free-online-video-editing-software/"><u>Updated In 2024, Ditch iMovie Top Free Online Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mac-gopro-editing-101-from-import-to-export/"><u>Updated Mac GoPro Editing 101 From Import to Export</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-movie-mastery-for-kids-learn-the-art-of-filmmaking-for-2024/"><u>Updated Movie Mastery for Kids Learn the Art of Filmmaking for 2024</u></a></li>
+</ul></div>
 

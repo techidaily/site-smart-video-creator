@@ -1,7 +1,7 @@
 ---
 title: From Basic to Brilliant Mastering Video Editing Effects for Beginners
-date: 2024-08-22T10:58:30.076Z
-updated: 2024-08-23T10:58:30.076Z
+date: 2024-12-20T07:52:53.202Z
+updated: 2024-12-24T18:17:51.749Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
 # Cool Video Editor: How to Add Cool Effects to Video
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -45,14 +42,16 @@ How to make a cool video? Besides creativities, you may also need a video editin
 
 Besides these common cool video effects, [Filmora Effects Store](https://tools.techidaily.com/wondershare/filmora/download/) offers more possibilities. There are packs, sets and bundles covering gaming, media, beauty and fashion, action cam, education, lifestyle, VFX and special event. Check the blockbuster video effects video below to check how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
 
 With Filmora, you can also add some cool effects conveniently to improve your video with ease. After several clicks, your video will turn out to be a stunning masterpiece which is really fantastic to share with your family and friends on YouTube or Facebook. Now follow this step-by-step guide on how to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with this cool software.
@@ -61,10 +60,11 @@ With Filmora, you can also add some cool effects conveniently to improve your vi
 
 Install and launch Wondershare Filmora. Click New Project and then click the “Import” button to load your media files through its navigation import panel or directly drag and drop your files to the media library.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2 Add cool effects to your video
 
@@ -80,14 +80,15 @@ Detailed information about how to add a split-screen effect video, check our [gu
 
 For steps of compositing a green screen video, check this video tutorial below:
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
 
 ![Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3 Export your videos
 
@@ -95,11 +96,12 @@ You can preview and watch your video by clicking the “Play” button before yo
 
 ![cool video editor](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Filmora features more than 300 video effects, elements and motion effects and 100+ text and title styles to choose. Besides adding cool video effects to video clips, you can also reverse, speed up or slow down the video to make a cool effect. You can also choose music sound from the built in music library and do some audio editing with the Audio Mixer or Audio Equalizer tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
@@ -114,8 +116,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,5 +123,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-zenith-zephyrs-elite-notebooks-for-uhd-content-creation/"><u>[New] In 2024, Zenith Zephyrs Elite Notebooks for UHD Content Creation</u></a></li>
+<li><a href="https://solve-news.techidaily.com/extract-your-dvd-content-with-winx-dvd-ripper-quick-mp4-and-avi-conversion-for-mobile-devices/"><u>Extract Your DVD Content with WinX DVD Ripper: Quick MP4 and AVI Conversion for Mobile Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-set-up-the-latest-samsung-m2-drive-drivers-for-your-windows-pc/"><u>How to Get and Set Up the Latest Samsung #M.2 Drive Drivers for Your Windows PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-key-steps-to-enhance-real-time-sports-viewership/"><u>In 2024, Key Steps to Enhance Real-Time Sports Viewership</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-step-by-step-guide-transforming-viewers-into-profit/"><u>In 2024, Step-By-Step Guide Transforming Viewers Into Profit</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-make-me-laugh-best-video-dubbing-apps-for-comedy-clips/"><u>New In 2024, Make Me Laugh Best Video Dubbing Apps for Comedy Clips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-top-rated-video-editing-tools-for-mac-in/"><u>The Top-Rated Video Editing Tools for Mac In</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android/"><u>The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-3-tips-om-mkv-films-naar-dvd-format-te-zetten-op-windows-of-mac/"><u>Top 3 Tips Om MKV-Films Naar DVD-Format Te Zetten Op Windows of Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-quicktime-video-editing-on-mac-tips-tricks-and-techniques/"><u>Updated 2024 Approved QuickTime Video Editing on Mac Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-resume-creators-get-started-with-free-templates/"><u>Updated In 2024, Top Video Resume Creators Get Started with Free Templates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-10-coolest-plugins-for-final-cut-pro-x/"><u>Updated Top 10 Coolest Plugins for Final Cut Pro X</u></a></li>
+</ul></div>
 
