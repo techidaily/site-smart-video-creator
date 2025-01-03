@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unleash Your Creativity How to Make a Professional-Looking Video From Photos
-date: 2024-08-02T06:05:52.837Z
-updated: 2024-08-03T06:05:52.837Z
+date: 2024-12-30T16:20:28.594Z
+updated: 2025-01-03T16:06:53.525Z
 tags: 
   - video editing software
   - video editing
@@ -31,9 +31,6 @@ Want to make your own video but don't have a camcorder? Don't worry, you can sti
 * [How to make a video with pictures using Wondershare Filmora](#part1)
 * [What to look for when choosing a good slideshow maker](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to make a video with pictures and music using Wondershare Filmora?
 
 Filmora has built-in royalty free audio effects that you can use to touch up your video. It includes various video effects, elements and filters to maker your video more attractive. More than that, more than 150 video transitions can also make video more natural to watch. Check this video below to know more about Filmora. Now download it to have a try!
@@ -48,14 +45,15 @@ Download and open [Filmora](https://tools.techidaily.com/wondershare/filmora/dow
 
 The still image default duration is 5 seconds, you can shorten or extend it by drag the border of image in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change duration](https://images.wondershare.com/filmora/article-images/drag-slideshow-9.jpg)
 
 Adding motion and trasitions can make your photo slideshow more attractive. To add motions, just double click on the image clip in the timeline, and there are over 50 motion options for you to choose. Select the one you prefer (the effect will be shown in the preview window) and double click on it to apply it on the selected image.
 
 ![add motion](https://images.wondershare.com/filmora/guide/apply-motions-to-overlays-win.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adding transitions between images can make the story go smoothly. Go Transitions, choose one transition, and click the Play button on the preview window to check the effect. Click the plus icon on the transition you like to apply it to the clip.
 
@@ -71,9 +69,6 @@ If you want to express your feelings or explain something in the slideshow, you 
 
 Music is the must-have element in a photo slideshow. In Filmora, there are over 50 royalty free music for you to choose to make your slideshow more engaging. Just drag the one you like to timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio](https://images.wondershare.com/filmora/article-images/add-audio-9.jpg)
 
 #### 5\. Export
@@ -81,6 +76,10 @@ Music is the must-have element in a photo slideshow. In Filmora, there are over 
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to YouTube or burn it a DVD collection.
 
 ![export](https://images.wondershare.com/filmora/guide/export-9-win.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to look for when choosing a good slideshow maker?
 
@@ -93,8 +92,9 @@ Get a smart video slideshow maker to edit and create your own video, you need ta
 * 5\. Save video slideshows for any device, burn them to DVD or upload them online.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why Choose Wondershare Filmora?
 
 **1\. Initiative Interface**  
@@ -109,23 +109,23 @@ Easily rotate photos, enhance brightness and color balance to fine tune your vid
 **4\. Share Video in Different Ways**  
 Save your slideshow in different formats, choose from ready-made presets for all popular mobile devices, upload it to Facebook and YouTube or burn it a DVD collection.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,5 +134,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-transcribe-a-youtube-video-free/"><u>[New] How to Transcribe a YouTube Video [FREE]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-20plus-cool-metaverse-memes-and-how-to-make-your-own-memes/"><u>[Updated] 20+ Cool Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-master-the-art-of-tokenization-with-these-7-nft-creation-apps/"><u>[Updated] 2024 Approved Master the Art of Tokenization with These 7 NFT Creation Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instaboomers-hook-your-audience-with-circular-content/"><u>[Updated] InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-video-editing-apps-for-mac-from-novice-to-expert-for-2024/"><u>Best Video Editing Apps for Mac From Novice to Expert for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution-for-2024/"><u>Ezvid for Mac The Ultimate Slideshow and Video Making Solution for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fast-and-free-dailymotion-to-mp3-converter-online/"><u>Fast and Free Dailymotion to MP3 Converter Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-in-sync-the-best-lip-sync-video-editing-apps-for-mobile-for-2024/"><u>Get in Sync The Best Lip Sync Video Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/gopro-video-editing-made-simple-a-free-and-friendly-tutorial-for-2024/"><u>GoPro Video Editing Made Simple A Free and Friendly Tutorial for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-write-amazing-podcast-descriptions-with-examples-for-2024/"><u>How to Write Amazing Podcast Descriptions (With Examples) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-elevate-your-career-best-video-resume-makers-and-templates/"><u>In 2024, Elevate Your Career Best Video Resume Makers and Templates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-and-fantastic-the-best-flv-video-editors/"><u>In 2024, Free and Fantastic The Best FLV Video Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>In 2024, Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-your-channels-premium-cost-free-intro-makers/"><u>In 2024, Unleash Your Channels Premium, Cost-Free Intro Makers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-video-editing-pro-tips-controlling-speed-in-camtasia/"><u>In 2024, Video Editing Pro Tips Controlling Speed in Camtasia</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-16-best-free-avi-video-rotators-windows-mac-android-iphone-and-online/"><u>New 2024 Approved Top 16 Best Free AVI Video Rotators Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/photography-on-instagram-adding-images-made-simple/"><u>Photography on Instagram Adding Images Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-digital-media-library-with-winx-video-converter-premium-download-and-use-anytime-on-the-go/"><u>Streamline Your Digital Media Library with WinX Video Converter Premium – Download and Use Anytime, On-the-Go!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-and-save-your-kindle-books-as-secure-pdf-files-a-comprehensive-how-to-tutorial/"><u>Unlock and Save Your Kindle Books as Secure PDF Files – A Comprehensive How-To Tutorial</u></a></li>
+</ul></div>
 
