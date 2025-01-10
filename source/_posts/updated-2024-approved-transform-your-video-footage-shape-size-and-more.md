@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Video Footage Shape, Size, and More
-date: 2024-12-13T17:42:01.783Z
-updated: 2024-12-15T16:04:20.713Z
+date: 2025-01-07T08:23:04.703Z
+updated: 2025-01-09T17:48:02.673Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -58,6 +58,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -65,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -86,10 +90,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -99,7 +99,7 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,20 +171,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-must-know-definition-of-digital-storytelling/"><u>[New] 2024 Approved Must-Know Definition of Digital Storytelling</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-can-instant-subscription-lead-to-higher-watch-time/"><u>[New] In 2024, Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-engagement-learn-to-dim-youtube-video-backgrounds-for-2024/"><u>[Updated] Enhance Engagement Learn to Dim YouTube Video Backgrounds for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/advanced-file-handling-with-emeditor-a-comprehensive-guide/"><u>Advanced File Handling with EmEditor - A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/chromebooks-finest-online-video-editors-ranked/"><u>Chromebooks Finest Online Video Editors Ranked</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-pioneering-insights-by-tom-on-hardware-solutions/"><u>Decoding Tech: Pioneering Insights by Tom on Hardware Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-handling-server-is-unable-to-communicate-with-rpc-on-pc/"><u>Effective Techniques for Handling 'Server Is Unable to Communicate with RPC' On PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-drivers-revamp-on-your-windows-11-pc/"><u>Effortless Drivers Revamp on Your Windows 11 PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-7-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 7 to iPad? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/how-to-play-video-in-reverse-using-final-cut-pro-2023-update/"><u>How to Play Video in Reverse Using Final Cut Pro 2023 Update</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-video-flipper-tools-top-10-picks-for-rotating-footage/"><u>In 2024, Free Video Flipper Tools Top 10 Picks for Rotating Footage</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-video-blur-effects-apps-for-mobile-devices/"><u>In 2024, Top Video Blur Effects Apps for Mobile Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-videopad-review-a-detailed-look-at-its-video-editing-capabilities/"><u>In 2024, Videopad Review A Detailed Look at Its Video Editing Capabilities</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-accelerate-or-slow-down-clips-in-camtasia/"><u>New 2024 Approved Accelerate or Slow Down Clips in Camtasia</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-se-2020-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>[New] In 2024, Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-professionals-way-of-removing-backgrounds/"><u>[New] In 2024, The Professional's Way of Removing Backgrounds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-array-of-unplugged-digital-pastimes/"><u>[New] Prime Array of Unplugged Digital Pastimes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/clipcomposers-evaluation-full-breakdown-of-video-editing-software/"><u>ClipComposer's Evaluation – Full Breakdown of Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-started-with-linux-on-your-chromebook-a-comprehensive-installation-guide/"><u>New In 2024, Get Started with Linux on Your Chromebook A Comprehensive Installation Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>New Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/new-tricks-for-powering-up-your-iphone-1514-following-a-data-swap-fiasco/"><u>New Tricks for Powering Up Your iPhone 15/14 Following a Data Swap Fiasco!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-cut-and-trim-videos-for-free-the-best-software-for-2024/"><u>Updated Cut and Trim Videos for Free The Best Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-free-to-pro-the-top-10-fcpx-plugins-to-take-your-videos-to-the-next-level-for-2024/"><u>Updated From Free to Pro The Top 10 FCPX Plugins to Take Your Videos to the Next Level for 2024</u></a></li>
 </ul></div>
 

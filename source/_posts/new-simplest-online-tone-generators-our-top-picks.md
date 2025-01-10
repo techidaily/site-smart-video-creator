@@ -1,7 +1,7 @@
 ---
 title: New Simplest Online Tone Generators Our Top Picks
-date: 2024-12-09T20:06:45.954Z
-updated: 2024-12-15T19:53:29.653Z
+date: 2025-01-07T04:55:47.028Z
+updated: 2025-01-09T18:22:51.490Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ You may also like: [**How to Add a Vignette Effect Online**](https://tools.techi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 Online Tone Generators
 
 Each of the online generators listed below will enable you to **hear a pure tone, and let you adjust the tone’s frequency.** Make sure that the volume on **your headphones or the speakers is properly adjusted** to avoid damaging the equipment and your hearing.
@@ -43,6 +47,10 @@ Each of the online generators listed below will enable you to **hear a pure tone
 You can find a number of different options on this website that range from the Pitch Shifter that allows you to change the Pitch of the files you upload to the Online Tone Generator platform to Binaural Beats and DTMF Signals. After you land on the website’s homepage, you’ll be able to see a tone generator that lets you **select the frequency, volume and the waveform of a tone**. The frequency will be set to 44.1 kHz and the wave type will be set to **Sine by default**.
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
@@ -63,7 +71,7 @@ Making tones on this online platform doesn’t require any effort at all since y
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
@@ -76,10 +84,6 @@ The free version of this website offers only a **limited amount of tones** that 
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/wavtones-online-tone-generator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The **WavtonesAudio Frequency Signal Generator** allows you to alter the properties of each tone it offers, even if you’re using the free version, but you can’t listen to any of the available tones before you download them. This makes it a bit more difficult to generate a tone in accordance with your current demands. Furthermore, the **Bit Depth** of all tones the free version of this online tone generator provides is limited to 16-bit.
 
 #### 5. [Gieson TonGen](https://www.gieson.com/Library/projects/utilities/tonegen/)
@@ -91,14 +95,10 @@ There are **four wave types** you can choose from that generate different types 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -109,7 +109,7 @@ What is your favorite method of generating tones? Leave a comment below and let 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -127,22 +127,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-channel-name-inspiration-strategies-for-success/"><u>[New] In 2024, Channel Name Inspiration Strategies for Success</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>[Updated] 2024 Approved From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-social-interaction-with-innovative-fb-slideshow-techniques/"><u>[Updated] Maximizing Social Interaction with Innovative FB Slideshow Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-quiet-phone-discover-8-ways-to-restore-vibrations-on-iphones-in-ringsilent-mode/"><u>Fix Your Quiet Phone! Discover 8 Ways to Restore Vibrations on iPhones in Ring/Silent Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-of-the-best-top-16-free-avi-video-rotation-software-for-any-platform/"><u>In 2024, Best of the Best Top 16 Free AVI Video Rotation Software for Any Platform</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>In 2024, Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-correcting-excessive-encoding-in-obs/"><u>In 2024, Correcting Excessive Encoding in OBS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators/"><u>In 2024, The Ultimate List of Free Green Screen Apps for Mobile Creators</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-a15-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy A15 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-your-creativity-top-3d-video-makers-you-should-know/"><u>In 2024, Unleash Your Creativity Top 3D Video Makers You Should Know</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mobile-video-editing-essentials-top-apps-for-vertical-content-for-2024/"><u>Mobile Video Editing Essentials Top Apps for Vertical Content for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-10-best-free-chroma-key-apps-for-android-and-ios-devices-2023-edition-for-2024/"><u>New 10 Best Free Chroma Key Apps for Android and iOS Devices 2023 Edition for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>New 2024 Approved Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>New 2024 Approved The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-featured-and-evaluated-by-tech-experts-zdnets-guide/"><u>Top-Ranking iPad Models Featured & Evaluated by Tech Experts - ZDNet's Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamlining-meetings-with-snap-camera-on-teams/"><u>[New] 2024 Approved Streamlining Meetings with Snap Camera on Teams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-professional-camera-choices-complete-360-guide-2023-for-2024/"><u>[New] Top Professional Camera Choices - Complete 360 Guide 2023 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-select-affordable-youtube-sbs-extraction/"><u>[Updated] Premier Select Affordable YouTube SBS Extraction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-your-proofreading-needs/"><u>Can You Trust ChatGPT with Your Proofreading Needs?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-pc-gaming-moments-6-innovative-techniques/"><u>Capturing PC Gaming Moments 6 Innovative Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-incorporate-soundtracks-into-your-videos-using-vlc-media-player/"><u>How to Incorporate Soundtracks Into Your Videos Using VLC Media Player</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-is-financial-compensation-behind-product-evaluations/"><u>In 2024, Is Financial Compensation Behind Product Evaluations?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-top-free-video-makers-users/"><u>New Unleash Your Creativity Top Free Video Makers Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/perfect-your-snapchat-boomerangs-quickly-for-2024/"><u>Perfect Your Snapchat Boomerangs Quickly for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-get-the-perfect-blur-top-rated-bokeh-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Get the Perfect Blur Top-Rated Bokeh Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-free-gif-animation-creators/"><u>Updated 2024 Approved Top Free GIF Animation Creators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-cut-trim-and-edit-top-5-free-wmv-video-editors/"><u>Updated Cut, Trim, and Edit Top 5 Free WMV Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-filmora-alternative-similar-features-at-zero-cost-for-2024/"><u>Updated Free Filmora Alternative Similar Features at Zero Cost for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-ready-to-download-best-public-domain-video-websites-for-2024/"><u>Updated Get Ready to Download Best Public Domain Video Websites for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/videoforge-mac-edition-for-2024/"><u>VideoForge Mac Edition for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/visual-vibes-your-guide-to-kinemaster-memes-for-2024/"><u>Visual Vibes Your Guide to KineMaster Memes for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x/"><u>Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X</u></a></li>
 </ul></div>
 

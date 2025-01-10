@@ -1,7 +1,7 @@
 ---
 title: お勧めのDVD CPRMブロックを無効にするフリーWindows 10ソフトウェア
-date: 2024-12-28T16:15:20.466Z
-updated: 2025-01-03T16:32:11.986Z
+date: 2025-01-03T23:52:20.387Z
+updated: 2025-01-09T19:31:40.420Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8a6cd21a0ae3357ed65bdbc2.jpg
@@ -28,10 +28,6 @@ Quick Navigation:
 * [FAQs of Removing Audio from a Video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [The Bottom Line](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Audio from Videos on Windows?
 
 [WonderFox HD Video Converter Factory Pro](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) is a professional video converter for Windows with handy editing, recording, and downloading features. Using its simple video editor, you can easily remove audio from videos like MP4, MKV, MOV, AVI, and WebM. You have two options: mute the audio or remove the soundtrack. No matter which method you use, you can complete the task with several mouse clicks.
@@ -48,19 +44,11 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
 
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
 
@@ -69,6 +57,10 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 **Step 4.** Adjust other video and audio options based on needs. Finally, click “Run” to export the final videos without sound. When the process is done, you can check the resulting files in the output folder.
 
 ![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Versatile Audio Remover App for PC
 
@@ -99,6 +91,10 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Tip. How to mute part of a video in iMovie?**  
  1\. After detaching the audio from the video, position the playhead (white line on the timeline) and split the audio into two or more parts.  
 2\. Select the audio clip you want to remove.  
@@ -121,10 +117,6 @@ How to mute audio in a video in Google Photos:
 **Step 4.** You can do additional edits like cropping and adjusting the video. Then, press “Save copy” to save the video without audio.
 
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### • InShot
 
@@ -154,14 +146,14 @@ Many online video editors can help you remove background sound from a video. How
 ![Remove Audio from Video Online Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-8.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Common Ways to Mute a Video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### • Clipchamp
 
@@ -181,7 +173,7 @@ You can try Adobe Premiere Pro for free for 7 days and then purchase a subscript
 ![Remove Audio from Video Premiere Pro](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-10.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### • VLC Media Player
@@ -191,6 +183,10 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 → Learn [how to remove audio from video using VLC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### • VSDC Video Editor
 
@@ -210,6 +206,10 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q2\. How do I remove a specific audio track from a video?
 
 Firstly, import your video into the editing software and separate the audio from the video. Then, select and delete the audio track you want to remove.
@@ -218,14 +218,6 @@ Firstly, import your video into the editing software and separate the audio from
  Check the complete guide on [how to remove certain audio from video >>](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q3\. How to mute a video on different apps?
 
@@ -236,6 +228,10 @@ Firstly, import your video into the editing software and separate the audio from
 **TikTok:** Simply drag the slider of the volume bar to zero. You can also go to TikTok’s settings to make videos start muted by default.
 
 **WhatsApp:** Open the app on your iPhone or Android. Next, select Chats > choose chat to mute or open a video from your gallery. Finally, tap the speaker icon to mute it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -255,6 +251,10 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -270,24 +270,17 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-supreme-storytelling-through-soundscape/"><u>[New] 2024 Approved Supreme Storytelling Through Soundscape</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-instant-reachers-handbook-livestreaming-on-facebook-via-smartphones/"><u>[New] In 2024, Instant Reachers' Handbook Livestreaming on Facebook via Smartphones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-digital-diaspora-mixing-music-and-memory-images-for-2024/"><u>[Updated] Digital Diaspora Mixing Music and Memory Images for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-taking-the-first-step-on-youtube-account-setup/"><u>[Updated] In 2024, Taking The First Step on YouTube Account Setup</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-swf-to-mp4-video-converter-by-movavi-simple-secure-and-fast/"><u>Free Online SWF to MP4 Video Converter by Movavi: Simple, Secure & Fast</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Passcode Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-find-n3-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Find N3</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-instant-insights-switching-up-your-facebook-profile-coverage-easily/"><u>In 2024, Instant Insights Switching Up Your Facebook Profile Coverage Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-types-community-wide-to-homebound-integration/"><u>Navigating AI Types: Community-Wide to Homebound Integration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-solved-final-cut-pro-x-keeps-crashing/"><u>New In 2024, Solved Final Cut Pro X Keeps Crashing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-5-final-cut-pro-editing-tips-you-should-know/"><u>New In 2024, Top 5 Final Cut Pro Editing Tips You Should Know</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-video-invitation-creators-for-mobile-devices/"><u>New Top Video Invitation Creators for Mobile Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-video-editors-for-avi-files-for-2024/"><u>New Top-Rated Free Video Editors for AVI Files for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-unleash-the-power-of-high-definition-best-video-quality-boosters-for-2024/"><u>New Unleash the Power of High-Definition Best Video Quality Boosters for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-3gp-video-rotators-for-2024/"><u>Top 5 Best Free 3GP Video Rotators for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-bargains-on-high-performance-laptops-this-fall-season-october-2-cuyote-zdnet-exclusives/"><u>Ultimate Guide: Bargains on High-Performance Laptops This Fall Season (October 2 Cuyote) - ZDNET Exclusives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mastering-xml-files-in-fcpx-the-ultimate-guide/"><u>Updated 2024 Approved Mastering XML Files in FCPX The Ultimate Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-tivo-vs-comcast-x1-which-dvr-offers-the-most-bang-for-your-buck/"><u>Updated 2024 Approved TiVo vs Comcast X1 Which DVR Offers the Most Bang for Your Buck ?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-wevideo-your-go-to-platform-for-online-video-editing/"><u>Updated 2024 Approved WeVideo Your Go-To Platform for Online Video Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-creating-your-avatar-with-confidence/"><u>[Updated] From Novice to Expert Creating Your Avatar with Confidence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-gif-galore-converting-tweet-videos-at-zero-cost/"><u>[Updated] In 2024, GIF Galore Converting Tweet Videos at Zero Cost</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-makers-guide-for-iphones/"><u>[Updated] Meme Makers' Guide (For iPhones)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/accelerating-instagram-videos-mobile-and-desktop-tips-for-2024/"><u>Accelerating Instagram Videos Mobile & Desktop Tips for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010714500-battling-the-beast-of-processing-power-top-fixes-for-baldurs-gate-3-cpu-problems/"><u>Battling the Beast of Processing Power: Top Fixes for Baldur's Gate 3 CPU Problems,</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-freely-accessible-cutting-edge-video-editor-tools/"><u>In 2024, Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-the-scoop-on-vn-video-editor-for-pc/"><u>In 2024, Get the Scoop on VN Video Editor for PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-capture-the-moment-freezing-frames-in-videos-made-simple/"><u>New 2024 Approved Capture the Moment Freezing Frames in Videos Made Simple</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-final-cut-pro-x-reset-the-fastest-way-to-resolve-issues/"><u>New 2024 Approved Final Cut Pro X Reset The Fastest Way to Resolve Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-should-you-buy-videopad-video-editor-an-honest-review-and-recommendation/"><u>New 2024 Approved Should You Buy Videopad Video Editor? An Honest Review and Recommendation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
 </ul></div>
 

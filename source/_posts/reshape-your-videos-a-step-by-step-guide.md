@@ -1,7 +1,7 @@
 ---
 title: Reshape Your Videos A Step-by-Step Guide
-date: 2024-12-12T13:24:30.610Z
-updated: 2024-12-16T05:01:43.908Z
+date: 2025-01-03T02:47:24.499Z
+updated: 2025-01-10T00:12:49.259Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +69,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -90,10 +90,6 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -101,6 +97,10 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,20 +171,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>[New] 2024 Approved Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/oar-in-popularity-with-key-seo-strategies-for-your-youtube-content/"><u>[New] Soar in Popularity with Key SEO Strategies for Your YouTube Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-your-content-seo-mastery-starts-here/"><u>[Updated] 2024 Approved Elevate Your Content SEO Mastery Starts Here</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-manage-srt-files-in-winmac-environments-for-2024/"><u>[Updated] Manage SRT Files in Win/Mac Environments for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-hd-lens-guide-for-pro-level-cinematography/"><u>2024 Approved Ultimate HD Lens Guide for Pro-Level Cinematography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-novices-approach-to-acquiring-picture-frames-for-2024/"><u>A Novice's Approach to Acquiring Picture Frames for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-vllo-alternatives-for-mac-users-for-2024/"><u>Discover the Best VLLO Alternatives for Mac Users for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/get-started-with-jaycut-a-beginners-guide-to-free-video-editing-for-2024/"><u>Get Started with Jaycut A Beginners Guide to Free Video Editing for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article/"><u>In 2024, How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-rated-pc-intro-makers-free-and-paid-tools-online-and-offline/"><u>In 2024, Top-Rated PC Intro Makers Free and Paid Tools Online & Offline</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/intense-overwatch-gameplay-breakdown-the-ultimate-team-combat-experience/"><u>Intense Overwatch Gameplay Breakdown: The Ultimate Team Combat Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-image-generation-combining-dall-e-and-gpt-4-for-unique-creations/"><u>Mastering Image Generation: Combining DALL-E and GPT-4 for Unique Creations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-elevate-your-video-production-top-4k-video-editing-software/"><u>New 2024 Approved Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-split-your-videos-with-ease-top-5-free-software/"><u>New 2024 Approved Split Your Videos with Ease Top 5 Free Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-sow-and-reap-rivalries-farming-games-to-remember/"><u>[New] In 2024, Sow & Reap Rivalries Farming Games to Remember</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-approaches-to-network-broadcast-with-vlc-for-2024/"><u>[New] Innovative Approaches to Network Broadcast with VLC for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-vision-and-flavor-shooting-the-best-food-videos/"><u>[Updated] Vision and Flavor Shooting the Best Food Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-20-complimentary-luts-available-for-dji-miniair-2-users/"><u>2024 Approved 20 Complimentary LUTs Available for DJI Mini/Air 2 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-guide-to-inshot-and-laptop-editing/"><u>A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/acquista-i-migliori-modi-di-streaming-video-per-la-tua-apple-tv/"><u>Acquista I Migliori Modi Di Streaming Video per La Tua Apple TV</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-risk-of-rain-2s-sudden-freezing-and-crash-problems/"><u>How to Resolve Risk of Rain 2'S Sudden Freezing and Crash Problems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-ditch-premiere-rush-4-excellent-video-editing-alternatives/"><u>New In 2024, Ditch Premiere Rush? 4 Excellent Video Editing Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-best-reaction-video-maker-apps-for-iphone-and-android/"><u>New In 2024, The Best Reaction Video Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-vn-video-editor-app-review-pros-and-cons/"><u>New In 2024, VN Video Editor App Review Pros and Cons</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-video-editors-for-newbies-a-beginners-guide/"><u>Updated 2024 Approved Best Free Video Editors for Newbies A Beginners Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-avidemux-no-sound-error-causes-and-fixes/"><u>Updated In 2024, Avidemux No Sound Error Causes and Fixes</u></a></li>
 </ul></div>
 

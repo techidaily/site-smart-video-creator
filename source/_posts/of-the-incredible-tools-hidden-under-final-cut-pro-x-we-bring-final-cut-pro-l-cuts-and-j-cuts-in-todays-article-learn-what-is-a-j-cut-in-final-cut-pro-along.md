@@ -1,7 +1,7 @@
 ---
 title: Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX
-date: 2024-12-12T01:06:25.873Z
-updated: 2024-12-15T19:46:24.643Z
+date: 2025-01-07T18:52:00.136Z
+updated: 2025-01-10T03:59:18.936Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ If you wish to edit or create videos like a pro, you do not need to be a profess
 It could be surprising, but yes, your well-known Final Cut Pro X has this powerful feature still overlooked by many people. So, today, we take it on hand and shall share what L-Cuts and J-Cuts mean. You will be able to create it on your own by the end of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The Use of L-Cuts and J-Cuts in Video Editing
@@ -43,7 +43,7 @@ When you look at the above interface, you will see the basic phenomenon behind t
 Then, **what is a J cut in Final Cut Pro**? It is ultimately reverse or opposite of L-Cuts. Yes, the second clip's audio starts a while before the scene of the first video ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Step-by-step Guide on Using L-Cuts and J-Cuts in Final Cut Pro X
@@ -103,7 +103,7 @@ Final Cut Pro X offers specific keyword shorts to perform Final Cut Pro L-Cuts a
 * Using timecode to add or subtract the present edit: press the “**Plus (+)**” or “**Minus (-)**” key with the timecode duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,7 +113,7 @@ Are you wondering and puzzled that you are a popular Final Cut Pro X user but we
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -131,20 +131,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mastering-tiktoks-economy-with-these-8-profitable-methods/"><u>[New] In 2024, Mastering TikTok's Economy with These 8 Profitable Methods</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-securing-comfort-in-vr-experiences/"><u>[New] Securing Comfort in VR Experiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nderstanding-youtubes-premier-package-for-2024/"><u>[New] Understanding YouTube's Premier Package for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-snipers-essential-windows-cutting-software/"><u>[Updated] Top 5 Snipers Essential Windows Cutting Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-what-to-use-instead-of-virtualdub-top-recommendations/"><u>New 2024 Approved What to Use Instead of VirtualDub Top Recommendations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-windows-10-video-editors-the-best-free-and-paid-imovie-alternatives/"><u>New 2024 Approved Windows 10 Video Editors The Best Free and Paid iMovie Alternatives</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-convert-optimize-and-thrill-the-best-vr-video-conversion-software-for-2024/"><u>New Convert, Optimize, and Thrill The Best VR Video Conversion Software for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-cropping-like-a-pro-advanced-techniques-for-avidemux-users/"><u>New Cropping Like a Pro Advanced Techniques for Avidemux Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-edit-avi-files-with-ease-top-windows-8-video-editor-2023/"><u>New Edit AVI Files with Ease Top Windows 8 Video Editor - 2023</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-final-cut-pro-x-on-steroids-top-plugins-to-boost-productivity-for-2024/"><u>New Final Cut Pro X on Steroids Top Plugins to Boost Productivity for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-from-real-to-toon-how-to-turn-videos-into-cartoons-for-2024/"><u>New From Real to Toon How to Turn Videos Into Cartoons for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-apis-explained-actions-and-applications/"><u>OpenAI APIs Explained: Actions and Applications</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210770767-9781684988389-the-second-life/"><u>The Second Life | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-communication-top-4-techniques-for-fb-call-records-for-2024/"><u>[New] Enhancing Communication Top 4 Techniques for FB Call Records for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature-for-2024/"><u>[Updated] Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scoping-out-superior-cloud-platforms-for-secure-storing/"><u>[Updated] Scoping Out Superior Cloud Platforms for Secure Storing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-full-screen-flexibility-with-pip-on-iphone-youtube-app/"><u>[Updated] Unleash Full Screen Flexibility with PIP on iPhone YouTube App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-secure-and-efficient-lecture-recording-with-apple-devices/"><u>2024 Approved Secure & Efficient Lecture Recording with Apple Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-must-have-3d-video-maker-tools-for-stunning-visuals/"><u>New Must-Have 3D Video Maker Tools for Stunning Visuals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-best-windows-10-photos-alternatives-for-2024/"><u>New The Ultimate List Best Windows 10 Photos Alternatives for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-4k-video-editing-tools-for-creators/"><u>New Top-Rated 4K Video Editing Tools for Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/romance-ruse-cybercriminals-tech-tactics/"><u>Romance Ruse: Cybercriminals' Tech Tactics</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-cinematic-color-grading-and-editing-in-final-cut-pro-x-a-comprehensive-guide/"><u>Updated 2024 Approved Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-7-video-joiner-software-with-no-watermark-output/"><u>Updated 7 Video Joiner Software with No Watermark Output</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>Updated In 2024, Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-videopad-video-editor-review-does-it-live-up-to-the-hype/"><u>Updated In 2024, Videopad Video Editor Review Does It Live Up to the Hype?</u></a></li>
 </ul></div>
 

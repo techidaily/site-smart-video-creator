@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Adding Fusion Extension in Kodi Versions 19 and 18
-date: 2024-12-31T16:15:18.221Z
-updated: 2025-01-03T16:10:47.488Z
+date: 2025-01-03T16:23:37.636Z
+updated: 2025-01-10T04:16:09.361Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e08cee6f612c187a5f5545374.jpg
@@ -20,7 +20,7 @@ Best software to download music videos from 300+ sites!
 [![WonderFox Logo](https://www.videoconverterfactory.com/tips/img-autofit/logo.png "WonderFox - the Fastest DVD Ripper and HD Video Converter")](http://www.videoconverterfactory.com/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ![Software](https://www.videoconverterfactory.com/tips/img-autofit/header-tit1.png)How to & Tips
@@ -29,17 +29,9 @@ Best software to download music videos from 300+ sites!
 
 ![Resources](https://www.videoconverterfactory.com/tips/img-autofit/header-r.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Top 7 Sites to Download Music Video of Good Quality Free |2024
 
 ![Author](https://www.videoconverterfactory.com/tips/imgs-self/avatar/oswald.png) by [Oswald](https://twitter.com/oswald97304685)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Updated on Mar 04, 2024
 
@@ -62,6 +54,10 @@ Please pay attention to your download actions. It is illegal to download copyrig
 
 ![Free music video downloader](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Highly-recommended Music Video Downloader
 
 1\. Make download possible, even when no download option is provided
@@ -76,11 +72,11 @@ _Free, clean, and simple to use! Get it here now!_
 
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best 7 Sites to Download Music Video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Vimeo vimeo.com
 
@@ -89,10 +85,6 @@ _Free, clean, and simple to use! Get it here now!_
 Vimeo is probably the best HD music video download site, given the high audio quality ([320kbps MP3](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)) Vimeo support for their videos (which is quite exceptional and worthy since many similars can’t do so, including YouTube). There is no doubt about the quality of their music videos. Additionally, Vimeo is steadily gaining its popularity among the world, let us look forward to its enriching music video collection, and an increasing number of musicians, artists, enthusiasts gathering with the common love. 
 
 For: Quality means the most!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. YouTube youtube.com
 
@@ -104,17 +96,9 @@ Another reason that makes YouTube a good place to download music video is more a
 
 For: No more "There’s no accounting for taste." 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Billboard billboard.com
 
 ![Music video on Billboard](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-04.jpg)Music video on Billboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 What makes Billboard so special is that they measure the value of every musician for the customers. Although, it seems there’s no one can ever name what exactly is they are measuring, and based on what criteria. But it’s always broadly in line with popular aesthetics.
 
@@ -122,25 +106,49 @@ The Billboard Hot 100 is, and always will be the standard by which a song's popu
 
 For: Have no idea what's on-trend? Check out the Billboard hot 100!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. MTV Music mtv.com/music
 
 ![Music video un MTV Music](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-05.jpg)Music video un MTV Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MTV has become the world's largest TV network! You’re going to love how sleek their layout is, how easy it is to navigate on, and rich contents provided aiming the youth. Speaking of “aiming the youth”, they have: shows of many kinds; news about TV, life, movies, celebrity, politics; the music of all genres - everyday topics of the youth. And the stuffs they provide for you are all the latest! 
 
 For: Daily news and pushes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Dailymotion dailymotion.com
 
 ![Music video on Dailymotion](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-06.jpg)Music video on Dailymotion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Many music video download sites are aiming at a certain group of people at large, but Dailymotion does it otherwise. Not only is Dailymotion the second largest video sharing site among the world and home of numerous music & video lovers, but also provides as various contents that go with the diversification of its users.
 
 For: One of the best sites to download video songs of all languages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Last.fm last.fm
 
 ![Music video on Last.fm](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-07.jpg)Music video on Last.fm
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Firstly, you’ll find it such refreshing, when looking for a website to download music videos, finding a place providing a feature called “Spiking Artists”. It allows you to explore the artist and their similar artists that currently trending globally on Last.fm. 
 
@@ -149,7 +157,7 @@ Secondly, on Last.fm, there are statistics of: the songs currently making the mo
 For: Find the hottest song of every single day & Explore various sounds from different eras.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Yahoo Music yahoo.com/entertainment/music/
@@ -173,10 +181,6 @@ How to download music videos if download link/button isn’t provided? A highly-
 ![Copy the URL to download music video](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-09.jpg) 
 
 Before start, please [free download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[free download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1\. Copy the URL of the Desired Music Video
 
@@ -207,10 +211,6 @@ Roku: channelstore.roku.com/details/20445/vevo
 And with the music downloader mentioned earlier, you can save the Vevo music content easily. 
 
 ![Free download music videos from websites](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Best URL Video/Audio Downloader
 
@@ -251,24 +251,19 @@ More Related Articles
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-recording-nintendo-switch-edition-for-2024/"><u>[New] Cutting-Edge Recording Nintendo Switch Edition for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/op-5-snug-scenarios-for-your-snowy-youtube-sessions-for-2024/"><u>[New] Top 5 Snug Scenarios for Your Snowy Youtube Sessions for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-amplify-your-message-facebook-engagement-secrets/"><u>[Updated] Amplify Your Message Facebook Engagement Secrets</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>2024 Approved Snapchat Emojis The Real Meaning You May Not Know</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-3-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 3</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-edge-2023-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola Edge 2023 FRP Bypass Instantly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-top-iphone-video-editor-choose-between-cameo-and-filmorago/"><u>In 2024, Top iPhone Video Editor Choose Between Cameo & FilmoraGo</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-s-best-free-video-rotators-for-3gp-files-a-comprehensive-guide/"><u>New In 2024, S Best Free Video Rotators for 3GP Files A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-free-m4a-audio-editing-software-reviews-and-downloads-for-2024/"><u>New Top Free M4A Audio Editing Software Reviews and Downloads for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-video-maestro-convert-casual-clips-into-cinematic-masterpieces/"><u>New Video Maestro Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/quik-but-not-quick-enough-a-review-and-pc-alternatives-for-faster-video-editing-for-2024/"><u>Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cketing-youtube-popularity-through-seo-know-how-for-2024/"><u>Skyrocketing YouTube Popularity Through SEO Know-How for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/spellbreak-stability-enhancements-for-windows-users-no-more-crashes/"><u>Spellbreak Stability Enhancements for Windows Users - No More Crashes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swift-shift-from-srt-to-text-your-modern-guide-for-speed-for-2024/"><u>Swift Shift From SRT to Text Your Modern Guide for Speed for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-online-stop-motion-creators-a-comprehensive-review-for-2024/"><u>Updated Best Online Stop Motion Creators A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-expert-approved-stop-motion-animation-software-for-mac-and-pc/"><u>Updated Expert-Approved Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-the-power-of-video-metadata-on-mac-8-editor-recommendations/"><u>Updated In 2024, Unleash the Power of Video Metadata on Mac 8 Editor Recommendations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-steady-your-shot-the-best-free-online-video-stabilizers-for-2024/"><u>Updated Steady Your Shot The Best Free Online Video Stabilizers for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-5-best-free-wmv-video-editors/"><u>Updated Top 5 Best Free WMV Video Editors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-dual-method-approach-for-instagram-reel-downloads/"><u>[New] 2024 Approved A Dual Method Approach for Instagram Reel Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udio-conversion-made-simple-youtube-to-mp3-mac-edition-for-2024/"><u>[New] Audio Conversion Made Simple YouTube to MP3, Mac Edition for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726030464050-mp410/"><u>「最優秀のMP4動画変換ツールを見つける：安心で無料オプションが豊富な10選」</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726030676226-firefox8/"><u>最高の動画ダウンロードエクステンションをFirefoxに紹介:ベストセレクション8つ</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/aiffwav-windows/"><u>AIFFへのWAVファイル高速劣化無し一括変換: Windowsで実行する方法</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-airplay-to-download-effortless-apods-access/"><u>From AirPlay to Download Effortless APods Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-commonplace-clips-to-complex-computations-ais-role-in-paperclip-optimization/"><u>From Commonplace Clips to Complex Computations: AI's Role in Paperclip Optimization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-adventures-the-ultra-30-action-cam-reviewed/"><u>In 2024, Capturing Adventures The Ultra 30 Action Cam Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>In 2024, GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rboards-unveiled-1-26-in-youtube-snacking/"><u>Leaderboards Unveiled #1, #2...#6 in YouTube Snacking</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726030626371-mp4dvd/"><u>MP4ファイルをDVDへ簡単移行ガイド</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726030687845-tiktok/"><u>TikTokのビデオから音声抽出削除手順</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/44km44kn44ow44og5zyn57iu5rov77ya5zob6loq44gr44kp44ga44gl44gq5b2x6zplus44gg44gr44gn44cb5asn44gn44gp44ov44kh44kk44or44ks44kz44oz44or44kv44oi5yyw44gz44kl44kz4422/"><u>ウェブム圧縮法：品質にわずかな影響だけで、大きくファイルをコンパクト化するコツ</u></a></li>
 </ul></div>
 

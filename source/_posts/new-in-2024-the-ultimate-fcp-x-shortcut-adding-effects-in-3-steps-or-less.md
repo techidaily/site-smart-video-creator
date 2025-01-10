@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate FCP X Shortcut Adding Effects in 3 Steps or Less
-date: 2024-12-11T12:42:13.274Z
-updated: 2024-12-16T09:31:53.674Z
+date: 2025-01-04T06:56:40.950Z
+updated: 2025-01-10T08:33:11.875Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -53,9 +49,17 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
@@ -64,10 +68,6 @@ Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -82,16 +82,24 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Disable and delete an effect
@@ -99,10 +107,6 @@ Grab a slider and drag it to see what happens. For example, to make an image blu
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To enable an effect, click the gray box so it turns blue again.
 
@@ -122,10 +126,6 @@ The process of applying effects is the same for all effects you apply from the E
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -141,20 +141,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-core-elements-in-storytelling-skills/"><u>[New] Core Elements in Storytelling Skills</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[Updated] In 2024, Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unmatched-document-enhancements-for-2024/"><u>[Updated] Unmatched Document Enhancements for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/beginners-luck-15-free-video-editing-programs-to-get-you-started-for-2024/"><u>Beginners Luck 15 Free Video Editing Programs to Get You Started for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-event-id-1000-issues-on-various-windows-versions-including-win7-and-win10/"><u>Fixing Event ID 1000 Issues on Various Windows Versions, Including Win7 & Win10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-meizu-21-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Meizu 21 Pro FRP Locks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-gif-tempo-tweakers-online-ios-and-android-options/"><u>In 2024, GIF Tempo Tweakers Online, iOS, and Android Options</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-speed-up-your-video-editing-how-to-cut-large-files-fast-on-mac/"><u>In 2024, Speed Up Your Video Editing How to Cut Large Files Fast on Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-with-imagination-pro-tiktok-edits-revealed/"><u>Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/is-avs-video-editor-worth-it-an-honest-review-for-2024/"><u>Is AVS Video Editor Worth It? An Honest Review for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcp-hall-of-fame-10-iconic-films-edited-with-final-cut-pro/"><u>New 2024 Approved FCP Hall of Fame 10 Iconic Films Edited with Final Cut Pro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-m4a-editing-solutions-top-5-software/"><u>New 2024 Approved Free M4A Editing Solutions Top 5 Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speedy-repair-techniques-for-when-the-camera-option-vanishes-from-pcs-device-manager/"><u>Speedy Repair Techniques for When the Camera Option Vanishes From PC's Device Manager</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-initializing-virtual-machines-with-iso-files-on-hyper-v-and-vmware/"><u>Step-by-Step Guide: Initializing Virtual Machines with ISO Files on Hyper-V & VMware</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-restoring-your-windows-11-registry-with-yl-computings-tools/"><u>Step-by-Step Guide: Restoring Your Windows 11 Registry with YL Computing's Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-vr-game-engine-picks-2023-for-2024/"><u>[New] The Ultimate Guide to VR Game Engine Picks, 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-comprehensible-guide-to-enhancing-your-facebook-live-experience/"><u>[Updated] The Comprehensible Guide to Enhancing Your Facebook Live Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-master-your-audience-smooth-screen-sharing-on-social-livestreams/"><u>2024 Approved Master Your Audience Smooth Screen Sharing on Social Livestreams</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-p60-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei P60 Devices | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-arduino-usb-driver-on-your-windows-pc/"><u>How to Install the Latest Arduino USB Driver on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-zbook-15-g3-user-guide-how-to-find-and-apply-windows-drivers-easily/"><u>HP ZBook 15 G3 User Guide: How to Find and Apply Windows Drivers Easily</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-art-of-acceleration-a-comprehensive-guide-to-time-lapse-video-software-for-2024/"><u>The Art of Acceleration A Comprehensive Guide to Time Lapse Video Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-new-to-video-editing-here-are-the-best-software-options-for-2024/"><u>Updated New to Video Editing? Here Are the Best Software Options for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-free-vob-video-editors-reviewed/"><u>Updated The Best of the Best Free VOB Video Editors , Reviewed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-mts-video-editing-top-5-software-for-2024/"><u>Updated The Ultimate Guide to MTS Video Editing Top 5 Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-14-free-video-editors-with-no-watermark/"><u>Updated The Ultimate List 14 Free Video Editors with No Watermark</u></a></li>
 </ul></div>
 
