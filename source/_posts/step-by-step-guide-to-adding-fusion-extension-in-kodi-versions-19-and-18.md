@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Adding Fusion Extension in Kodi Versions 19 and 18
-date: 2025-01-14T20:00:03.059Z
-updated: 2025-01-22T03:22:23.581Z
+date: 2025-01-22T19:23:55.005Z
+updated: 2025-01-29T21:32:34.030Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e08cee6f612c187a5f5545374.jpg
@@ -24,7 +24,7 @@ Best software to download music videos from 300+ sites!
 ![Video Formats](https://www.videoconverterfactory.com/tips/img-autofit/header-tit2-video.png)Convert Video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Resources](https://www.videoconverterfactory.com/tips/img-autofit/header-r.png)
@@ -68,7 +68,15 @@ _Free, clean, and simple to use! Get it here now!_
 
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best 7 Sites to Download Music Video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Vimeo vimeo.com
 
@@ -78,16 +86,12 @@ Vimeo is probably the best HD music video download site, given the high audio qu
 
 For: Quality means the most!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. YouTube youtube.com
 
 ![Music video on YouTube](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-03.jpg)Music video on YouTube
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As the biggest giant in video sharing/hosting, YouTube has it all. YouTube practically has the largest video collection in any category, including video songs.
@@ -100,15 +104,15 @@ For: No more "There’s no accounting for taste."
 
 ![Music video on Billboard](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-04.jpg)Music video on Billboard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 What makes Billboard so special is that they measure the value of every musician for the customers. Although, it seems there’s no one can ever name what exactly is they are measuring, and based on what criteria. But it’s always broadly in line with popular aesthetics.
 
 The Billboard Hot 100 is, and always will be the standard by which a song's popularity is measured in the United States.
 
 For: Have no idea what's on-trend? Check out the Billboard hot 100!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. MTV Music mtv.com/music
 
@@ -127,22 +131,22 @@ Many music video download sites are aiming at a certain group of people at large
 For: One of the best sites to download video songs of all languages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Last.fm last.fm
 
 ![Music video on Last.fm](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-07.jpg)Music video on Last.fm
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Firstly, you’ll find it such refreshing, when looking for a website to download music videos, finding a place providing a feature called “Spiking Artists”. It allows you to explore the artist and their similar artists that currently trending globally on Last.fm. 
 
 Secondly, on Last.fm, there are statistics of: the songs currently making the most waves; worldwide listening trends; Today’s Most Loved.
 
 For: Find the hottest song of every single day & Explore various sounds from different eras.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Yahoo Music yahoo.com/entertainment/music/
 
@@ -160,13 +164,13 @@ How to download music videos if download link/button isn’t provided? A highly-
 
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download2.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download Music Video with WonderFox Free HD Video Converter Factory
 
 ![Copy the URL to download music video](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-09.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Before start, please [free download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[free download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) the software.
 
@@ -179,11 +183,7 @@ For those websites that plays music videos in a mini-player at lower right of th
 ![Download music video using URL](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2\. Paste the URL into the Music Video Downloader 
@@ -208,6 +208,10 @@ And with the music downloader mentioned earlier, you can save the Vevo music con
 
 ![Free download music videos from websites](https://www.videoconverterfactory.com/tips/imgs-self/sites-to-download-music-video/sites-to-download-music-video-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Best URL Video/Audio Downloader
 
 \- Download video & music from 500+ websites including YouTube, Vimeo, Facebook, etc.
@@ -221,10 +225,6 @@ The Best URL Video/Audio Downloader
 \- Clean, no third-party offer, stable, free of charge
 
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 More Related Articles
 
@@ -251,24 +251,24 @@ More Related Articles
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>[New] 2024 Approved Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-finest-videophone-tools-free-edition-listed-here/"><u>[New] In 2024, The Finest Videophone Tools Free Edition Listed Here</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] 2024 Approved Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tips-for-quickly-locating-the-epicenter-of-youtubes-video-creation/"><u>[Updated] In 2024, Tips for Quickly Locating the Epicenter of YouTube's Video Creation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-hear-a-thing-fix-the-sound-issues-on-your-iphone-now/"><u>Can't Hear a Thing? Fix the Sound Issues on Your iPhone Now</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/comprehensive-guide-shrinking-mp4-video-footage-efficiently-on-pcs-smartphones-and-web-platforms/"><u>Comprehensive Guide: Shrinking MP4 Video Footage Efficiently on PCs, Smartphones & Web Platforms</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/comprehensive-kodi-users-guide-covering-all-you-need-to-know-beginning-with-chapter-9-features-and-techniques/"><u>Comprehensive Kodi User's Guide Covering All You Need to Know - Beginning with Chapter 9 Features and Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/creating-personalized-ringtones-a-step-by-step-guide-for-ios-and-android-devices/"><u>Creating Personalized Ringtones: A Step-by-Step Guide for iOS and Android Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/easy-steps-top-five-tips-for-quick-sockshare-film-downloads/"><u>Easy Steps: Top Five Tips for Quick SockShare Film Downloads</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/effortless-methods-for-transforming-your-mp3-files-into-high-quality-flac-audio-online-and-via-pc/"><u>Effortless Methods for Transforming Your MP3 Files Into High-Quality FLAC Audio Online and via PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/enhance-watchability-how-to-tune-video-pixels-for-flawless-performance-on-every-screen/"><u>Enhance Watchability: How to Tune Video Pixels for Flawless Performance on Every Screen</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/fast-and-simple-methods-for-downloading-your-favorite-youtube-clips-onto-a-flash-drive/"><u>Fast and Simple Methods for Downloading Your Favorite YouTube Clips Onto a Flash Drive</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/get-your-hands-on-discounted-wonderfox-dvd-converter-software-via-bitsdujour-promotion/"><u>Get Your Hands-On Discounted WonderFox DVD Converter Software via BitsDuJour Promotion!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/how-to-easily-retrieve-and-watch-snippetvideos-saved-in-your-pocket-archive/"><u>How to Easily Retrieve and Watch SnippetVideos Saved in Your Pocket Archive</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-14-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 14 Pro Max - 4 Easy Ways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-1320-drivers-for-windows-download-and-installation-guide/"><u>Latest HP LaserJet 1320 Drivers for Windows: Download and Installation Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c22-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C22 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-smart-8-plus-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Smart 8 Plus FRP</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram/"><u>Unleash Creativity with These 4 Simple Steps to Loops on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-honoring-creativity-ultimate-otu-collection/"><u>[New] Honoring Creativity Ultimate OTU Collection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-cracking-the-code-knowing-your-posts-spectators-on-instagram/"><u>[New] In 2024, Cracking The Code Knowing Your Post's Spectators on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-graphic-portrayal-of-future-social-momentum/"><u>[Updated] Graphic Portrayal of Future Social Momentum</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exciting-journeys-in-samsungs-virtual-reality-games/"><u>2024 Approved Exciting Journeys in Samsung's Virtual Reality Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-and-free-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>Easy and Free Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/microsoft-and-samsungs-potential-breakthrough-in-mainstreaming-cloud-gaming-an-insight-by-zdnet/"><u>Microsoft & Samsung's Potential Breakthrough in Mainstreaming Cloud Gaming: An Insight by ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-recording-voice-overs-like-a-pro-top-tips-for-final-cut-pro-users/"><u>New Recording Voice Overs Like a Pro Top Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-reduce-file-size-not-quality-9-best-free-video-compressors-for-windows-10-for-2024/"><u>New Reduce File Size, Not Quality 9 Best Free Video Compressors for Windows 10 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-complete-guide-to-avi-file-splitting-and-trimming-for-beginners-for-2024/"><u>New The Complete Guide to AVI File Splitting and Trimming for Beginners for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-iphone-video-flipper-tools-updated-2023-for-2024/"><u>New Top-Rated Free iPhone Video Flipper Tools (Updated 2023) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-whos-who-in-lego-stop-motion-top-creators/"><u>New Whos Who in Lego Stop Motion Top Creators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-top-photo-protection-apps-reviewed/"><u>The Top Photo Protection Apps Reviewed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-imagenes-dpx-a-jpeg-sin-coste-guia-rapida-con-movavi/"><u>Transforma Imágenes DPX a JPEG Sin Coste: Guía Rápida Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-windows-11-admin-credentials-quickly/"><u>Update Windows 11 Admin Credentials Quickly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-avchd-video-editing-software-the-top-5-contenders/"><u>Updated In 2024, AVCHD Video Editing Software The Top 5 Contenders</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-final-cut-pro-x-jump-cuts-from-beginner-to-pro-in-no-time/"><u>Updated In 2024, Final Cut Pro X Jump Cuts From Beginner to Pro in No Time</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-merge-like-a-pro-the-top-5-free-online-video-editors/"><u>Updated Merge Like a Pro The Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx/"><u>Updated Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX</u></a></li>
 </ul></div>
 

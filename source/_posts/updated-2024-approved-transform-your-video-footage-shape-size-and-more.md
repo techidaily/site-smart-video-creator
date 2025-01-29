@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Transform Your Video Footage Shape, Size, and More
-date: 2025-01-07T08:23:04.703Z
-updated: 2025-01-09T17:48:02.673Z
+date: 2025-01-27T17:17:04.208Z
+updated: 2025-01-29T20:45:38.171Z
 tags: 
   - video editing software
   - video editing
@@ -34,10 +34,6 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -59,7 +55,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -69,7 +65,7 @@ If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down li
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
@@ -90,6 +86,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -99,7 +99,7 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,14 +171,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>[New] In 2024, Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-professionals-way-of-removing-backgrounds/"><u>[New] In 2024, The Professional's Way of Removing Backgrounds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-prime-array-of-unplugged-digital-pastimes/"><u>[New] Prime Array of Unplugged Digital Pastimes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/clipcomposers-evaluation-full-breakdown-of-video-editing-software/"><u>ClipComposer's Evaluation – Full Breakdown of Video Editing Software</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-started-with-linux-on-your-chromebook-a-comprehensive-installation-guide/"><u>New In 2024, Get Started with Linux on Your Chromebook A Comprehensive Installation Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>New Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/new-tricks-for-powering-up-your-iphone-1514-following-a-data-swap-fiasco/"><u>New Tricks for Powering Up Your iPhone 15/14 Following a Data Swap Fiasco!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-cut-and-trim-videos-for-free-the-best-software-for-2024/"><u>Updated Cut and Trim Videos for Free The Best Software for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-free-to-pro-the-top-10-fcpx-plugins-to-take-your-videos-to-the-next-level-for-2024/"><u>Updated From Free to Pro The Top 10 FCPX Plugins to Take Your Videos to the Next Level for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-new-movie-experiences-top-7-swaps/"><u>[Updated] 2024 Approved Discover New Movie Experiences - Top 7 Swaps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-your-scene-camera-shake-solutions/"><u>[Updated] Securing Your Scene Camera Shake Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-traffic-lure-top-artisan-for-2024/"><u>[Updated] Traffic Lure Top Artisan for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-smiling-photos-and-videos-iphones/"><u>2024 Approved Smiling Photos & Videos (iPhones)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-fisheye-lens-in-360-imagery/"><u>2024 Approved The Art of Fisheye Lens in 360 Imagery</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easy-steps-top-five-tips-for-quick-sockshare-film-downloads/"><u>Easy Steps: Top Five Tips for Quick SockShare Film Downloads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/effortless-methods-for-transforming-your-mp3-files-into-high-quality-flac-audio-online-and-via-pc/"><u>Effortless Methods for Transforming Your MP3 Files Into High-Quality FLAC Audio Online and via PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/enhance-watchability-how-to-tune-video-pixels-for-flawless-performance-on-every-screen/"><u>Enhance Watchability: How to Tune Video Pixels for Flawless Performance on Every Screen</u></a></li>
+<li><a href="https://facebook.techidaily.com/ensure-the-legitimacy-of-(securityfacebookmailcom)-as-a-security-email-service/"><u>Ensure the Legitimacy of @<security@facebookmail.com> as a Security Email Service</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fast-and-simple-methods-for-downloading-your-favorite-youtube-clips-onto-a-flash-drive/"><u>Fast and Simple Methods for Downloading Your Favorite YouTube Clips Onto a Flash Drive</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-your-hands-on-discounted-wonderfox-dvd-converter-software-via-bitsdujour-promotion/"><u>Get Your Hands-On Discounted WonderFox DVD Converter Software via BitsDuJour Promotion!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inexpensive-quality-camera-solutions/"><u>Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-support-how-to-install-and-update-samsung-960-evo-drives-on-your-windows-device/"><u>Latest Driver Support: How to Install and Update Samsung 960 EVO Drives on Your Windows Device</u></a></li>
 </ul></div>
 

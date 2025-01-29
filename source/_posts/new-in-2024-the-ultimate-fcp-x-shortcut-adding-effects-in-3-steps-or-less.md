@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Ultimate FCP X Shortcut Adding Effects in 3 Steps or Less
-date: 2025-01-04T06:56:40.950Z
-updated: 2025-01-10T08:33:11.875Z
+date: 2025-01-24T16:20:29.931Z
+updated: 2025-01-29T19:18:42.289Z
 tags: 
   - video editing software
   - video editing
@@ -49,25 +49,29 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -83,24 +87,16 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Disable and delete an effect
 
@@ -113,6 +109,10 @@ To enable an effect, click the gray box so it turns blue again.
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -141,16 +141,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-vr-game-engine-picks-2023-for-2024/"><u>[New] The Ultimate Guide to VR Game Engine Picks, 2023 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-comprehensible-guide-to-enhancing-your-facebook-live-experience/"><u>[Updated] The Comprehensible Guide to Enhancing Your Facebook Live Experience</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-master-your-audience-smooth-screen-sharing-on-social-livestreams/"><u>2024 Approved Master Your Audience Smooth Screen Sharing on Social Livestreams</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-p60-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei P60 Devices | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-arduino-usb-driver-on-your-windows-pc/"><u>How to Install the Latest Arduino USB Driver on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-zbook-15-g3-user-guide-how-to-find-and-apply-windows-drivers-easily/"><u>HP ZBook 15 G3 User Guide: How to Find and Apply Windows Drivers Easily</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-art-of-acceleration-a-comprehensive-guide-to-time-lapse-video-software-for-2024/"><u>The Art of Acceleration A Comprehensive Guide to Time Lapse Video Software for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-new-to-video-editing-here-are-the-best-software-options-for-2024/"><u>Updated New to Video Editing? Here Are the Best Software Options for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-free-vob-video-editors-reviewed/"><u>Updated The Best of the Best Free VOB Video Editors , Reviewed</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-mts-video-editing-top-5-software-for-2024/"><u>Updated The Ultimate Guide to MTS Video Editing Top 5 Software for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-14-free-video-editors-with-no-watermark/"><u>Updated The Ultimate List 14 Free Video Editors with No Watermark</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quick-guide-to-capturing-moments-during-google-meets/"><u>[New] 2024 Approved Quick Guide to Capturing Moments During Google Meets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-the-world-of-online-streaming-wirecast-and-facebook-for-2024/"><u>[New] Navigating the World of Online Streaming Wirecast & Facebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200669347-solved-windows-10-wont-boot-after-update/"><u>[Solved] Windows 10 Won’t Boot After Update</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-get-the-best-of-both-worlds-with-top-asymmetric-microphones/"><u>[Updated] 2024 Approved Get the Best of Both Worlds with Top Asymmetric Microphones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-a-connoisseurs-guide-to-the-very-best-10-vectors-pix/"><u>2024 Approved A Connoisseur's Guide to the Very Best 10 Vectors Pix</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturewin-the-hassle-free-screen-recorder-for-2024/"><u>CaptureWin The Hassle-Free Screen Recorder for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-hot-30i-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Hot 30i</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-filtering-through-youtube-talks/"><u>In 2024, Filtering Through YouTube Talks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-time-management-the-top-7-calendars-that-keep-busy-households-on-track-together/"><u>Mastering Time Management: The Top 7 Calendars That Keep Busy Households On Track Together</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mp4usb/"><u>MP4動画がUSBメモリ上で再生不能のトラブルシューティングガイド</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/openload/"><u>Openloadからビデオをスムーズにダウンロードし、後でアクセスする方法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-destinations-amplifying-youtube-videos/"><u>Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/quick-guide-how-to-transform-mov-videos-into-compatible-ogg-audiovideo-file-type-efficiently/"><u>Quick Guide: How to Transform MOV Videos Into Compatible Ogg Audio/Video File Type Efficiently</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/reverse-your-videos-with-zero-fuss-discover-these-3-simple-free-methods/"><u>Reverse Your Videos with Zero Fuss - Discover These 3 Simple, Free Methods!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/seamless-conversion-switching-from-webm-to-wmv-files-both-offline-and-online/"><u>Seamless Conversion: Switching From WebM to WMV Files Both Offline & Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/simple-steps-to-mastering-reverse-video-edits-on-tiktok/"><u>Simple Steps to Mastering Reverse Video Edits on TikTok</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-for-transforming-dvds-into-mkv-files-on-windows-1011/"><u>Step-by-Step Guide for Transforming DVDs Into MKV Files on Windows 10/11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-adding-the-tv-one-channel-add-on-in-kodi-matrix-version-19/"><u>Step-by-Step Guide: Adding the TV One Channel Add-On in Kodi Matrix Version 19</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-recording-twitter-spaces-as-a-listenerhost-using-your-mobile-device/"><u>Step-by-Step Guide: Recording Twitter Spaces as a Listener/Host Using Your Mobile Device</u></a></li>
 </ul></div>
 
